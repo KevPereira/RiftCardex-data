@@ -35,11 +35,20 @@ function num(v) {
 
 function tnum(v) { const x = num(v); return x !== null && x !== SENTINEL ? x : null; }
 
-async function getJson(url) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA } });
-  if (!r.ok) throw new Error(`${r.status} ${r.statusText} sur ${url}`);
-  const lastModified = r.headers.get('last-modified');
-  return { json: await r.json(), lastModified };
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function getJson(url, retries = 4) {
+  for (let i = 0; ; i++) {
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA } });
+      if (r.status === 429 || r.status >= 500) throw new Error(String(r.status));
+      if (!r.ok) throw new Error(`${r.status} ${r.statusText} sur ${url}`);
+      return { json: await r.json(), lastModified: r.headers.get('last-modified') };
+    } catch (e) {
+      if (i >= retries) throw e;
+      await sleep(600 * (i + 1)); // backoff : TCGCSV jette les rafales
+    }
+  }
 }
 
 async function main() {
@@ -55,12 +64,11 @@ async function main() {
   // --- TCGplayer (TCGCSV) : prix de chaque groupe, indexes par productId|finition ---
   const tcgByKey = new Map();
   for (const gid of map.tcg_groups) {
-    try {
-      const { json } = await getJson(`${map.tcg_base}/${gid}/prices`);
-      for (const p of json.results) tcgByKey.set(`${p.productId}|${p.subTypeName}`, p);
-    } catch (e) {
-      console.error(`  groupe TCGCSV ${gid} ignore : ${e.message}`);
-    }
+    // Pas de try/catch silencieux : un groupe qui echoue apres retries fait
+    // echouer TOUT le collecteur (mieux qu'une donnee TCGP partielle a 0 e).
+    const { json } = await getJson(`${map.tcg_base}/${gid}/prices`);
+    for (const p of json.results) tcgByKey.set(`${p.productId}|${p.subTypeName}`, p);
+    await sleep(250);
   }
   console.log(`TCGplayer : ${tcgByKey.size} lignes de prix`);
 
