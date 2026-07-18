@@ -1,0 +1,36 @@
+name: Prix quotidiens
+
+on:
+  schedule:
+    # ~09:30 UTC : apres le refresh du price guide Cardmarket (00:43) et des produits TCGCSV (veille 20:00).
+    - cron: '30 9 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
+
+      # Node 20+ est preinstalle sur ubuntu-latest ; le collecteur n'utilise que des modules natifs + fetch.
+      - name: Collecte
+        run: node collect-prices.mjs
+
+      - name: Commit si les prix ont bouge
+        run: |
+          git config user.name "riftcardex-bot"
+          git config user.email "kape.apps@gmail.com"
+          git add prices/prices.json prices/manifest.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement de prix -> pas de commit (pas de faux point d'historique)."
+          else
+            git commit -m "prix: collecte du $(date -u +%Y-%m-%d)"
+            git push
+          fi
