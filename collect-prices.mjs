@@ -25,7 +25,7 @@ function canon(o) {
       : value, 1);
 }
 
-const SENTINEL = 900; // TCGCSV ecrit 999.99 quand il n'a pas de donnee -> a rejeter (jamais un vrai prix Riftbound)
+const SENTINEL = 999.99; // TCGCSV ecrit exactement 999.99 en placeholder "pas de donnee" -> a rejeter (mais 1159, 2000... sont de vrais prix chase)
 
 function num(v) {
   if (v === null || v === undefined || v === '') return null;
@@ -33,7 +33,7 @@ function num(v) {
   return Number.isFinite(n) && n > 0 ? n : null;
 }
 
-function tnum(v) { const x = num(v); return x !== null && x < SENTINEL ? x : null; }
+function tnum(v) { const x = num(v); return x !== null && x !== SENTINEL ? x : null; }
 
 async function getJson(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA } });
