@@ -25,11 +25,15 @@ function canon(o) {
       : value, 1);
 }
 
+const SENTINEL = 900; // TCGCSV ecrit 999.99 quand il n'a pas de donnee -> a rejeter (jamais un vrai prix Riftbound)
+
 function num(v) {
   if (v === null || v === undefined || v === '') return null;
   const n = typeof v === 'number' ? v : parseFloat(String(v).replace(',', '.'));
   return Number.isFinite(n) && n > 0 ? n : null;
 }
+
+function tnum(v) { const x = num(v); return x !== null && x < SENTINEL ? x : null; }
 
 async function getJson(url) {
   const r = await fetch(url, { headers: { 'User-Agent': UA } });
@@ -88,11 +92,11 @@ async function main() {
       const n = tcgByKey.get(`${c.tcg}|Normal`);
       const f = tcgByKey.get(`${c.tcg}|Foil`);
       const o = {};
-      if (n) { const m = num(n.marketPrice); if (m !== null) o.usd = m;
-               const l = num(n.lowPrice); if (l !== null) o.low = l;
-               const mi = num(n.midPrice); if (mi !== null) o.mid = mi;
-               const h = num(n.highPrice); if (h !== null) o.high = h; }
-      if (f) { const m = num(f.marketPrice); if (m !== null) o.usdFoil = m; }
+      if (n) { const m = tnum(n.marketPrice); if (m !== null) o.usd = m;
+               const l = tnum(n.lowPrice); if (l !== null) o.low = l;
+               const mi = tnum(n.midPrice); if (mi !== null) o.mid = mi;
+               const h = tnum(n.highPrice); if (h !== null) o.high = h; }
+      if (f) { const m = tnum(f.marketPrice); if (m !== null) o.usdFoil = m; }
       if (Object.keys(o).length) entry.tcg = o;
     }
 
@@ -120,7 +124,7 @@ async function main() {
     cm_updated_at: cm.lastModified || null,
     count: Object.keys(out).length,
     resolution: Number((rate * 100).toFixed(1)),
-    enabled: false,
+    enabled: process.env.PRICES_ENABLED === 'true',
   };
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n');
   console.log(`ECRIT : prices.json (${manifest.count} cartes) + manifest.json (enabled=${manifest.enabled})`);

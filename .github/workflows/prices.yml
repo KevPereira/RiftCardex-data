@@ -20,7 +20,11 @@ jobs:
       - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
 
       # Node 20+ est preinstalle sur ubuntu-latest ; le collecteur n'utilise que des modules natifs + fetch.
+      # Kill-switch : l'affichage cote app reste coupe tant que la variable de depot PRICES_ENABLED != 'true'.
+      # KP la bascule dans Settings > Secrets and variables > Actions > Variables, sans toucher au code.
       - name: Collecte
+        env:
+          PRICES_ENABLED: ${{ vars.PRICES_ENABLED }}
         run: node collect-prices.mjs
 
       - name: Commit si les prix ont bouge
