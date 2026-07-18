@@ -119,11 +119,19 @@ async function main() {
     process.exit(1);
   }
 
-  // Ne pas fabriquer de faux point d'historique : si les prix n'ont pas bouge, on ne reecrit rien.
+  // Ne pas fabriquer de faux point d'historique : si les prix n'ont pas bouge, on ne
+  // reecrit rien -- SAUF si le kill-switch (enabled) a change : il faut le propager.
+  const enabled = process.env.PRICES_ENABLED === 'true';
   const nouveau = canon(out);
-  if (existsSync(OUT_PATH)) {
-    const ancien = canon(JSON.parse(readFileSync(OUT_PATH, 'utf8')));
-    if (ancien === nouveau) { console.log('Prix inchanges depuis la derniere collecte -> aucun commit.'); return; }
+  const pricesSame =
+    existsSync(OUT_PATH) && canon(JSON.parse(readFileSync(OUT_PATH, 'utf8'))) === nouveau;
+  let enabledSame = false;
+  if (existsSync(MANIFEST_PATH)) {
+    try { enabledSame = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')).enabled === enabled; } catch (_) {}
+  }
+  if (pricesSame && enabledSame) {
+    console.log('Prix et kill-switch inchanges -> aucun commit.');
+    return;
   }
 
   writeFileSync(OUT_PATH, nouveau + '\n');
@@ -132,7 +140,7 @@ async function main() {
     cm_updated_at: cm.lastModified || null,
     count: Object.keys(out).length,
     resolution: Number((rate * 100).toFixed(1)),
-    enabled: process.env.PRICES_ENABLED === 'true',
+    enabled,
   };
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n');
   console.log(`ECRIT : prices.json (${manifest.count} cartes) + manifest.json (enabled=${manifest.enabled})`);
