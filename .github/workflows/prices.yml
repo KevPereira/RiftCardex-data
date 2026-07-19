@@ -36,5 +36,8 @@ jobs:
             echo "Aucun changement de prix -> pas de commit (pas de faux point d'historique)."
           else
             git commit -m "prix: collecte du $(date -u +%Y-%m-%d)"
+            node build-history.mjs
+            git add prices/history.json
+            git commit --amend --no-edit
             git push
           fi
