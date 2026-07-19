@@ -35,6 +35,19 @@ function num(v) {
 
 function tnum(v) { const x = num(v); return x !== null && x !== SENTINEL ? x : null; }
 
+// TCGCSV colle aussi une annonce "parking" (un vendeur qui gele son stock a un prix
+// delirant) sur highPrice : 999.99, l'entier 999, ou un pic detache du reste. On ne jette
+// high QUE si high >= 999 ET high >= 20x le vrai marche (ancre = max marche/milieu/bas) :
+// une vraie carte chere a un high proche de son marche (ratio ~1x) et n'est jamais touchee
+// (mesure 19/07 : plus haut "high" legitime = 89,98$, tous les parking = 999 a 50x-2854x).
+// Ancre a 0 (aucun autre prix) -> un high >= 999 solitaire est du parking, on jette.
+function highNum(v, anchor) {
+  const h = tnum(v);
+  if (h === null) return null;
+  if (h >= 999 && h >= 20 * anchor) return null;
+  return h;
+}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function getJson(url, retries = 4) {
@@ -103,7 +116,8 @@ async function main() {
       if (n) { const m = tnum(n.marketPrice); if (m !== null) o.usd = m;
                const l = tnum(n.lowPrice); if (l !== null) o.low = l;
                const mi = tnum(n.midPrice); if (mi !== null) o.mid = mi;
-               const h = tnum(n.highPrice); if (h !== null) o.high = h; }
+               const anchor = Math.max(m ?? 0, l ?? 0, mi ?? 0);
+               const h = highNum(n.highPrice, anchor); if (h !== null) o.high = h; }
       if (f) { const m = tnum(f.marketPrice); if (m !== null) o.usdFoil = m; }
       if (Object.keys(o).length) entry.tcg = o;
     }
