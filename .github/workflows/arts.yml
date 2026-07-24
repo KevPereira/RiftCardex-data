@@ -91,12 +91,25 @@ jobs:
         run: |
           git config user.name "riftcardex-bot"
           git config user.email "kape.apps@gmail.com"
-          git add arts/observed.json arts/manifest.json
+          # 'git add arts/' et pas la liste des deux fichiers : en mode journal seul
+          # manifest.json n'existe pas, et un pathspec qui ne matche rien fait echouer
+          # le step (le shell par defaut des runs est bash -e). arts/ ne contient que
+          # du JSON, les octets d'illustration vont dans _arts/ qui est gitignore.
+          git add arts/
           if git diff --cached --quiet; then
             echo "Rien n'a bouge chez Riot -> pas de commit."
           else
             git commit -m "arts: journal du $(date -u +%Y-%m-%d)"
-            git push
+            # Le cron des prix pousse aussi sur main (groupes de concurrency distincts).
+            # Les deux jobs touchent des fichiers disjoints : le rebase passe tout seul,
+            # et evite un run rouge pour un simple non-fast-forward.
+            for i in 1 2 3; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+              echo "push refuse (tentative $i) -- nouvelle tentative"
+              sleep 10
+            done
+            echo "Impossible de pousser apres 3 tentatives."
+            exit 1
           fi
 
       - name: Signaler les echecs
