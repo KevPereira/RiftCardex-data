@@ -1,0 +1,29 @@
+{
+ "commentaire": "Illustrations servies par le CDN Riot mais ABSENTES du harvest de l'API Riftcodex, alors qu'elles sont bien livrees dans l'app. Sans cette liste elles ne seraient sauvegardees nulle part. Deux familles : (1) les runes R01 SFD/UNL, ajoutees a la main au catalogue applicatif -- SFD et UNL partagent les memes visuels, d'ou les URL repetees ; (2) douze fiches VEN (runes ven-901..906 et les cinq cartes ven-911..916) que l'API ne renvoie plus au 2026-07-24 mais qui figurent au catalogue embarque. A rejouer apres chaque nouveau set : comparer les cles du catalogue applicatif a arts/observed.json. Les 12 variantes alt-art des runes SFD/UNL n'y sont PAS : elles sont auto-hebergees dans images/runes/ de ce depot, donc deja versionnees par git.",
+ "arts": {
+  "ven/ven-901-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f95ed6ba0c4d4d357c45bf5bdb1a8e540af1f85f-744x1039.png?accountingTag=RB",
+  "ven/ven-902-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9b70aa1b334728a3e8beeea0c9154a2d0f79b1eb-744x1039.png?accountingTag=RB",
+  "ven/ven-903-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33df1c56c6e76f9cb783c19161f16fcdbdc20f98-744x1039.png?accountingTag=RB",
+  "ven/ven-904-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3313c73c5b31daa482073bfefbf4d2255a89d7d0-744x1039.png?accountingTag=RB",
+  "ven/ven-905-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3861fc566891a70c21cf3d3075adec716deb7080-744x1039.png?accountingTag=RB",
+  "ven/ven-906-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/71e7d71ebadb81ccad7ca4cb8b3fb85d2f5fd4bf-744x1039.png?accountingTag=RB",
+  "ven/ven-911-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a14d1be8f014a331f60885013d81a1a8f5c8c076-744x1039.png?accountingTag=RB",
+  "ven/ven-912-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2cc800fbd0011dd084426445ebb1c2831420063d-744x1039.png?accountingTag=RB",
+  "ven/ven-913-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8d1993018d8317494cbaab4e4dd738c2e80740d-744x1039.png?accountingTag=RB",
+  "ven/ven-914-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/075f83adf06b41c42c78addd11cfc73fbdb8aabb-744x1039.png?accountingTag=RB",
+  "ven/ven-915-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd4beecca19d4e84ead0852acce83d4c34ac1b4c-744x1039.png?accountingTag=RB",
+  "ven/ven-916-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b9778ec229e052268ea66213ca2dbf60612b2862-744x1039.png?accountingTag=RB",
+  "sfd/sfd-252-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png",
+  "sfd/sfd-253-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB",
+  "sfd/sfd-254-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png",
+  "sfd/sfd-255-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3b3c3c07626d6180457c849047e0228dc0d19539-744x1039.png?accountingTag=RB",
+  "sfd/sfd-256-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/daf23b0deaa5e1a5a5d310b59e9ad25d1bd70363-744x1039.png?accountingTag=RB",
+  "sfd/sfd-257-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png",
+  "unl/unl-239-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/12bcd0cde5d9ff4640e82945001e9fef863530f1-744x1039.png",
+  "unl/unl-240-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0a0e8c3d16c2595e2f8efcc2b1466226539b506c-744x1039.png?accountingTag=RB",
+  "unl/unl-241-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png",
+  "unl/unl-242-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3b3c3c07626d6180457c849047e0228dc0d19539-744x1039.png?accountingTag=RB",
+  "unl/unl-243-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/daf23b0deaa5e1a5a5d310b59e9ad25d1bd70363-744x1039.png?accountingTag=RB",
+  "unl/unl-244-999.png": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35ec6fdd2124324bb7052cba31c8c44f2e98f3ae-744x1039.png"
+ }
+}

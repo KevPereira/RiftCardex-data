@@ -1,0 +1,3 @@
+# Depot PUBLIC : aucune illustration ne doit y entrer, seulement les fichiers de arts/.
+# _arts/ est le tampon de travail de sync-arts.mjs (arts telecharges avant envoi vers R2).
+_arts*
