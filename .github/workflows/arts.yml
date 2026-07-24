@@ -1,0 +1,109 @@
+name: Sauvegarde des illustrations
+
+# L'app streame ses illustrations depuis le CDN Riot. Si ce CDN tombe, toutes les cartes
+# deviennent grises pour tout le monde et rien ne permet de re-heberger.
+#
+# Riot change aussi des illustrations en silence : entre le 2026-06-12 et le 2026-07-24,
+# 22 arts ont change de contenu. Une archive faite une fois se perime sans rien dire.
+#
+# Deux niveaux, pilotes par la variable de depot ARTS_BACKUP_ENABLED :
+#   != 'true'  -> journal seul (arts/observed.json). Aucun octet telecharge, aucun secret
+#                 requis. On sait deja QUAND Riot remplace un art.
+#   == 'true'  -> telechargement de tout ce qui n'est pas encore sauvegarde + envoi vers
+#                 Cloudflare R2. Le premier passage envoie l'archive complete (~1 Go).
+#
+# Le bucket R2 doit rester PRIVE : c'est de la conservation, pas de la diffusion. On ne
+# l'ouvre au public que le jour ou le CDN de Riot tombe.
+
+on:
+  schedule:
+    # Lundi 04:00 UTC -- decale du cron des prix (09:30) pour ne pas cumuler les runs.
+    - cron: '0 4 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: arts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
+
+      - name: Journal et telechargement
+        env:
+          ARTS_BACKUP_ENABLED: ${{ vars.ARTS_BACKUP_ENABLED }}
+        run: |
+          if [ "$ARTS_BACKUP_ENABLED" = "true" ]; then
+            node sync-arts.mjs
+          else
+            echo "ARTS_BACKUP_ENABLED != 'true' -> journal seul, aucun telechargement."
+            node sync-arts.mjs --no-download
+          fi
+
+      - name: Envoi vers R2
+        if: ${{ vars.ARTS_BACKUP_ENABLED == 'true' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+        run: |
+          set -euo pipefail
+          if [ -z "${AWS_ACCESS_KEY_ID:-}" ] || [ -z "${AWS_SECRET_ACCESS_KEY:-}" ] \
+             || [ -z "${R2_ENDPOINT:-}" ] || [ -z "${R2_BUCKET:-}" ]; then
+            echo "Configuration R2 incomplete -> envoi saute (le journal, lui, est a jour)."
+            exit 0
+          fi
+          if [ ! -d _arts ]; then
+            echo "Rien de nouveau a envoyer."
+            exit 0
+          fi
+
+          # Une illustration remplacee est d'abord recopiee sous un prefixe date : Riot ne
+          # resservira jamais l'ancienne version. On distingue "l'objet n'existe pas encore"
+          # (normal) d'une vraie panne R2 -- dans ce second cas on s'arrete AVANT d'ecraser.
+          STAMP=$(date -u +%Y%m%d)
+          if [ -s _arts/_remplacees.txt ]; then
+            while IFS= read -r KEY || [ -n "$KEY" ]; do
+              [ -z "$KEY" ] && continue
+              if aws s3api head-object --bucket "$R2_BUCKET" --key "arts/$KEY" \
+                   --endpoint-url "$R2_ENDPOINT" >/dev/null 2>&1; then
+                aws s3 cp "s3://$R2_BUCKET/arts/$KEY" "s3://$R2_BUCKET/remplacees/$STAMP/$KEY" \
+                  --endpoint-url "$R2_ENDPOINT"
+                echo "  ancienne version archivee : remplacees/$STAMP/$KEY"
+              else
+                echo "  pas d'ancienne version sur R2 pour $KEY (rien a archiver)"
+              fi
+            done < _arts/_remplacees.txt
+          fi
+
+          aws s3 cp _arts/ "s3://$R2_BUCKET/arts/" --recursive \
+            --exclude "_remplacees.txt" --exclude "_echecs.txt" \
+            --endpoint-url "$R2_ENDPOINT"
+
+      - name: Commit du journal et du manifeste
+        run: |
+          git config user.name "riftcardex-bot"
+          git config user.email "kape.apps@gmail.com"
+          git add arts/observed.json arts/manifest.json
+          if git diff --cached --quiet; then
+            echo "Rien n'a bouge chez Riot -> pas de commit."
+          else
+            git commit -m "arts: journal du $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Signaler les echecs
+        if: always()
+        run: |
+          if [ -s _arts/_echecs.txt ]; then
+            echo "Des illustrations n'ont pas pu etre sauvegardees (retentees au prochain passage) :"
+            cat _arts/_echecs.txt
+            exit 1
+          fi
