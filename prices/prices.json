@@ -18191,6 +18191,15 @@
   }
  },
  "69c700533fb41419ee7cebb2": {
+  "cm": {
+   "avg": 0.08,
+   "avg1": 0.06,
+   "avg30": 0.09,
+   "avg7": 0.07,
+   "eur": 0.08,
+   "low": 0.02,
+   "trend": 0.06
+  },
   "tcg": {
    "high": 3,
    "low": 0.01,
@@ -19410,11 +19419,23 @@
   }
  },
  "6a56ab95ff602fd324f47604": {
+  "cm": {
+   "low": 0.04,
+   "lowFoil": 0.04,
+   "trendFoil": 0.12
+  },
   "tcg": {
    "usdFoil": 0.75
   }
  },
  "6a56ab95ff602fd324f47605": {
+  "cm": {
+   "avgFoil": 40,
+   "eurFoil": 40,
+   "low": 47,
+   "lowFoil": 47,
+   "trendFoil": 48.6
+  },
   "tcg": {
    "usdFoil": 89.97
   }
@@ -19464,11 +19485,25 @@
   }
  },
  "6a56ab95ff602fd324f4760a": {
+  "cm": {
+   "avgFoil": 50,
+   "eurFoil": 50,
+   "low": 60,
+   "lowFoil": 60,
+   "trendFoil": 57.5
+  },
   "tcg": {
    "usdFoil": 299.99
   }
  },
  "6a56ab95ff602fd324f4760b": {
+  "cm": {
+   "avgFoil": 0.24,
+   "eurFoil": 0.24,
+   "low": 0.02,
+   "lowFoil": 0.02,
+   "trendFoil": 0.29
+  },
   "tcg": {
    "usdFoil": 3.23
   }
@@ -19576,7 +19611,23 @@
    "usd": 0.1
   }
  },
+ "6a56ab95ff602fd324f47614": {
+  "cm": {
+   "avgFoil": 70,
+   "eurFoil": 70,
+   "low": 59.9,
+   "lowFoil": 59.9,
+   "trendFoil": 74
+  }
+ },
  "6a56ab95ff602fd324f47615": {
+  "cm": {
+   "avgFoil": 0.5,
+   "eurFoil": 0.5,
+   "low": 0.02,
+   "lowFoil": 0.02,
+   "trendFoil": 0.31
+  },
   "tcg": {
    "usdFoil": 0.23
   }
@@ -19978,16 +20029,45 @@
   }
  },
  "6a56ab97ff602fd324f47636": {
+  "cm": {
+   "avgFoil": 0.65,
+   "eurFoil": 0.65,
+   "low": 0.08,
+   "lowFoil": 0.08,
+   "trendFoil": 0.31
+  },
   "tcg": {
    "usdFoil": 3.04
   }
  },
+ "6a56ab97ff602fd324f47637": {
+  "cm": {
+   "avgFoil": 140,
+   "eurFoil": 140,
+   "low": 89,
+   "lowFoil": 89,
+   "trendFoil": 94.29
+  }
+ },
  "6a56ab97ff602fd324f47638": {
+  "cm": {
+   "avgFoil": 0.08,
+   "eurFoil": 0.08,
+   "low": 0.05,
+   "lowFoil": 0.05,
+   "trendFoil": 0.11
+  },
   "tcg": {
    "usdFoil": 0.36
   }
  },
  "6a56ab98ff602fd324f47639": {
+  "cm": {
+   "avgFoil": 80,
+   "eurFoil": 80,
+   "low": 78,
+   "lowFoil": 78
+  },
   "tcg": {
    "usdFoil": 145
   }
@@ -20460,11 +20540,25 @@
   }
  },
  "6a56ab99ff602fd324f4765a": {
+  "cm": {
+   "avgFoil": 0.3,
+   "eurFoil": 0.3,
+   "low": 0.08,
+   "lowFoil": 0.08,
+   "trendFoil": 0.37
+  },
   "tcg": {
    "usdFoil": 0.38
   }
  },
  "6a56ab99ff602fd324f4765b": {
+  "cm": {
+   "avgFoil": 150,
+   "eurFoil": 150,
+   "low": 150,
+   "lowFoil": 150,
+   "trendFoil": 160
+  },
   "tcg": {
    "usdFoil": 220
   }
@@ -20688,7 +20782,23 @@
    "usdFoil": 86.34
   }
  },
+ "6a56ab9aff602fd324f4766b": {
+  "cm": {
+   "avgFoil": 148,
+   "eurFoil": 148,
+   "low": 130,
+   "lowFoil": 130,
+   "trendFoil": 109.33
+  }
+ },
  "6a56ab9aff602fd324f4766c": {
+  "cm": {
+   "avgFoil": 0.99,
+   "eurFoil": 0.99,
+   "low": 0.02,
+   "lowFoil": 0.02,
+   "trendFoil": 0.08
+  },
   "tcg": {
    "usdFoil": 0.76
   }
@@ -21911,6 +22021,23 @@
  },
  "sup-sfd-r01": {
   "cm": {
+   "avg": 0.06,
+   "avg1": 0.09,
+   "avg30": 0.06,
+   "avg7": 0.06,
+   "eur": 0.06,
+   "low": 0.02,
+   "trend": 0.07
+  },
+  "tcg": {
+   "high": 1.6,
+   "low": 0.01,
+   "mid": 0.16,
+   "usd": 0.08
+  }
+ },
+ "sup-sfd-r01a": {
+  "cm": {
    "avg1": 6,
    "avg30": 5,
    "avg7": 5,
@@ -21923,42 +22050,10 @@
    "trendFoil": 4.49
   },
   "tcg": {
-   "high": 1.6,
-   "low": 0.01,
-   "mid": 0.16,
-   "usd": 0.08
-  }
- },
- "sup-sfd-r01a": {
-  "cm": {
-   "avg": 0.06,
-   "avg1": 0.09,
-   "avg30": 0.06,
-   "avg7": 0.06,
-   "eur": 0.06,
-   "low": 0.02,
-   "trend": 0.07
-  },
-  "tcg": {
    "usdFoil": 3.25
   }
  },
  "sup-sfd-r02": {
-  "cm": {
-   "avgFoil": 6.05,
-   "eurFoil": 6.05,
-   "low": 2.9,
-   "lowFoil": 2.9,
-   "trendFoil": 5.59
-  },
-  "tcg": {
-   "high": 1.65,
-   "low": 0.08,
-   "mid": 0.2,
-   "usd": 0.14
-  }
- },
- "sup-sfd-r02a": {
   "cm": {
    "avg": 0.11,
    "avg1": 0.06,
@@ -21969,10 +22064,42 @@
    "trend": 0.11
   },
   "tcg": {
+   "high": 1.65,
+   "low": 0.08,
+   "mid": 0.2,
+   "usd": 0.14
+  }
+ },
+ "sup-sfd-r02a": {
+  "cm": {
+   "avgFoil": 6.05,
+   "eurFoil": 6.05,
+   "low": 2.9,
+   "lowFoil": 2.9,
+   "trendFoil": 5.59
+  },
+  "tcg": {
    "usdFoil": 6.24
   }
  },
  "sup-sfd-r03": {
+  "cm": {
+   "avg": 0.08,
+   "avg1": 0.07,
+   "avg30": 0.08,
+   "avg7": 0.08,
+   "eur": 0.08,
+   "low": 0.02,
+   "trend": 0.08
+  },
+  "tcg": {
+   "high": 1.62,
+   "low": 0.04,
+   "mid": 0.2,
+   "usd": 0.11
+  }
+ },
+ "sup-sfd-r03a": {
   "cm": {
    "avg1": 5.86,
    "avg30": 6.62,
@@ -21986,42 +22113,10 @@
    "trendFoil": 6.33
   },
   "tcg": {
-   "high": 1.62,
-   "low": 0.04,
-   "mid": 0.2,
-   "usd": 0.11
-  }
- },
- "sup-sfd-r03a": {
-  "cm": {
-   "avg": 0.08,
-   "avg1": 0.07,
-   "avg30": 0.08,
-   "avg7": 0.08,
-   "eur": 0.08,
-   "low": 0.02,
-   "trend": 0.08
-  },
-  "tcg": {
    "usdFoil": 6.31
   }
  },
  "sup-sfd-r04": {
-  "cm": {
-   "avgFoil": 4.02,
-   "eurFoil": 4.02,
-   "low": 2,
-   "lowFoil": 2,
-   "trendFoil": 3.87
-  },
-  "tcg": {
-   "high": 1.61,
-   "low": 0.02,
-   "mid": 0.18,
-   "usd": 0.1
-  }
- },
- "sup-sfd-r04a": {
   "cm": {
    "avg": 0.11,
    "avg1": 0.04,
@@ -22032,10 +22127,42 @@
    "trend": 0.15
   },
   "tcg": {
+   "high": 1.61,
+   "low": 0.02,
+   "mid": 0.18,
+   "usd": 0.1
+  }
+ },
+ "sup-sfd-r04a": {
+  "cm": {
+   "avgFoil": 4.02,
+   "eurFoil": 4.02,
+   "low": 2,
+   "lowFoil": 2,
+   "trendFoil": 3.87
+  },
+  "tcg": {
    "usdFoil": 3.33
   }
  },
  "sup-sfd-r05": {
+  "cm": {
+   "avg": 0.07,
+   "avg1": 0.06,
+   "avg30": 0.07,
+   "avg7": 0.09,
+   "eur": 0.07,
+   "low": 0.02,
+   "trend": 0.08
+  },
+  "tcg": {
+   "high": 1.62,
+   "low": 0.04,
+   "mid": 0.18,
+   "usd": 0.1
+  }
+ },
+ "sup-sfd-r05a": {
   "cm": {
    "avg": 7.25,
    "avg1": 7.25,
@@ -22050,27 +22177,27 @@
    "trendFoil": 6.24
   },
   "tcg": {
-   "high": 1.62,
-   "low": 0.04,
-   "mid": 0.18,
-   "usd": 0.1
-  }
- },
- "sup-sfd-r05a": {
-  "cm": {
-   "avg": 0.07,
-   "avg1": 0.06,
-   "avg30": 0.07,
-   "avg7": 0.09,
-   "eur": 0.07,
-   "low": 0.02,
-   "trend": 0.08
-  },
-  "tcg": {
    "usdFoil": 7.09
   }
  },
  "sup-sfd-r06": {
+  "cm": {
+   "avg": 0.11,
+   "avg1": 0.05,
+   "avg30": 0.11,
+   "avg7": 0.09,
+   "eur": 0.11,
+   "low": 0.02,
+   "trend": 0.16
+  },
+  "tcg": {
+   "high": 1.62,
+   "low": 0.05,
+   "mid": 0.2,
+   "usd": 0.12
+  }
+ },
+ "sup-sfd-r06a": {
   "cm": {
    "avg": 6.5,
    "avg1": 6.5,
@@ -22085,27 +22212,60 @@
    "trendFoil": 5.28
   },
   "tcg": {
-   "high": 1.62,
-   "low": 0.05,
-   "mid": 0.2,
-   "usd": 0.12
-  }
- },
- "sup-sfd-r06a": {
-  "cm": {
-   "avg": 0.11,
-   "avg1": 0.05,
-   "avg30": 0.11,
-   "avg7": 0.09,
-   "eur": 0.11,
-   "low": 0.02,
-   "trend": 0.16
-  },
-  "tcg": {
    "usdFoil": 6.34
   }
  },
+ "sup-sfd-t01": {
+  "cm": {
+   "avg": 0.07,
+   "avg1": 0.05,
+   "avg30": 0.06,
+   "avg7": 0.07,
+   "eur": 0.07,
+   "low": 0.02,
+   "trend": 0.07
+  },
+  "tcg": {
+   "high": 1.88,
+   "low": 0.01,
+   "mid": 0.15,
+   "usd": 0.05
+  }
+ },
+ "sup-sfd-t02": {
+  "cm": {
+   "avg": 0.13,
+   "avg1": 0.17,
+   "avg30": 0.14,
+   "avg7": 0.14,
+   "eur": 0.13,
+   "low": 0.02,
+   "trend": 0.13
+  },
+  "tcg": {
+   "low": 0.01,
+   "mid": 0.25,
+   "usd": 0.18
+  }
+ },
  "sup-unl-r01": {
+  "cm": {
+   "avg": 0.09,
+   "avg1": 0.1,
+   "avg30": 0.07,
+   "avg7": 0.07,
+   "eur": 0.09,
+   "low": 0.02,
+   "trend": 0.08
+  },
+  "tcg": {
+   "high": 3.53,
+   "low": 0.03,
+   "mid": 0.1,
+   "usd": 0.09
+  }
+ },
+ "sup-unl-r01a": {
   "cm": {
    "avg": 3.6,
    "avg1": 3.6,
@@ -22120,27 +22280,27 @@
    "trendFoil": 4.79
   },
   "tcg": {
-   "high": 3.53,
-   "low": 0.03,
-   "mid": 0.1,
-   "usd": 0.09
-  }
- },
- "sup-unl-r01a": {
-  "cm": {
-   "avg": 0.09,
-   "avg1": 0.1,
-   "avg30": 0.07,
-   "avg7": 0.07,
-   "eur": 0.09,
-   "low": 0.02,
-   "trend": 0.08
-  },
-  "tcg": {
    "usdFoil": 5.15
   }
  },
  "sup-unl-r02": {
+  "cm": {
+   "avg": 0.08,
+   "avg1": 0.06,
+   "avg30": 0.08,
+   "avg7": 0.08,
+   "eur": 0.08,
+   "low": 0.02,
+   "trend": 0.07
+  },
+  "tcg": {
+   "high": 3.54,
+   "low": 0.02,
+   "mid": 0.15,
+   "usd": 0.08
+  }
+ },
+ "sup-unl-r02a": {
   "cm": {
    "avg": 8.99,
    "avg1": 8.99,
@@ -22155,27 +22315,27 @@
    "trendFoil": 7.34
   },
   "tcg": {
-   "high": 3.54,
-   "low": 0.02,
-   "mid": 0.15,
-   "usd": 0.08
-  }
- },
- "sup-unl-r02a": {
-  "cm": {
-   "avg": 0.08,
-   "avg1": 0.06,
-   "avg30": 0.08,
-   "avg7": 0.08,
-   "eur": 0.08,
-   "low": 0.02,
-   "trend": 0.07
-  },
-  "tcg": {
    "usdFoil": 9.79
   }
  },
  "sup-unl-r03": {
+  "cm": {
+   "avg": 0.09,
+   "avg1": 0.05,
+   "avg30": 0.09,
+   "avg7": 0.07,
+   "eur": 0.09,
+   "low": 0.02,
+   "trend": 0.08
+  },
+  "tcg": {
+   "high": 3.54,
+   "low": 0.05,
+   "mid": 0.15,
+   "usd": 0.07
+  }
+ },
+ "sup-unl-r03a": {
   "cm": {
    "avg": 5.05,
    "avg1": 5.05,
@@ -22190,27 +22350,27 @@
    "trendFoil": 5.61
   },
   "tcg": {
-   "high": 3.54,
-   "low": 0.05,
-   "mid": 0.15,
-   "usd": 0.07
-  }
- },
- "sup-unl-r03a": {
-  "cm": {
-   "avg": 0.09,
-   "avg1": 0.05,
-   "avg30": 0.09,
-   "avg7": 0.07,
-   "eur": 0.09,
-   "low": 0.02,
-   "trend": 0.08
-  },
-  "tcg": {
    "usdFoil": 6.47
   }
  },
  "sup-unl-r04": {
+  "cm": {
+   "avg": 0.11,
+   "avg1": 0.03,
+   "avg30": 0.08,
+   "avg7": 0.04,
+   "eur": 0.11,
+   "low": 0.02,
+   "trend": 0.05
+  },
+  "tcg": {
+   "high": 3.53,
+   "low": 0.04,
+   "mid": 0.12,
+   "usd": 0.11
+  }
+ },
+ "sup-unl-r04a": {
   "cm": {
    "avg1": 5,
    "avg30": 5.21,
@@ -22224,27 +22384,27 @@
    "trendFoil": 5.34
   },
   "tcg": {
-   "high": 3.53,
-   "low": 0.04,
-   "mid": 0.12,
-   "usd": 0.11
-  }
- },
- "sup-unl-r04a": {
-  "cm": {
-   "avg": 0.11,
-   "avg1": 0.03,
-   "avg30": 0.08,
-   "avg7": 0.04,
-   "eur": 0.11,
-   "low": 0.02,
-   "trend": 0.05
-  },
-  "tcg": {
    "usdFoil": 5.57
   }
  },
  "sup-unl-r05": {
+  "cm": {
+   "avg": 0.12,
+   "avg1": 0.1,
+   "avg30": 0.11,
+   "avg7": 0.09,
+   "eur": 0.12,
+   "low": 0.02,
+   "trend": 0.11
+  },
+  "tcg": {
+   "high": 3.53,
+   "low": 0.02,
+   "mid": 0.12,
+   "usd": 0.09
+  }
+ },
+ "sup-unl-r05a": {
   "cm": {
    "avg": 12.99,
    "avg1": 12.99,
@@ -22259,27 +22419,27 @@
    "trendFoil": 8.05
   },
   "tcg": {
-   "high": 3.53,
-   "low": 0.02,
-   "mid": 0.12,
-   "usd": 0.09
-  }
- },
- "sup-unl-r05a": {
-  "cm": {
-   "avg": 0.12,
-   "avg1": 0.1,
-   "avg30": 0.11,
-   "avg7": 0.09,
-   "eur": 0.12,
-   "low": 0.02,
-   "trend": 0.11
-  },
-  "tcg": {
    "usdFoil": 10.27
   }
  },
  "sup-unl-r06": {
+  "cm": {
+   "avg": 0.09,
+   "avg1": 0.05,
+   "avg30": 0.1,
+   "avg7": 0.12,
+   "eur": 0.09,
+   "low": 0.02,
+   "trend": 0.1
+  },
+  "tcg": {
+   "high": 3.54,
+   "low": 0.05,
+   "mid": 0.12,
+   "usd": 0.09
+  }
+ },
+ "sup-unl-r06a": {
   "cm": {
    "avg": 5.79,
    "avg1": 5.79,
@@ -22294,24 +22454,139 @@
    "trendFoil": 4.9
   },
   "tcg": {
-   "high": 3.54,
-   "low": 0.05,
-   "mid": 0.12,
-   "usd": 0.09
+   "usdFoil": 7.54
   }
  },
- "sup-unl-r06a": {
+ "sup-unl-t01": {
   "cm": {
    "avg": 0.09,
+   "avg1": 0.02,
+   "avg30": 0.09,
+   "avg7": 0.09,
+   "eur": 0.09,
+   "low": 0.02,
+   "trend": 0.07
+  }
+ },
+ "sup-unl-t02": {
+  "cm": {
+   "avg": 0.1,
+   "avg1": 0.1,
+   "avg30": 0.11,
+   "avg7": 0.13,
+   "eur": 0.1,
+   "low": 0.02,
+   "trend": 0.13
+  }
+ },
+ "sup-unl-t03": {
+  "cm": {
+   "avg": 0.07,
    "avg1": 0.05,
    "avg30": 0.1,
-   "avg7": 0.12,
+   "avg7": 0.19,
+   "eur": 0.07,
+   "low": 0.02,
+   "trend": 0.12
+  }
+ },
+ "sup-unl-t05": {
+  "cm": {
+   "avg": 0.09,
+   "avg1": 0.07,
+   "avg30": 0.09,
+   "avg7": 0.1,
    "eur": 0.09,
    "low": 0.02,
    "trend": 0.1
-  },
-  "tcg": {
-   "usdFoil": 7.54
+  }
+ },
+ "sup-unl-t06": {
+  "cm": {
+   "avg": 0.1,
+   "avg1": 0.05,
+   "avg30": 0.1,
+   "avg7": 0.09,
+   "eur": 0.1,
+   "low": 0.02,
+   "trend": 0.09
+  }
+ },
+ "sup-unl-t07": {
+  "cm": {
+   "avg": 0.1,
+   "avg1": 0.15,
+   "avg30": 0.09,
+   "avg7": 0.1,
+   "eur": 0.1,
+   "low": 0.02,
+   "trend": 0.1
+  }
+ },
+ "sup-unl-t08": {
+  "cm": {
+   "avg": 0.05,
+   "avg1": 0.05,
+   "avg30": 0.07,
+   "avg7": 0.1,
+   "eur": 0.05,
+   "low": 0.02,
+   "trend": 0.07
+  }
+ },
+ "sup-ven-189s": {
+  "cm": {
+   "low": 1749,
+   "lowFoil": 1749,
+   "trendFoil": 1654.52
+  }
+ },
+ "sup-ven-190s": {
+  "cm": {
+   "avgFoil": 420,
+   "eurFoil": 420,
+   "low": 450,
+   "lowFoil": 450,
+   "trendFoil": 420
+  }
+ },
+ "sup-ven-191s": {
+  "cm": {
+   "avgFoil": 1000,
+   "eurFoil": 1000,
+   "low": 980,
+   "lowFoil": 980,
+   "trendFoil": 1100
+  }
+ },
+ "sup-ven-192s": {
+  "cm": {
+   "low": 699.99,
+   "lowFoil": 699.99
+  }
+ },
+ "sup-ven-193s": {
+  "cm": {
+   "avgFoil": 550,
+   "eurFoil": 550,
+   "low": 488,
+   "lowFoil": 488,
+   "trendFoil": 550
+  }
+ },
+ "sup-ven-195s": {
+  "cm": {
+   "avgFoil": 1000,
+   "eurFoil": 1000,
+   "low": 1189,
+   "lowFoil": 1189,
+   "trendFoil": 1000
+  }
+ },
+ "sup-ven-196s": {
+  "cm": {
+   "low": 800,
+   "lowFoil": 800
   }
  }
 }
