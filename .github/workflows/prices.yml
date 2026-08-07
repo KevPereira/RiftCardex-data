@@ -17,7 +17,13 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
+      # fetch-depth: 0 est INDISPENSABLE : build-history.mjs reconstruit history.json
+      # en rejouant le git log de prices/prices.json. Avec le clone superficiel par
+      # defaut, il ne voyait que 2 commits et REECRIVAIT l historique complet chaque
+      # jour — le fichier repartait de zero toutes les 24 h.
       - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
+        with:
+          fetch-depth: 0
 
       # Node 20+ est preinstalle sur ubuntu-latest ; le collecteur n'utilise que des modules natifs + fetch.
       # Kill-switch : l'affichage cote app reste coupe tant que la variable de depot PRICES_ENABLED != 'true'.
