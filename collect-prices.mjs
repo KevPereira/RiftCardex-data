@@ -5,7 +5,7 @@
 // Garde-fou de resolution >= 95% : en dessous, on ne publie pas (B2). Kill-switch enabled:false (B4).
 // Contenu indexe par NOTRE id de carte, jamais par idProduct (etancheite).
 
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, appendFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -15,6 +15,11 @@ const MAP_PATH = join(PRICES, 'price-map.json');
 const OUT_PATH = join(PRICES, 'prices.json');
 const MANIFEST_PATH = join(PRICES, 'manifest.json');
 const SEUIL_RESOLUTION = 0.95;
+
+// Le catalogue VIVANT est celui que sert l app web : elle le re-embarque a chaque
+// deploiement. Le dossier catalogue/ de CE depot est gele depuis le 2026-06-04 et ne
+// dit plus rien de ce que les utilisateurs voient -- ne jamais le prendre pour reference.
+const CATALOGUE_URL = 'https://app.riftcardex.com/assets/assets/catalogue/cards.json';
 
 const UA = 'RiftCardex/1.0 (+https://riftcardex.fr) price-collector';
 
@@ -49,6 +54,43 @@ function highNum(v, anchor) {
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Compte ce que la table gelee NE VOIT PAS. Sans ca, "resolution 98%" reste vert le jour
+// ou un set entier sort : une carte absente de la table n est pas "non resolue", elle n est
+// pas comptee du tout (le denominateur, c est map.cards, pas le catalogue).
+//
+// Best-effort STRICT : ce canal publie des prix, il ne doit jamais tomber parce qu une
+// mesure de supervision a echoue. Toute panne ici -> avertissement, jamais exit 1.
+async function mesurerEcart(map) {
+  try {
+    const r = await fetch(CATALOGUE_URL, {
+      headers: { 'User-Agent': UA },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const cat = JSON.parse((await r.text()).replace(/^\uFEFF/, ''));
+    const cartes = Array.isArray(cat) ? cat : (cat.items || cat.cards);
+    // Plancher : un catalogue tronque ferait croire a un ecart enorme et crierait a tort.
+    if (!Array.isArray(cartes) || cartes.length < 900) {
+      throw new Error(`catalogue implausible (${cartes && cartes.length})`);
+    }
+    const vivant = new Set(cartes.map((c) => c.id));
+    const gelee = new Set(map.cards.map((c) => c.id));
+    const hors = new Set([...vivant].filter((id) => !gelee.has(id)));
+    const orphelins = [...gelee].filter((id) => !vivant.has(id)).length;
+    // Le detail par serie est ce qui dit "un set entier est arrive" plutot que "3 promos".
+    const parSerie = {};
+    for (const c of cartes) {
+      if (!hors.has(c.id)) continue;
+      const s = (c.set && c.set.set_id) || '?';
+      parSerie[s] = (parSerie[s] || 0) + 1;
+    }
+    return { catalogue: cartes.length, horsTable: hors.size, orphelins, parSerie };
+  } catch (e) {
+    console.warn(`AVERTISSEMENT : catalogue vivant illisible (${e.message}) -> ecart non mesure.`);
+    return null;
+  }
+}
 
 async function getJson(url, retries = 4) {
   for (let i = 0; ; i++) {
@@ -128,6 +170,15 @@ async function main() {
   const rate = cotables ? resolus / cotables : 0;
   console.log(`Resolution : ${resolus}/${cotables} = ${(rate * 100).toFixed(1)}%  (${Object.keys(out).length} cartes cotees)`);
 
+  const ecart = await mesurerEcart(map);
+  if (ecart) {
+    console.log(
+      `Catalogue vivant : ${ecart.catalogue} cartes | HORS TABLE ${ecart.horsTable}` +
+      ` | orphelins ${ecart.orphelins}` +
+      (ecart.horsTable ? ` | par serie ${JSON.stringify(ecart.parSerie)}` : ''),
+    );
+  }
+
   if (rate < SEUIL_RESOLUTION) {
     console.error(`ECHEC : resolution ${(rate * 100).toFixed(1)}% < ${SEUIL_RESOLUTION * 100}% -> flux suspect, on NE PUBLIE PAS.`);
     process.exit(1);
@@ -139,21 +190,58 @@ async function main() {
   const nouveau = canon(out);
   const pricesSame =
     existsSync(OUT_PATH) && canon(JSON.parse(readFileSync(OUT_PATH, 'utf8'))) === nouveau;
-  let enabledSame = false;
+  let precedent = null;
   if (existsSync(MANIFEST_PATH)) {
-    try { enabledSame = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')).enabled === enabled; } catch (_) {}
+    try { precedent = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')); } catch (_) {}
   }
-  if (pricesSame && enabledSame) {
-    console.log('Prix et kill-switch inchanges -> aucun commit.');
+  const enabledSame = precedent !== null && precedent.enabled === enabled;
+
+  // Catalogue illisible -> on REPORTE la valeur precedente. Ecrire null ferait croire
+  // que l ecart s est resorbe, et provoquerait un commit pour rien.
+  const horsAvant = (precedent && precedent.hors_table !== undefined) ? precedent.hors_table : null;
+  const horsTable = ecart ? ecart.horsTable : horsAvant;
+  const ecartSame = horsTable === horsAvant;
+
+  // On alerte sur la CROISSANCE, pas sur une valeur absolue : le manifeste precedent sert
+  // de reference et se remet a jour tout seul. Premier passage = on pose la reference en
+  // silence. Un set qui sort fait bondir le compteur, et ca, il faut le savoir le jour meme.
+  if (ecart && horsAvant !== null && ecart.horsTable > horsAvant) {
+    const corps = [
+      `Cartes du catalogue absentes de la table de prix : **${horsAvant} -> ${ecart.horsTable}**.`,
+      `Detail par serie : \`${JSON.stringify(ecart.parSerie)}\``,
+      `Catalogue vivant : ${ecart.catalogue} cartes | table gelee : ${map.cards.length} (${map.generated_at}).`,
+      '',
+      "Ces cartes n ont AUCUN prix et ne sont pas comptees dans le taux de resolution :",
+      "il restera vert. Pour les coter, rejouer `tools/construire-table-prix.ps1` cote poste",
+      "et pousser une nouvelle `prices/price-map.json`.",
+    ].join('\n');
+    console.warn(`ALERTE ECART : ${horsAvant} -> ${ecart.horsTable} cartes hors table.`);
+    if (process.env.GITHUB_OUTPUT) {
+      appendFileSync(process.env.GITHUB_OUTPUT, `ecart_alerte=1\necart_corps<<FIN_ECART\n${corps}\nFIN_ECART\n`);
+    }
+  }
+
+  // L horodatage pilote le RE-TELECHARGEMENT cote app (~376 Ko). Un ecart qui bouge est une
+  // info de supervision, pas une donnee client : on reecrit le manifeste pour garder la
+  // reference du prochain run, mais sans faire retelecharger le monde entier pour rien.
+  const doitPropager = !pricesSame || !enabledSame;
+
+  if (pricesSame && enabledSame && ecartSame) {
+    console.log('Prix, kill-switch et ecart inchanges -> aucun commit.');
     return;
   }
 
   writeFileSync(OUT_PATH, nouveau + '\n');
   const manifest = {
-    generated_at: new Date().toISOString(),
+    generated_at: (doitPropager || !precedent)
+      ? new Date().toISOString()
+      : precedent.generated_at,
     cm_updated_at: cm.lastModified || null,
     count: Object.keys(out).length,
     resolution: Number((rate * 100).toFixed(1)),
+    // Ce que la table gelee ignore. `resolution` ne peut pas le voir par construction.
+    catalogue_count: ecart ? ecart.catalogue : (precedent ? precedent.catalogue_count : null),
+    hors_table: horsTable,
     enabled,
   };
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n');

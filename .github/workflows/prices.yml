@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: prices
@@ -29,10 +30,44 @@ jobs:
       # Kill-switch : l'affichage cote app reste coupe tant que la variable de depot PRICES_ENABLED != 'true'.
       # KP la bascule dans Settings > Secrets and variables > Actions > Variables, sans toucher au code.
       - name: Collecte
+        id: collecte
         env:
           PRICES_ENABLED: ${{ vars.PRICES_ENABLED }}
         run: node collect-prices.mjs
 
+
+      # Un ecart qui grossit veut presque toujours dire "un set est sorti et il n a pas de
+      # prix". Le taux de resolution ne peut PAS le voir : son denominateur est la table gelee.
+      - name: Signaler un ecart de couverture
+        if: steps.collecte.outputs.ecart_alerte == '1'
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
+        with:
+          script: |
+            const corps = process.env.ECART_CORPS;
+            const ouvertes = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'couverture-prix',
+            });
+            if (ouvertes.data.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: ouvertes.data[0].number,
+                body: corps,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Prix : des cartes du catalogue ne sont pas cotees',
+                body: corps,
+                labels: ['couverture-prix'],
+              });
+            }
+        env:
+          ECART_CORPS: ${{ steps.collecte.outputs.ecart_corps }}
       - name: Commit si les prix ont bouge
         run: |
           git config user.name "riftcardex-bot"
@@ -47,3 +82,44 @@ jobs:
             git commit --amend --no-edit
             git push
           fi
+
+
+      # Sans ca, un blocage Cardmarket gele les prix en silence : le manifeste garde son
+      # generated_at, l app ne voit rien passer, et la date affichee vieillit sans alerte.
+      - name: Signaler un echec de collecte
+        if: failure()
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
+        with:
+          script: |
+            const corps = [
+              'La collecte quotidienne des prix a echoue.',
+              '',
+              `Run : ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              '',
+              "Tant qu elle echoue, `prices/manifest.json` garde son `generated_at` :",
+              "l app ne retelecharge rien et continue d afficher les derniers prix connus,",
+              "sans jamais signaler qu ils vieillissent. Causes deja vues : blocage",
+              "Cardmarket (403), un groupe TCGCSV en echec, resolution sous le seuil de 95%.",
+            ].join('\n');
+            const ouvertes = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'collecte-prix',
+            });
+            if (ouvertes.data.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: ouvertes.data[0].number,
+                body: corps,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Prix : la collecte quotidienne echoue',
+                body: corps,
+                labels: ['collecte-prix'],
+              });
+            }
