@@ -1,5 +1,5 @@
 {
-    "generated_at":  "2026-07-31T19:05:48Z",
+    "generated_at":  "2026-08-24T16:52:20Z",
     "cm_price_url":  "https://downloads.s3.cardmarket.com/productCatalog/priceGuide/price_guide_22.json",
     "tcg_base":  "https://tcgcsv.com/tcgplayer/89",
     "tcg_groups":  [
@@ -13,8 +13,8 @@
                        24560,
                        24698
                    ],
-    "count":  1363,
-    "cotables":  1359,
+    "count":  1434,
+    "cotables":  1430,
     "cards":  [
                   {
                       "id":  "6a517603ad64d2d80a4f0372",
@@ -24,9 +24,9 @@
                   },
                   {
                       "id":  "69bc5bf4d308c64675ca8a26",
-                      "cm":  null,
+                      "cm":  "862206",
                       "tcg":  "668439",
-                      "conf":  "AMBIGU"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "6a517603ad64d2d80a4f0371",
@@ -2303,6 +2303,12 @@
                       "conf":  "AMBIGU"
                   },
                   {
+                      "id":  "sup-opp-x-275a-298",
+                      "cm":  "866421",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
                       "id":  "69bc5bf2d308c64675ca8a02",
                       "cm":  null,
                       "tcg":  "680247",
@@ -2345,6 +2351,24 @@
                       "conf":  "ABSENT"
                   },
                   {
+                      "id":  "sup-opp-x-178-221",
+                      "cm":  "874096",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-x-178a-221",
+                      "cm":  "874097",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-002",
+                      "cm":  null,
+                      "tcg":  "709727",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf2d308c64675ca8a0a",
                       "cm":  "874139",
                       "tcg":  "680282",
@@ -2364,9 +2388,21 @@
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89db",
-                      "cm":  null,
+                      "cm":  "856117",
                       "tcg":  "662903",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r04b",
+                      "cm":  "874110",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r04b",
+                      "cm":  "898190",
+                      "tcg":  "709745",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf4d308c64675ca8a24",
@@ -2376,9 +2412,21 @@
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89da",
-                      "cm":  null,
+                      "cm":  "856118",
                       "tcg":  "662902",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r02b",
+                      "cm":  "874108",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r02b",
+                      "cm":  "898188",
+                      "tcg":  "709746",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89e1",
@@ -2388,15 +2436,33 @@
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89dc",
-                      "cm":  null,
+                      "cm":  "856119",
                       "tcg":  "662904",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r05b",
+                      "cm":  "874111",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r05b",
+                      "cm":  "898191",
+                      "tcg":  "709747",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf3d308c64675ca8a15",
                       "cm":  "874143",
                       "tcg":  "680343",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-048",
+                      "cm":  null,
+                      "tcg":  "709733",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89e2",
@@ -2427,6 +2493,12 @@
                       "cm":  "874136",
                       "tcg":  "680270",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-197-m-219",
+                      "cm":  null,
+                      "tcg":  "696689",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf1d308c64675ca89eb",
@@ -2471,6 +2543,24 @@
                       "conf":  "ABSENT"
                   },
                   {
+                      "id":  "sup-opp-ven-004",
+                      "cm":  null,
+                      "tcg":  "709728",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-v-139-t-221",
+                      "cm":  "878280",
+                      "tcg":  "685001",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-139-c-221",
+                      "cm":  "878281",
+                      "tcg":  "684999",
+                      "conf":  "PROMO"
+                  },
+                  {
                       "id":  "69bc5bf4d308c64675ca8a23",
                       "cm":  "874152",
                       "tcg":  "680443",
@@ -2487,6 +2577,12 @@
                       "cm":  "874148",
                       "tcg":  "680367",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-026",
+                      "cm":  null,
+                      "tcg":  "709730",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf2d308c64675ca8a07",
@@ -2507,6 +2603,12 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-071",
+                      "cm":  null,
+                      "tcg":  "709736",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf3d308c64675ca8a12",
                       "cm":  "874144",
                       "tcg":  "680334",
@@ -2514,9 +2616,21 @@
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89d8",
-                      "cm":  null,
+                      "cm":  "856120",
                       "tcg":  "662900",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r01b",
+                      "cm":  "874107",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r01b",
+                      "cm":  "898187",
+                      "tcg":  "709748",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf4d308c64675ca8a22",
@@ -2549,6 +2663,30 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-050",
+                      "cm":  null,
+                      "tcg":  "709734",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-v-051-t-221",
+                      "cm":  "883249",
+                      "tcg":  "685261",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-051-c-221",
+                      "cm":  "883250",
+                      "tcg":  "685263",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-101",
+                      "cm":  null,
+                      "tcg":  "709741",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a517602ad64d2d80a4f035e",
                       "cm":  "885280",
                       "tcg":  "694610",
@@ -2567,6 +2705,18 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-118",
+                      "cm":  null,
+                      "tcg":  "709742",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-ven-125",
+                      "cm":  null,
+                      "tcg":  "709744",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a517602ad64d2d80a4f035d",
                       "cm":  "885277",
                       "tcg":  "694609",
@@ -2574,9 +2724,21 @@
                   },
                   {
                       "id":  "69bff35b58d0fbca04e9373e",
-                      "cm":  "873230",
+                      "cm":  null,
                       "tcg":  "684986",
-                      "conf":  "PROMO"
+                      "conf":  "AMBIGU"
+                  },
+                  {
+                      "id":  "sup-opp-x-195a-221",
+                      "cm":  null,
+                      "tcg":  null,
+                      "conf":  "AMBIGU"
+                  },
+                  {
+                      "id":  "sup-opp-v-195-m-219",
+                      "cm":  null,
+                      "tcg":  "696690",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bff35b58d0fbca04e9373f",
@@ -2586,8 +2748,14 @@
                   },
                   {
                       "id":  "6a517603ad64d2d80a4f036e",
-                      "cm":  null,
+                      "cm":  "903174",
                       "tcg":  "704486",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-181-m-219",
+                      "cm":  null,
+                      "tcg":  "696691",
                       "conf":  "ABSENT"
                   },
                   {
@@ -2604,9 +2772,9 @@
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c8",
-                      "cm":  null,
+                      "cm":  "856008",
                       "tcg":  "662882",
-                      "conf":  "AMBIGU"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf1d308c64675ca89f1",
@@ -2621,10 +2789,22 @@
                       "conf":  "AMBIGU"
                   },
                   {
+                      "id":  "sup-opp-v-201-m-219",
+                      "cm":  null,
+                      "tcg":  "696692",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf4d308c64675ca8a20",
                       "cm":  "874153",
                       "tcg":  "680437",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-199-m-219",
+                      "cm":  null,
+                      "tcg":  "696693",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c9",
@@ -2645,6 +2825,12 @@
                       "conf":  "AMBIGU"
                   },
                   {
+                      "id":  "sup-opp-x-151b-298",
+                      "cm":  "888291",
+                      "tcg":  "693156",
+                      "conf":  "PROMO"
+                  },
+                  {
                       "id":  "69bc5bf2d308c64675ca89f8",
                       "cm":  null,
                       "tcg":  "669258",
@@ -2657,10 +2843,28 @@
                       "conf":  "AMBIGU"
                   },
                   {
-                      "id":  "6a517603ad64d2d80a4f0370",
+                      "id":  "sup-opp-v-189-m-219",
                       "cm":  null,
+                      "tcg":  "696694",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-v-058-c-219",
+                      "cm":  "890062",
+                      "tcg":  "705531",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "6a517603ad64d2d80a4f0370",
+                      "cm":  "890063",
                       "tcg":  "705530",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-x-022-221",
+                      "cm":  "878292",
+                      "tcg":  "685264",
+                      "conf":  "PROMO"
                   },
                   {
                       "id":  "6a517603ad64d2d80a4f0368",
@@ -2729,10 +2933,34 @@
                       "conf":  "AMBIGU"
                   },
                   {
-                      "id":  "69bc5bf0d308c64675ca89d7",
+                      "id":  "sup-opp-v-191-m-219",
                       "cm":  null,
+                      "tcg":  "696695",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-ven-069b",
+                      "cm":  null,
+                      "tcg":  "709987",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "69bc5bf0d308c64675ca89d7",
+                      "cm":  "856121",
                       "tcg":  "662899",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r03b",
+                      "cm":  "874109",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r03b",
+                      "cm":  "898189",
+                      "tcg":  "709749",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bf2d308c64675ca89fb",
@@ -2771,16 +2999,40 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-x-171-298",
+                      "cm":  "856111",
+                      "tcg":  "662920",
+                      "conf":  "PROMO"
+                  },
+                  {
                       "id":  "69bc5bf3d308c64675ca8a0e",
                       "cm":  "874141",
                       "tcg":  "680311",
                       "conf":  "PROMO"
                   },
                   {
-                      "id":  "69bc5bf0d308c64675ca89d9",
+                      "id":  "sup-opp-ven-029",
                       "cm":  null,
+                      "tcg":  "709731",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "69bc5bf0d308c64675ca89d9",
+                      "cm":  "856122",
                       "tcg":  "662901",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-sfd-rune-r06b",
+                      "cm":  "874112",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-r06b",
+                      "cm":  "898192",
+                      "tcg":  "709750",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bff35b58d0fbca04e93741",
@@ -2795,10 +3047,22 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-058",
+                      "cm":  null,
+                      "tcg":  "709735",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a517603ad64d2d80a4f036b",
                       "cm":  null,
                       "tcg":  "696702",
                       "conf":  "AMBIGU"
+                  },
+                  {
+                      "id":  "sup-opp-v-203-m-219",
+                      "cm":  null,
+                      "tcg":  "696696",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89df",
@@ -2813,9 +3077,27 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-082",
+                      "cm":  null,
+                      "tcg":  "709738",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-v-185-m-219",
+                      "cm":  null,
+                      "tcg":  "696697",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf1d308c64675ca89ed",
                       "cm":  "856108",
                       "tcg":  "662923",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-x-271a-298",
+                      "cm":  "867775",
+                      "tcg":  null,
                       "conf":  "PROMO"
                   },
                   {
@@ -2831,16 +3113,46 @@
                       "conf":  "ABSENT"
                   },
                   {
-                      "id":  "6a517603ad64d2d80a4f036d",
+                      "id":  "sup-opp-x-025-221",
+                      "cm":  "891137",
+                      "tcg":  null,
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-v-183-m-219",
                       "cm":  null,
+                      "tcg":  "696698",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-v-120-c-219",
+                      "cm":  "890058",
+                      "tcg":  "696824",
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "6a517603ad64d2d80a4f036d",
+                      "cm":  "890059",
                       "tcg":  "696823",
-                      "conf":  "AMBIGU"
+                      "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-076",
+                      "cm":  null,
+                      "tcg":  "709737",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf1d308c64675ca89e7",
                       "cm":  "856107",
                       "tcg":  "662916",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-041",
+                      "cm":  null,
+                      "tcg":  "708201",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bff35b58d0fbca04e93743",
@@ -2879,6 +3191,12 @@
                       "conf":  "AMBIGU"
                   },
                   {
+                      "id":  "sup-opp-ven-013",
+                      "cm":  null,
+                      "tcg":  "709729",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a517602ad64d2d80a4f0361",
                       "cm":  "885291",
                       "tcg":  "694613",
@@ -2891,10 +3209,22 @@
                       "conf":  "ABSENT"
                   },
                   {
+                      "id":  "sup-opp-ven-123",
+                      "cm":  null,
+                      "tcg":  "709743",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a517602ad64d2d80a4f0362",
                       "cm":  "885257",
                       "tcg":  "694614",
                       "conf":  "PROMO"
+                  },
+                  {
+                      "id":  "sup-opp-ven-097",
+                      "cm":  null,
+                      "tcg":  "709739",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf0d308c64675ca89dd",
@@ -2957,6 +3287,18 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-ven-037",
+                      "cm":  null,
+                      "tcg":  "709732",
+                      "conf":  "ABSENT"
+                  },
+                  {
+                      "id":  "sup-opp-ven-099",
+                      "cm":  null,
+                      "tcg":  "709740",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf3d308c64675ca8a1b",
                       "cm":  "874150",
                       "tcg":  "680406",
@@ -3005,6 +3347,12 @@
                       "conf":  "PROMO"
                   },
                   {
+                      "id":  "sup-opp-v-193-m-219",
+                      "cm":  null,
+                      "tcg":  "696700",
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "69bc5bf2d308c64675ca89fa",
                       "cm":  "855689",
                       "tcg":  "669260",
@@ -3018,9 +3366,15 @@
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c7",
-                      "cm":  null,
+                      "cm":  "856006",
                       "tcg":  "662881",
-                      "conf":  "AMBIGU"
+                      "conf":  "MANUEL"
+                  },
+                  {
+                      "id":  "sup-opp-v-187-m-219",
+                      "cm":  null,
+                      "tcg":  "696701",
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bf1d308c64675ca89ec",
@@ -3114,15 +3468,15 @@
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c3",
-                      "cm":  null,
+                      "cm":  "858986",
                       "tcg":  "678051",
-                      "conf":  "AMBIGU"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c4",
-                      "cm":  null,
+                      "cm":  "858991",
                       "tcg":  "678052",
-                      "conf":  "AMBIGU"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5beed308c64675ca89bc",
@@ -3149,16 +3503,10 @@
                       "conf":  "PROMO"
                   },
                   {
-                      "id":  "69bc5befd308c64675ca89c6",
-                      "cm":  "856006",
-                      "tcg":  "678054",
-                      "conf":  "PROMO"
-                  },
-                  {
                       "id":  "6a5175fcad64d2d80a4f0356",
                       "cm":  "858990",
                       "tcg":  "678054",
-                      "conf":  "PROMO"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5befd308c64675ca89c1",
@@ -3423,6 +3771,12 @@
                       "cm":  "866792",
                       "tcg":  "666429",
                       "conf":  "CERTAIN"
+                  },
+                  {
+                      "id":  "sup-sfd-t00",
+                      "cm":  null,
+                      "tcg":  null,
+                      "conf":  "ABSENT"
                   },
                   {
                       "id":  "69bc5bddd308c64675ca8869",
@@ -5616,9 +5970,9 @@
                   },
                   {
                       "id":  "69bc5bead308c64675ca896f",
-                      "cm":  null,
+                      "cm":  "884012",
                       "tcg":  "684483",
-                      "conf":  "ABSENT"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "69bc5bedd308c64675ca8999",
@@ -5766,45 +6120,45 @@
                   },
                   {
                       "id":  "69bc5bedd308c64675ca89a4",
-                      "cm":  null,
+                      "cm":  "884099",
                       "tcg":  "684602",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bc5bedd308c64675ca89a5",
-                      "cm":  null,
+                      "cm":  "884100",
                       "tcg":  "684603",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bff35658d0fbca04e93727",
-                      "cm":  null,
+                      "cm":  "884125",
                       "tcg":  "685027",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bff35758d0fbca04e93737",
-                      "cm":  null,
+                      "cm":  "884126",
                       "tcg":  "685491",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bc5be9d308c64675ca8950",
-                      "cm":  null,
+                      "cm":  "884193",
                       "tcg":  "684104",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bc5becd308c64675ca8987",
-                      "cm":  null,
+                      "cm":  "884233",
                       "tcg":  "684507",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69bc5bead308c64675ca895f",
-                      "cm":  null,
+                      "cm":  "884234",
                       "tcg":  "684210",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "69c5be69bf82ff7cb69f428f",
@@ -6294,9 +6648,9 @@
                   },
                   {
                       "id":  "69bff35558d0fbca04e93719",
-                      "cm":  null,
+                      "cm":  "884206",
                       "tcg":  "684677",
-                      "conf":  "ABSENT"
+                      "conf":  "CERTAIN"
                   },
                   {
                       "id":  "69c5be69bf82ff7cb69f4290",
@@ -6781,13 +7135,13 @@
                   {
                       "id":  "6a590eef0e5d4c92d5d1efde",
                       "cm":  "898104",
-                      "tcg":  null,
+                      "tcg":  "707605",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efdf",
                       "cm":  "897962",
-                      "tcg":  null,
+                      "tcg":  "707606",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -6823,7 +7177,7 @@
                   {
                       "id":  "sup-ven-189s",
                       "cm":  "898161",
-                      "tcg":  null,
+                      "tcg":  "709668",
                       "conf":  "ORDRE"
                   },
                   {
@@ -6871,25 +7225,25 @@
                   {
                       "id":  "6a56ab9fff602fd324f4767b",
                       "cm":  "898139",
-                      "tcg":  null,
+                      "tcg":  "707607",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe1",
                       "cm":  "898028",
-                      "tcg":  null,
+                      "tcg":  "707608",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe0",
                       "cm":  "898029",
-                      "tcg":  null,
+                      "tcg":  "707609",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe2",
                       "cm":  "897996",
-                      "tcg":  null,
+                      "tcg":  "707610",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -6901,13 +7255,13 @@
                   {
                       "id":  "6a56ab9fff602fd324f4767c",
                       "cm":  "897984",
-                      "tcg":  null,
+                      "tcg":  "707611",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b3fe2355878c40cc83",
                       "cm":  "898080",
-                      "tcg":  null,
+                      "tcg":  "707612",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -6919,13 +7273,13 @@
                   {
                       "id":  "6a5a92b3fe2355878c40cc84",
                       "cm":  "897877",
-                      "tcg":  null,
+                      "tcg":  "707613",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b3fe2355878c40cc85",
                       "cm":  "898022",
-                      "tcg":  null,
+                      "tcg":  "707614",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -6936,9 +7290,15 @@
                   },
                   {
                       "id":  "6a56ab94ff602fd324f47602",
-                      "cm":  null,
+                      "cm":  "898157",
                       "tcg":  "706006",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r04a",
+                      "cm":  "898182",
+                      "tcg":  "709309",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a56ab94ff602fd324f47603",
@@ -6949,37 +7309,49 @@
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe3",
                       "cm":  "897910",
-                      "tcg":  null,
+                      "tcg":  "707615",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab9fff602fd324f4767d",
                       "cm":  "898014",
-                      "tcg":  null,
+                      "tcg":  "707616",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab95ff602fd324f47606",
-                      "cm":  null,
+                      "cm":  "898155",
                       "tcg":  "706010",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r02a",
+                      "cm":  "898180",
+                      "tcg":  "709310",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe4",
                       "cm":  "898036",
-                      "tcg":  null,
+                      "tcg":  "707617",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab95ff602fd324f47607",
-                      "cm":  null,
+                      "cm":  "898158",
                       "tcg":  "706011",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r05a",
+                      "cm":  "898183",
+                      "tcg":  "709311",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f4767e",
                       "cm":  "897997",
-                      "tcg":  null,
+                      "tcg":  "707618",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -6991,7 +7363,7 @@
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe5",
                       "cm":  "897945",
-                      "tcg":  null,
+                      "tcg":  "707619",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7003,13 +7375,13 @@
                   {
                       "id":  "6a5a92b3fe2355878c40cc86",
                       "cm":  "897998",
-                      "tcg":  null,
+                      "tcg":  "707620",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f4767f",
                       "cm":  "897978",
-                      "tcg":  null,
+                      "tcg":  "707621",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7033,7 +7405,7 @@
                   {
                       "id":  "6a56aba0ff602fd324f47680",
                       "cm":  "897979",
-                      "tcg":  null,
+                      "tcg":  "707622",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7045,43 +7417,43 @@
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe6",
                       "cm":  "897950",
-                      "tcg":  null,
+                      "tcg":  "707623",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b3fe2355878c40cc87",
                       "cm":  "898030",
-                      "tcg":  null,
+                      "tcg":  "707624",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b3fe2355878c40cc88",
                       "cm":  "898081",
-                      "tcg":  null,
+                      "tcg":  "707625",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47681",
-                      "cm":  null,
-                      "tcg":  null,
-                      "conf":  "ABSENT"
+                      "cm":  "898146",
+                      "tcg":  "707626",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "sup-ven-194s",
-                      "cm":  null,
+                      "cm":  "898166",
                       "tcg":  "709103",
-                      "conf":  "ABSENT"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47682",
                       "cm":  "898137",
-                      "tcg":  null,
+                      "tcg":  "707627",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe7",
                       "cm":  "898067",
-                      "tcg":  null,
+                      "tcg":  "707628",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7093,31 +7465,31 @@
                   {
                       "id":  "6a590eef0e5d4c92d5d1efe8",
                       "cm":  "898066",
-                      "tcg":  null,
+                      "tcg":  "707629",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47683",
                       "cm":  "898111",
-                      "tcg":  null,
+                      "tcg":  "707630",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b3fe2355878c40cc89",
                       "cm":  "898126",
-                      "tcg":  null,
+                      "tcg":  "707631",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1efe9",
                       "cm":  "897990",
-                      "tcg":  null,
+                      "tcg":  "707632",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47684",
                       "cm":  "897918",
-                      "tcg":  null,
+                      "tcg":  "707633",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7127,15 +7499,21 @@
                       "conf":  "CERTAIN"
                   },
                   {
+                      "id":  "sup-ven-t01",
+                      "cm":  "898150",
+                      "tcg":  null,
+                      "conf":  "CERTAIN"
+                  },
+                  {
                       "id":  "6a56aba0ff602fd324f47685",
                       "cm":  "897959",
-                      "tcg":  null,
+                      "tcg":  "707634",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1efea",
                       "cm":  "898074",
-                      "tcg":  null,
+                      "tcg":  "707635",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7153,7 +7531,7 @@
                   {
                       "id":  "6a56aba0ff602fd324f47686",
                       "cm":  "898082",
-                      "tcg":  null,
+                      "tcg":  "707636",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7165,32 +7543,38 @@
                   {
                       "id":  "6a56aba0ff602fd324f47687",
                       "cm":  "898055",
-                      "tcg":  null,
+                      "tcg":  "707637",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b4fe2355878c40cc8a",
                       "cm":  "897925",
-                      "tcg":  null,
+                      "tcg":  "707638",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1efeb",
                       "cm":  "898015",
-                      "tcg":  null,
+                      "tcg":  "707639",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b4fe2355878c40cc8b",
                       "cm":  "897970",
-                      "tcg":  null,
+                      "tcg":  "707640",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab96ff602fd324f47618",
-                      "cm":  null,
+                      "cm":  "898154",
                       "tcg":  "706028",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r01a",
+                      "cm":  "898178",
+                      "tcg":  "709312",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a56ab96ff602fd324f4761a",
@@ -7211,9 +7595,15 @@
                       "conf":  "CERTAIN"
                   },
                   {
+                      "id":  "sup-ven-t02",
+                      "cm":  null,
+                      "tcg":  null,
+                      "conf":  "ABSENT"
+                  },
+                  {
                       "id":  "6a5a92b4fe2355878c40cc8c",
                       "cm":  "897991",
-                      "tcg":  null,
+                      "tcg":  "707641",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7225,13 +7615,13 @@
                   {
                       "id":  "6a5a92b4fe2355878c40cc8d",
                       "cm":  "898016",
-                      "tcg":  null,
+                      "tcg":  "707642",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1efec",
                       "cm":  "897965",
-                      "tcg":  null,
+                      "tcg":  "707643",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7243,7 +7633,7 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1efed",
                       "cm":  "897985",
-                      "tcg":  null,
+                      "tcg":  "707644",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7267,7 +7657,7 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1efee",
                       "cm":  "898075",
-                      "tcg":  null,
+                      "tcg":  "707645",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7285,13 +7675,13 @@
                   {
                       "id":  "6a5a92b4fe2355878c40cc8e",
                       "cm":  "898128",
-                      "tcg":  null,
+                      "tcg":  "707646",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1efef",
                       "cm":  "897992",
-                      "tcg":  null,
+                      "tcg":  "707647",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7314,9 +7704,9 @@
                   },
                   {
                       "id":  "6a56ab95ff602fd324f47610",
-                      "cm":  null,
+                      "cm":  "898103",
                       "tcg":  "706020",
-                      "conf":  "DESACCORD"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "6a56ab97ff602fd324f47628",
@@ -7345,19 +7735,19 @@
                   {
                       "id":  "6a56aba0ff602fd324f47688",
                       "cm":  "897881",
-                      "tcg":  null,
+                      "tcg":  "707648",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47689",
                       "cm":  "898084",
-                      "tcg":  null,
+                      "tcg":  "707649",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a5fd1037dd422cf1aaca13c",
                       "cm":  "898174",
-                      "tcg":  null,
+                      "tcg":  "707650",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7387,13 +7777,13 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff0",
                       "cm":  "898063",
-                      "tcg":  null,
+                      "tcg":  "707651",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff1",
                       "cm":  "898064",
-                      "tcg":  null,
+                      "tcg":  "707652",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7417,7 +7807,7 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff2",
                       "cm":  "898113",
-                      "tcg":  null,
+                      "tcg":  "707653",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7429,13 +7819,13 @@
                   {
                       "id":  "6a5a92b4fe2355878c40cc8f",
                       "cm":  "898018",
-                      "tcg":  null,
+                      "tcg":  "707654",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f4768a",
                       "cm":  "898138",
-                      "tcg":  null,
+                      "tcg":  "707655",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7453,12 +7843,18 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff3",
                       "cm":  "898070",
-                      "tcg":  null,
+                      "tcg":  "707656",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b4fe2355878c40cc90",
                       "cm":  "898041",
+                      "tcg":  "707657",
+                      "conf":  "CERTAIN"
+                  },
+                  {
+                      "id":  "sup-ven-t03",
+                      "cm":  "899230",
                       "tcg":  null,
                       "conf":  "CERTAIN"
                   },
@@ -7477,7 +7873,7 @@
                   {
                       "id":  "6a56aba0ff602fd324f4768b",
                       "cm":  "898140",
-                      "tcg":  null,
+                      "tcg":  "707658",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7507,7 +7903,7 @@
                   {
                       "id":  "sup-ven-195s",
                       "cm":  "898167",
-                      "tcg":  null,
+                      "tcg":  "709669",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7519,14 +7915,20 @@
                   {
                       "id":  "6a5a92b4fe2355878c40cc91",
                       "cm":  "898059",
-                      "tcg":  null,
+                      "tcg":  "707659",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab98ff602fd324f4763f",
-                      "cm":  null,
+                      "cm":  "898156",
                       "tcg":  "706067",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r03a",
+                      "cm":  "898181",
+                      "tcg":  "709313",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a56ab98ff602fd324f47640",
@@ -7537,7 +7939,7 @@
                   {
                       "id":  "6a5fd1037dd422cf1aaca13d",
                       "cm":  "898175",
-                      "tcg":  null,
+                      "tcg":  "707660",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7549,7 +7951,7 @@
                   {
                       "id":  "6a56aba0ff602fd324f4768c",
                       "cm":  "898114",
-                      "tcg":  null,
+                      "tcg":  "707661",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7579,7 +7981,7 @@
                   {
                       "id":  "sup-ven-192s",
                       "cm":  "898164",
-                      "tcg":  null,
+                      "tcg":  "709304",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7597,7 +7999,7 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff4",
                       "cm":  "898132",
-                      "tcg":  null,
+                      "tcg":  "707662",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7609,7 +8011,7 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff5",
                       "cm":  "898078",
-                      "tcg":  null,
+                      "tcg":  "707663",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7633,25 +8035,31 @@
                   {
                       "id":  "6a590ef00e5d4c92d5d1eff6",
                       "cm":  "898025",
-                      "tcg":  null,
+                      "tcg":  "707664",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56ab98ff602fd324f4764a",
-                      "cm":  null,
+                      "cm":  "898159",
                       "tcg":  "706078",
-                      "conf":  "DESACCORD"
+                      "conf":  "ORDRE"
+                  },
+                  {
+                      "id":  "sup-ven-r06a",
+                      "cm":  "898184",
+                      "tcg":  "709314",
+                      "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1eff7",
                       "cm":  "897994",
-                      "tcg":  null,
+                      "tcg":  "707665",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1eff8",
                       "cm":  "897971",
-                      "tcg":  null,
+                      "tcg":  "707666",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7663,7 +8071,7 @@
                   {
                       "id":  "6a590ef10e5d4c92d5d1eff9",
                       "cm":  "897946",
-                      "tcg":  null,
+                      "tcg":  "707667",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7681,31 +8089,31 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc92",
                       "cm":  "898019",
-                      "tcg":  null,
+                      "tcg":  "707668",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1effa",
                       "cm":  "898006",
-                      "tcg":  null,
+                      "tcg":  "707669",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1effb",
                       "cm":  "898026",
-                      "tcg":  null,
+                      "tcg":  "707670",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f4768d",
                       "cm":  "898116",
-                      "tcg":  null,
+                      "tcg":  "707671",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1effc",
                       "cm":  "898108",
-                      "tcg":  null,
+                      "tcg":  "707672",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7745,6 +8153,12 @@
                       "conf":  "CERTAIN"
                   },
                   {
+                      "id":  "sup-ven-t04",
+                      "cm":  "898151",
+                      "tcg":  null,
+                      "conf":  "CERTAIN"
+                  },
+                  {
                       "id":  "6a56ab99ff602fd324f47654",
                       "cm":  "898071",
                       "tcg":  "706088",
@@ -7753,19 +8167,19 @@
                   {
                       "id":  "6a56aba0ff602fd324f4768e",
                       "cm":  "898038",
-                      "tcg":  null,
+                      "tcg":  "707674",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f4768f",
                       "cm":  "898039",
-                      "tcg":  null,
+                      "tcg":  "707673",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1effd",
                       "cm":  "898131",
-                      "tcg":  null,
+                      "tcg":  "707675",
                       "conf":  "ORDRE"
                   },
                   {
@@ -7807,13 +8221,13 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc93",
                       "cm":  "898020",
-                      "tcg":  null,
+                      "tcg":  "707676",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba0ff602fd324f47690",
                       "cm":  "897972",
-                      "tcg":  null,
+                      "tcg":  "707677",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7831,13 +8245,13 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc94",
                       "cm":  "898125",
-                      "tcg":  null,
+                      "tcg":  "707678",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1effe",
                       "cm":  "897943",
-                      "tcg":  null,
+                      "tcg":  "707679",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7849,13 +8263,13 @@
                   {
                       "id":  "6a590ef10e5d4c92d5d1efff",
                       "cm":  "897973",
-                      "tcg":  null,
+                      "tcg":  "707680",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1f000",
                       "cm":  "897974",
-                      "tcg":  null,
+                      "tcg":  "707681",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7867,7 +8281,7 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc95",
                       "cm":  "897968",
-                      "tcg":  null,
+                      "tcg":  "707682",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7884,20 +8298,26 @@
                   },
                   {
                       "id":  "6a56aba1ff602fd324f47692",
-                      "cm":  null,
+                      "cm":  "898043",
+                      "tcg":  "707686",
+                      "conf":  "MANUEL"
+                  },
+                  {
+                      "id":  "sup-ven-t05",
+                      "cm":  "898152",
                       "tcg":  null,
-                      "conf":  "ABSENT"
+                      "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba1ff602fd324f47691",
                       "cm":  "898102",
-                      "tcg":  null,
+                      "tcg":  "707683",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b5fe2355878c40cc96",
                       "cm":  "897949",
-                      "tcg":  null,
+                      "tcg":  "707684",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7915,7 +8335,7 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc97",
                       "cm":  "898119",
-                      "tcg":  null,
+                      "tcg":  "707685",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7969,13 +8389,13 @@
                   {
                       "id":  "6a590ef10e5d4c92d5d1f001",
                       "cm":  "898124",
-                      "tcg":  null,
+                      "tcg":  "707687",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a5a92b5fe2355878c40cc98",
                       "cm":  "898000",
-                      "tcg":  null,
+                      "tcg":  "707688",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -7999,7 +8419,7 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc99",
                       "cm":  "898072",
-                      "tcg":  null,
+                      "tcg":  "707689",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8011,19 +8431,19 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc9a",
                       "cm":  "898073",
-                      "tcg":  null,
+                      "tcg":  "707690",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1f002",
                       "cm":  "898044",
-                      "tcg":  null,
+                      "tcg":  "707691",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1f003",
                       "cm":  "898045",
-                      "tcg":  null,
+                      "tcg":  "707692",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8035,19 +8455,19 @@
                   {
                       "id":  "6a5a92b5fe2355878c40cc9c",
                       "cm":  "898007",
-                      "tcg":  null,
+                      "tcg":  "707694",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a5a92b5fe2355878c40cc9b",
                       "cm":  "898127",
-                      "tcg":  null,
+                      "tcg":  "707693",
                       "conf":  "ORDRE"
                   },
                   {
                       "id":  "6a590ef10e5d4c92d5d1f004",
                       "cm":  "898051",
-                      "tcg":  null,
+                      "tcg":  "707695",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8057,9 +8477,15 @@
                       "conf":  "CERTAIN"
                   },
                   {
+                      "id":  "sup-ven-t06",
+                      "cm":  "898153",
+                      "tcg":  null,
+                      "conf":  "CERTAIN"
+                  },
+                  {
                       "id":  "6a5a92b5fe2355878c40cc9d",
                       "cm":  "898120",
-                      "tcg":  null,
+                      "tcg":  "707696",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8077,13 +8503,13 @@
                   {
                       "id":  "6a5a92b6fe2355878c40cc9e",
                       "cm":  "898046",
-                      "tcg":  null,
+                      "tcg":  "707697",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a5a92b6fe2355878c40cc9f",
                       "cm":  "897956",
-                      "tcg":  null,
+                      "tcg":  "707698",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8095,13 +8521,13 @@
                   {
                       "id":  "6a590ef20e5d4c92d5d1f005",
                       "cm":  "898052",
-                      "tcg":  null,
+                      "tcg":  "707699",
                       "conf":  "CERTAIN"
                   },
                   {
                       "id":  "6a56aba1ff602fd324f47693",
                       "cm":  "898047",
-                      "tcg":  null,
+                      "tcg":  "707700",
                       "conf":  "CERTAIN"
                   },
                   {
@@ -8130,21 +8556,21 @@
                   },
                   {
                       "id":  "6a56ab96ff602fd324f4761e",
-                      "cm":  null,
+                      "cm":  "898109",
                       "tcg":  "706034",
-                      "conf":  "ABSENT"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "6a56ab96ff602fd324f4761d",
-                      "cm":  null,
+                      "cm":  "898149",
                       "tcg":  "706033",
-                      "conf":  "ABSENT"
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "sup-ven-197s",
-                      "cm":  null,
-                      "tcg":  null,
-                      "conf":  "ABSENT"
+                      "cm":  "898169",
+                      "tcg":  "709667",
+                      "conf":  "MANUEL"
                   },
                   {
                       "id":  "6a56ab9bff602fd324f47676",
@@ -8179,7 +8605,7 @@
                   {
                       "id":  "sup-ven-191s",
                       "cm":  "898163",
-                      "tcg":  null,
+                      "tcg":  "709666",
                       "conf":  "ORDRE"
                   },
                   {
