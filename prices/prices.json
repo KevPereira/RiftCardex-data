@@ -76,7 +76,7 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
+   "trend": 0.11,
    "trendFoil": 0.23
   },
   "tcg": {
@@ -141,7 +141,7 @@
    "eur": 0.09,
    "eurFoil": 0.64,
    "low": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 1.25
   },
   "tcg": {
@@ -163,7 +163,7 @@
    "low": 2.49,
    "lowFoil": 2.49,
    "trend": 4.75,
-   "trendFoil": 3.5
+   "trendFoil": 3.47
   },
   "tcg": {
    "usdFoil": 4.11
@@ -203,7 +203,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.42
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 4.99,
@@ -224,7 +224,7 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.06,
    "trendFoil": 0.25
   },
   "tcg": {
@@ -268,8 +268,8 @@
    "eurFoil": 1.53,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
-   "trendFoil": 1.35
+   "trend": 0.16,
+   "trendFoil": 1.49
   },
   "tcg": {
    "high": 3,
@@ -290,7 +290,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.04,
    "trendFoil": 0.24
   },
   "tcg": {
@@ -335,7 +335,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.22
+   "trendFoil": 0.26
   },
   "tcg": {
    "high": 3,
@@ -356,7 +356,7 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
+   "trend": 0.09,
    "trendFoil": 0.12
   },
   "tcg": {
@@ -378,7 +378,7 @@
    "eurFoil": 0.4,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.13,
    "trendFoil": 0.35
   },
   "tcg": {
@@ -401,7 +401,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.13,
-   "trendFoil": 0.33
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 3,
@@ -423,7 +423,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.25
+   "trendFoil": 0.27
   },
   "tcg": {
    "high": 9,
@@ -445,7 +445,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.09,
-   "trendFoil": 0.41
+   "trendFoil": 0.43
   },
   "tcg": {
    "high": 8,
@@ -466,8 +466,8 @@
    "eurFoil": 0.54,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
-   "trendFoil": 0.46
+   "trend": 0.27,
+   "trendFoil": 0.5
   },
   "tcg": {
    "high": 3,
@@ -487,9 +487,9 @@
    "eur": 0.26,
    "eurFoil": 2.06,
    "low": 0.02,
-   "lowFoil": 0.1,
-   "trend": 0.3,
-   "trendFoil": 1.7
+   "lowFoil": 0.02,
+   "trend": 0.29,
+   "trendFoil": 1.69
   },
   "tcg": {
    "high": 10,
@@ -509,9 +509,9 @@
    "eur": 0.16,
    "eurFoil": 0.3,
    "low": 0.02,
-   "lowFoil": 0.05,
+   "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.29
+   "trendFoil": 0.34
   },
   "tcg": {
    "high": 3,
@@ -573,7 +573,7 @@
    "low": 0.19,
    "lowFoil": 0.19,
    "trend": 1.69,
-   "trendFoil": 1.53
+   "trendFoil": 1.5
   },
   "tcg": {
    "usdFoil": 2.84
@@ -589,9 +589,9 @@
    "eur": 2.4,
    "eurFoil": 1.48,
    "low": 0.17,
-   "lowFoil": 0.24,
-   "trend": 1.78,
-   "trendFoil": 1.44
+   "lowFoil": 0.2,
+   "trend": 1.71,
+   "trendFoil": 1.42
   },
   "tcg": {
    "usdFoil": 1.96
@@ -606,10 +606,10 @@
    "avgFoil": 5.49,
    "eur": 6.9,
    "eurFoil": 5.49,
-   "low": 2.5,
-   "lowFoil": 2.5,
+   "low": 2.99,
+   "lowFoil": 2.99,
    "trend": 6.38,
-   "trendFoil": 5.44
+   "trendFoil": 5.52
   },
   "tcg": {
    "usdFoil": 5.34
@@ -626,8 +626,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.27,
-   "trendFoil": 0.13
+   "trend": 0.29,
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.33
@@ -644,8 +644,8 @@
    "eurFoil": 7.22,
    "low": 6.5,
    "lowFoil": 6.5,
-   "trend": 10.43,
-   "trendFoil": 11
+   "trend": 10.87,
+   "trendFoil": 10.95
   },
   "tcg": {
    "usdFoil": 15.78
@@ -662,8 +662,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.23,
-   "trendFoil": 0.18
+   "trend": 0.22,
+   "trendFoil": 0.19
   },
   "tcg": {
    "usdFoil": 0.32
@@ -681,7 +681,7 @@
    "low": 1.25,
    "lowFoil": 1.25,
    "trend": 2.64,
-   "trendFoil": 4.09
+   "trendFoil": 4.03
   },
   "tcg": {
    "usdFoil": 3.49
@@ -699,7 +699,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.19,
-   "trendFoil": 0.12
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.26
@@ -717,7 +717,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.07
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.15
@@ -735,7 +735,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.36,
-   "trendFoil": 0.15
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.39
@@ -753,7 +753,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.16
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.26
@@ -770,8 +770,8 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.35,
-   "trendFoil": 0.18
+   "trend": 0.32,
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.37
@@ -788,7 +788,7 @@
    "eurFoil": 0.41,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.36,
+   "trend": 0.38,
    "trendFoil": 0.44
   },
   "tcg": {
@@ -804,10 +804,10 @@
    "avgFoil": 6.35,
    "eur": 6.51,
    "eurFoil": 6.35,
-   "low": 3.4,
-   "lowFoil": 3.4,
+   "low": 2.99,
+   "lowFoil": 2.99,
    "trend": 6.24,
-   "trendFoil": 5.31
+   "trendFoil": 5.06
   },
   "tcg": {
    "usdFoil": 5.3
@@ -822,10 +822,10 @@
    "avgFoil": 6.65,
    "eur": 7.26,
    "eurFoil": 6.65,
-   "low": 3.99,
-   "lowFoil": 3.99,
+   "low": 3.6,
+   "lowFoil": 3.6,
    "trend": 6.71,
-   "trendFoil": 5.18
+   "trendFoil": 5.07
   },
   "tcg": {
    "usdFoil": 7.44
@@ -840,10 +840,10 @@
    "avgFoil": 42.44,
    "eur": 44.37,
    "eurFoil": 42.44,
-   "low": 35,
-   "lowFoil": 35,
+   "low": 39,
+   "lowFoil": 39,
    "trend": 46.41,
-   "trendFoil": 46.5
+   "trendFoil": 46.15
   },
   "tcg": {
    "usdFoil": 70.62
@@ -858,10 +858,10 @@
    "avgFoil": 46.26,
    "eur": 49.68,
    "eurFoil": 46.26,
-   "low": 42.95,
-   "lowFoil": 42.95,
+   "low": 43,
+   "lowFoil": 43,
    "trend": 47.95,
-   "trendFoil": 50.19
+   "trendFoil": 49.93
   },
   "tcg": {
    "usdFoil": 68.66
@@ -878,8 +878,8 @@
    "eurFoil": 14.38,
    "low": 9.55,
    "lowFoil": 9.55,
-   "trend": 14.7,
-   "trendFoil": 12.42
+   "trend": 14.62,
+   "trendFoil": 12.33
   },
   "tcg": {
    "usdFoil": 17.47
@@ -897,7 +897,7 @@
    "low": 0.75,
    "lowFoil": 0.75,
    "trend": 1.74,
-   "trendFoil": 1.29
+   "trendFoil": 1.23
   },
   "tcg": {
    "usdFoil": 1.19
@@ -914,8 +914,8 @@
    "eurFoil": 3.46,
    "low": 0.9,
    "lowFoil": 0.9,
-   "trend": 3.06,
-   "trendFoil": 2.94
+   "trend": 3.19,
+   "trendFoil": 2.87
   },
   "tcg": {
    "usdFoil": 2.86
@@ -953,7 +953,7 @@
    "low": 2.9,
    "lowFoil": 2.9,
    "trend": 5.64,
-   "trendFoil": 4.56
+   "trendFoil": 4.48
   },
   "tcg": {
    "usdFoil": 5.35
@@ -970,8 +970,8 @@
    "eurFoil": 2.19,
    "low": 0.02,
    "lowFoil": 0.15,
-   "trend": 0.31,
-   "trendFoil": 1.83
+   "trend": 0.3,
+   "trendFoil": 1.95
   },
   "tcg": {
    "high": 5,
@@ -992,8 +992,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.15
+   "trend": 0.08,
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 5,
@@ -1012,10 +1012,10 @@
    "avgFoil": 3.75,
    "eur": 1.58,
    "eurFoil": 3.75,
-   "low": 0.02,
+   "low": 0.2,
    "lowFoil": 0.99,
    "trend": 2,
-   "trendFoil": 4.16
+   "trendFoil": 4.24
   },
   "tcg": {
    "high": 10,
@@ -1037,7 +1037,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.43
+   "trendFoil": 0.42
   },
   "tcg": {
    "high": 5,
@@ -1058,7 +1058,7 @@
    "eurFoil": 0.49,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.37
   },
   "tcg": {
@@ -1080,8 +1080,8 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.22
+   "trend": 0.08,
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 5,
@@ -1145,9 +1145,9 @@
    "eur": 0.06,
    "eurFoil": 0.17,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.13
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3,
@@ -1168,7 +1168,7 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
+   "trend": 0.17,
    "trendFoil": 0.19
   },
   "tcg": {
@@ -1189,7 +1189,7 @@
    "eur": 0.04,
    "eurFoil": 0.2,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.02,
    "trend": 0.1,
    "trendFoil": 0.11
   },
@@ -1256,8 +1256,8 @@
    "eurFoil": 1.35,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 1.44
+   "trend": 0.26,
+   "trendFoil": 1.43
   },
   "tcg": {
    "high": 4.99,
@@ -1277,9 +1277,9 @@
    "eur": 0.14,
    "eurFoil": 0.49,
    "low": 0.02,
-   "lowFoil": 0.06,
-   "trend": 0.2,
-   "trendFoil": 0.55
+   "lowFoil": 0.05,
+   "trend": 0.19,
+   "trendFoil": 0.54
   },
   "tcg": {
    "high": 10,
@@ -1300,8 +1300,8 @@
    "eurFoil": 1.36,
    "low": 0.02,
    "lowFoil": 0.2,
-   "trend": 1.17,
-   "trendFoil": 1.53
+   "trend": 1.21,
+   "trendFoil": 1.55
   },
   "tcg": {
    "high": 10,
@@ -1323,7 +1323,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.13,
-   "trendFoil": 0.56
+   "trendFoil": 0.6
   },
   "tcg": {
    "high": 3,
@@ -1344,8 +1344,8 @@
    "eurFoil": 1.23,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.23,
-   "trendFoil": 1.05
+   "trend": 0.22,
+   "trendFoil": 1.13
   },
   "tcg": {
    "high": 10,
@@ -1410,7 +1410,7 @@
    "eurFoil": 0.37,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.26
   },
   "tcg": {
@@ -1431,9 +1431,9 @@
    "eur": 0.42,
    "eurFoil": 1.58,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.15,
    "trend": 0.49,
-   "trendFoil": 1.21
+   "trendFoil": 1.24
   },
   "tcg": {
    "high": 30,
@@ -1453,9 +1453,9 @@
    "eur": 0.07,
    "eurFoil": 0.35,
    "low": 0.02,
-   "lowFoil": 0.1,
+   "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.19
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 4.15,
@@ -1476,8 +1476,8 @@
    "eurFoil": 0.61,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.84,
-   "trendFoil": 0.58
+   "trend": 0.82,
+   "trendFoil": 0.57
   },
   "tcg": {
    "usdFoil": 1.15
@@ -1495,7 +1495,7 @@
    "low": 1.8,
    "lowFoil": 1.8,
    "trend": 7.2,
-   "trendFoil": 6.56
+   "trendFoil": 6.91
   },
   "tcg": {
    "usdFoil": 7.53
@@ -1512,8 +1512,8 @@
    "eurFoil": 0.45,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.6,
-   "trendFoil": 0.43
+   "trend": 0.59,
+   "trendFoil": 0.45
   },
   "tcg": {
    "usdFoil": 0.87
@@ -1531,7 +1531,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.29,
-   "trendFoil": 0.19
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 0.34
@@ -1549,7 +1549,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.11
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.24
@@ -1567,7 +1567,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.14
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.18
@@ -1585,7 +1585,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.33
@@ -1621,7 +1621,7 @@
    "low": 0.45,
    "lowFoil": 0.45,
    "trend": 2.98,
-   "trendFoil": 1.91
+   "trendFoil": 1.94
   },
   "tcg": {
    "usdFoil": 3.24
@@ -1638,8 +1638,8 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.22,
-   "trendFoil": 0.17
+   "trend": 0.21,
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.34
@@ -1657,7 +1657,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.63,
-   "trendFoil": 0.76
+   "trendFoil": 0.74
   },
   "tcg": {
    "usdFoil": 1.63
@@ -1674,8 +1674,8 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.35,
-   "trendFoil": 0.21
+   "trend": 0.34,
+   "trendFoil": 0.25
   },
   "tcg": {
    "usdFoil": 0.36
@@ -1692,7 +1692,7 @@
    "eurFoil": 3.7,
    "low": 1.45,
    "lowFoil": 1.5,
-   "trend": 3.05,
+   "trend": 2.92,
    "trendFoil": 3.5
   },
   "tcg": {
@@ -1708,10 +1708,10 @@
    "avgFoil": 5.24,
    "eur": 5.9,
    "eurFoil": 5.24,
-   "low": 3.49,
-   "lowFoil": 3.49,
+   "low": 3.5,
+   "lowFoil": 3.5,
    "trend": 6.15,
-   "trendFoil": 7.13
+   "trendFoil": 7.09
   },
   "tcg": {
    "usdFoil": 15.51
@@ -1726,10 +1726,10 @@
    "avgFoil": 1.32,
    "eur": 1.75,
    "eurFoil": 1.32,
-   "low": 0.25,
-   "lowFoil": 0.25,
-   "trend": 1.67,
-   "trendFoil": 1.14
+   "low": 0.2,
+   "lowFoil": 0.2,
+   "trend": 1.71,
+   "trendFoil": 1.12
   },
   "tcg": {
    "usdFoil": 0.89
@@ -1746,8 +1746,8 @@
    "eurFoil": 3.48,
    "low": 1.85,
    "lowFoil": 1.85,
-   "trend": 4.02,
-   "trendFoil": 3.34
+   "trend": 4.13,
+   "trendFoil": 3.22
   },
   "tcg": {
    "usdFoil": 4.55
@@ -1765,7 +1765,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 2.61,
-   "trendFoil": 1.43
+   "trendFoil": 1.38
   },
   "tcg": {
    "usdFoil": 2.11
@@ -1780,10 +1780,10 @@
    "avgFoil": 7.09,
    "eur": 6.85,
    "eurFoil": 7.09,
-   "low": 2,
-   "lowFoil": 2,
+   "low": 1.7,
+   "lowFoil": 1.7,
    "trend": 5.78,
-   "trendFoil": 5
+   "trendFoil": 5.22
   },
   "tcg": {
    "usdFoil": 8.57
@@ -1801,7 +1801,7 @@
    "low": 0.7,
    "lowFoil": 0.7,
    "trend": 1.87,
-   "trendFoil": 1.88
+   "trendFoil": 1.78
   },
   "tcg": {
    "usdFoil": 1.28
@@ -1816,10 +1816,10 @@
    "avgFoil": 13.17,
    "eur": 15.09,
    "eurFoil": 13.17,
-   "low": 18,
-   "lowFoil": 18,
-   "trend": 12.52,
-   "trendFoil": 13.14
+   "low": 15.99,
+   "lowFoil": 15.99,
+   "trend": 12.94,
+   "trendFoil": 13.98
   },
   "tcg": {
    "usdFoil": 24.66
@@ -1834,10 +1834,10 @@
    "avgFoil": 4.8,
    "eur": 6.1,
    "eurFoil": 4.8,
-   "low": 2.89,
-   "lowFoil": 2.89,
+   "low": 1.99,
+   "lowFoil": 1.99,
    "trend": 5.7,
-   "trendFoil": 4.4
+   "trendFoil": 4.35
   },
   "tcg": {
    "usdFoil": 3.9
@@ -1854,7 +1854,7 @@
    "eurFoil": 0.31,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.07,
    "trendFoil": 0.25
   },
   "tcg": {
@@ -1943,7 +1943,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.09,
-   "trendFoil": 0.4
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 5,
@@ -1965,7 +1965,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.17
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3,
@@ -2007,7 +2007,7 @@
    "low": 2.9,
    "lowFoil": 2.9,
    "trend": 6.01,
-   "trendFoil": 4.58
+   "trendFoil": 4.43
   },
   "tcg": {
    "usdFoil": 5.69
@@ -2025,7 +2025,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.06
+   "trendFoil": 0.07
   },
   "tcg": {
    "high": 3,
@@ -2046,8 +2046,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.08,
-   "trendFoil": 0.37
+   "trend": 0.07,
+   "trendFoil": 0.44
   },
   "tcg": {
    "high": 5,
@@ -2068,8 +2068,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.22
+   "trend": 0.12,
+   "trendFoil": 0.2
   },
   "tcg": {
    "high": 5,
@@ -2090,8 +2090,8 @@
    "eurFoil": 0.53,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.12,
-   "trendFoil": 0.53
+   "trend": 0.11,
+   "trendFoil": 0.55
   },
   "tcg": {
    "high": 4.99,
@@ -2113,7 +2113,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.1,
-   "trendFoil": 0.2
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 3,
@@ -2157,7 +2157,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.11,
-   "trendFoil": 0.47
+   "trendFoil": 0.53
   },
   "tcg": {
    "high": 5,
@@ -2179,7 +2179,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.21,
-   "trendFoil": 0.39
+   "trendFoil": 0.38
   },
   "tcg": {
    "high": 3,
@@ -2201,7 +2201,7 @@
    "low": 0.02,
    "lowFoil": 0.09,
    "trend": 0.07,
-   "trendFoil": 0.34
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 3,
@@ -2223,7 +2223,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.15,
-   "trendFoil": 0.37
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 3,
@@ -2289,7 +2289,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.32
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 20,
@@ -2310,8 +2310,8 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
-   "trendFoil": 0.34
+   "trend": 0.16,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 3,
@@ -2332,8 +2332,8 @@
    "eurFoil": 1.9,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.86,
-   "trendFoil": 1.13
+   "trend": 0.84,
+   "trendFoil": 1.18
   },
   "tcg": {
    "high": 10,
@@ -2354,8 +2354,8 @@
    "eurFoil": 4.38,
    "low": 0.02,
    "lowFoil": 0.45,
-   "trend": 1.12,
-   "trendFoil": 3.99
+   "trend": 1.08,
+   "trendFoil": 4.1
   },
   "tcg": {
    "high": 10,
@@ -2377,7 +2377,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.17,
-   "trendFoil": 0.8
+   "trendFoil": 0.85
   },
   "tcg": {
    "high": 44,
@@ -2399,7 +2399,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.19,
-   "trendFoil": 0.13
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.22
@@ -2452,8 +2452,8 @@
    "eurFoil": 0.65,
    "low": 0.1,
    "lowFoil": 0.1,
-   "trend": 0.8,
-   "trendFoil": 0.6
+   "trend": 0.78,
+   "trendFoil": 0.58
   },
   "tcg": {
    "usdFoil": 1.28
@@ -2470,8 +2470,8 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.31,
-   "trendFoil": 0.21
+   "trend": 0.3,
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.33
@@ -2488,8 +2488,8 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.36,
-   "trendFoil": 0.19
+   "trend": 0.34,
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 0.34
@@ -2507,7 +2507,7 @@
    "low": 1.3,
    "lowFoil": 1.3,
    "trend": 4.6,
-   "trendFoil": 3.29
+   "trendFoil": 3.23
   },
   "tcg": {
    "usdFoil": 3.06
@@ -2525,7 +2525,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.13
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.28
@@ -2561,7 +2561,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.74,
-   "trendFoil": 0.3
+   "trendFoil": 0.29
   },
   "tcg": {
    "usdFoil": 1.32
@@ -2576,10 +2576,10 @@
    "avgFoil": 12.67,
    "eur": 15.26,
    "eurFoil": 12.67,
-   "low": 11.97,
-   "lowFoil": 11.97,
-   "trend": 14.79,
-   "trendFoil": 15.92
+   "low": 11,
+   "lowFoil": 11,
+   "trend": 14.97,
+   "trendFoil": 15.93
   },
   "tcg": {
    "usdFoil": 27.38
@@ -2596,7 +2596,7 @@
    "eurFoil": 0.13,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
+   "trend": 0.18,
    "trendFoil": 0.06
   },
   "tcg": {
@@ -2615,7 +2615,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.17,
-   "trendFoil": 0.09
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.17
@@ -2633,7 +2633,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 5.79,
-   "trendFoil": 5.54
+   "trendFoil": 5.6
   },
   "tcg": {
    "usdFoil": 7.54
@@ -2648,10 +2648,10 @@
    "avgFoil": 12.02,
    "eur": 13.11,
    "eurFoil": 12.02,
-   "low": 9.69,
-   "lowFoil": 9.69,
-   "trend": 12.35,
-   "trendFoil": 10.4
+   "low": 8.9,
+   "lowFoil": 8.9,
+   "trend": 12.62,
+   "trendFoil": 10.36
   },
   "tcg": {
    "usdFoil": 15.44
@@ -2669,7 +2669,7 @@
    "low": 2.29,
    "lowFoil": 2.29,
    "trend": 4.72,
-   "trendFoil": 4.93
+   "trendFoil": 4.84
   },
   "tcg": {
    "usdFoil": 4.89
@@ -2686,8 +2686,8 @@
    "eurFoil": 9.5,
    "low": 1.99,
    "lowFoil": 1.99,
-   "trend": 7.43,
-   "trendFoil": 8.28
+   "trend": 9.24,
+   "trendFoil": 8.46
   },
   "tcg": {
    "usdFoil": 7.15
@@ -2702,10 +2702,10 @@
    "avgFoil": 29.79,
    "eur": 33.48,
    "eurFoil": 29.79,
-   "low": 26.99,
-   "lowFoil": 26.99,
-   "trend": 34.78,
-   "trendFoil": 36.22
+   "low": 32,
+   "lowFoil": 32,
+   "trend": 35.15,
+   "trendFoil": 36.63
   },
   "tcg": {
    "usdFoil": 63.13
@@ -2723,7 +2723,7 @@
    "low": 15.95,
    "lowFoil": 15.95,
    "trend": 22.25,
-   "trendFoil": 20.1
+   "trendFoil": 20.08
   },
   "tcg": {
    "usdFoil": 27.72
@@ -2802,7 +2802,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 4.06,
-   "trendFoil": 3.61
+   "trendFoil": 3.46
   },
   "tcg": {
    "usdFoil": 3.51
@@ -2841,7 +2841,7 @@
    "eurFoil": 0.42,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.12,
+   "trend": 0.11,
    "trendFoil": 0.19
   },
   "tcg": {
@@ -2928,7 +2928,7 @@
    "eur": 0.09,
    "eurFoil": 0.75,
    "low": 0.02,
-   "lowFoil": 0.05,
+   "lowFoil": 0.02,
    "trend": 0.1,
    "trendFoil": 0.86
   },
@@ -2974,7 +2974,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.18
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 5,
@@ -2995,7 +2995,7 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.1,
    "trendFoil": 0.18
   },
   "tcg": {
@@ -3018,7 +3018,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.63
+   "trendFoil": 0.56
   },
   "tcg": {
    "high": 3,
@@ -3039,7 +3039,7 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.1
   },
   "tcg": {
@@ -3061,8 +3061,8 @@
    "eurFoil": 2.48,
    "low": 0.02,
    "lowFoil": 0.49,
-   "trend": 0.36,
-   "trendFoil": 1.43
+   "trend": 0.34,
+   "trendFoil": 1.57
   },
   "tcg": {
    "high": 4.99,
@@ -3083,7 +3083,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.13,
    "trendFoil": 0.15
   },
   "tcg": {
@@ -3104,8 +3104,8 @@
    "eur": 0.18,
    "eurFoil": 0.57,
    "low": 0.02,
-   "lowFoil": 0.18,
-   "trend": 0.2,
+   "lowFoil": 0.19,
+   "trend": 0.18,
    "trendFoil": 0.63
   },
   "tcg": {
@@ -3150,7 +3150,7 @@
    "low": 0.02,
    "lowFoil": 0.06,
    "trend": 0.1,
-   "trendFoil": 0.29
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 3.82,
@@ -3172,7 +3172,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.34
+   "trendFoil": 0.33
   },
   "tcg": {
    "high": 10,
@@ -3236,9 +3236,9 @@
    "eur": 0.08,
    "eurFoil": 0.34,
    "low": 0.02,
-   "lowFoil": 0.05,
-   "trend": 0.05,
-   "trendFoil": 0.46
+   "lowFoil": 0.02,
+   "trend": 0.07,
+   "trendFoil": 0.48
   },
   "tcg": {
    "high": 10,
@@ -3259,7 +3259,7 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.15,
+   "trend": 0.16,
    "trendFoil": 0.24
   },
   "tcg": {
@@ -3282,7 +3282,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.27,
-   "trendFoil": 0.29
+   "trendFoil": 0.27
   },
   "tcg": {
    "usdFoil": 0.28
@@ -3300,7 +3300,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.15
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.21
@@ -3318,7 +3318,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.14
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.25
@@ -3336,7 +3336,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.17,
-   "trendFoil": 0.1
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.24
@@ -3354,7 +3354,7 @@
    "low": 0.8,
    "lowFoil": 0.8,
    "trend": 2.08,
-   "trendFoil": 2.04
+   "trendFoil": 1.96
   },
   "tcg": {
    "usdFoil": 2.02
@@ -3390,7 +3390,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.21
+   "trendFoil": 0.25
   },
   "tcg": {
    "usdFoil": 0.24
@@ -3426,7 +3426,7 @@
    "low": 0.08,
    "lowFoil": 0.08,
    "trend": 0.94,
-   "trendFoil": 0.52
+   "trendFoil": 0.47
   },
   "tcg": {
    "usdFoil": 0.96
@@ -3443,8 +3443,8 @@
    "eurFoil": 7.23,
    "low": 4.49,
    "lowFoil": 4.49,
-   "trend": 9.28,
-   "trendFoil": 9.57
+   "trend": 9.12,
+   "trendFoil": 9.43
   },
   "tcg": {
    "usdFoil": 16.84
@@ -3462,7 +3462,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.23,
-   "trendFoil": 0.15
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.26
@@ -3480,7 +3480,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.31,
-   "trendFoil": 0.12
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.31
@@ -3498,7 +3498,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 1.6,
-   "trendFoil": 1.72
+   "trendFoil": 1.68
   },
   "tcg": {
    "usdFoil": 1.11
@@ -3516,7 +3516,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.29,
-   "trendFoil": 0.19
+   "trendFoil": 0.21
   },
   "tcg": {
    "usdFoil": 0.5
@@ -3534,7 +3534,7 @@
    "low": 17,
    "lowFoil": 17,
    "trend": 26.97,
-   "trendFoil": 24.21
+   "trendFoil": 23.81
   },
   "tcg": {
    "usdFoil": 37.54
@@ -3552,7 +3552,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 4.62,
-   "trendFoil": 4.09
+   "trendFoil": 4.07
   },
   "tcg": {
    "usdFoil": 3.78
@@ -3567,10 +3567,10 @@
    "avgFoil": 3.67,
    "eur": 3.86,
    "eurFoil": 3.67,
-   "low": 1.8,
-   "lowFoil": 1.8,
+   "low": 1,
+   "lowFoil": 1,
    "trend": 3.26,
-   "trendFoil": 3.14
+   "trendFoil": 3
   },
   "tcg": {
    "usdFoil": 4.99
@@ -3587,8 +3587,8 @@
    "eurFoil": 8.65,
    "low": 3.99,
    "lowFoil": 3.99,
-   "trend": 8.22,
-   "trendFoil": 7.74
+   "trend": 8.43,
+   "trendFoil": 7.58
   },
   "tcg": {
    "usdFoil": 15.92
@@ -3603,10 +3603,10 @@
    "avgFoil": 11.53,
    "eur": 11.39,
    "eurFoil": 11.53,
-   "low": 7.9,
-   "lowFoil": 7.9,
+   "low": 7.5,
+   "lowFoil": 7.5,
    "trend": 11.38,
-   "trendFoil": 9.26
+   "trendFoil": 9.27
   },
   "tcg": {
    "usdFoil": 13.03
@@ -3621,10 +3621,10 @@
    "avgFoil": 9.54,
    "eur": 9.7,
    "eurFoil": 9.54,
-   "low": 5.5,
-   "lowFoil": 5.5,
-   "trend": 8.82,
-   "trendFoil": 8.09
+   "low": 5.55,
+   "lowFoil": 5.55,
+   "trend": 8.6,
+   "trendFoil": 8.29
   },
   "tcg": {
    "usdFoil": 7.6
@@ -3639,10 +3639,10 @@
    "avgFoil": 11.57,
    "eur": 11.06,
    "eurFoil": 11.57,
-   "low": 6.84,
-   "lowFoil": 6.84,
-   "trend": 9.63,
-   "trendFoil": 9.2
+   "low": 6.78,
+   "lowFoil": 6.78,
+   "trend": 9.71,
+   "trendFoil": 9.17
   },
   "tcg": {
    "usdFoil": 8.07
@@ -3680,7 +3680,7 @@
    "eur": 0.11,
    "eurFoil": 0.2,
    "low": 0.02,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.2
   },
   "tcg": {
@@ -3702,7 +3702,7 @@
    "low": 3.5,
    "lowFoil": 3.5,
    "trend": 6.51,
-   "trendFoil": 5.34
+   "trendFoil": 5.32
   },
   "tcg": {
    "usdFoil": 7.25
@@ -3719,8 +3719,8 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.29
+   "trend": 0.1,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 5,
@@ -3807,7 +3807,7 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.07,
    "trendFoil": 0.13
   },
   "tcg": {
@@ -3828,9 +3828,9 @@
    "eur": 0.15,
    "eurFoil": 1.44,
    "low": 0.02,
-   "lowFoil": 0.35,
-   "trend": 0.26,
-   "trendFoil": 1.41
+   "lowFoil": 0.05,
+   "trend": 0.24,
+   "trendFoil": 1.4
   },
   "tcg": {
    "high": 10,
@@ -3851,8 +3851,8 @@
    "eurFoil": 2.63,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.28,
-   "trendFoil": 2.63
+   "trend": 0.29,
+   "trendFoil": 2.6
   },
   "tcg": {
    "high": 7.5,
@@ -3916,7 +3916,7 @@
    "eur": 0.09,
    "eurFoil": 0.48,
    "low": 0.02,
-   "lowFoil": 0.09,
+   "lowFoil": 0.05,
    "trend": 0.13,
    "trendFoil": 0.41
   },
@@ -3940,7 +3940,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.12
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 3,
@@ -3961,7 +3961,7 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.13,
    "trendFoil": 0.11
   },
   "tcg": {
@@ -3983,8 +3983,8 @@
    "eurFoil": 1.7,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.3,
-   "trendFoil": 2.18
+   "trend": 0.33,
+   "trendFoil": 2.15
   },
   "tcg": {
    "high": 4.99,
@@ -4004,9 +4004,9 @@
    "eur": 0.12,
    "eurFoil": 0.55,
    "low": 0.02,
-   "lowFoil": 0.09,
+   "lowFoil": 0.03,
    "trend": 0.15,
-   "trendFoil": 0.46
+   "trendFoil": 0.49
   },
   "tcg": {
    "high": 3,
@@ -4027,8 +4027,8 @@
    "eurFoil": 2.66,
    "low": 0.02,
    "lowFoil": 0.25,
-   "trend": 0.35,
-   "trendFoil": 2.21
+   "trend": 0.33,
+   "trendFoil": 2.38
   },
   "tcg": {
    "high": 5,
@@ -4050,7 +4050,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.16,
-   "trendFoil": 0.63
+   "trendFoil": 0.64
   },
   "tcg": {
    "high": 9.99,
@@ -4069,10 +4069,10 @@
    "avgFoil": 5.13,
    "eur": 4.16,
    "eurFoil": 5.13,
-   "low": 2.9,
+   "low": 2.5,
    "lowFoil": 3.99,
-   "trend": 5.39,
-   "trendFoil": 6.08
+   "trend": 5.34,
+   "trendFoil": 6.23
   },
   "tcg": {
    "high": 25,
@@ -4093,8 +4093,8 @@
    "eurFoil": 0.62,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.09,
-   "trendFoil": 0.82
+   "trend": 0.07,
+   "trendFoil": 0.91
   },
   "tcg": {
    "high": 3,
@@ -4114,9 +4114,9 @@
    "eur": 0.14,
    "eurFoil": 1.08,
    "low": 0.02,
-   "lowFoil": 0.15,
+   "lowFoil": 0.4,
    "trend": 0.14,
-   "trendFoil": 1.06
+   "trendFoil": 1.1
   },
   "tcg": {
    "high": 5.75,
@@ -4136,9 +4136,9 @@
    "eur": 0.28,
    "eurFoil": 2.54,
    "low": 0.02,
-   "lowFoil": 0.2,
-   "trend": 0.34,
-   "trendFoil": 3.45
+   "lowFoil": 0.95,
+   "trend": 0.35,
+   "trendFoil": 3.3
   },
   "tcg": {
    "high": 4.99,
@@ -4159,8 +4159,8 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.12,
-   "trendFoil": 0.47
+   "trend": 0.14,
+   "trendFoil": 0.46
   },
   "tcg": {
    "high": 3,
@@ -4180,7 +4180,7 @@
    "eur": 0.08,
    "eurFoil": 0.26,
    "low": 0.02,
-   "lowFoil": 0.05,
+   "lowFoil": 0.02,
    "trend": 0.08,
    "trendFoil": 0.19
   },
@@ -4203,8 +4203,8 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.23,
-   "trendFoil": 0.18
+   "trend": 0.22,
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.3
@@ -4222,7 +4222,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.18
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 0.27
@@ -4259,10 +4259,10 @@
    "avgFoil": 1.59,
    "eur": 1.16,
    "eurFoil": 1.59,
-   "low": 0.19,
-   "lowFoil": 0.19,
+   "low": 0.18,
+   "lowFoil": 0.18,
    "trend": 1.18,
-   "trendFoil": 0.99
+   "trendFoil": 0.97
   },
   "tcg": {
    "usdFoil": 1
@@ -4298,7 +4298,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 3.35,
-   "trendFoil": 3.13
+   "trendFoil": 3.11
   },
   "tcg": {
    "usdFoil": 5.89
@@ -4313,10 +4313,10 @@
    "avgFoil": 3.52,
    "eur": 3.5,
    "eurFoil": 3.52,
-   "low": 1.8,
-   "lowFoil": 1.8,
-   "trend": 3.63,
-   "trendFoil": 2.65
+   "low": 1.5,
+   "lowFoil": 1.5,
+   "trend": 3.76,
+   "trendFoil": 2.6
   },
   "tcg": {
    "usdFoil": 5.03
@@ -4331,10 +4331,10 @@
    "avgFoil": 1.82,
    "eur": 2.11,
    "eurFoil": 1.82,
-   "low": 0.27,
-   "lowFoil": 0.27,
-   "trend": 1.98,
-   "trendFoil": 1.93
+   "low": 0.4,
+   "lowFoil": 0.4,
+   "trend": 2.1,
+   "trendFoil": 1.89
   },
   "tcg": {
    "usdFoil": 3.38
@@ -4352,7 +4352,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.31,
-   "trendFoil": 0.19
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.46
@@ -4370,7 +4370,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.35
+   "trendFoil": 0.37
   },
   "tcg": {
    "usdFoil": 0.57
@@ -4388,7 +4388,7 @@
    "low": 2.7,
    "lowFoil": 2.7,
    "trend": 11.47,
-   "trendFoil": 8.46
+   "trendFoil": 8.75
   },
   "tcg": {
    "usdFoil": 16.98
@@ -4405,8 +4405,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.34,
-   "trendFoil": 0.26
+   "trend": 0.36,
+   "trendFoil": 0.27
   },
   "tcg": {
    "usdFoil": 0.54
@@ -4423,8 +4423,8 @@
    "eurFoil": 1.58,
    "low": 0.28,
    "lowFoil": 0.28,
-   "trend": 1.97,
-   "trendFoil": 1.89
+   "trend": 2.06,
+   "trendFoil": 1.86
   },
   "tcg": {
    "usdFoil": 3.1
@@ -4457,10 +4457,10 @@
    "avgFoil": 16.33,
    "eur": 18.06,
    "eurFoil": 16.33,
-   "low": 14,
-   "lowFoil": 14,
+   "low": 12.4,
+   "lowFoil": 12.4,
    "trend": 18.54,
-   "trendFoil": 17.03
+   "trendFoil": 16.72
   },
   "tcg": {
    "usdFoil": 26.55
@@ -4477,8 +4477,8 @@
    "eurFoil": 2.78,
    "low": 0.99,
    "lowFoil": 0.99,
-   "trend": 3.19,
-   "trendFoil": 2.76
+   "trend": 3.3,
+   "trendFoil": 2.68
   },
   "tcg": {
    "usdFoil": 3.1
@@ -4496,7 +4496,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 3.23,
-   "trendFoil": 3.58
+   "trendFoil": 3.71
   },
   "tcg": {
    "usdFoil": 4.71
@@ -4511,10 +4511,10 @@
    "avgFoil": 2.08,
    "eur": 2.42,
    "eurFoil": 2.08,
-   "low": 0.99,
-   "lowFoil": 0.99,
+   "low": 1,
+   "lowFoil": 1,
    "trend": 1.78,
-   "trendFoil": 1.56
+   "trendFoil": 1.51
   },
   "tcg": {
    "usdFoil": 1.27
@@ -4529,10 +4529,10 @@
    "avgFoil": 31.06,
    "eur": 33.5,
    "eurFoil": 31.06,
-   "low": 29.95,
-   "lowFoil": 29.95,
+   "low": 28,
+   "lowFoil": 28,
    "trend": 33.78,
-   "trendFoil": 33.97
+   "trendFoil": 33.87
   },
   "tcg": {
    "usdFoil": 48.36
@@ -4547,10 +4547,10 @@
    "avgFoil": 2.02,
    "eur": 2.31,
    "eurFoil": 2.02,
-   "low": 0.9,
-   "lowFoil": 0.9,
+   "low": 0.99,
+   "lowFoil": 0.99,
    "trend": 2.39,
-   "trendFoil": 1.35
+   "trendFoil": 1.38
   },
   "tcg": {
    "usdFoil": 1.55
@@ -4568,7 +4568,7 @@
    "low": 1.85,
    "lowFoil": 1.85,
    "trend": 3.3,
-   "trendFoil": 2.89
+   "trendFoil": 2.76
   },
   "tcg": {
    "usdFoil": 3.67
@@ -4608,7 +4608,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.09,
-   "trendFoil": 0.21
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3,
@@ -4650,9 +4650,9 @@
    "eur": 0.14,
    "eurFoil": 1.47,
    "low": 0.02,
-   "lowFoil": 0.04,
-   "trend": 0.16,
-   "trendFoil": 1.51
+   "lowFoil": 0.02,
+   "trend": 0.19,
+   "trendFoil": 1.53
   },
   "tcg": {
    "high": 30,
@@ -4673,7 +4673,7 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
+   "trend": 0.06,
    "trendFoil": 0.19
   },
   "tcg": {
@@ -4695,7 +4695,7 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.07,
+   "trend": 0.06,
    "trendFoil": 0.31
   },
   "tcg": {
@@ -4718,7 +4718,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.14
+   "trendFoil": 0.15
   },
   "tcg": {
    "high": 3,
@@ -4738,8 +4738,8 @@
    "eur": 0.33,
    "eurFoil": 1.93,
    "low": 0.02,
-   "lowFoil": 0.05,
-   "trend": 0.4,
+   "lowFoil": 0.1,
+   "trend": 0.42,
    "trendFoil": 1.89
   },
   "tcg": {
@@ -4760,7 +4760,7 @@
    "eur": 0.11,
    "eurFoil": 0.15,
    "low": 0.02,
-   "trend": 0.11,
+   "trend": 0.1,
    "trendFoil": 0.09
   },
   "tcg": {
@@ -4779,10 +4779,10 @@
    "avgFoil": 4.94,
    "eur": 5.87,
    "eurFoil": 4.94,
-   "low": 3,
-   "lowFoil": 3,
+   "low": 2.5,
+   "lowFoil": 2.5,
    "trend": 5.85,
-   "trendFoil": 4.41
+   "trendFoil": 4.27
   },
   "tcg": {
    "usdFoil": 5.05
@@ -4799,7 +4799,7 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.08,
    "trendFoil": 0.12
   },
   "tcg": {
@@ -4820,9 +4820,9 @@
    "eur": 0.07,
    "eurFoil": 0.56,
    "low": 0.02,
-   "lowFoil": 0.09,
+   "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.41
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 3,
@@ -4866,7 +4866,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.13
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 3,
@@ -4931,8 +4931,8 @@
    "eurFoil": 2.89,
    "low": 0.02,
    "lowFoil": 0.29,
-   "trend": 0.98,
-   "trendFoil": 2.9
+   "trend": 0.92,
+   "trendFoil": 2.94
   },
   "tcg": {
    "high": 9,
@@ -4952,8 +4952,8 @@
    "eur": 0.08,
    "eurFoil": 0.4,
    "low": 0.02,
-   "lowFoil": 0.06,
-   "trend": 0.24,
+   "lowFoil": 0.02,
+   "trend": 0.22,
    "trendFoil": 0.34
   },
   "tcg": {
@@ -4995,10 +4995,10 @@
    "avgFoil": 4.62,
    "eur": 2.28,
    "eurFoil": 4.62,
-   "low": 0.6,
+   "low": 0.02,
    "lowFoil": 0.6,
-   "trend": 2.67,
-   "trendFoil": 4.63
+   "trend": 2.6,
+   "trendFoil": 4.66
   },
   "tcg": {
    "high": 15,
@@ -5040,9 +5040,9 @@
    "eur": 0.26,
    "eurFoil": 1.63,
    "low": 0.02,
-   "lowFoil": 0.15,
-   "trend": 0.25,
-   "trendFoil": 1.28
+   "lowFoil": 0.05,
+   "trend": 0.23,
+   "trendFoil": 1.26
   },
   "tcg": {
    "high": 8.5,
@@ -5085,8 +5085,8 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.42
+   "trend": 0.16,
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 3,
@@ -5107,8 +5107,8 @@
    "eurFoil": 0.38,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.19,
-   "trendFoil": 0.34
+   "trend": 0.18,
+   "trendFoil": 0.36
   },
   "tcg": {
    "high": 3,
@@ -5165,8 +5165,8 @@
    "eurFoil": 1.31,
    "low": 0.1,
    "lowFoil": 0.1,
-   "trend": 1.18,
-   "trendFoil": 0.88
+   "trend": 1.14,
+   "trendFoil": 0.91
   },
   "tcg": {
    "usdFoil": 1.7
@@ -5183,8 +5183,8 @@
    "eurFoil": 0.32,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.41,
-   "trendFoil": 0.19
+   "trend": 0.4,
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.36
@@ -5202,7 +5202,7 @@
    "low": 0.04,
    "lowFoil": 0.1,
    "trend": 1.1,
-   "trendFoil": 0.96
+   "trendFoil": 0.98
   },
   "tcg": {
    "usdFoil": 2.18
@@ -5220,7 +5220,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.16
+   "trendFoil": 0.19
   },
   "tcg": {
    "usdFoil": 0.32
@@ -5238,7 +5238,7 @@
    "low": 0.2,
    "lowFoil": 0.2,
    "trend": 1.51,
-   "trendFoil": 1
+   "trendFoil": 1.02
   },
   "tcg": {
    "usdFoil": 1.49
@@ -5256,7 +5256,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.15
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.21
@@ -5273,8 +5273,8 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.38,
-   "trendFoil": 0.15
+   "trend": 0.36,
+   "trendFoil": 0.29
   },
   "tcg": {
    "usdFoil": 0.4
@@ -5292,7 +5292,7 @@
    "low": 1.35,
    "lowFoil": 1.35,
    "trend": 3.1,
-   "trendFoil": 2.65
+   "trendFoil": 2.54
   },
   "tcg": {
    "usdFoil": 3.22
@@ -5310,7 +5310,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.27,
-   "trendFoil": 0.18
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.31
@@ -5328,7 +5328,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.26,
-   "trendFoil": 0.24
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.3
@@ -5346,7 +5346,7 @@
    "low": 0.9,
    "lowFoil": 0.9,
    "trend": 2.13,
-   "trendFoil": 1.58
+   "trendFoil": 1.46
   },
   "tcg": {
    "usdFoil": 1.35
@@ -5364,7 +5364,7 @@
    "low": 0.08,
    "lowFoil": 0.08,
    "trend": 0.55,
-   "trendFoil": 0.42
+   "trendFoil": 0.4
   },
   "tcg": {
    "usdFoil": 0.69
@@ -5381,8 +5381,8 @@
    "eurFoil": 31.77,
    "low": 22,
    "lowFoil": 22,
-   "trend": 31.35,
-   "trendFoil": 28.18
+   "trend": 31.28,
+   "trendFoil": 28.16
   },
   "tcg": {
    "usdFoil": 51.35
@@ -5400,7 +5400,7 @@
    "low": 0.4,
    "lowFoil": 0.4,
    "trend": 1.59,
-   "trendFoil": 1.12
+   "trendFoil": 1.16
   },
   "tcg": {
    "usdFoil": 0.89
@@ -5415,10 +5415,10 @@
    "avgFoil": 3.47,
    "eur": 3.45,
    "eurFoil": 3.47,
-   "low": 1.3,
-   "lowFoil": 1.3,
+   "low": 1,
+   "lowFoil": 1,
    "trend": 3.23,
-   "trendFoil": 2.92
+   "trendFoil": 2.85
   },
   "tcg": {
    "usdFoil": 3.52
@@ -5436,7 +5436,7 @@
    "low": 2.5,
    "lowFoil": 2.5,
    "trend": 6.68,
-   "trendFoil": 6.01
+   "trendFoil": 6
   },
   "tcg": {
    "usdFoil": 8.9
@@ -5453,8 +5453,8 @@
    "eurFoil": 18.71,
    "low": 13,
    "lowFoil": 13,
-   "trend": 19.17,
-   "trendFoil": 16.29
+   "trend": 18.81,
+   "trendFoil": 15.95
   },
   "tcg": {
    "usdFoil": 19.07
@@ -5472,7 +5472,7 @@
    "low": 0.99,
    "lowFoil": 0.99,
    "trend": 3.88,
-   "trendFoil": 3.45
+   "trendFoil": 3.46
   },
   "tcg": {
    "usdFoil": 2.93
@@ -5490,7 +5490,7 @@
    "low": 1.64,
    "lowFoil": 1.64,
    "trend": 4.63,
-   "trendFoil": 4.26
+   "trendFoil": 4.27
   },
   "tcg": {
    "usdFoil": 3
@@ -5507,8 +5507,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.33,
-   "trendFoil": 0.18
+   "trend": 0.32,
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.33
@@ -5525,8 +5525,8 @@
    "eurFoil": 3.41,
    "low": 1.49,
    "lowFoil": 1.49,
-   "trend": 3.92,
-   "trendFoil": 3.55
+   "trend": 3.77,
+   "trendFoil": 3.47
   },
   "tcg": {
    "usdFoil": 3.46
@@ -5544,7 +5544,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.25,
-   "trendFoil": 0.13
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.28
@@ -5562,7 +5562,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 2.96,
-   "trendFoil": 2.47
+   "trendFoil": 2.45
   },
   "tcg": {
    "usdFoil": 2.46
@@ -5580,7 +5580,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.23,
-   "trendFoil": 0.14
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.29
@@ -5595,10 +5595,10 @@
    "avgFoil": 4.47,
    "eur": 5.5,
    "eurFoil": 4.47,
-   "low": 2.29,
-   "lowFoil": 2.29,
-   "trend": 5.64,
-   "trendFoil": 4.79
+   "low": 2.19,
+   "lowFoil": 2.19,
+   "trend": 5.41,
+   "trendFoil": 4.76
   },
   "tcg": {
    "usdFoil": 4.89
@@ -5615,8 +5615,8 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.18,
-   "trendFoil": 0.1
+   "trend": 0.17,
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.23
@@ -5634,7 +5634,7 @@
    "low": 0.49,
    "lowFoil": 0.49,
    "trend": 1.11,
-   "trendFoil": 1.09
+   "trendFoil": 1.01
   },
   "tcg": {
    "usdFoil": 0.87
@@ -5651,8 +5651,8 @@
    "eurFoil": 0.93,
    "low": 0.05,
    "lowFoil": 0.05,
-   "trend": 0.74,
-   "trendFoil": 0.82
+   "trend": 0.7,
+   "trendFoil": 0.87
   },
   "tcg": {
    "usdFoil": 2.39
@@ -5669,8 +5669,8 @@
    "eurFoil": 3.13,
    "low": 1,
    "lowFoil": 1,
-   "trend": 2.82,
-   "trendFoil": 3.05
+   "trend": 2.89,
+   "trendFoil": 2.98
   },
   "tcg": {
    "usdFoil": 3.65
@@ -5688,7 +5688,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.09
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.2
@@ -5706,7 +5706,7 @@
    "low": 0.69,
    "lowFoil": 0.69,
    "trend": 1.82,
-   "trendFoil": 1.67
+   "trendFoil": 1.62
   },
   "tcg": {
    "usdFoil": 1.09
@@ -5724,7 +5724,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.23,
-   "trendFoil": 0.15
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.29
@@ -5739,10 +5739,10 @@
    "avgFoil": 1.73,
    "eur": 2.21,
    "eurFoil": 1.73,
-   "low": 0.3,
-   "lowFoil": 0.3,
+   "low": 0.25,
+   "lowFoil": 0.25,
    "trend": 2.25,
-   "trendFoil": 1.52
+   "trendFoil": 1.49
   },
   "tcg": {
    "usdFoil": 1.94
@@ -5760,7 +5760,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.26,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.32
@@ -5778,7 +5778,7 @@
    "low": 3.2,
    "lowFoil": 3.2,
    "trend": 5.71,
-   "trendFoil": 4.95
+   "trendFoil": 5.01
   },
   "tcg": {
    "usdFoil": 7.29
@@ -5795,8 +5795,8 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.21,
-   "trendFoil": 0.14
+   "trend": 0.2,
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.31
@@ -5811,10 +5811,10 @@
    "avgFoil": 4.74,
    "eur": 4.17,
    "eurFoil": 4.74,
-   "low": 2.99,
-   "lowFoil": 2.99,
+   "low": 2.9,
+   "lowFoil": 2.9,
    "trend": 4.09,
-   "trendFoil": 4.28
+   "trendFoil": 4.16
   },
   "tcg": {
    "usdFoil": 4.81
@@ -5831,8 +5831,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.25,
-   "trendFoil": 0.08
+   "trend": 0.24,
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.28
@@ -5849,8 +5849,8 @@
    "eurFoil": 1.93,
    "low": 0.8,
    "lowFoil": 0.8,
-   "trend": 2.08,
-   "trendFoil": 1.67
+   "trend": 2.09,
+   "trendFoil": 1.6
   },
   "tcg": {
    "usdFoil": 1.35
@@ -5868,7 +5868,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.09
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.37
@@ -5903,8 +5903,8 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.23,
-   "trendFoil": 0.14
+   "trend": 0.22,
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.36
@@ -5921,8 +5921,8 @@
    "eurFoil": 7.93,
    "low": 4,
    "lowFoil": 4,
-   "trend": 7.79,
-   "trendFoil": 6.54
+   "trend": 7.62,
+   "trendFoil": 6.21
   },
   "tcg": {
    "usdFoil": 6.44
@@ -5939,7 +5939,7 @@
    "eurFoil": 0.39,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
+   "trend": 0.1,
    "trendFoil": 0.26
   },
   "tcg": {
@@ -5983,7 +5983,7 @@
    "eurFoil": 0.4,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
+   "trend": 0.12,
    "trendFoil": 0.34
   },
   "tcg": {
@@ -6005,8 +6005,8 @@
    "eurFoil": 0.58,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.69
+   "trend": 0.14,
+   "trendFoil": 0.66
   },
   "tcg": {
    "high": 3,
@@ -6028,7 +6028,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.46
+   "trendFoil": 0.44
   },
   "tcg": {
    "high": 3,
@@ -6048,9 +6048,9 @@
    "eur": 0.16,
    "eurFoil": 1.04,
    "low": 0.02,
-   "lowFoil": 0.13,
-   "trend": 0.16,
-   "trendFoil": 0.91
+   "lowFoil": 0.05,
+   "trend": 0.15,
+   "trendFoil": 0.85
   },
   "tcg": {
    "high": 5,
@@ -6071,7 +6071,7 @@
    "eurFoil": 0.49,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.43
   },
   "tcg": {
@@ -6093,8 +6093,8 @@
    "eurFoil": 0.54,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.49
+   "trend": 0.11,
+   "trendFoil": 0.48
   },
   "tcg": {
    "high": 3,
@@ -6136,9 +6136,9 @@
    "eur": 0.14,
    "eurFoil": 1.13,
    "low": 0.02,
-   "lowFoil": 0.15,
-   "trend": 0.28,
-   "trendFoil": 1.03
+   "lowFoil": 0.05,
+   "trend": 0.27,
+   "trendFoil": 0.96
   },
   "tcg": {
    "high": 3,
@@ -6159,8 +6159,8 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.49
+   "trend": 0.08,
+   "trendFoil": 0.51
   },
   "tcg": {
    "high": 5,
@@ -6180,8 +6180,8 @@
    "eur": 0.11,
    "eurFoil": 0.45,
    "low": 0.02,
-   "lowFoil": 0.03,
-   "trend": 0.1,
+   "lowFoil": 0.02,
+   "trend": 0.14,
    "trendFoil": 0.44
   },
   "tcg": {
@@ -6202,9 +6202,9 @@
    "eur": 0.18,
    "eurFoil": 0.77,
    "low": 0.02,
-   "lowFoil": 0.1,
-   "trend": 0.22,
-   "trendFoil": 0.59
+   "lowFoil": 0.05,
+   "trend": 0.23,
+   "trendFoil": 0.64
   },
   "tcg": {
    "high": 5,
@@ -6225,8 +6225,8 @@
    "eurFoil": 0.71,
    "low": 0.02,
    "lowFoil": 0.15,
-   "trend": 0.15,
-   "trendFoil": 0.79
+   "trend": 0.16,
+   "trendFoil": 0.78
   },
   "tcg": {
    "high": 3,
@@ -6248,7 +6248,7 @@
    "low": 0.02,
    "lowFoil": 0.15,
    "trend": 0.15,
-   "trendFoil": 1.26
+   "trendFoil": 1.27
   },
   "tcg": {
    "high": 3,
@@ -6270,7 +6270,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.13,
-   "trendFoil": 0.78
+   "trendFoil": 0.74
   },
   "tcg": {
    "high": 4,
@@ -6290,9 +6290,9 @@
    "eur": 0.17,
    "eurFoil": 0.94,
    "low": 0.02,
-   "lowFoil": 0.12,
-   "trend": 0.17,
-   "trendFoil": 0.55
+   "lowFoil": 0.03,
+   "trend": 0.16,
+   "trendFoil": 0.6
   },
   "tcg": {
    "high": 3,
@@ -6313,8 +6313,8 @@
    "eurFoil": 0.72,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.18,
-   "trendFoil": 0.48
+   "trend": 0.17,
+   "trendFoil": 0.55
   },
   "tcg": {
    "high": 3,
@@ -6336,7 +6336,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.37
+   "trendFoil": 0.36
   },
   "tcg": {
    "high": 3,
@@ -6357,8 +6357,8 @@
    "eurFoil": 0.87,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
-   "trendFoil": 0.68
+   "trend": 0.2,
+   "trendFoil": 0.69
   },
   "tcg": {
    "high": 15,
@@ -6401,8 +6401,8 @@
    "eurFoil": 1.02,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.15,
-   "trendFoil": 0.85
+   "trend": 0.16,
+   "trendFoil": 0.82
   },
   "tcg": {
    "high": 3,
@@ -6424,7 +6424,7 @@
    "low": 0.02,
    "lowFoil": 0.08,
    "trend": 0.18,
-   "trendFoil": 0.74
+   "trendFoil": 0.85
   },
   "tcg": {
    "high": 3.96,
@@ -6446,7 +6446,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 1.05
+   "trendFoil": 1.15
   },
   "tcg": {
    "high": 5,
@@ -6462,10 +6462,10 @@
    "avgFoil": 174.62,
    "eur": 95,
    "eurFoil": 174.62,
-   "low": 79.99,
-   "lowFoil": 79.99,
+   "low": 89.99,
+   "lowFoil": 89.99,
    "trend": 95,
-   "trendFoil": 196.65
+   "trendFoil": 198.25
   },
   "tcg": {
    "usdFoil": 303.75
@@ -6480,10 +6480,10 @@
    "avgFoil": 2203.33,
    "eur": 1100,
    "eurFoil": 2203.33,
-   "low": 800,
-   "lowFoil": 800,
+   "low": 900,
+   "lowFoil": 900,
    "trend": 1100,
-   "trendFoil": 2454.69
+   "trendFoil": 2376.11
   },
   "tcg": {
    "usdFoil": 3085.16
@@ -6501,7 +6501,7 @@
    "low": 25,
    "lowFoil": 25,
    "trend": 36.21,
-   "trendFoil": 44.22
+   "trendFoil": 45.64
   },
   "tcg": {
    "usdFoil": 68.03
@@ -6515,8 +6515,8 @@
    "avgFoil": 498.83,
    "eur": 549.99,
    "eurFoil": 498.83,
-   "low": 300,
-   "lowFoil": 300,
+   "low": 320,
+   "lowFoil": 320,
    "trend": 549.99,
    "trendFoil": 509.47
   },
@@ -6533,10 +6533,10 @@
    "avgFoil": 127.36,
    "eur": 44.99,
    "eurFoil": 127.36,
-   "low": 40,
-   "lowFoil": 40,
+   "low": 38.95,
+   "lowFoil": 38.95,
    "trend": 44.99,
-   "trendFoil": 101.16
+   "trendFoil": 108.22
   },
   "tcg": {
    "usdFoil": 159.99
@@ -6550,8 +6550,8 @@
    "avgFoil": 1919.87,
    "eur": 630.83,
    "eurFoil": 1919.87,
-   "low": 649.9,
-   "lowFoil": 649.9,
+   "low": 620,
+   "lowFoil": 620,
    "trend": 564.01,
    "trendFoil": 1678.77
   },
@@ -6568,10 +6568,10 @@
    "avgFoil": 37.66,
    "eur": 34,
    "eurFoil": 37.66,
-   "low": 26.99,
-   "lowFoil": 26.99,
+   "low": 25,
+   "lowFoil": 25,
    "trend": 34,
-   "trendFoil": 29.9
+   "trendFoil": 32.72
   },
   "tcg": {
    "usdFoil": 67.01
@@ -6605,7 +6605,7 @@
    "low": 165,
    "lowFoil": 180,
    "trend": 144,
-   "trendFoil": 281.94
+   "trendFoil": 276.8
   },
   "tcg": {
    "usdFoil": 376.24
@@ -6632,10 +6632,10 @@
    "avgFoil": 88.25,
    "eur": 53.69,
    "eurFoil": 88.25,
-   "low": 34.78,
-   "lowFoil": 34.78,
+   "low": 34,
+   "lowFoil": 34,
    "trend": 59.67,
-   "trendFoil": 96.86
+   "trendFoil": 94.62
   },
   "tcg": {
    "usdFoil": 149.89
@@ -6667,10 +6667,10 @@
    "avgFoil": 61.64,
    "eur": 24.99,
    "eurFoil": 61.64,
-   "low": 24.95,
-   "lowFoil": 24.95,
+   "low": 24,
+   "lowFoil": 24,
    "trend": 24.88,
-   "trendFoil": 62.92
+   "trendFoil": 79.39
   },
   "tcg": {
    "usdFoil": 83.8
@@ -6700,7 +6700,7 @@
    "low": 38,
    "lowFoil": 38,
    "trend": 80,
-   "trendFoil": 71.53
+   "trendFoil": 71.85
   },
   "tcg": {
    "usdFoil": 88.23
@@ -6718,7 +6718,7 @@
    "low": 279.9,
    "lowFoil": 279.9,
    "trend": 349.8,
-   "trendFoil": 490.79
+   "trendFoil": 473.36
   },
   "tcg": {
    "usdFoil": 896.3
@@ -6732,10 +6732,10 @@
    "avgFoil": 107.87,
    "eur": 51.96,
    "eurFoil": 107.87,
-   "low": 48.99,
-   "lowFoil": 48.99,
+   "low": 39.95,
+   "lowFoil": 39.95,
    "trend": 63.37,
-   "trendFoil": 109.8
+   "trendFoil": 135.4
   },
   "tcg": {
    "usdFoil": 172.92
@@ -6749,8 +6749,8 @@
    "avgFoil": 775.48,
    "eur": 405,
    "eurFoil": 775.48,
-   "low": 477,
-   "lowFoil": 477,
+   "low": 449,
+   "lowFoil": 449,
    "trend": 375.32,
    "trendFoil": 1059.33
   },
@@ -6766,8 +6766,8 @@
    "avgFoil": 85.56,
    "eur": 61.28,
    "eurFoil": 85.56,
-   "low": 45.99,
-   "lowFoil": 45.99,
+   "low": 40,
+   "lowFoil": 40,
    "trend": 60.96,
    "trendFoil": 103.62
   },
@@ -6796,10 +6796,10 @@
    "avgFoil": 95.74,
    "eur": 44.99,
    "eurFoil": 95.74,
-   "low": 39.99,
-   "lowFoil": 39.99,
+   "low": 39,
+   "lowFoil": 39,
    "trend": 45.27,
-   "trendFoil": 106.14
+   "trendFoil": 97.8
   },
   "tcg": {
    "usdFoil": 189.9
@@ -6813,8 +6813,8 @@
    "avgFoil": 1847.8,
    "eur": 485,
    "eurFoil": 1847.8,
-   "low": 600,
-   "lowFoil": 600,
+   "low": 599,
+   "lowFoil": 599,
    "trend": 495.83,
    "trendFoil": 1561.52
   },
@@ -6833,8 +6833,8 @@
    "eurFoil": 49.27,
    "low": 29.99,
    "lowFoil": 29.99,
-   "trend": 43.17,
-   "trendFoil": 55.09
+   "trend": 48.82,
+   "trendFoil": 53.44
   },
   "tcg": {
    "usdFoil": 90.31
@@ -6864,7 +6864,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 3.15,
-   "trendFoil": 1.91
+   "trendFoil": 2.07
   },
   "tcg": {
    "usdFoil": 1.61
@@ -6882,7 +6882,7 @@
    "low": 6,
    "lowFoil": 6,
    "trend": 16.41,
-   "trendFoil": 15.84
+   "trendFoil": 15.54
   },
   "tcg": {
    "usdFoil": 16.21
@@ -6928,7 +6928,7 @@
    "avg7": 1.49,
    "eur": 1.35,
    "low": 0.5,
-   "trend": 1.49
+   "trend": 1.47
   },
   "tcg": {
    "high": 10,
@@ -6944,8 +6944,8 @@
    "avg30": 0.26,
    "avg7": 0.22,
    "eur": 0.26,
-   "low": 0.1,
-   "trend": 0.24
+   "low": 0.09,
+   "trend": 0.26
   },
   "tcg": {
    "high": 3.74,
@@ -6962,7 +6962,7 @@
    "avg7": 0.29,
    "eur": 0.31,
    "low": 0.15,
-   "trend": 0.39
+   "trend": 0.35
   },
   "tcg": {
    "high": 3.74,
@@ -6979,7 +6979,7 @@
    "avg7": 0.63,
    "eur": 0.56,
    "low": 0.2,
-   "trend": 0.63
+   "trend": 0.59
   },
   "tcg": {
    "high": 3.95,
@@ -7013,7 +7013,7 @@
    "avg7": 0.94,
    "eur": 0.79,
    "low": 0.4,
-   "trend": 0.81
+   "trend": 0.85
   },
   "tcg": {
    "high": 5,
@@ -7030,7 +7030,7 @@
    "avg7": 0.57,
    "eur": 0.46,
    "low": 0.1,
-   "trend": 0.56
+   "trend": 0.57
   },
   "tcg": {
    "high": 5.24,
@@ -7047,7 +7047,7 @@
    "avg7": 0.17,
    "eur": 0.19,
    "low": 0.02,
-   "trend": 0.2
+   "trend": 0.18
   },
   "tcg": {
    "high": 4.69,
@@ -7063,8 +7063,8 @@
    "avg30": 1.48,
    "avg7": 1.68,
    "eur": 1.44,
-   "low": 0.85,
-   "trend": 1.47
+   "low": 0.8,
+   "trend": 1.49
   },
   "tcg": {
    "high": 15,
@@ -7080,8 +7080,8 @@
    "avg30": 4.11,
    "avg7": 4.16,
    "eur": 4.1,
-   "low": 2.39,
-   "trend": 3.76
+   "low": 1,
+   "trend": 3.77
   },
   "tcg": {
    "high": 10.95,
@@ -7097,8 +7097,8 @@
    "avg30": 3.04,
    "avg7": 2.47,
    "eur": 3.14,
-   "low": 1.29,
-   "trend": 1.93
+   "low": 1,
+   "trend": 2.25
   },
   "tcg": {
    "high": 68.5,
@@ -7115,7 +7115,7 @@
    "avg7": 0.92,
    "eur": 0.84,
    "low": 0.3,
-   "trend": 0.69
+   "trend": 0.75
   },
   "tcg": {
    "high": 18.87,
@@ -7148,8 +7148,8 @@
    "avg30": 2.91,
    "avg7": 2.7,
    "eur": 2.76,
-   "low": 0.99,
-   "trend": 2.66
+   "low": 1.75,
+   "trend": 2.63
   },
   "tcg": {
    "high": 16.5,
@@ -7166,7 +7166,7 @@
    "avg7": 1.29,
    "eur": 1.37,
    "low": 0.3,
-   "trend": 1.17
+   "trend": 1.22
   },
   "tcg": {
    "high": 12.98,
@@ -7184,7 +7184,7 @@
    "eur": 0.15,
    "low": 0.02,
    "lowFoil": 0.3,
-   "trend": 0.08
+   "trend": 0.14
   },
   "tcg": {
    "high": 2.24,
@@ -7200,8 +7200,8 @@
    "avg30": 8.32,
    "avg7": 7.6,
    "eur": 8.51,
-   "low": 5.99,
-   "trend": 7.87
+   "low": 5,
+   "trend": 7.72
   },
   "tcg": {
    "high": 45,
@@ -7218,7 +7218,7 @@
    "avg7": 0.83,
    "eur": 0.69,
    "low": 0.3,
-   "trend": 0.79
+   "trend": 0.8
   },
   "tcg": {
    "high": 4.99,
@@ -7235,7 +7235,7 @@
    "avg7": 17.85,
    "eur": 15.97,
    "low": 13,
-   "trend": 18.23
+   "trend": 18.48
   },
   "tcg": {
    "high": 29.99,
@@ -7252,7 +7252,7 @@
    "avg7": 0.76,
    "eur": 0.71,
    "low": 0.3,
-   "trend": 0.73
+   "trend": 0.69
   },
   "tcg": {
    "high": 4.95,
@@ -7269,7 +7269,7 @@
    "avg7": 8.21,
    "eur": 8.63,
    "low": 4.95,
-   "trend": 10.59
+   "trend": 10.2
   },
   "tcg": {
    "high": 30,
@@ -7286,7 +7286,7 @@
    "avg7": 1.23,
    "eur": 0.88,
    "low": 0.45,
-   "trend": 1.03
+   "trend": 1.02
   },
   "tcg": {
    "high": 5.95,
@@ -7302,8 +7302,8 @@
    "avg30": 1.25,
    "avg7": 1.18,
    "eur": 1.19,
-   "low": 0.76,
-   "trend": 1.06
+   "low": 0.75,
+   "trend": 1.02
   },
   "tcg": {
    "high": 4.27,
@@ -7341,7 +7341,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.32,
-   "trendFoil": 0.23
+   "trendFoil": 0.24
   },
   "tcg": {
    "usdFoil": 0.31
@@ -7356,10 +7356,10 @@
    "avgFoil": 5.7,
    "eur": 5.37,
    "eurFoil": 5.7,
-   "low": 2.5,
-   "lowFoil": 2.5,
+   "low": 2.4,
+   "lowFoil": 2.4,
    "trend": 6.19,
-   "trendFoil": 5.8
+   "trendFoil": 5.74
   },
   "tcg": {
    "usdFoil": 3.36
@@ -7377,7 +7377,7 @@
    "low": 1.3,
    "lowFoil": 1.3,
    "trend": 3.7,
-   "trendFoil": 2.72
+   "trendFoil": 2.69
   },
   "tcg": {
    "usdFoil": 2.19
@@ -7395,7 +7395,7 @@
    "low": 8,
    "lowFoil": 8,
    "trend": 17.8,
-   "trendFoil": 14.27
+   "trendFoil": 13.62
   },
   "tcg": {
    "usdFoil": 15.65
@@ -7412,8 +7412,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.27,
-   "trendFoil": 0.16
+   "trend": 0.26,
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.3
@@ -7431,7 +7431,7 @@
    "low": 0.3,
    "lowFoil": 0.3,
    "trend": 1.7,
-   "trendFoil": 1.44
+   "trendFoil": 1.51
   },
   "tcg": {
    "usdFoil": 1.63
@@ -7448,8 +7448,8 @@
    "eurFoil": 0.32,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.4,
-   "trendFoil": 0.24
+   "trend": 0.39,
+   "trendFoil": 0.29
   },
   "tcg": {
    "usdFoil": 0.37
@@ -7466,8 +7466,8 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
-   "trendFoil": 0.12
+   "trend": 0.09,
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 99,
@@ -7489,7 +7489,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.17
@@ -7525,7 +7525,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.26,
-   "trendFoil": 0.08
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.24
@@ -7542,8 +7542,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.2,
-   "trendFoil": 0.17
+   "trend": 0.19,
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.21
@@ -7561,7 +7561,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.15,
-   "trendFoil": 0.06
+   "trendFoil": 0.07
   },
   "tcg": {
    "usdFoil": 0.19
@@ -7578,8 +7578,8 @@
    "eurFoil": 0.35,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
-   "trendFoil": 0.28
+   "trend": 0.07,
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 99,
@@ -7600,8 +7600,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.29,
-   "trendFoil": 0.17
+   "trend": 0.27,
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.32
@@ -7636,7 +7636,7 @@
    "eurFoil": 0.12,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.07,
    "trendFoil": 0.05
   },
   "tcg": {
@@ -7653,7 +7653,7 @@
    "eurFoil": 518.05,
    "low": 310,
    "lowFoil": 310,
-   "trendFoil": 589.41
+   "trendFoil": 601.89
   },
   "tcg": {
    "usdFoil": 667.54
@@ -7669,9 +7669,9 @@
    "eur": 36.19,
    "eurFoil": 86.81,
    "low": 35,
-   "lowFoil": 35,
+   "lowFoil": 36,
    "trend": 32.92,
-   "trendFoil": 105.82
+   "trendFoil": 108.86
   },
   "tcg": {
    "usdFoil": 180.1
@@ -7707,7 +7707,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.34,
-   "trendFoil": 1.84
+   "trendFoil": 1.76
   },
   "tcg": {
    "usdFoil": 2.1
@@ -7722,10 +7722,10 @@
    "avgFoil": 16.07,
    "eur": 17.26,
    "eurFoil": 16.07,
-   "low": 12,
-   "lowFoil": 12,
-   "trend": 18.33,
-   "trendFoil": 17.92
+   "low": 11.9,
+   "lowFoil": 11.9,
+   "trend": 18.78,
+   "trendFoil": 17.67
   },
   "tcg": {
    "usdFoil": 30.17
@@ -7740,10 +7740,10 @@
    "avgFoil": 19.46,
    "eur": 19.05,
    "eurFoil": 19.46,
-   "low": 13,
-   "lowFoil": 13,
+   "low": 14,
+   "lowFoil": 14,
    "trend": 21.69,
-   "trendFoil": 20.45
+   "trendFoil": 20.58
   },
   "tcg": {
    "usdFoil": 27.29
@@ -7783,7 +7783,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.25,
-   "trendFoil": 0.1
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.23
@@ -7801,7 +7801,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 3.52,
-   "trendFoil": 3.76
+   "trendFoil": 3.83
   },
   "tcg": {
    "usdFoil": 3.69
@@ -7841,7 +7841,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.1
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.2
@@ -7859,7 +7859,7 @@
    "low": 0.75,
    "lowFoil": 0.75,
    "trend": 2.45,
-   "trendFoil": 1.95
+   "trendFoil": 1.98
   },
   "tcg": {
    "usdFoil": 2.16
@@ -7906,7 +7906,7 @@
    "eurFoil": 0.74,
    "low": 0.05,
    "lowFoil": 0.05,
-   "trend": 0.72,
+   "trend": 0.79,
    "trendFoil": 0.57
   },
   "tcg": {
@@ -7943,7 +7943,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.44,
-   "trendFoil": 1.4
+   "trendFoil": 1.34
   },
   "tcg": {
    "usdFoil": 1.13
@@ -7960,8 +7960,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.2,
-   "trendFoil": 0.07
+   "trend": 0.19,
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.18
@@ -7977,9 +7977,9 @@
    "eur": 16.42,
    "eurFoil": 10.07,
    "low": 8,
-   "lowFoil": 12,
+   "lowFoil": 11.99,
    "trend": 16.3,
-   "trendFoil": 18.03
+   "trendFoil": 17.98
   },
   "tcg": {
    "usdFoil": 13.1
@@ -7996,7 +7996,7 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.18,
+   "trend": 0.17,
    "trendFoil": 0.08
   },
   "tcg": {
@@ -8015,7 +8015,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.21
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.15
@@ -8030,10 +8030,10 @@
    "avgFoil": 20.03,
    "eur": 22.06,
    "eurFoil": 20.03,
-   "low": 15.99,
-   "lowFoil": 15.99,
-   "trend": 22.03,
-   "trendFoil": 21.76
+   "low": 15,
+   "lowFoil": 15,
+   "trend": 21.99,
+   "trendFoil": 21.48
   },
   "tcg": {
    "usdFoil": 21.73
@@ -8050,8 +8050,8 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.09
+   "trend": 0.23,
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.14
@@ -8069,7 +8069,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.08
+   "trendFoil": 0.07
   },
   "tcg": {
    "usdFoil": 0.16
@@ -8082,7 +8082,7 @@
    "low": 159.99,
    "lowFoil": 159.99,
    "trend": 249,
-   "trendFoil": 228.02
+   "trendFoil": 222.79
   },
   "tcg": {
    "usdFoil": 310.94
@@ -8112,7 +8112,7 @@
    "low": 50,
    "lowFoil": 50,
    "trend": 77.68,
-   "trendFoil": 69.09
+   "trendFoil": 69.65
   },
   "tcg": {
    "usdFoil": 119.53
@@ -8127,10 +8127,10 @@
    "avgFoil": 26.35,
    "eur": 23.35,
    "eurFoil": 26.35,
-   "low": 14.9,
-   "lowFoil": 14.9,
+   "low": 14.94,
+   "lowFoil": 14.94,
    "trend": 27.89,
-   "trendFoil": 30.85
+   "trendFoil": 30.58
   },
   "tcg": {
    "usdFoil": 53.82
@@ -8148,7 +8148,7 @@
    "low": 50,
    "lowFoil": 50,
    "trend": 51.5,
-   "trendFoil": 51.79
+   "trendFoil": 54.09
   },
   "tcg": {
    "usdFoil": 109.56
@@ -8166,7 +8166,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.2
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 99,
@@ -8185,10 +8185,10 @@
    "avgFoil": 148.37,
    "eur": 148.99,
    "eurFoil": 148.37,
-   "low": 74.99,
-   "lowFoil": 74.99,
+   "low": 70,
+   "lowFoil": 70,
    "trend": 148.99,
-   "trendFoil": 196.75
+   "trendFoil": 190.06
   },
   "tcg": {
    "usdFoil": 251.54
@@ -8198,8 +8198,8 @@
   "cm": {
    "avgFoil": 1343.9,
    "eurFoil": 1343.9,
-   "low": 799.9,
-   "lowFoil": 799.9,
+   "low": 699.95,
+   "lowFoil": 699.95,
    "trendFoil": 1580.62
   },
   "tcg": {
@@ -8210,9 +8210,9 @@
   "cm": {
    "avgFoil": 61.57,
    "eurFoil": 61.57,
-   "low": 49.99,
-   "lowFoil": 49.99,
-   "trendFoil": 60.24
+   "low": 49.98,
+   "lowFoil": 49.98,
+   "trendFoil": 60.01
   },
   "tcg": {
    "usdFoil": 87.93
@@ -8226,10 +8226,10 @@
    "avgFoil": 324.83,
    "eur": 350,
    "eurFoil": 324.83,
-   "low": 298,
-   "lowFoil": 298,
+   "low": 249.95,
+   "lowFoil": 249.95,
    "trend": 350,
-   "trendFoil": 334.62
+   "trendFoil": 374.7
   },
   "tcg": {
    "usdFoil": 469.31
@@ -8247,7 +8247,7 @@
    "low": 35,
    "lowFoil": 35,
    "trend": 22.98,
-   "trendFoil": 46.35
+   "trendFoil": 47.94
   },
   "tcg": {
    "usdFoil": 66.49
@@ -8265,7 +8265,7 @@
    "low": 22.99,
    "lowFoil": 22.99,
    "trend": 45.87,
-   "trendFoil": 40.56
+   "trendFoil": 39.94
   },
   "tcg": {
    "usdFoil": 48.79
@@ -8282,7 +8282,7 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.11,
+   "trend": 0.1,
    "trendFoil": 0.14
   },
   "tcg": {
@@ -8304,8 +8304,8 @@
    "eurFoil": 0.36,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.1,
-   "trendFoil": 0.27
+   "trend": 0.09,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 2,
@@ -8327,7 +8327,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.06
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.14
@@ -8345,7 +8345,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.15,
-   "trendFoil": 0.32
+   "trendFoil": 0.29
   },
   "tcg": {
    "high": 3,
@@ -8432,7 +8432,7 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
+   "trend": 0.11,
    "trendFoil": 0.21
   },
   "tcg": {
@@ -8455,7 +8455,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.19
+   "trendFoil": 0.2
   },
   "tcg": {
    "high": 4.99,
@@ -8477,7 +8477,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.19
@@ -8495,7 +8495,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.08
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.19
@@ -8512,7 +8512,7 @@
    "eurFoil": 0.31,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.13,
    "trendFoil": 0.26
   },
   "tcg": {
@@ -8535,7 +8535,7 @@
    "low": 0.02,
    "lowFoil": 0.09,
    "trend": 0.26,
-   "trendFoil": 1.4
+   "trendFoil": 1.45
   },
   "tcg": {
    "high": 4,
@@ -8556,8 +8556,8 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.22,
-   "trendFoil": 0.06
+   "trend": 0.28,
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.26
@@ -8572,10 +8572,10 @@
    "avgFoil": 2.7,
    "eur": 4.04,
    "eurFoil": 2.7,
-   "low": 2,
-   "lowFoil": 2,
-   "trend": 4.17,
-   "trendFoil": 4.18
+   "low": 1.99,
+   "lowFoil": 1.99,
+   "trend": 4.23,
+   "trendFoil": 4.19
   },
   "tcg": {
    "usdFoil": 4.6
@@ -8593,7 +8593,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 1.53,
-   "trendFoil": 1.25
+   "trendFoil": 1.2
   },
   "tcg": {
    "usdFoil": 0.84
@@ -8611,7 +8611,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.28,
-   "trendFoil": 0.24
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.35
@@ -8629,7 +8629,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.08
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.21
@@ -8647,7 +8647,7 @@
    "low": 5,
    "lowFoil": 5,
    "trend": 9.15,
-   "trendFoil": 10.61
+   "trendFoil": 10.41
   },
   "tcg": {
    "usdFoil": 12.73
@@ -8665,7 +8665,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.11,
-   "trendFoil": 0.29
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 4,
@@ -8687,7 +8687,7 @@
    "low": 0.85,
    "lowFoil": 0.85,
    "trend": 1.73,
-   "trendFoil": 2.16
+   "trendFoil": 2.07
   },
   "tcg": {
    "usdFoil": 1.38
@@ -8725,9 +8725,9 @@
    "eur": 0.23,
    "eurFoil": 1.42,
    "low": 0.02,
-   "lowFoil": 0.1,
-   "trend": 0.34,
-   "trendFoil": 2.14
+   "lowFoil": 0.08,
+   "trend": 0.35,
+   "trendFoil": 2.06
   },
   "tcg": {
    "high": 4.99,
@@ -8748,7 +8748,7 @@
    "eurFoil": 0.48,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.21,
+   "trend": 0.2,
    "trendFoil": 0.43
   },
   "tcg": {
@@ -8770,8 +8770,8 @@
    "eurFoil": 0.81,
    "low": 0.05,
    "lowFoil": 0.05,
-   "trend": 0.97,
-   "trendFoil": 0.92
+   "trend": 0.99,
+   "trendFoil": 0.94
   },
   "tcg": {
    "usdFoil": 2.18
@@ -8786,10 +8786,10 @@
    "avgFoil": 3.57,
    "eur": 3.82,
    "eurFoil": 3.57,
-   "low": 1.5,
-   "lowFoil": 1.5,
+   "low": 1.4,
+   "lowFoil": 1.4,
    "trend": 3.36,
-   "trendFoil": 2.69
+   "trendFoil": 2.57
   },
   "tcg": {
    "usdFoil": 1.32
@@ -8807,7 +8807,7 @@
    "low": 2.49,
    "lowFoil": 2.49,
    "trend": 4.8,
-   "trendFoil": 3.94
+   "trendFoil": 4.05
   },
   "tcg": {
    "usdFoil": 2.3
@@ -8825,7 +8825,7 @@
    "low": 30,
    "lowFoil": 30,
    "trend": 40.1,
-   "trendFoil": 41.23
+   "trendFoil": 40.99
   },
   "tcg": {
    "usdFoil": 56.53
@@ -8842,8 +8842,8 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.18,
-   "trendFoil": 0.06
+   "trend": 0.17,
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.24
@@ -8861,7 +8861,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 2.28,
-   "trendFoil": 1.57
+   "trendFoil": 1.71
   },
   "tcg": {
    "usdFoil": 1.43
@@ -8878,8 +8878,8 @@
    "eurFoil": 1.23,
    "low": 0.1,
    "lowFoil": 0.1,
-   "trend": 1.46,
-   "trendFoil": 0.96
+   "trend": 1.45,
+   "trendFoil": 0.94
   },
   "tcg": {
    "usdFoil": 0.91
@@ -8897,7 +8897,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 4.66,
-   "trendFoil": 4.28
+   "trendFoil": 4.22
   },
   "tcg": {
    "usdFoil": 6.95
@@ -8914,8 +8914,8 @@
    "eurFoil": 0.46,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.18,
-   "trendFoil": 0.33
+   "trend": 0.17,
+   "trendFoil": 0.29
   },
   "tcg": {
    "high": 9,
@@ -8937,7 +8937,7 @@
    "low": 38,
    "lowFoil": 38,
    "trend": 69.46,
-   "trendFoil": 64.99
+   "trendFoil": 60.86
   },
   "tcg": {
    "usdFoil": 117.84
@@ -8992,10 +8992,10 @@
    "avgFoil": 4.45,
    "eur": 4.4,
    "eurFoil": 4.45,
-   "low": 1.9,
-   "lowFoil": 1.9,
+   "low": 1.95,
+   "lowFoil": 1.95,
    "trend": 4.08,
-   "trendFoil": 3.73
+   "trendFoil": 3.62
   },
   "tcg": {
    "usdFoil": 3.33
@@ -9012,8 +9012,8 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.21,
-   "trendFoil": 0.11
+   "trend": 0.2,
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.24
@@ -9052,8 +9052,8 @@
    "eurFoil": 0.89,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.49,
-   "trendFoil": 0.84
+   "trend": 0.48,
+   "trendFoil": 0.85
   },
   "tcg": {
    "high": 99,
@@ -9097,7 +9097,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.12
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.23
@@ -9114,7 +9114,7 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
+   "trend": 0.16,
    "trendFoil": 0.28
   },
   "tcg": {
@@ -9134,10 +9134,10 @@
    "avgFoil": 0.45,
    "eur": 0.57,
    "eurFoil": 0.45,
-   "low": 0.02,
-   "lowFoil": 0.02,
+   "low": 0.04,
+   "lowFoil": 0.04,
    "trend": 0.59,
-   "trendFoil": 0.35
+   "trendFoil": 0.33
   },
   "tcg": {
    "usdFoil": 0.37
@@ -9155,7 +9155,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.07
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.2
@@ -9172,7 +9172,7 @@
    "eurFoil": 0.08,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.06,
    "trendFoil": 0.08
   },
   "tcg": {
@@ -9194,8 +9194,8 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
-   "trendFoil": 0.12
+   "trend": 0.05,
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 3.8,
@@ -9214,10 +9214,10 @@
    "avgFoil": 3.69,
    "eur": 1.48,
    "eurFoil": 3.69,
-   "low": 0.1,
-   "lowFoil": 0.5,
+   "low": 0.09,
+   "lowFoil": 0.6,
    "trend": 1.61,
-   "trendFoil": 2.81
+   "trendFoil": 3.18
   },
   "tcg": {
    "high": 5,
@@ -9238,8 +9238,8 @@
    "eurFoil": 0.42,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.14,
-   "trendFoil": 0.48
+   "trend": 0.12,
+   "trendFoil": 0.52
   },
   "tcg": {
    "high": 9,
@@ -9258,10 +9258,10 @@
    "avgFoil": 30.54,
    "eur": 26.36,
    "eurFoil": 30.54,
-   "low": 17,
-   "lowFoil": 17,
+   "low": 18,
+   "lowFoil": 18,
    "trend": 34.95,
-   "trendFoil": 32.78
+   "trendFoil": 34.35
   },
   "tcg": {
    "usdFoil": 46.79
@@ -9290,8 +9290,8 @@
    "eurFoil": 0.09,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
-   "trendFoil": 0.1
+   "trend": 0.06,
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 3,
@@ -9310,10 +9310,10 @@
    "avgFoil": 0.79,
    "eur": 1.05,
    "eurFoil": 0.79,
-   "low": 0.02,
-   "lowFoil": 0.02,
-   "trend": 1.17,
-   "trendFoil": 1.01
+   "low": 0.05,
+   "lowFoil": 0.05,
+   "trend": 1.19,
+   "trendFoil": 1.05
   },
   "tcg": {
    "usdFoil": 3.42
@@ -9330,7 +9330,7 @@
    "eurFoil": 0.44,
    "low": 0.03,
    "lowFoil": 0.03,
-   "trend": 0.49,
+   "trend": 0.48,
    "trendFoil": 0.32
   },
   "tcg": {
@@ -9348,8 +9348,8 @@
    "eurFoil": 1.94,
    "low": 0.39,
    "lowFoil": 0.39,
-   "trend": 1.89,
-   "trendFoil": 1.51
+   "trend": 1.99,
+   "trendFoil": 1.42
   },
   "tcg": {
    "usdFoil": 1.15
@@ -9367,7 +9367,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.17
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 99,
@@ -9388,7 +9388,7 @@
    "eurFoil": 0.94,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.3,
+   "trend": 0.31,
    "trendFoil": 1.02
   },
   "tcg": {
@@ -9411,7 +9411,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.94,
-   "trendFoil": 1.57
+   "trendFoil": 1.53
   },
   "tcg": {
    "usdFoil": 0.85
@@ -9428,8 +9428,8 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.21,
-   "trendFoil": 0.11
+   "trend": 0.2,
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.23
@@ -9447,7 +9447,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.11
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.19
@@ -9465,7 +9465,7 @@
    "low": 0.45,
    "lowFoil": 0.45,
    "trend": 2.28,
-   "trendFoil": 1.86
+   "trendFoil": 1.83
   },
   "tcg": {
    "usdFoil": 1.16
@@ -9483,7 +9483,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.12
@@ -9498,10 +9498,10 @@
    "avgFoil": 1.57,
    "eur": 1.79,
    "eurFoil": 1.57,
-   "low": 0.2,
-   "lowFoil": 0.2,
-   "trend": 1.82,
-   "trendFoil": 1.59
+   "low": 0.25,
+   "lowFoil": 0.25,
+   "trend": 1.9,
+   "trendFoil": 1.6
   },
   "tcg": {
    "usdFoil": 1.11
@@ -9518,8 +9518,8 @@
    "eurFoil": 2.52,
    "low": 1.4,
    "lowFoil": 1.55,
-   "trend": 2.88,
-   "trendFoil": 3
+   "trend": 2.95,
+   "trendFoil": 3.22
   },
   "tcg": {
    "usdFoil": 5.2
@@ -9534,10 +9534,10 @@
    "avgFoil": 3.65,
    "eur": 3.72,
    "eurFoil": 3.65,
-   "low": 0.8,
-   "lowFoil": 1,
+   "low": 0.79,
+   "lowFoil": 0.79,
    "trend": 3.42,
-   "trendFoil": 2.26
+   "trendFoil": 2.21
   },
   "tcg": {
    "usdFoil": 1.92
@@ -9554,7 +9554,7 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.07,
    "trendFoil": 0.16
   },
   "tcg": {
@@ -9621,7 +9621,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.12,
-   "trendFoil": 0.16
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 9,
@@ -9642,7 +9642,7 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
+   "trend": 0.14,
    "trendFoil": 0.08
   },
   "tcg": {
@@ -9665,7 +9665,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.07
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.21
@@ -9719,7 +9719,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.12
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.3
@@ -9737,7 +9737,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.93,
-   "trendFoil": 2.89
+   "trendFoil": 2.81
   },
   "tcg": {
    "usdFoil": 2.12
@@ -9754,8 +9754,8 @@
    "eurFoil": 0.12,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
-   "trendFoil": 0.11
+   "trend": 0.05,
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.79,
@@ -9774,10 +9774,10 @@
    "avgFoil": 50.7,
    "eur": 46.11,
    "eurFoil": 50.7,
-   "low": 28.9,
-   "lowFoil": 28.9,
+   "low": 28.93,
+   "lowFoil": 29,
    "trend": 48.12,
-   "trendFoil": 60.14
+   "trendFoil": 60.88
   },
   "tcg": {
    "usdFoil": 97.8
@@ -9795,7 +9795,7 @@
    "low": 19.99,
    "lowFoil": 19.99,
    "trend": 22.97,
-   "trendFoil": 35.8
+   "trendFoil": 35.87
   },
   "tcg": {
    "usdFoil": 56.89
@@ -9810,10 +9810,10 @@
    "avgFoil": 53.25,
    "eur": 59,
    "eurFoil": 53.25,
-   "low": 28,
-   "lowFoil": 28,
+   "low": 29.95,
+   "lowFoil": 29.95,
    "trend": 60.75,
-   "trendFoil": 55.66
+   "trendFoil": 55.39
   },
   "tcg": {
    "usdFoil": 82.82
@@ -9843,7 +9843,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 2.25,
-   "trendFoil": 1.57
+   "trendFoil": 1.63
   },
   "tcg": {
    "usdFoil": 1.43
@@ -9861,7 +9861,7 @@
    "low": 1.79,
    "lowFoil": 1.79,
    "trend": 6.37,
-   "trendFoil": 6.19
+   "trendFoil": 6.08
   },
   "tcg": {
    "usdFoil": 8.01
@@ -9879,7 +9879,7 @@
    "low": 2.74,
    "lowFoil": 2.74,
    "trend": 7.29,
-   "trendFoil": 7.64
+   "trendFoil": 7.61
   },
   "tcg": {
    "usdFoil": 8.24
@@ -9894,10 +9894,10 @@
    "avgFoil": 1.75,
    "eur": 1.94,
    "eurFoil": 1.75,
-   "low": 0.75,
-   "lowFoil": 0.75,
+   "low": 0.7,
+   "lowFoil": 0.7,
    "trend": 1.7,
-   "trendFoil": 1.51
+   "trendFoil": 1.43
   },
   "tcg": {
    "usdFoil": 1.37
@@ -9912,10 +9912,10 @@
    "avgFoil": 10.69,
    "eur": 9.84,
    "eurFoil": 10.69,
-   "low": 5.95,
-   "lowFoil": 5.95,
+   "low": 5,
+   "lowFoil": 5,
    "trend": 10.02,
-   "trendFoil": 9.76
+   "trendFoil": 9.49
   },
   "tcg": {
    "usdFoil": 5.51
@@ -9933,7 +9933,7 @@
    "low": 0.3,
    "lowFoil": 0.3,
    "trend": 1.04,
-   "trendFoil": 0.66
+   "trendFoil": 0.63
   },
   "tcg": {
    "usdFoil": 0.39
@@ -9948,8 +9948,8 @@
    "avgFoil": 2.46,
    "eur": 2.64,
    "eurFoil": 2.46,
-   "low": 0.75,
-   "lowFoil": 0.75,
+   "low": 0.6,
+   "lowFoil": 0.6,
    "trend": 2.64,
    "trendFoil": 2.29
   },
@@ -9966,10 +9966,10 @@
    "avgFoil": 1.54,
    "eur": 2.12,
    "eurFoil": 1.54,
-   "low": 0.4,
-   "lowFoil": 0.4,
+   "low": 0.3,
+   "lowFoil": 0.3,
    "trend": 2.01,
-   "trendFoil": 1.54
+   "trendFoil": 1.46
   },
   "tcg": {
    "usdFoil": 1.08
@@ -9987,7 +9987,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.55,
-   "trendFoil": 0.42
+   "trendFoil": 0.41
   },
   "tcg": {
    "usdFoil": 0.79
@@ -10023,7 +10023,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.16,
-   "trendFoil": 0.03
+   "trendFoil": 0.07
   },
   "tcg": {
    "usdFoil": 0.21
@@ -10041,7 +10041,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.31
@@ -10059,7 +10059,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.22
@@ -10077,7 +10077,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.04
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.1
@@ -10092,10 +10092,10 @@
    "avgFoil": 5.8,
    "eur": 6.9,
    "eurFoil": 5.8,
-   "low": 3.5,
-   "lowFoil": 3.5,
-   "trend": 7.64,
-   "trendFoil": 7.1
+   "low": 3.49,
+   "lowFoil": 3.49,
+   "trend": 7.73,
+   "trendFoil": 6.96
   },
   "tcg": {
    "usdFoil": 9.65
@@ -10113,7 +10113,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.15,
-   "trendFoil": 0.07
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.17
@@ -10130,8 +10130,8 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.1
+   "trend": 0.13,
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 6,
@@ -10152,8 +10152,8 @@
    "eurFoil": 0.43,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.14,
-   "trendFoil": 0.52
+   "trend": 0.13,
+   "trendFoil": 0.51
   },
   "tcg": {
    "high": 9,
@@ -10175,7 +10175,7 @@
    "low": 2.49,
    "lowFoil": 2.49,
    "trend": 9.22,
-   "trendFoil": 9.57
+   "trendFoil": 9.48
   },
   "tcg": {
    "usdFoil": 11.79
@@ -10192,8 +10192,8 @@
    "eurFoil": 0.73,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.2,
-   "trendFoil": 0.6
+   "trend": 0.21,
+   "trendFoil": 0.63
   },
   "tcg": {
    "high": 204.96,
@@ -10215,7 +10215,7 @@
    "low": 0.02,
    "lowFoil": 0.1,
    "trend": 0.19,
-   "trendFoil": 0.29
+   "trendFoil": 0.42
   },
   "tcg": {
    "high": 4,
@@ -10237,7 +10237,7 @@
    "low": 0.02,
    "lowFoil": 0.1,
    "trend": 0.23,
-   "trendFoil": 0.41
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 9,
@@ -10258,7 +10258,7 @@
    "eurFoil": 0.08,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
+   "trend": 0.05,
    "trendFoil": 0.09
   },
   "tcg": {
@@ -10302,8 +10302,8 @@
    "eurFoil": 3.89,
    "low": 0.02,
    "lowFoil": 0.6,
-   "trend": 0.95,
-   "trendFoil": 3.81
+   "trend": 0.96,
+   "trendFoil": 3.58
   },
   "tcg": {
    "high": 8,
@@ -10323,9 +10323,9 @@
    "eur": 0.11,
    "eurFoil": 0.74,
    "low": 0.02,
-   "lowFoil": 0.07,
+   "lowFoil": 0.04,
    "trend": 0.11,
-   "trendFoil": 0.82
+   "trendFoil": 0.79
   },
   "tcg": {
    "high": 99,
@@ -10346,8 +10346,8 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.12,
-   "trendFoil": 0.23
+   "trend": 0.18,
+   "trendFoil": 0.24
   },
   "tcg": {
    "high": 4,
@@ -10390,8 +10390,8 @@
    "eurFoil": 0.35,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.34
+   "trend": 0.08,
+   "trendFoil": 0.33
   },
   "tcg": {
    "high": 99,
@@ -10434,8 +10434,8 @@
    "eurFoil": 0.32,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.3
+   "trend": 0.13,
+   "trendFoil": 0.34
   },
   "tcg": {
    "high": 99,
@@ -10457,7 +10457,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.12,
-   "trendFoil": 0.17
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 9,
@@ -10477,9 +10477,9 @@
    "eur": 0.07,
    "eurFoil": 0.27,
    "low": 0.02,
-   "lowFoil": 0.03,
-   "trend": 0.12,
-   "trendFoil": 0.26
+   "lowFoil": 0.05,
+   "trend": 0.11,
+   "trendFoil": 0.24
   },
   "tcg": {
    "high": 9,
@@ -10501,7 +10501,7 @@
    "low": 0.03,
    "lowFoil": 0.03,
    "trend": 0.35,
-   "trendFoil": 0.27
+   "trendFoil": 0.3
   },
   "tcg": {
    "usdFoil": 0.5
@@ -10541,7 +10541,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.35,
-   "trendFoil": 0.21
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.28
@@ -10559,7 +10559,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.19,
-   "trendFoil": 0.11
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.25
@@ -10577,7 +10577,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 1.18,
-   "trendFoil": 0.93
+   "trendFoil": 1.09
   },
   "tcg": {
    "usdFoil": 0.58
@@ -10595,7 +10595,7 @@
    "low": 0.84,
    "lowFoil": 0.84,
    "trend": 2.54,
-   "trendFoil": 2.33
+   "trendFoil": 2.26
   },
   "tcg": {
    "usdFoil": 2.18
@@ -10613,7 +10613,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 3.17,
-   "trendFoil": 3.36
+   "trendFoil": 3.6
   },
   "tcg": {
    "usdFoil": 4.22
@@ -10630,8 +10630,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.21,
-   "trendFoil": 0.12
+   "trend": 0.23,
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.29
@@ -10649,7 +10649,7 @@
    "low": 0.7,
    "lowFoil": 0.7,
    "trend": 3.33,
-   "trendFoil": 2.68
+   "trendFoil": 2.67
   },
   "tcg": {
    "usdFoil": 3.53
@@ -10666,8 +10666,8 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.34,
-   "trendFoil": 0.19
+   "trend": 0.33,
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 0.32
@@ -10685,7 +10685,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.17,
-   "trendFoil": 0.06
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.19
@@ -10721,7 +10721,7 @@
    "low": 0.8,
    "lowFoil": 0.8,
    "trend": 1.93,
-   "trendFoil": 1.78
+   "trendFoil": 1.81
   },
   "tcg": {
    "usdFoil": 1.5
@@ -10739,7 +10739,7 @@
    "low": 0.2,
    "lowFoil": 0.2,
    "trend": 1.53,
-   "trendFoil": 0.75
+   "trendFoil": 0.68
   },
   "tcg": {
    "usdFoil": 0.96
@@ -10756,8 +10756,8 @@
    "eurFoil": 9.43,
    "low": 6,
    "lowFoil": 6,
-   "trend": 10.75,
-   "trendFoil": 10.44
+   "trend": 11.12,
+   "trendFoil": 10.75
   },
   "tcg": {
    "usdFoil": 10.49
@@ -10775,7 +10775,7 @@
    "low": 22,
    "lowFoil": 22,
    "trend": 43.28,
-   "trendFoil": 37.47
+   "trendFoil": 37.73
   },
   "tcg": {
    "usdFoil": 63.9
@@ -10793,7 +10793,7 @@
    "low": 40,
    "lowFoil": 40,
    "trend": 49.5,
-   "trendFoil": 68.33
+   "trendFoil": 72.75
   },
   "tcg": {
    "usdFoil": 104.66
@@ -10809,9 +10809,9 @@
    "eur": 59.63,
    "eurFoil": 57.78,
    "low": 33.94,
-   "lowFoil": 33.94,
+   "lowFoil": 34.96,
    "trend": 54.82,
-   "trendFoil": 65.88
+   "trendFoil": 63.13
   },
   "tcg": {
    "usdFoil": 123.21
@@ -10821,8 +10821,8 @@
   "cm": {
    "avgFoil": 36.26,
    "eurFoil": 36.26,
-   "low": 20,
-   "lowFoil": 20,
+   "low": 18,
+   "lowFoil": 18,
    "trend": 22.97,
    "trendFoil": 34.77
   },
@@ -10853,7 +10853,7 @@
    "low": 49.99,
    "lowFoil": 49.99,
    "trend": 50,
-   "trendFoil": 91.47
+   "trendFoil": 87.21
   },
   "tcg": {
    "usdFoil": 138.15
@@ -10863,9 +10863,9 @@
   "cm": {
    "avgFoil": 50.5,
    "eurFoil": 50.5,
-   "low": 34,
-   "lowFoil": 34,
-   "trendFoil": 49.31
+   "low": 30,
+   "lowFoil": 30,
+   "trendFoil": 48.26
   },
   "tcg": {
    "usdFoil": 65.67
@@ -10883,7 +10883,7 @@
    "low": 25,
    "lowFoil": 25,
    "trend": 46.05,
-   "trendFoil": 40.77
+   "trendFoil": 41.15
   },
   "tcg": {
    "usdFoil": 50.42
@@ -10910,10 +10910,10 @@
   "cm": {
    "avgFoil": 53.98,
    "eurFoil": 53.98,
-   "low": 32,
-   "lowFoil": 32,
+   "low": 39.5,
+   "lowFoil": 39.5,
    "trend": 65,
-   "trendFoil": 58.34
+   "trendFoil": 57.57
   },
   "tcg": {
    "usdFoil": 75.64
@@ -10971,7 +10971,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 0.68,
-   "trendFoil": 0.61
+   "trendFoil": 0.6
   },
   "tcg": {
    "usdFoil": 0.41
@@ -10989,7 +10989,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.23
+   "trendFoil": 0.21
   },
   "tcg": {
    "high": 3,
@@ -11011,7 +11011,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.09
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.79,
@@ -11077,7 +11077,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 0.63,
-   "trendFoil": 0.47
+   "trendFoil": 0.46
   },
   "tcg": {
    "usdFoil": 0.39
@@ -11117,7 +11117,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 0.83,
-   "trendFoil": 0.75
+   "trendFoil": 0.74
   },
   "tcg": {
    "usdFoil": 0.48
@@ -11156,8 +11156,8 @@
    "eurFoil": 0.31,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.34
+   "trend": 0.1,
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 9,
@@ -11178,8 +11178,8 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.27,
-   "trendFoil": 0.34
+   "trend": 0.24,
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 9,
@@ -11200,7 +11200,7 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.08,
+   "trend": 0.09,
    "trendFoil": 0.18
   },
   "tcg": {
@@ -11221,9 +11221,9 @@
    "eur": 0.1,
    "eurFoil": 0.28,
    "low": 0.02,
-   "lowFoil": 0.03,
-   "trend": 0.1,
-   "trendFoil": 0.27
+   "lowFoil": 0.04,
+   "trend": 0.09,
+   "trendFoil": 0.26
   },
   "tcg": {
    "high": 9,
@@ -11244,7 +11244,7 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.13,
    "trendFoil": 0.21
   },
   "tcg": {
@@ -11267,7 +11267,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.27,
-   "trendFoil": 0.23
+   "trendFoil": 0.27
   },
   "tcg": {
    "high": 9,
@@ -11289,7 +11289,7 @@
    "low": 0.49,
    "lowFoil": 0.49,
    "trend": 1.88,
-   "trendFoil": 1.83
+   "trendFoil": 1.75
   },
   "tcg": {
    "usdFoil": 0.97
@@ -11329,7 +11329,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.06
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.11
@@ -11346,8 +11346,8 @@
    "eurFoil": 18.93,
    "low": 14.99,
    "lowFoil": 14.99,
-   "trend": 19.76,
-   "trendFoil": 22
+   "trend": 20.5,
+   "trendFoil": 22.14
   },
   "tcg": {
    "usdFoil": 27.81
@@ -11365,7 +11365,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.23
@@ -11398,10 +11398,10 @@
    "avgFoil": 2.91,
    "eur": 2.97,
    "eurFoil": 2.91,
-   "low": 0.5,
-   "lowFoil": 0.5,
+   "low": 1,
+   "lowFoil": 1,
    "trend": 2.9,
-   "trendFoil": 2.48
+   "trendFoil": 2.42
   },
   "tcg": {
    "usdFoil": 1.34
@@ -11416,10 +11416,10 @@
    "avgFoil": 5.65,
    "eur": 5.65,
    "eurFoil": 5.65,
-   "low": 2,
-   "lowFoil": 2,
+   "low": 1.98,
+   "lowFoil": 1.98,
    "trend": 4.82,
-   "trendFoil": 4.39
+   "trendFoil": 4.34
   },
   "tcg": {
    "usdFoil": 4.96
@@ -11456,10 +11456,10 @@
    "avgFoil": 1.58,
    "eur": 1.68,
    "eurFoil": 1.58,
-   "low": 0.75,
-   "lowFoil": 0.75,
-   "trend": 1.59,
-   "trendFoil": 1.29
+   "low": 0.49,
+   "lowFoil": 0.49,
+   "trend": 1.55,
+   "trendFoil": 1.28
   },
   "tcg": {
    "usdFoil": 1.1
@@ -11477,7 +11477,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.17
@@ -11495,7 +11495,7 @@
    "low": 0.05,
    "lowFoil": 0.05,
    "trend": 0.95,
-   "trendFoil": 0.81
+   "trendFoil": 0.79
   },
   "tcg": {
    "usdFoil": 0.52
@@ -11510,10 +11510,10 @@
    "avgFoil": 13.64,
    "eur": 12.25,
    "eurFoil": 13.64,
-   "low": 6,
-   "lowFoil": 6,
+   "low": 5.99,
+   "lowFoil": 5.99,
    "trend": 11.46,
-   "trendFoil": 9.42
+   "trendFoil": 9.23
   },
   "tcg": {
    "usdFoil": 6.8
@@ -11528,10 +11528,10 @@
    "avgFoil": 14.66,
    "eur": 14.03,
    "eurFoil": 14.66,
-   "low": 7.5,
-   "lowFoil": 7.5,
+   "low": 8,
+   "lowFoil": 8,
    "trend": 13.29,
-   "trendFoil": 10.91
+   "trendFoil": 10.63
   },
   "tcg": {
    "usdFoil": 6.68
@@ -11570,8 +11570,8 @@
    "eurFoil": 2.51,
    "low": 0.98,
    "lowFoil": 0.98,
-   "trend": 3.04,
-   "trendFoil": 2.79
+   "trend": 3.02,
+   "trendFoil": 2.74
   },
   "tcg": {
    "usdFoil": 2.57
@@ -11609,7 +11609,7 @@
    "eur": 0.08,
    "eurFoil": 0.18,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.02,
    "trend": 0.05,
    "trendFoil": 0.11
   },
@@ -11676,7 +11676,7 @@
    "eurFoil": 0.12,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.03,
+   "trend": 0.04,
    "trendFoil": 0.08
   },
   "tcg": {
@@ -11698,7 +11698,7 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.2
   },
   "tcg": {
@@ -11763,9 +11763,9 @@
    "eur": 0.12,
    "eurFoil": 0.5,
    "low": 0.02,
-   "lowFoil": 0.05,
-   "trend": 0.34,
-   "trendFoil": 0.36
+   "lowFoil": 0.02,
+   "trend": 0.32,
+   "trendFoil": 0.33
   },
   "tcg": {
    "high": 9,
@@ -11785,9 +11785,9 @@
    "eur": 0.12,
    "eurFoil": 0.41,
    "low": 0.02,
-   "lowFoil": 0.03,
-   "trend": 0.13,
-   "trendFoil": 0.32
+   "lowFoil": 0.02,
+   "trend": 0.14,
+   "trendFoil": 0.3
   },
   "tcg": {
    "high": 99,
@@ -11808,7 +11808,7 @@
    "eurFoil": 0.96,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.33,
+   "trend": 0.32,
    "trendFoil": 1.41
   },
   "tcg": {
@@ -11852,8 +11852,8 @@
    "eurFoil": 0.38,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.15,
-   "trendFoil": 0.38
+   "trend": 0.14,
+   "trendFoil": 0.42
   },
   "tcg": {
    "high": 9,
@@ -11896,8 +11896,8 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.27,
-   "trendFoil": 0.14
+   "trend": 0.26,
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.32
@@ -11937,7 +11937,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.12
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 99,
@@ -11959,7 +11959,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.11
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 99,
@@ -12003,7 +12003,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.14
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3,
@@ -12024,8 +12024,8 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
-   "trendFoil": 0.11
+   "trend": 0.08,
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3,
@@ -12046,7 +12046,7 @@
    "eurFoil": 0.07,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.07,
    "trendFoil": 0.05
   },
   "tcg": {
@@ -12069,7 +12069,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.04,
-   "trendFoil": 0.1
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3,
@@ -12135,7 +12135,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.1,
-   "trendFoil": 0.4
+   "trendFoil": 0.42
   },
   "tcg": {
    "high": 99,
@@ -12179,7 +12179,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.12,
-   "trendFoil": 0.28
+   "trendFoil": 0.26
   },
   "tcg": {
    "high": 4,
@@ -12201,7 +12201,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.16,
-   "trendFoil": 0.86
+   "trendFoil": 0.8
   },
   "tcg": {
    "high": 9,
@@ -12223,7 +12223,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.21
+   "trendFoil": 0.33
   },
   "tcg": {
    "high": 9,
@@ -12244,7 +12244,7 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.11,
+   "trend": 0.1,
    "trendFoil": 0.25
   },
   "tcg": {
@@ -12265,9 +12265,9 @@
    "eur": 0.41,
    "eurFoil": 2.39,
    "low": 0.02,
-   "lowFoil": 0.2,
-   "trend": 0.55,
-   "trendFoil": 2.03
+   "lowFoil": 0.65,
+   "trend": 0.57,
+   "trendFoil": 2.17
   },
   "tcg": {
    "high": 4.08,
@@ -12311,7 +12311,7 @@
    "low": 0.45,
    "lowFoil": 0.45,
    "trend": 1.71,
-   "trendFoil": 1.29
+   "trendFoil": 1.31
   },
   "tcg": {
    "usdFoil": 1.13
@@ -12329,7 +12329,7 @@
    "low": 0.99,
    "lowFoil": 0.99,
    "trend": 3.32,
-   "trendFoil": 3.29
+   "trendFoil": 3.34
   },
   "tcg": {
    "usdFoil": 2.7
@@ -12368,8 +12368,8 @@
    "eurFoil": 0.43,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
-   "trendFoil": 0.49
+   "trend": 0.18,
+   "trendFoil": 0.47
   },
   "tcg": {
    "high": 4,
@@ -12390,8 +12390,8 @@
    "eurFoil": 0.4,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.2,
-   "trendFoil": 0.37
+   "trend": 0.19,
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 9,
@@ -12413,7 +12413,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.19,
-   "trendFoil": 0.24
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 4,
@@ -12435,7 +12435,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.13,
-   "trendFoil": 0.22
+   "trendFoil": 0.23
   },
   "tcg": {
    "high": 9,
@@ -12456,8 +12456,8 @@
    "eurFoil": 0.31,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
-   "trendFoil": 0.27
+   "trend": 0.08,
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 9,
@@ -12479,7 +12479,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.15,
-   "trendFoil": 0.34
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 9,
@@ -12500,8 +12500,8 @@
    "eurFoil": 0.47,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.17,
-   "trendFoil": 0.51
+   "trend": 0.16,
+   "trendFoil": 0.62
   },
   "tcg": {
    "high": 99,
@@ -12523,7 +12523,7 @@
    "low": 0.02,
    "lowFoil": 0.09,
    "trend": 0.14,
-   "trendFoil": 0.48
+   "trendFoil": 0.5
   },
   "tcg": {
    "high": 9,
@@ -12545,7 +12545,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.56
+   "trendFoil": 0.57
   },
   "tcg": {
    "high": 12,
@@ -12566,7 +12566,7 @@
    "eurFoil": 0.41,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
+   "trend": 0.18,
    "trendFoil": 0.28
   },
   "tcg": {
@@ -12588,8 +12588,8 @@
    "eurFoil": 0.43,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.37
+   "trend": 0.13,
+   "trendFoil": 0.43
   },
   "tcg": {
    "high": 9,
@@ -12654,7 +12654,7 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.1
   },
   "tcg": {
@@ -12676,8 +12676,8 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
-   "trendFoil": 0.33
+   "trend": 0.05,
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 4,
@@ -12697,8 +12697,8 @@
    "eur": 0.08,
    "eurFoil": 0.33,
    "low": 0.02,
-   "lowFoil": 0.05,
-   "trend": 0.12,
+   "lowFoil": 0.02,
+   "trend": 0.11,
    "trendFoil": 0.23
   },
   "tcg": {
@@ -12721,7 +12721,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.18
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 4,
@@ -12742,8 +12742,8 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.25
+   "trend": 0.13,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 10,
@@ -12762,10 +12762,10 @@
    "avgFoil": 0.97,
    "eur": 1.09,
    "eurFoil": 0.97,
-   "low": 0.1,
-   "lowFoil": 0.1,
+   "low": 0.05,
+   "lowFoil": 0.05,
    "trend": 1.1,
-   "trendFoil": 0.82
+   "trendFoil": 0.86
   },
   "tcg": {
    "usdFoil": 1.19
@@ -12794,7 +12794,7 @@
    "low": 17.99,
    "lowFoil": 17.99,
    "trend": 23.11,
-   "trendFoil": 38.31
+   "trendFoil": 37.99
   },
   "tcg": {
    "usdFoil": 50.94
@@ -12812,7 +12812,7 @@
    "low": 27,
    "lowFoil": 27,
    "trend": 48.99,
-   "trendFoil": 48.86
+   "trendFoil": 49.46
   },
   "tcg": {
    "usdFoil": 63.76
@@ -12836,7 +12836,8 @@
    "eurFoil": 105.84,
    "low": 64.99,
    "lowFoil": 64.99,
-   "trendFoil": 120.1
+   "trend": 125,
+   "trendFoil": 122.11
   },
   "tcg": {
    "usdFoil": 183.38
@@ -12863,8 +12864,8 @@
    "avgFoil": 39.42,
    "eur": 26.94,
    "eurFoil": 39.42,
-   "low": 18,
-   "lowFoil": 18,
+   "low": 20,
+   "lowFoil": 20,
    "trend": 24.6,
    "trendFoil": 41.08
   },
@@ -12895,8 +12896,8 @@
    "eurFoil": 19.11,
    "low": 12,
    "lowFoil": 12,
-   "trend": 16.24,
-   "trendFoil": 17.68
+   "trend": 16.33,
+   "trendFoil": 17.63
   },
   "tcg": {
    "usdFoil": 18.94
@@ -12932,7 +12933,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.14
+   "trendFoil": 0.12
   },
   "tcg": {
    "usdFoil": 0.16
@@ -13007,8 +13008,8 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
-   "trendFoil": 0.2
+   "trend": 0.05,
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 3.5,
@@ -13030,7 +13031,7 @@
    "low": 12.99,
    "lowFoil": 12.99,
    "trend": 15.89,
-   "trendFoil": 15.75
+   "trendFoil": 15.82
   },
   "tcg": {
    "usdFoil": 23.81
@@ -13047,7 +13048,7 @@
    "eurFoil": 0.66,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
+   "trend": 0.14,
    "trendFoil": 0.53
   },
   "tcg": {
@@ -13091,8 +13092,8 @@
    "eurFoil": 2.19,
    "low": 0.02,
    "lowFoil": 1,
-   "trend": 0.44,
-   "trendFoil": 1.53
+   "trend": 0.42,
+   "trendFoil": 1.65
   },
   "tcg": {
    "high": 72.29,
@@ -13113,8 +13114,8 @@
    "eurFoil": 2.12,
    "low": 1,
    "lowFoil": 1,
-   "trend": 1.87,
-   "trendFoil": 1.9
+   "trend": 1.8,
+   "trendFoil": 1.93
   },
   "tcg": {
    "usdFoil": 1.79
@@ -13131,8 +13132,8 @@
    "eurFoil": 1.54,
    "low": 0.5,
    "lowFoil": 0.5,
-   "trend": 1.43,
-   "trendFoil": 1.5
+   "trend": 1.53,
+   "trendFoil": 1.53
   },
   "tcg": {
    "usdFoil": 1.06
@@ -13147,10 +13148,10 @@
    "avgFoil": 2.2,
    "eur": 2.3,
    "eurFoil": 2.2,
-   "low": 0.5,
-   "lowFoil": 0.5,
+   "low": 0.4,
+   "lowFoil": 0.4,
    "trend": 1.69,
-   "trendFoil": 2.13
+   "trendFoil": 2.08
   },
   "tcg": {
    "usdFoil": 1.1
@@ -13168,7 +13169,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.15
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 3.5,
@@ -13189,7 +13190,7 @@
    "eurFoil": 1.08,
    "low": 0.2,
    "lowFoil": 0.2,
-   "trend": 1.4,
+   "trend": 1.37,
    "trendFoil": 1.24
   },
   "tcg": {
@@ -13207,7 +13208,7 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
+   "trend": 0.1,
    "trendFoil": 0.07
   },
   "tcg": {
@@ -13223,10 +13224,10 @@
    "avgFoil": 8.68,
    "eur": 8,
    "eurFoil": 8.68,
-   "low": 5,
-   "lowFoil": 5.5,
+   "low": 4,
+   "lowFoil": 4,
    "trend": 7.05,
-   "trendFoil": 7.75
+   "trendFoil": 7.77
   },
   "tcg": {
    "usdFoil": 6.7
@@ -13256,7 +13257,7 @@
    "low": 16,
    "lowFoil": 16,
    "trend": 22.68,
-   "trendFoil": 22.86
+   "trendFoil": 22.84
   },
   "tcg": {
    "usdFoil": 26.2
@@ -13274,7 +13275,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.07,
-   "trendFoil": 0.19
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 3.5,
@@ -13296,7 +13297,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.12,
-   "trendFoil": 0.2
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 3.52,
@@ -13335,8 +13336,8 @@
    "eurFoil": 17,
    "low": 16.88,
    "lowFoil": 17.99,
-   "trend": 21.9,
-   "trendFoil": 22.45
+   "trend": 22.48,
+   "trendFoil": 22.74
   },
   "tcg": {
    "usdFoil": 30.61
@@ -13351,10 +13352,10 @@
    "avgFoil": 20.97,
    "eur": 21.87,
    "eurFoil": 20.97,
-   "low": 21.9,
-   "lowFoil": 21.9,
+   "low": 20.99,
+   "lowFoil": 20.99,
    "trend": 26.61,
-   "trendFoil": 24.19
+   "trendFoil": 24.2
   },
   "tcg": {
    "usdFoil": 37.29
@@ -13369,10 +13370,10 @@
    "avgFoil": 2.61,
    "eur": 1.85,
    "eurFoil": 2.61,
-   "low": 0.75,
-   "lowFoil": 0.75,
+   "low": 0.83,
+   "lowFoil": 0.83,
    "trend": 3.14,
-   "trendFoil": 2.62
+   "trendFoil": 2.61
   },
   "tcg": {
    "usdFoil": 2.62
@@ -13408,7 +13409,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 2.66,
-   "trendFoil": 2.21
+   "trendFoil": 2.2
   },
   "tcg": {
    "usdFoil": 2.21
@@ -13426,7 +13427,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.11,
-   "trendFoil": 1.19
+   "trendFoil": 1.18
   },
   "tcg": {
    "usdFoil": 0.81
@@ -13444,7 +13445,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.39,
-   "trendFoil": 0.28
+   "trendFoil": 0.31
   },
   "tcg": {
    "usdFoil": 0.36
@@ -13459,10 +13460,10 @@
    "avgFoil": 2.18,
    "eur": 2.21,
    "eurFoil": 2.18,
-   "low": 0.48,
-   "lowFoil": 0.48,
-   "trend": 2.33,
-   "trendFoil": 1.6
+   "low": 0.5,
+   "lowFoil": 0.5,
+   "trend": 2.29,
+   "trendFoil": 1.61
   },
   "tcg": {
    "usdFoil": 2.13
@@ -13499,10 +13500,10 @@
    "avgFoil": 2.72,
    "eur": 2.31,
    "eurFoil": 2.72,
-   "low": 1,
-   "lowFoil": 1,
-   "trend": 2.62,
-   "trendFoil": 2.24
+   "low": 0.98,
+   "lowFoil": 0.98,
+   "trend": 2.63,
+   "trendFoil": 2.22
   },
   "tcg": {
    "usdFoil": 1.41
@@ -13520,7 +13521,7 @@
    "low": 3.8,
    "lowFoil": 3.8,
    "trend": 4.61,
-   "trendFoil": 4.33
+   "trendFoil": 4.34
   },
   "tcg": {
    "usdFoil": 4.83
@@ -13538,7 +13539,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.06
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.11
@@ -13555,7 +13556,7 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.03,
+   "trend": 0.04,
    "trendFoil": 0.11
   },
   "tcg": {
@@ -13578,7 +13579,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 2.66,
-   "trendFoil": 2.27
+   "trendFoil": 2.28
   },
   "tcg": {
    "usdFoil": 2.15
@@ -13613,8 +13614,8 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.03,
-   "trendFoil": 0.1
+   "trend": 0.06,
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -13654,7 +13655,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.31,
-   "trendFoil": 0.14
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.32
@@ -13669,10 +13670,10 @@
    "avgFoil": 10.44,
    "eur": 6.98,
    "eurFoil": 10.44,
-   "low": 5.5,
-   "lowFoil": 5.5,
+   "low": 5.25,
+   "lowFoil": 5.25,
    "trend": 8.22,
-   "trendFoil": 6.58
+   "trendFoil": 6.61
   },
   "tcg": {
    "usdFoil": 9.16
@@ -13690,7 +13691,7 @@
    "low": 2.4,
    "lowFoil": 2.4,
    "trend": 3.35,
-   "trendFoil": 3.65
+   "trendFoil": 3.69
   },
   "tcg": {
    "usdFoil": 3.68
@@ -13708,7 +13709,7 @@
    "low": 14.48,
    "lowFoil": 14.49,
    "trend": 19.19,
-   "trendFoil": 17.75
+   "trendFoil": 17.77
   },
   "tcg": {
    "usdFoil": 27.45
@@ -13746,9 +13747,9 @@
    "eur": 0.08,
    "eurFoil": 0.36,
    "low": 0.02,
-   "lowFoil": 0.09,
+   "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.33
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 3.5,
@@ -13770,7 +13771,7 @@
    "low": 0.75,
    "lowFoil": 0.8,
    "trend": 1.68,
-   "trendFoil": 1.12
+   "trendFoil": 1.18
   },
   "tcg": {
    "usdFoil": 0.96
@@ -13785,10 +13786,10 @@
    "avgFoil": 6.08,
    "eur": 6.69,
    "eurFoil": 6.08,
-   "low": 4,
-   "lowFoil": 4,
+   "low": 3.9,
+   "lowFoil": 3.9,
    "trend": 6.19,
-   "trendFoil": 5.5
+   "trendFoil": 5.47
   },
   "tcg": {
    "usdFoil": 6.88
@@ -13806,7 +13807,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.5,
-   "trendFoil": 0.34
+   "trendFoil": 0.32
   },
   "tcg": {
    "usdFoil": 1.22
@@ -13824,7 +13825,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.17,
-   "trendFoil": 0.06
+   "trendFoil": 0.07
   },
   "tcg": {
    "usdFoil": 0.2
@@ -13839,10 +13840,10 @@
    "avgFoil": 2.84,
    "eur": 3.25,
    "eurFoil": 2.84,
-   "low": 1.25,
-   "lowFoil": 1.25,
+   "low": 1.2,
+   "lowFoil": 1.2,
    "trend": 3.08,
-   "trendFoil": 2.12
+   "trendFoil": 2.15
   },
   "tcg": {
    "usdFoil": 2.42
@@ -13875,8 +13876,8 @@
    "avgFoil": 41.1,
    "eur": 39.95,
    "eurFoil": 41.1,
-   "low": 34.9,
-   "lowFoil": 34.9,
+   "low": 34.89,
+   "lowFoil": 34.89,
    "trend": 42.8,
    "trendFoil": 43.38
   },
@@ -13923,8 +13924,8 @@
   "cm": {
    "avgFoil": 342.7,
    "eurFoil": 342.7,
-   "low": 310,
-   "lowFoil": 310,
+   "low": 275,
+   "lowFoil": 275,
    "trendFoil": 407.23
   },
   "tcg": {
@@ -13939,8 +13940,8 @@
    "avgFoil": 161.01,
    "eur": 145,
    "eurFoil": 161.01,
-   "low": 140,
-   "lowFoil": 140,
+   "low": 139,
+   "lowFoil": 139,
    "trend": 198.76,
    "trendFoil": 159.72
   },
@@ -13977,7 +13978,7 @@
    "low": 43,
    "lowFoil": 43,
    "trend": 47.51,
-   "trendFoil": 52.31
+   "trendFoil": 55.73
   },
   "tcg": {
    "usdFoil": 88.96
@@ -13995,7 +13996,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.44,
-   "trendFoil": 0.26
+   "trendFoil": 0.28
   },
   "tcg": {
    "usdFoil": 0.4
@@ -14010,10 +14011,10 @@
    "avgFoil": 1.06,
    "eur": 1,
    "eurFoil": 1.06,
-   "low": 0.2,
-   "lowFoil": 0.2,
-   "trend": 0.95,
-   "trendFoil": 1.1
+   "low": 0.15,
+   "lowFoil": 0.15,
+   "trend": 0.93,
+   "trendFoil": 1.11
   },
   "tcg": {
    "usdFoil": 0.6
@@ -14031,7 +14032,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.13
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.19
@@ -14049,7 +14050,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.19,
-   "trendFoil": 0.1
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.21
@@ -14063,10 +14064,10 @@
    "avgFoil": 29.97,
    "eur": 28.66,
    "eurFoil": 29.97,
-   "low": 18.77,
-   "lowFoil": 18.77,
+   "low": 22,
+   "lowFoil": 22,
    "trend": 41.38,
-   "trendFoil": 32.71
+   "trendFoil": 31.98
   },
   "tcg": {
    "usdFoil": 52.21
@@ -14096,7 +14097,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.04
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.16
@@ -14113,7 +14114,7 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.06,
    "trendFoil": 0.14
   },
   "tcg": {
@@ -14136,7 +14137,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.07
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.19
@@ -14151,10 +14152,10 @@
    "avgFoil": 5.51,
    "eur": 5.69,
    "eurFoil": 5.51,
-   "low": 3.5,
-   "lowFoil": 3.5,
+   "low": 3.4,
+   "lowFoil": 3.4,
    "trend": 5.95,
-   "trendFoil": 4.93
+   "trendFoil": 4.91
   },
   "tcg": {
    "usdFoil": 3.79
@@ -14172,7 +14173,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.06
+   "trendFoil": 0.08
   },
   "tcg": {
    "high": 3.5,
@@ -14194,7 +14195,7 @@
    "low": 0.15,
    "lowFoil": 0.15,
    "trend": 0.82,
-   "trendFoil": 0.57
+   "trendFoil": 0.56
   },
   "tcg": {
    "usdFoil": 0.42
@@ -14212,7 +14213,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 2.53,
-   "trendFoil": 2.36
+   "trendFoil": 2.32
   },
   "tcg": {
    "usdFoil": 2.93
@@ -14230,7 +14231,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -14252,7 +14253,7 @@
    "low": 1.99,
    "lowFoil": 1.99,
    "trend": 4.82,
-   "trendFoil": 4.31
+   "trendFoil": 4.3
   },
   "tcg": {
    "usdFoil": 6.63
@@ -14267,10 +14268,10 @@
    "avgFoil": 1.1,
    "eur": 1.15,
    "eurFoil": 1.1,
-   "low": 0.48,
-   "lowFoil": 0.48,
+   "low": 0.38,
+   "lowFoil": 0.38,
    "trend": 1.2,
-   "trendFoil": 0.91
+   "trendFoil": 0.94
   },
   "tcg": {
    "usdFoil": 0.73
@@ -14288,7 +14289,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.06
+   "trendFoil": 0.08
   },
   "tcg": {
    "high": 3.5,
@@ -14310,7 +14311,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.12,
-   "trendFoil": 0.17
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3.52,
@@ -14329,10 +14330,10 @@
    "avgFoil": 2.43,
    "eur": 1.93,
    "eurFoil": 2.43,
-   "low": 1,
-   "lowFoil": 1,
-   "trend": 2.6,
-   "trendFoil": 2.16
+   "low": 0.8,
+   "lowFoil": 0.8,
+   "trend": 2.54,
+   "trendFoil": 2.01
   },
   "tcg": {
    "usdFoil": 3.94
@@ -14350,7 +14351,7 @@
    "low": 2.5,
    "lowFoil": 2.5,
    "trend": 3.91,
-   "trendFoil": 3.86
+   "trendFoil": 3.94
   },
   "tcg": {
    "usdFoil": 6.44
@@ -14365,10 +14366,10 @@
    "avgFoil": 1.97,
    "eur": 2.55,
    "eurFoil": 1.97,
-   "low": 0.4,
-   "lowFoil": 0.4,
-   "trend": 2.28,
-   "trendFoil": 1.94
+   "low": 0.35,
+   "lowFoil": 0.35,
+   "trend": 2.35,
+   "trendFoil": 1.93
   },
   "tcg": {
    "usdFoil": 1.35
@@ -14383,10 +14384,10 @@
    "avgFoil": 0.93,
    "eur": 1.1,
    "eurFoil": 0.93,
-   "low": 0.2,
-   "lowFoil": 0.2,
+   "low": 0.1,
+   "lowFoil": 0.1,
    "trend": 1.05,
-   "trendFoil": 0.79
+   "trendFoil": 0.76
   },
   "tcg": {
    "usdFoil": 0.75
@@ -14401,10 +14402,10 @@
    "avgFoil": 5.62,
    "eur": 5.5,
    "eurFoil": 5.62,
-   "low": 2.95,
-   "lowFoil": 2.95,
+   "low": 2,
+   "lowFoil": 2,
    "trend": 5.32,
-   "trendFoil": 5.17
+   "trendFoil": 5.13
   },
   "tcg": {
    "usdFoil": 5.38
@@ -14422,7 +14423,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.03,
-   "trendFoil": 0.08
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 3.5,
@@ -14466,7 +14467,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.16,
-   "trendFoil": 0.07
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.23
@@ -14484,7 +14485,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 3.64,
-   "trendFoil": 3.3
+   "trendFoil": 3.29
   },
   "tcg": {
    "usdFoil": 2.63
@@ -14501,8 +14502,8 @@
    "eurFoil": 1.16,
    "low": 0.2,
    "lowFoil": 0.2,
-   "trend": 1.24,
-   "trendFoil": 1.02
+   "trend": 1.27,
+   "trendFoil": 0.98
   },
   "tcg": {
    "usdFoil": 0.86
@@ -14520,7 +14521,7 @@
    "low": 1.3,
    "lowFoil": 1.3,
    "trend": 2.4,
-   "trendFoil": 2.63
+   "trendFoil": 2.5
   },
   "tcg": {
    "usdFoil": 2.27
@@ -14537,8 +14538,8 @@
    "eurFoil": 0.67,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.62
+   "trend": 0.13,
+   "trendFoil": 0.65
   },
   "tcg": {
    "high": 3.64,
@@ -14581,7 +14582,7 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.09,
+   "trend": 0.12,
    "trendFoil": 0.29
   },
   "tcg": {
@@ -14603,8 +14604,8 @@
    "eurFoil": 0.63,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.15,
-   "trendFoil": 0.45
+   "trend": 0.14,
+   "trendFoil": 0.46
   },
   "tcg": {
    "high": 3.56,
@@ -14625,8 +14626,8 @@
    "eurFoil": 3.86,
    "low": 1.99,
    "lowFoil": 1.99,
-   "trend": 3.96,
-   "trendFoil": 3.43
+   "trend": 3.92,
+   "trendFoil": 3.39
   },
   "tcg": {
    "usdFoil": 4.68
@@ -14644,7 +14645,7 @@
    "low": 0.3,
    "lowFoil": 0.3,
    "trend": 1.05,
-   "trendFoil": 0.91
+   "trendFoil": 0.93
   },
   "tcg": {
    "usdFoil": 0.53
@@ -14662,7 +14663,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.07
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3.5,
@@ -14684,7 +14685,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.08
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 3.5,
@@ -14706,7 +14707,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.09
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -14728,7 +14729,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.11
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -14749,7 +14750,7 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
+   "trend": 0.14,
    "trendFoil": 0.15
   },
   "tcg": {
@@ -14771,7 +14772,7 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
+   "trend": 0.12,
    "trendFoil": 0.05
   },
   "tcg": {
@@ -14789,7 +14790,7 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -14808,7 +14809,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.04
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.13
@@ -14823,10 +14824,10 @@
    "avgFoil": 0.99,
    "eur": 1.15,
    "eurFoil": 0.99,
-   "low": 0.3,
-   "lowFoil": 0.3,
+   "low": 0.2,
+   "lowFoil": 0.2,
    "trend": 1.05,
-   "trendFoil": 1.07
+   "trendFoil": 1.08
   },
   "tcg": {
    "usdFoil": 0.6
@@ -14840,10 +14841,10 @@
    "avgFoil": 117.96,
    "eur": 48.2,
    "eurFoil": 117.96,
-   "low": 75,
-   "lowFoil": 75,
+   "low": 80,
+   "lowFoil": 83,
    "trend": 50.33,
-   "trendFoil": 96.1
+   "trendFoil": 98.77
   },
   "tcg": {
    "usdFoil": 123.63
@@ -14857,8 +14858,8 @@
    "avgFoil": 151.69,
    "eur": 76,
    "eurFoil": 151.69,
-   "low": 85,
-   "lowFoil": 85,
+   "low": 93.2,
+   "lowFoil": 93.2,
    "trend": 149.95,
    "trendFoil": 134.44
   },
@@ -14870,8 +14871,8 @@
   "cm": {
    "avgFoil": 124.26,
    "eurFoil": 124.26,
-   "low": 94,
-   "lowFoil": 94,
+   "low": 99.8,
+   "lowFoil": 99.8,
    "trend": 125,
    "trendFoil": 117.14
   },
@@ -14887,10 +14888,10 @@
    "avgFoil": 110.28,
    "eur": 36.5,
    "eurFoil": 110.28,
-   "low": 64,
-   "lowFoil": 64,
+   "low": 65,
+   "lowFoil": 65,
    "trend": 38,
-   "trendFoil": 95.69
+   "trendFoil": 101.18
   },
   "tcg": {
    "usdFoil": 118.83
@@ -14907,7 +14908,7 @@
    "low": 70,
    "lowFoil": 70,
    "trend": 46.66,
-   "trendFoil": 105.4
+   "trendFoil": 104.84
   },
   "tcg": {
    "usdFoil": 116.02
@@ -14922,10 +14923,10 @@
    "avgFoil": 118.11,
    "eur": 109.48,
    "eurFoil": 118.11,
-   "low": 70,
-   "lowFoil": 70,
+   "low": 80,
+   "lowFoil": 80,
    "trend": 130.4,
-   "trendFoil": 100.07
+   "trendFoil": 100
   },
   "tcg": {
    "usdFoil": 127.08
@@ -14943,7 +14944,7 @@
    "low": 8.78,
    "lowFoil": 10.99,
    "trend": 61.29,
-   "trendFoil": 80.32
+   "trendFoil": 77.52
   },
   "tcg": {
    "usdFoil": 178.42
@@ -14966,9 +14967,9 @@
   "cm": {
    "avgFoil": 28.58,
    "eurFoil": 28.58,
-   "low": 20,
-   "lowFoil": 20,
-   "trendFoil": 33.71
+   "low": 19.5,
+   "lowFoil": 19.5,
+   "trendFoil": 32.31
   },
   "tcg": {
    "usdFoil": 58.32
@@ -14978,9 +14979,9 @@
   "cm": {
    "avgFoil": 29.93,
    "eurFoil": 29.93,
-   "low": 25,
-   "lowFoil": 25,
-   "trendFoil": 33.17
+   "low": 24.5,
+   "lowFoil": 24.5,
+   "trendFoil": 32.55
   },
   "tcg": {
    "usdFoil": 44.25
@@ -14999,10 +15000,10 @@
    "avgFoil": 68.1,
    "eur": 45,
    "eurFoil": 68.1,
-   "low": 40,
-   "lowFoil": 40,
+   "low": 44.49,
+   "lowFoil": 44.49,
    "trend": 45,
-   "trendFoil": 85.57
+   "trendFoil": 80.47
   },
   "tcg": {
    "usdFoil": 56.53
@@ -15032,7 +15033,7 @@
    "low": 49,
    "lowFoil": 49,
    "trend": 49.9,
-   "trendFoil": 119.4
+   "trendFoil": 109.78
   },
   "tcg": {
    "usdFoil": 60.05
@@ -15042,9 +15043,9 @@
   "cm": {
    "avgFoil": 431.74,
    "eurFoil": 431.74,
-   "low": 220,
-   "lowFoil": 220,
-   "trendFoil": 492.62
+   "low": 219.95,
+   "lowFoil": 219.95,
+   "trendFoil": 466.59
   },
   "tcg": {
    "usdFoil": 205.39
@@ -15054,8 +15055,8 @@
   "cm": {
    "avgFoil": 77.05,
    "eurFoil": 77.05,
-   "low": 70,
-   "lowFoil": 70,
+   "low": 75,
+   "lowFoil": 75,
    "trendFoil": 99.35
   },
   "tcg": {
@@ -15071,9 +15072,9 @@
    "avgFoil": 25.41,
    "eur": 67.55,
    "eurFoil": 25.41,
-   "low": 9.99,
-   "lowFoil": 9.99,
-   "trend": 24.47,
+   "low": 9.5,
+   "lowFoil": 9.5,
+   "trend": 110.03,
    "trendFoil": 18.36
   },
   "tcg": {
@@ -15125,9 +15126,9 @@
   "cm": {
    "avgFoil": 419.85,
    "eurFoil": 419.85,
-   "low": 180,
-   "lowFoil": 180,
-   "trendFoil": 454.72
+   "low": 150,
+   "lowFoil": 150,
+   "trendFoil": 395.05
   },
   "tcg": {
    "usdFoil": 105.59
@@ -15142,8 +15143,8 @@
   "cm": {
    "avgFoil": 374.5,
    "eurFoil": 374.5,
-   "low": 1050,
-   "lowFoil": 1050,
+   "low": 1590,
+   "lowFoil": 1590,
    "trendFoil": 371.01
   },
   "tcg": {
@@ -15159,8 +15160,8 @@
   "cm": {
    "avgFoil": 462.8,
    "eurFoil": 462.8,
-   "low": 2250,
-   "lowFoil": 2250,
+   "low": 1800,
+   "lowFoil": 1800,
    "trendFoil": 467.08
   },
   "tcg": {
@@ -15203,8 +15204,8 @@
   "cm": {
    "avgFoil": 1028,
    "eurFoil": 1028,
-   "low": 2399,
-   "lowFoil": 2399,
+   "low": 2100,
+   "lowFoil": 2100,
    "trendFoil": 747.29
   },
   "tcg": {
@@ -15228,7 +15229,7 @@
    "low": 2.7,
    "lowFoil": 2.7,
    "trend": 3.49,
-   "trendFoil": 3.46
+   "trendFoil": 3.37
   },
   "tcg": {
    "usdFoil": 6.38
@@ -15246,7 +15247,7 @@
    "low": 1.99,
    "lowFoil": 1.99,
    "trend": 2.96,
-   "trendFoil": 2.64
+   "trendFoil": 2.72
   },
   "tcg": {
    "usdFoil": 2.81
@@ -15263,7 +15264,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 3.44,
-   "trendFoil": 2.98
+   "trendFoil": 2.93
   },
   "tcg": {
    "usdFoil": 3.2
@@ -15281,7 +15282,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 3.16,
-   "trendFoil": 3.19
+   "trendFoil": 3.12
   },
   "tcg": {
    "usdFoil": 4.99
@@ -15299,7 +15300,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 3.12,
-   "trendFoil": 3.21
+   "trendFoil": 3.15
   },
   "tcg": {
    "usdFoil": 3.13
@@ -15317,7 +15318,7 @@
    "low": 3.5,
    "lowFoil": 3.5,
    "trend": 4.75,
-   "trendFoil": 5.29
+   "trendFoil": 5.24
   },
   "tcg": {
    "usdFoil": 7.13
@@ -15332,10 +15333,10 @@
    "avgFoil": 5.45,
    "eur": 5.97,
    "eurFoil": 5.45,
-   "low": 2.5,
-   "lowFoil": 2.5,
+   "low": 4,
+   "lowFoil": 4,
    "trend": 6.48,
-   "trendFoil": 6.17
+   "trendFoil": 6.15
   },
   "tcg": {
    "usdFoil": 12.48
@@ -15368,8 +15369,8 @@
    "avgFoil": 0.23,
    "eur": 0.3,
    "eurFoil": 0.23,
-   "low": 0.05,
-   "lowFoil": 0.05,
+   "low": 0.02,
+   "lowFoil": 0.02,
    "trend": 0.32,
    "trendFoil": 0.24
   },
@@ -15461,7 +15462,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.14
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.26
@@ -15584,8 +15585,8 @@
    "eurFoil": 1.47,
    "low": 0.5,
    "lowFoil": 0.5,
-   "trend": 1.84,
-   "trendFoil": 1.5
+   "trend": 2.06,
+   "trendFoil": 1.56
   },
   "tcg": {
    "usdFoil": 4.12
@@ -15602,8 +15603,8 @@
    "eurFoil": 0.36,
    "low": 0.05,
    "lowFoil": 0.05,
-   "trend": 0.34,
-   "trendFoil": 0.36
+   "trend": 0.33,
+   "trendFoil": 0.37
   },
   "tcg": {
    "usdFoil": 0.64
@@ -15621,7 +15622,7 @@
    "low": 0.09,
    "lowFoil": 0.09,
    "trend": 1.22,
-   "trendFoil": 0.64
+   "trendFoil": 0.89
   },
   "tcg": {
    "usdFoil": 2.45
@@ -15669,7 +15670,7 @@
    "low": 3,
    "lowFoil": 3,
    "trend": 2.03,
-   "trendFoil": 6.4
+   "trendFoil": 6.5
   },
   "tcg": {
    "usdFoil": 8.33
@@ -15687,7 +15688,7 @@
    "low": 9.94,
    "lowFoil": 9.94,
    "trend": 17.93,
-   "trendFoil": 19.35
+   "trendFoil": 19.06
   }
  },
  "69bc5bf1d308c64675ca89f3": {
@@ -15699,8 +15700,8 @@
    "avgFoil": 66.1,
    "eur": 65,
    "eurFoil": 66.1,
-   "low": 32.87,
-   "lowFoil": 32.87,
+   "low": 30,
+   "lowFoil": 30,
    "trend": 65,
    "trendFoil": 61.43
   }
@@ -15714,10 +15715,10 @@
    "avgFoil": 23.57,
    "eur": 20,
    "eurFoil": 23.57,
-   "low": 14.87,
-   "lowFoil": 14.87,
+   "low": 10,
+   "lowFoil": 10,
    "trend": 20,
-   "trendFoil": 25.26
+   "trendFoil": 25.42
   }
  },
  "69bc5bf2d308c64675ca89f9": {
@@ -15729,8 +15730,8 @@
    "avgFoil": 57.65,
    "eur": 90,
    "eurFoil": 57.65,
-   "low": 28,
-   "lowFoil": 28,
+   "low": 27.99,
+   "lowFoil": 27.99,
    "trend": 53,
    "trendFoil": 52.02
   }
@@ -15747,7 +15748,7 @@
    "low": 14.98,
    "lowFoil": 14.98,
    "trend": 19.93,
-   "trendFoil": 19.74
+   "trendFoil": 19.89
   }
  },
  "69bc5bf2d308c64675ca8a01": {
@@ -15801,8 +15802,8 @@
    "avgFoil": 2.91,
    "eur": 2.5,
    "eurFoil": 2.91,
-   "low": 1.91,
-   "lowFoil": 1.91,
+   "low": 1.85,
+   "lowFoil": 1.85,
    "trend": 2.55,
    "trendFoil": 2.56
   },
@@ -15824,8 +15825,8 @@
    "avgFoil": 4.12,
    "eur": 2.99,
    "eurFoil": 4.12,
-   "low": 2.97,
-   "lowFoil": 2.97,
+   "low": 2.96,
+   "lowFoil": 2.96,
    "trend": 3.01,
    "trendFoil": 3.83
   },
@@ -15958,7 +15959,7 @@
    "low": 0.25,
    "lowFoil": 0.25,
    "trend": 1.48,
-   "trendFoil": 1.24
+   "trendFoil": 1.28
   },
   "tcg": {
    "usdFoil": 4.04
@@ -15994,7 +15995,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.05
+   "trendFoil": 0.06
   },
   "tcg": {
    "usdFoil": 0.48
@@ -16048,7 +16049,7 @@
    "low": 2.95,
    "lowFoil": 2.95,
    "trend": 5,
-   "trendFoil": 4.33
+   "trendFoil": 4.18
   },
   "tcg": {
    "usdFoil": 17.87
@@ -16099,8 +16100,8 @@
    "avgFoil": 5.4,
    "eur": 4,
    "eurFoil": 5.4,
-   "low": 5,
-   "lowFoil": 5,
+   "low": 4,
+   "lowFoil": 4,
    "trend": 3.48,
    "trendFoil": 7.37
   },
@@ -16168,7 +16169,7 @@
    "eurFoil": 0.68,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.36,
+   "trend": 0.34,
    "trendFoil": 0.35
   },
   "tcg": {
@@ -16204,7 +16205,7 @@
    "low": 11.99,
    "lowFoil": 11.99,
    "trend": 13.04,
-   "trendFoil": 12.49
+   "trendFoil": 11.58
   },
   "tcg": {
    "usdFoil": 20.57
@@ -16240,7 +16241,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.16
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.46
@@ -16276,7 +16277,7 @@
    "low": 25,
    "lowFoil": 25,
    "trend": 34.06,
-   "trendFoil": 21.49
+   "trendFoil": 21.96
   },
   "tcg": {
    "usdFoil": 53.47
@@ -16311,7 +16312,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.15,
-   "trendFoil": 0.18
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.51
@@ -16358,7 +16359,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.21
   },
   "tcg": {
@@ -16379,9 +16380,9 @@
    "eur": 0.13,
    "eurFoil": 0.25,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.04,
    "trend": 0.08,
-   "trendFoil": 0.12
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 3.5,
@@ -16401,9 +16402,9 @@
    "eur": 0.17,
    "eurFoil": 0.73,
    "low": 0.02,
-   "lowFoil": 0.1,
+   "lowFoil": 0.15,
    "trend": 0.23,
-   "trendFoil": 0.78
+   "trendFoil": 0.77
   },
   "tcg": {
    "high": 10,
@@ -16423,9 +16424,9 @@
    "eur": 0.18,
    "eurFoil": 0.36,
    "low": 0.02,
-   "lowFoil": 0.04,
-   "trend": 0.11,
-   "trendFoil": 0.39
+   "lowFoil": 0.03,
+   "trend": 0.13,
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 3.58,
@@ -16447,7 +16448,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.05
+   "trendFoil": 0.06
   },
   "tcg": {
    "high": 32,
@@ -16489,9 +16490,9 @@
    "eur": 0.21,
    "eurFoil": 1.28,
    "low": 0.02,
-   "lowFoil": 0.25,
-   "trend": 0.24,
-   "trendFoil": 1.08
+   "lowFoil": 0.24,
+   "trend": 0.22,
+   "trendFoil": 1.1
   },
   "tcg": {
    "high": 4.99,
@@ -16512,8 +16513,8 @@
    "eurFoil": 19.44,
    "low": 14.9,
    "lowFoil": 14.9,
-   "trend": 19.72,
-   "trendFoil": 17.49
+   "trend": 19.49,
+   "trendFoil": 17.55
   },
   "tcg": {
    "usdFoil": 20.87
@@ -16528,8 +16529,8 @@
    "avgFoil": 1.16,
    "eur": 1.19,
    "eurFoil": 1.16,
-   "low": 0.5,
-   "lowFoil": 0.5,
+   "low": 0.4,
+   "lowFoil": 0.4,
    "trend": 1.14,
    "trendFoil": 0.9
   },
@@ -16546,10 +16547,10 @@
    "avgFoil": 15.15,
    "eur": 16.78,
    "eurFoil": 15.15,
-   "low": 12,
-   "lowFoil": 12,
+   "low": 13,
+   "lowFoil": 13,
    "trend": 16.08,
-   "trendFoil": 16.46
+   "trendFoil": 16.19
   },
   "tcg": {
    "usdFoil": 12.49
@@ -16566,8 +16567,8 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.27,
-   "trendFoil": 0.24
+   "trend": 0.26,
+   "trendFoil": 0.25
   },
   "tcg": {
    "usdFoil": 0.32
@@ -16584,7 +16585,7 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.11,
    "trendFoil": 0.09
   },
   "tcg": {
@@ -16606,8 +16607,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.17
+   "trend": 0.1,
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 3.5,
@@ -16628,8 +16629,8 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.22,
-   "trendFoil": 0.18
+   "trend": 0.21,
+   "trendFoil": 0.21
   },
   "tcg": {
    "high": 3.5,
@@ -16650,8 +16651,8 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.23
+   "trend": 0.11,
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 3.5,
@@ -16692,10 +16693,10 @@
    "avgFoil": 12.67,
    "eur": 13.87,
    "eurFoil": 12.67,
-   "low": 7.2,
-   "lowFoil": 7.2,
-   "trend": 13.78,
-   "trendFoil": 12.87
+   "low": 7.6,
+   "lowFoil": 7.6,
+   "trend": 13.38,
+   "trendFoil": 12.86
   },
   "tcg": {
    "usdFoil": 15.87
@@ -16713,7 +16714,7 @@
    "low": 10,
    "lowFoil": 10,
    "trend": 17.33,
-   "trendFoil": 16.64
+   "trendFoil": 16.91
   },
   "tcg": {
    "usdFoil": 18.05
@@ -16730,7 +16731,7 @@
    "eurFoil": 0.1,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.05
   },
   "tcg": {
@@ -16752,8 +16753,8 @@
    "eurFoil": 0.34,
    "low": 0.02,
    "lowFoil": 0.06,
-   "trend": 0.1,
-   "trendFoil": 0.3
+   "trend": 0.09,
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 20,
@@ -16772,10 +16773,10 @@
    "avgFoil": 14.39,
    "eur": 14.98,
    "eurFoil": 14.39,
-   "low": 11.49,
-   "lowFoil": 11.5,
-   "trend": 14.17,
-   "trendFoil": 13.86
+   "low": 10,
+   "lowFoil": 10,
+   "trend": 14.06,
+   "trendFoil": 13.74
   },
   "tcg": {
    "usdFoil": 14.05
@@ -16793,7 +16794,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 1.06
+   "trendFoil": 0.95
   },
   "tcg": {
    "high": 3.54,
@@ -16814,8 +16815,8 @@
    "eurFoil": 0.38,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
-   "trendFoil": 0.34
+   "trend": 0.16,
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 3.51,
@@ -16836,8 +16837,8 @@
    "eurFoil": 0.37,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.15,
-   "trendFoil": 0.21
+   "trend": 0.16,
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.55,
@@ -16859,7 +16860,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.11
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -16879,9 +16880,9 @@
    "eur": 0.07,
    "eurFoil": 0.24,
    "low": 0.02,
-   "lowFoil": 0.03,
-   "trend": 0.11,
-   "trendFoil": 0.17
+   "lowFoil": 0.02,
+   "trend": 0.1,
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -16903,7 +16904,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.11
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.2
@@ -16920,8 +16921,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.28,
-   "trendFoil": 0.17
+   "trend": 0.29,
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.27
@@ -16939,7 +16940,7 @@
    "low": 6.99,
    "lowFoil": 6.99,
    "trend": 10.92,
-   "trendFoil": 9.55
+   "trendFoil": 9.52
   },
   "tcg": {
    "usdFoil": 8.87
@@ -16955,8 +16956,8 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.19,
-   "trendFoil": 0.11
+   "trend": 0.2,
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.22
@@ -16995,7 +16996,7 @@
    "eurFoil": 0.34,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.21
   },
   "tcg": {
@@ -17018,7 +17019,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.19
+   "trendFoil": 0.23
   },
   "tcg": {
    "high": 3.5,
@@ -17040,7 +17041,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.04
+   "trendFoil": 0.05
   },
   "tcg": {
    "high": 3.5,
@@ -17062,7 +17063,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.09
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -17084,7 +17085,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.09,
-   "trendFoil": 0.04
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.12
@@ -17102,7 +17103,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.09
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -17123,8 +17124,8 @@
    "eurFoil": 5.22,
    "low": 8.95,
    "lowFoil": 8.95,
-   "trend": 8.87,
-   "trendFoil": 10.56
+   "trend": 8.84,
+   "trendFoil": 10.83
   },
   "tcg": {
    "usdFoil": 10.03
@@ -17182,7 +17183,7 @@
    "low": 1.96,
    "lowFoil": 1.96,
    "trend": 3.18,
-   "trendFoil": 2.74
+   "trendFoil": 2.76
   },
   "tcg": {
    "usdFoil": 3.33
@@ -17200,7 +17201,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.05,
-   "trendFoil": 0.23
+   "trendFoil": 0.24
   },
   "tcg": {
    "high": 3.5,
@@ -17220,9 +17221,9 @@
    "eur": 0.09,
    "eurFoil": 0.67,
    "low": 0.02,
-   "lowFoil": 0.07,
-   "trend": 0.14,
-   "trendFoil": 0.31
+   "lowFoil": 0.05,
+   "trend": 0.13,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 3.56,
@@ -17244,7 +17245,7 @@
    "low": 4,
    "lowFoil": 4,
    "trend": 7.26,
-   "trendFoil": 6.42
+   "trendFoil": 6.72
   },
   "tcg": {
    "usdFoil": 7.73
@@ -17259,10 +17260,10 @@
    "avgFoil": 16.69,
    "eur": 15.64,
    "eurFoil": 16.69,
-   "low": 8,
-   "lowFoil": 8,
+   "low": 7.99,
+   "lowFoil": 7.99,
    "trend": 14.23,
-   "trendFoil": 10.81
+   "trendFoil": 10.63
   },
   "tcg": {
    "usdFoil": 11
@@ -17279,8 +17280,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
-   "trendFoil": 0.11
+   "trend": 0.16,
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -17319,8 +17320,8 @@
    "eurFoil": 1.3,
    "low": 0.25,
    "lowFoil": 0.25,
-   "trend": 1.34,
-   "trendFoil": 1.13
+   "trend": 1.37,
+   "trendFoil": 1.14
   },
   "tcg": {
    "usdFoil": 0.73
@@ -17337,8 +17338,8 @@
    "eurFoil": 1.4,
    "low": 0.94,
    "lowFoil": 0.94,
-   "trend": 2.77,
-   "trendFoil": 2.86
+   "trend": 2.75,
+   "trendFoil": 2.95
   },
   "tcg": {
    "usdFoil": 3.48
@@ -17355,8 +17356,8 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
-   "trendFoil": 0.18
+   "trend": 0.15,
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.27
@@ -17371,10 +17372,10 @@
    "avgFoil": 5.96,
    "eur": 5.45,
    "eurFoil": 5.96,
-   "low": 3.49,
+   "low": 3.5,
    "lowFoil": 3.5,
    "trend": 5.54,
-   "trendFoil": 5.07
+   "trendFoil": 5.04
   },
   "tcg": {
    "usdFoil": 6.47
@@ -17434,7 +17435,7 @@
    "low": 25,
    "lowFoil": 25,
    "trend": 34.03,
-   "trendFoil": 29.53
+   "trendFoil": 29.82
   },
   "tcg": {
    "usdFoil": 49.75
@@ -17452,7 +17453,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.07
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -17496,7 +17497,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.07
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 3.5,
@@ -17539,8 +17540,8 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
-   "trendFoil": 0.2
+   "trend": 0.11,
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 3.5,
@@ -17561,8 +17562,8 @@
    "eurFoil": 0.37,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.36,
-   "trendFoil": 0.23
+   "trend": 0.34,
+   "trendFoil": 0.24
   },
   "tcg": {
    "usdFoil": 0.33
@@ -17580,7 +17581,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.07
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 20,
@@ -17602,7 +17603,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -17624,7 +17625,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.29,
-   "trendFoil": 0.12
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.31
@@ -17641,8 +17642,8 @@
    "eurFoil": 0.32,
    "low": 0.04,
    "lowFoil": 0.04,
-   "trend": 0.31,
-   "trendFoil": 0.22
+   "trend": 0.29,
+   "trendFoil": 0.24
   },
   "tcg": {
    "usdFoil": 0.28
@@ -17660,7 +17661,7 @@
    "low": 2.49,
    "lowFoil": 2.49,
    "trend": 3.78,
-   "trendFoil": 3.22
+   "trendFoil": 3.18
   },
   "tcg": {
    "usdFoil": 3.2
@@ -17678,7 +17679,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.04
+   "trendFoil": 0.08
   },
   "tcg": {
    "usdFoil": 0.22
@@ -17696,7 +17697,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.16,
-   "trendFoil": 0.03
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.14
@@ -17714,7 +17715,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.06
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.12
@@ -17731,8 +17732,8 @@
    "eurFoil": 0.54,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.18,
-   "trendFoil": 0.33
+   "trend": 0.17,
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 3.56,
@@ -17806,7 +17807,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.2
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 3.5,
@@ -17850,7 +17851,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.08
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3.5,
@@ -17872,7 +17873,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.12,
-   "trendFoil": 0.29
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 3.54,
@@ -17909,10 +17910,10 @@
    "avgFoil": 2.83,
    "eur": 3.21,
    "eurFoil": 2.83,
-   "low": 1.3,
-   "lowFoil": 1.3,
+   "low": 1.4,
+   "lowFoil": 1.4,
    "trend": 2.15,
-   "trendFoil": 2.49
+   "trendFoil": 2.5
   },
   "tcg": {
    "usdFoil": 2.2
@@ -17927,10 +17928,10 @@
    "avgFoil": 4.8,
    "eur": 2.25,
    "eurFoil": 4.8,
-   "low": 1.7,
+   "low": 0.5,
    "lowFoil": 2.5,
-   "trend": 3.03,
-   "trendFoil": 3.92
+   "trend": 3.16,
+   "trendFoil": 4.14
   },
   "tcg": {
    "high": 13,
@@ -17952,7 +17953,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.11
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -17971,10 +17972,10 @@
    "avgFoil": 2.15,
    "eur": 1.89,
    "eurFoil": 2.15,
-   "low": 0.99,
-   "lowFoil": 0.99,
+   "low": 0.8,
+   "lowFoil": 0.8,
    "trend": 1.93,
-   "trendFoil": 1.77
+   "trendFoil": 1.83
   },
   "tcg": {
    "usdFoil": 1.43
@@ -17991,7 +17992,7 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.09,
+   "trend": 0.1,
    "trendFoil": 0.16
   },
   "tcg": {
@@ -18014,7 +18015,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.12
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 3.5,
@@ -18035,8 +18036,8 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.16
+   "trend": 0.12,
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 3.5,
@@ -18055,10 +18056,10 @@
    "avgFoil": 2.96,
    "eur": 3.15,
    "eurFoil": 2.96,
-   "low": 1.3,
-   "lowFoil": 1.3,
-   "trend": 3.63,
-   "trendFoil": 3.68
+   "low": 1.5,
+   "lowFoil": 1.5,
+   "trend": 3.59,
+   "trendFoil": 3.65
   },
   "tcg": {
    "usdFoil": 2.99
@@ -18073,10 +18074,10 @@
    "avgFoil": 11.85,
    "eur": 6,
    "eurFoil": 11.85,
-   "low": 9.5,
-   "lowFoil": 9.5,
+   "low": 9.3,
+   "lowFoil": 9.3,
    "trend": 12.95,
-   "trendFoil": 10.74
+   "trendFoil": 10.85
   },
   "tcg": {
    "usdFoil": 15.65
@@ -18091,10 +18092,10 @@
    "avgFoil": 1.22,
    "eur": 1.31,
    "eurFoil": 1.22,
-   "low": 0.5,
-   "lowFoil": 0.5,
+   "low": 0.4,
+   "lowFoil": 0.4,
    "trend": 1.14,
-   "trendFoil": 1.24
+   "trendFoil": 1.23
   },
   "tcg": {
    "usdFoil": 0.68
@@ -18112,7 +18113,7 @@
    "low": 0.75,
    "lowFoil": 0.75,
    "trend": 1.86,
-   "trendFoil": 2.45
+   "trendFoil": 2.39
   },
   "tcg": {
    "usdFoil": 2.22
@@ -18129,8 +18130,8 @@
    "eurFoil": 1.59,
    "low": 0.5,
    "lowFoil": 0.5,
-   "trend": 1.99,
-   "trendFoil": 1.55
+   "trend": 1.98,
+   "trendFoil": 1.51
   },
   "tcg": {
    "usdFoil": 1.29
@@ -18145,10 +18146,10 @@
    "avgFoil": 4.08,
    "eur": 4.54,
    "eurFoil": 4.08,
-   "low": 2.8,
-   "lowFoil": 2.8,
+   "low": 2.5,
+   "lowFoil": 2.5,
    "trend": 4.98,
-   "trendFoil": 4.6
+   "trendFoil": 4.61
   },
   "tcg": {
    "usdFoil": 5.97
@@ -18165,8 +18166,8 @@
    "eurFoil": 0.34,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.18,
-   "trendFoil": 0.29
+   "trend": 0.17,
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 3.53,
@@ -18185,10 +18186,10 @@
    "avgFoil": 39.64,
    "eur": 52.5,
    "eurFoil": 39.64,
-   "low": 25,
-   "lowFoil": 25,
+   "low": 24,
+   "lowFoil": 24,
    "trend": 50.42,
-   "trendFoil": 42.56
+   "trendFoil": 42.92
   },
   "tcg": {
    "usdFoil": 70.97
@@ -18203,10 +18204,10 @@
    "avgFoil": 44.15,
    "eur": 47.47,
    "eurFoil": 44.15,
-   "low": 40,
-   "lowFoil": 40,
+   "low": 45,
+   "lowFoil": 45,
    "trend": 51.99,
-   "trendFoil": 61.5
+   "trendFoil": 64.47
   },
   "tcg": {
    "usdFoil": 121.73
@@ -18221,10 +18222,10 @@
    "avgFoil": 61.4,
    "eur": 53.5,
    "eurFoil": 61.4,
-   "low": 37,
-   "lowFoil": 37,
+   "low": 36.8,
+   "lowFoil": 36.8,
    "trend": 51.3,
-   "trendFoil": 68.6
+   "trendFoil": 69.26
   },
   "tcg": {
    "usdFoil": 94.98
@@ -18254,7 +18255,7 @@
    "low": 50,
    "lowFoil": 50,
    "trend": 58.99,
-   "trendFoil": 67.72
+   "trendFoil": 68.04
   },
   "tcg": {
    "usdFoil": 99.99
@@ -18268,8 +18269,8 @@
    "avgFoil": 507.5,
    "eur": 420,
    "eurFoil": 507.5,
-   "low": 575,
-   "lowFoil": 575,
+   "low": 580,
+   "lowFoil": 580,
    "trend": 420,
    "trendFoil": 518.03
   },
@@ -18286,10 +18287,10 @@
    "avgFoil": 82.6,
    "eur": 90,
    "eurFoil": 82.6,
-   "low": 70,
-   "lowFoil": 70,
+   "low": 69,
+   "lowFoil": 69,
    "trend": 43,
-   "trendFoil": 83.74
+   "trendFoil": 84.49
   },
   "tcg": {
    "usdFoil": 136.03
@@ -18323,8 +18324,8 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
-   "trendFoil": 0.24
+   "trend": 0.04,
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.5,
@@ -18346,7 +18347,7 @@
    "low": 0.05,
    "lowFoil": 0.05,
    "trend": 0.7,
-   "trendFoil": 0.44
+   "trendFoil": 0.46
   },
   "tcg": {
    "usdFoil": 0.67
@@ -18364,7 +18365,7 @@
    "low": 0.25,
    "lowFoil": 0.25,
    "trend": 0.76,
-   "trendFoil": 0.6
+   "trendFoil": 0.58
   },
   "tcg": {
    "usdFoil": 0.34
@@ -18379,10 +18380,10 @@
    "avgFoil": 1.71,
    "eur": 1.54,
    "eurFoil": 1.71,
-   "low": 0.5,
-   "lowFoil": 0.5,
+   "low": 0.4,
+   "lowFoil": 0.4,
    "trend": 1.53,
-   "trendFoil": 1.27
+   "trendFoil": 1.23
   },
   "tcg": {
    "usdFoil": 0.83
@@ -18399,7 +18400,7 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
+   "trend": 0.1,
    "trendFoil": 0.18
   },
   "tcg": {
@@ -18422,7 +18423,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.12
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 3.5,
@@ -18444,7 +18445,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.13
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -18466,7 +18467,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.24
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 3.52,
@@ -18488,7 +18489,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.16,
-   "trendFoil": 0.21
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.5,
@@ -18510,7 +18511,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.2
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.5,
@@ -18532,7 +18533,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.21
+   "trendFoil": 0.23
   },
   "tcg": {
    "high": 3.5,
@@ -18553,8 +18554,8 @@
    "eurFoil": 0.36,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.15,
-   "trendFoil": 0.24
+   "trend": 0.17,
+   "trendFoil": 0.26
   },
   "tcg": {
    "high": 3.53,
@@ -18575,8 +18576,8 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.26
+   "trend": 0.13,
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 3.51,
@@ -18618,9 +18619,9 @@
    "eur": 0.06,
    "eurFoil": 0.29,
    "low": 0.02,
-   "lowFoil": 0.03,
+   "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.2
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3.5,
@@ -18642,7 +18643,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.03
+   "trendFoil": 0.04
   },
   "tcg": {
    "usdFoil": 0.16
@@ -18659,8 +18660,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.28,
-   "trendFoil": 0.13
+   "trend": 0.27,
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.19
@@ -18677,7 +18678,7 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.16,
+   "trend": 0.15,
    "trendFoil": 0.08
   },
   "tcg": {
@@ -18695,7 +18696,7 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.1,
    "trendFoil": 0.19
   },
   "tcg": {
@@ -18718,7 +18719,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.07,
-   "trendFoil": 0.05
+   "trendFoil": 0.08
   },
   "tcg": {
    "high": 3.5,
@@ -18732,9 +18733,9 @@
   "cm": {
    "avgFoil": 2105.45,
    "eurFoil": 2105.45,
-   "low": 1490,
-   "lowFoil": 1490,
-   "trendFoil": 2073.46
+   "low": 1400,
+   "lowFoil": 1400,
+   "trendFoil": 2105.65
   },
   "tcg": {
    "usdFoil": 1634.89
@@ -18751,8 +18752,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.24
+   "trend": 0.12,
+   "trendFoil": 0.25
   },
   "tcg": {
    "high": 3.51,
@@ -18772,9 +18773,9 @@
    "eur": 0.19,
    "eurFoil": 0.91,
    "low": 0.02,
-   "lowFoil": 0.08,
-   "trend": 0.2,
-   "trendFoil": 1.01
+   "lowFoil": 0.2,
+   "trend": 0.21,
+   "trendFoil": 0.99
   },
   "tcg": {
    "high": 3.59,
@@ -18795,7 +18796,7 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.14,
+   "trend": 0.16,
    "trendFoil": 0.24
   },
   "tcg": {
@@ -18817,8 +18818,8 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
-   "trendFoil": 0.21
+   "trend": 0.13,
+   "trendFoil": 0.2
   },
   "tcg": {
    "high": 3.5,
@@ -18839,8 +18840,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.26
+   "trend": 0.1,
+   "trendFoil": 0.28
   },
   "tcg": {
    "high": 3.5,
@@ -18862,7 +18863,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.13
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -18884,7 +18885,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.07
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -18905,7 +18906,7 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
+   "trend": 0.06,
    "trendFoil": 0.1
   },
   "tcg": {
@@ -18928,7 +18929,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.16,
-   "trendFoil": 0.22
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3.5,
@@ -18950,7 +18951,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 1.4,
-   "trendFoil": 1.2
+   "trendFoil": 1.25
   },
   "tcg": {
    "usdFoil": 0.54
@@ -18967,8 +18968,8 @@
    "eurFoil": 0.4,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.47,
-   "trendFoil": 0.32
+   "trend": 0.46,
+   "trendFoil": 0.34
   },
   "tcg": {
    "usdFoil": 0.48
@@ -18985,8 +18986,8 @@
    "eurFoil": 0.33,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.26,
-   "trendFoil": 0.22
+   "trend": 0.25,
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.42
@@ -19004,7 +19005,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.04
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.11
@@ -19019,10 +19020,10 @@
    "avgFoil": 14.99,
    "eur": 14.87,
    "eurFoil": 14.99,
-   "low": 11.5,
-   "lowFoil": 11.5,
-   "trend": 15.15,
-   "trendFoil": 15.09
+   "low": 11,
+   "lowFoil": 11,
+   "trend": 15.11,
+   "trendFoil": 15.11
   },
   "tcg": {
    "usdFoil": 17.45
@@ -19037,10 +19038,10 @@
    "avgFoil": 24.1,
    "eur": 26.44,
    "eurFoil": 24.1,
-   "low": 14,
-   "lowFoil": 14,
+   "low": 15,
+   "lowFoil": 15,
    "trend": 25.51,
-   "trendFoil": 23.83
+   "trendFoil": 23.54
   },
   "tcg": {
    "usdFoil": 22.93
@@ -19058,7 +19059,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.14,
-   "trendFoil": 0.24
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.5,
@@ -19080,7 +19081,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.13
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -19117,9 +19118,9 @@
    "eur": 0.11,
    "eurFoil": 0.31,
    "low": 0.02,
-   "lowFoil": 0.05,
+   "lowFoil": 0.1,
    "trend": 0.15,
-   "trendFoil": 0.23
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 3.52,
@@ -19141,7 +19142,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.07
+   "trendFoil": 0.08
   },
   "tcg": {
    "high": 3.5,
@@ -19185,7 +19186,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.18,
-   "trendFoil": 0.14
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3.5,
@@ -19207,7 +19208,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.07
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3.5,
@@ -19229,7 +19230,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.07
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 3.5,
@@ -19250,8 +19251,8 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.44
+   "trend": 0.11,
+   "trendFoil": 0.41
   },
   "tcg": {
    "high": 3.5,
@@ -19295,7 +19296,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.24,
-   "trendFoil": 0.17
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.22
@@ -19313,7 +19314,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.14
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.28
@@ -19331,7 +19332,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.13
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 4,
@@ -19352,8 +19353,8 @@
    "eurFoil": 0.42,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.14,
-   "trendFoil": 0.33
+   "trend": 0.13,
+   "trendFoil": 0.32
   },
   "tcg": {
    "high": 3.53,
@@ -19375,7 +19376,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.05
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.21
@@ -19410,8 +19411,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.12
+   "trend": 0.22,
+   "trendFoil": 0.13
   },
   "tcg": {
    "usdFoil": 0.22
@@ -19428,8 +19429,8 @@
    "eurFoil": 0.28,
    "low": 0.03,
    "lowFoil": 0.03,
-   "trend": 0.34,
-   "trendFoil": 0.18
+   "trend": 0.33,
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.31
@@ -19444,10 +19445,10 @@
    "avgFoil": 4.81,
    "eur": 4.94,
    "eurFoil": 4.81,
-   "low": 2.99,
-   "lowFoil": 2.99,
+   "low": 3,
+   "lowFoil": 3,
    "trend": 4.83,
-   "trendFoil": 4.24
+   "trendFoil": 4.15
   },
   "tcg": {
    "usdFoil": 5.77
@@ -19465,7 +19466,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.03,
-   "trendFoil": 0.08
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3.5,
@@ -19486,8 +19487,8 @@
    "eurFoil": 1.71,
    "low": 0.02,
    "lowFoil": 0.6,
-   "trend": 0.43,
-   "trendFoil": 1.57
+   "trend": 0.42,
+   "trendFoil": 1.62
   },
   "tcg": {
    "high": 3.76,
@@ -19509,7 +19510,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.07
+   "trendFoil": 0.06
   },
   "tcg": {
    "usdFoil": 0.11
@@ -19526,8 +19527,8 @@
    "eurFoil": 2.37,
    "low": 1.43,
    "lowFoil": 1.43,
-   "trend": 3.18,
-   "trendFoil": 3.43
+   "trend": 3.17,
+   "trendFoil": 3.56
   },
   "tcg": {
    "usdFoil": 5.16
@@ -19542,10 +19543,10 @@
    "avgFoil": 2.19,
    "eur": 1.9,
    "eurFoil": 2.19,
-   "low": 0.98,
-   "lowFoil": 0.98,
+   "low": 0.75,
+   "lowFoil": 0.75,
    "trend": 2.04,
-   "trendFoil": 1.95
+   "trendFoil": 1.87
   },
   "tcg": {
    "usdFoil": 1.62
@@ -19563,7 +19564,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.04,
-   "trendFoil": 0.15
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 3.5,
@@ -19607,7 +19608,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.19,
-   "trendFoil": 0.33
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 3.58,
@@ -19628,7 +19629,7 @@
    "eurFoil": 0.33,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.17
   },
   "tcg": {
@@ -19708,8 +19709,8 @@
    "eurFoil": 0.24,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.17
+   "trend": 0.12,
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 3.53,
@@ -19730,8 +19731,8 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
-   "trendFoil": 0.13
+   "trend": 0.05,
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 3.5,
@@ -19753,7 +19754,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.06
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 3.5,
@@ -19775,7 +19776,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.12,
-   "trendFoil": 0.07
+   "trendFoil": 0.06
   },
   "tcg": {
    "usdFoil": 0.18
@@ -19792,8 +19793,8 @@
    "eurFoil": 0.2,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.1
+   "trend": 0.09,
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 3.5,
@@ -19829,7 +19830,7 @@
    "avg7": 0.75,
    "eur": 0.73,
    "low": 0.2,
-   "trend": 1
+   "trend": 0.97
   },
   "tcg": {
    "high": 12.75,
@@ -19850,7 +19851,7 @@
    "low": 0.49,
    "lowFoil": 0.49,
    "trend": 2.11,
-   "trendFoil": 2.51
+   "trendFoil": 2.54
   },
   "tcg": {
    "usdFoil": 4.67
@@ -19868,7 +19869,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.15,
-   "trendFoil": 0.09
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.48
@@ -19922,7 +19923,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.06,
-   "trendFoil": 0.2
+   "trendFoil": 0.21
   },
   "tcg": {
    "usdFoil": 0.43
@@ -19958,7 +19959,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.03,
-   "trendFoil": 0.16
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.25
@@ -19976,7 +19977,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.33,
-   "trendFoil": 0.2
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.41
@@ -19994,7 +19995,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.2,
-   "trendFoil": 0.24
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 0.6
@@ -20030,7 +20031,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.11
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.5
@@ -20048,7 +20049,7 @@
    "low": 0.05,
    "lowFoil": 0.05,
    "trend": 0.26,
-   "trendFoil": 0.18
+   "trendFoil": 0.16
   },
   "tcg": {
    "usdFoil": 0.7
@@ -20084,7 +20085,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.19
+   "trendFoil": 0.23
   },
   "tcg": {
    "usdFoil": 0.55
@@ -20153,10 +20154,10 @@
    "avgFoil": 0.31,
    "eur": 0.24,
    "eurFoil": 0.31,
-   "low": 0.05,
-   "lowFoil": 0.05,
+   "low": 0.02,
+   "lowFoil": 0.02,
    "trend": 0.65,
-   "trendFoil": 0.17
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 1.56
@@ -20196,7 +20197,7 @@
    "low": 0.05,
    "lowFoil": 0.05,
    "trend": 0.35,
-   "trendFoil": 0.24
+   "trendFoil": 0.22
   },
   "tcg": {
    "usdFoil": 2.44
@@ -20224,7 +20225,7 @@
    "low": 6.5,
    "lowFoil": 6.5,
    "trend": 4.9,
-   "trendFoil": 4.6
+   "trendFoil": 4.58
   },
   "tcg": {
    "usdFoil": 48.37
@@ -20241,7 +20242,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 0.61,
-   "trendFoil": 0.43
+   "trendFoil": 0.4
   },
   "tcg": {
    "usdFoil": 0.96
@@ -20281,8 +20282,8 @@
   "cm": {
    "avgFoil": 306.6,
    "eurFoil": 306.6,
-   "low": 320,
-   "lowFoil": 320,
+   "low": 329.95,
+   "lowFoil": 329.95,
    "trendFoil": 336.83
   },
   "tcg": {
@@ -20301,7 +20302,7 @@
    "low": 90,
    "lowFoil": 90,
    "trend": 113.58,
-   "trendFoil": 96.81
+   "trendFoil": 98.49
   },
   "tcg": {
    "usdFoil": 100.92
@@ -20317,8 +20318,8 @@
    "eurFoil": 13.75,
    "low": 9.7,
    "lowFoil": 9.7,
-   "trend": 11.09,
-   "trendFoil": 10.34
+   "trend": 11.11,
+   "trendFoil": 10.53
   },
   "tcg": {
    "usdFoil": 13.78
@@ -20336,7 +20337,7 @@
    "low": 1.49,
    "lowFoil": 1.49,
    "trend": 2.44,
-   "trendFoil": 1.52
+   "trendFoil": 1.65
   },
   "tcg": {
    "usdFoil": 1.17
@@ -20354,7 +20355,7 @@
    "low": 9,
    "lowFoil": 9,
    "trend": 13.52,
-   "trendFoil": 12.71
+   "trendFoil": 12.56
   },
   "tcg": {
    "usdFoil": 16.85
@@ -20372,7 +20373,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.45,
-   "trendFoil": 0.2
+   "trendFoil": 0.25
   },
   "tcg": {
    "usdFoil": 0.31
@@ -20389,8 +20390,8 @@
    "eurFoil": 3.78,
    "low": 1,
    "lowFoil": 1,
-   "trend": 2.12,
-   "trendFoil": 1.03
+   "trend": 1.89,
+   "trendFoil": 1.04
   },
   "tcg": {
    "usdFoil": 0.7
@@ -20408,7 +20409,7 @@
    "low": 3.99,
    "lowFoil": 3.99,
    "trend": 5.57,
-   "trendFoil": 4.32
+   "trendFoil": 4.18
   },
   "tcg": {
    "usdFoil": 3.06
@@ -20425,7 +20426,7 @@
    "eurFoil": 0.19,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -20448,7 +20449,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.1
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 2,
@@ -20509,7 +20510,7 @@
    "low": 0.3,
    "lowFoil": 0.3,
    "trend": 0.77,
-   "trendFoil": 0.58
+   "trendFoil": 0.62
   },
   "tcg": {
    "usdFoil": 0.56
@@ -20526,7 +20527,7 @@
    "eurFoil": 0.08,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.07,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -20591,7 +20592,7 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.09,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -20614,7 +20615,7 @@
    "low": 0.2,
    "lowFoil": 0.2,
    "trend": 1.47,
-   "trendFoil": 0.66
+   "trendFoil": 0.76
   },
   "tcg": {
    "usdFoil": 0.93
@@ -20631,7 +20632,7 @@
    "low": 100,
    "lowFoil": 100,
    "trend": 94.99,
-   "trendFoil": 112.69
+   "trendFoil": 117.15
   },
   "tcg": {
    "usdFoil": 164.76
@@ -20648,8 +20649,8 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
-   "trendFoil": 0.71
+   "trend": 0.06,
+   "trendFoil": 0.61
   },
   "tcg": {
    "usdFoil": 0.14
@@ -20667,7 +20668,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.02,
-   "trendFoil": 0.02
+   "trendFoil": 0.05
   },
   "tcg": {
    "high": 2,
@@ -20689,7 +20690,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 3.72,
-   "trendFoil": 2.58
+   "trendFoil": 2.56
   },
   "tcg": {
    "usdFoil": 1.59
@@ -20707,7 +20708,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.21,
-   "trendFoil": 0.02
+   "trendFoil": 0.04
   },
   "tcg": {
    "usdFoil": 0.17
@@ -20724,8 +20725,8 @@
    "eurFoil": 0.49,
    "low": 0.03,
    "lowFoil": 0.03,
-   "trend": 0.33,
-   "trendFoil": 0.14
+   "trend": 0.36,
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.27
@@ -20742,7 +20743,7 @@
    "eurFoil": 0.15,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
+   "trend": 0.12,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -20760,7 +20761,7 @@
    "low": 0.29,
    "lowFoil": 0.29,
    "trend": 1.38,
-   "trendFoil": 0.58
+   "trendFoil": 0.67
   },
   "tcg": {
    "usdFoil": 0.86
@@ -20776,8 +20777,8 @@
    "eurFoil": 0.16,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
-   "trendFoil": 0.08
+   "trend": 0.1,
+   "trendFoil": 0.11
   },
   "tcg": {
    "usdFoil": 0.14
@@ -20811,7 +20812,7 @@
    "eurFoil": 54.33,
    "low": 45,
    "lowFoil": 45,
-   "trendFoil": 52.52
+   "trendFoil": 53.74
   },
   "tcg": {
    "usdFoil": 81.02
@@ -20846,8 +20847,8 @@
    "eurFoil": 22.17,
    "low": 16,
    "lowFoil": 16,
-   "trend": 21.31,
-   "trendFoil": 16.56
+   "trend": 21.04,
+   "trendFoil": 16.91
   },
   "tcg": {
    "usdFoil": 16.64
@@ -20864,7 +20865,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -20883,7 +20884,7 @@
    "avg7": 0.09,
    "eur": 0.07,
    "low": 0.02,
-   "trend": 0.08
+   "trend": 0.07
   },
   "tcg": {
    "high": 20,
@@ -20903,7 +20904,7 @@
    "low": 88.99,
    "lowFoil": 88.99,
    "trend": 119.99,
-   "trendFoil": 87.76
+   "trendFoil": 88.39
   },
   "tcg": {
    "usdFoil": 98.72
@@ -20920,8 +20921,8 @@
    "eurFoil": 0.61,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.2,
-   "trendFoil": 0.02
+   "trend": 0.21,
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.24
@@ -20937,8 +20938,8 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.02
+   "trend": 0.21,
+   "trendFoil": 0.04
   },
   "tcg": {
    "usdFoil": 0.14
@@ -20955,8 +20956,8 @@
    "eurFoil": 0.8,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.12,
-   "trendFoil": 0.19
+   "trend": 0.11,
+   "trendFoil": 0.15
   },
   "tcg": {
    "high": 20,
@@ -20977,7 +20978,7 @@
    "low": 229.9,
    "lowFoil": 229.9,
    "trend": 224.99,
-   "trendFoil": 211.76
+   "trendFoil": 217.52
   },
   "tcg": {
    "usdFoil": 274.6
@@ -20994,8 +20995,8 @@
    "eurFoil": 0.22,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
-   "trendFoil": 0.04
+   "trend": 0.06,
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.12
@@ -21012,7 +21013,7 @@
    "eurFoil": 0.95,
    "low": 0.02,
    "lowFoil": 0.11,
-   "trend": 0.24,
+   "trend": 0.22,
    "trendFoil": 0.61
   },
   "tcg": {
@@ -21070,7 +21071,7 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
+   "trend": 0.03,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -21092,7 +21093,7 @@
    "low": 70,
    "lowFoil": 70,
    "trend": 79.99,
-   "trendFoil": 73.39
+   "trendFoil": 74.13
   },
   "tcg": {
    "usdFoil": 103.89
@@ -21109,8 +21110,8 @@
    "eurFoil": 0.42,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.08
+   "trend": 0.23,
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.2
@@ -21127,7 +21128,7 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
+   "trend": 0.08,
    "trendFoil": 0.04
   },
   "tcg": {
@@ -21167,7 +21168,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 3.31,
-   "trendFoil": 2.28
+   "trendFoil": 2.36
   },
   "tcg": {
    "usdFoil": 1.79
@@ -21201,8 +21202,8 @@
    "eurFoil": 3.11,
    "low": 1,
    "lowFoil": 1,
-   "trend": 2.36,
-   "trendFoil": 1.65
+   "trend": 1.99,
+   "trendFoil": 1.67
   },
   "tcg": {
    "usdFoil": 1.08
@@ -21214,7 +21215,7 @@
    "eurFoil": 70.43,
    "low": 69.99,
    "lowFoil": 69.99,
-   "trendFoil": 80.2
+   "trendFoil": 82.3
   },
   "tcg": {
    "usdFoil": 93.16
@@ -21231,7 +21232,7 @@
    "low": 110,
    "lowFoil": 110,
    "trend": 148.99,
-   "trendFoil": 104.64
+   "trendFoil": 106.87
   },
   "tcg": {
    "usdFoil": 120.44
@@ -21248,8 +21249,8 @@
    "eurFoil": 0.18,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
-   "trendFoil": 0.08
+   "trend": 0.04,
+   "trendFoil": 0.07
   },
   "tcg": {
    "high": 20,
@@ -21270,7 +21271,7 @@
    "low": 1.95,
    "lowFoil": 1.95,
    "trend": 3.13,
-   "trendFoil": 2.8
+   "trendFoil": 2.88
   },
   "tcg": {
    "usdFoil": 3.37
@@ -21287,8 +21288,8 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.28,
-   "trendFoil": 0.11
+   "trend": 0.33,
+   "trendFoil": 0.14
   },
   "tcg": {
    "usdFoil": 0.22
@@ -21305,8 +21306,8 @@
    "eurFoil": 9.99,
    "low": 3.5,
    "lowFoil": 3.5,
-   "trend": 6.51,
-   "trendFoil": 5.32
+   "trend": 7.01,
+   "trendFoil": 5.29
   },
   "tcg": {
    "usdFoil": 3.06
@@ -21318,7 +21319,7 @@
    "eurFoil": 53.47,
    "low": 40,
    "lowFoil": 40,
-   "trendFoil": 59.34
+   "trendFoil": 58.82
   },
   "tcg": {
    "usdFoil": 70.23
@@ -21336,7 +21337,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.14,
-   "trendFoil": 0.44
+   "trendFoil": 0.42
   },
   "tcg": {
    "high": 20,
@@ -21379,8 +21380,8 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.13,
-   "trendFoil": 0.28
+   "trend": 0.18,
+   "trendFoil": 0.29
   },
   "tcg": {
    "high": 20,
@@ -21401,8 +21402,8 @@
    "eurFoil": 27.15,
    "low": 15,
    "lowFoil": 15,
-   "trend": 21.73,
-   "trendFoil": 20.11
+   "trend": 20.96,
+   "trendFoil": 19.74
   },
   "tcg": {
    "usdFoil": 15.74
@@ -21419,8 +21420,8 @@
    "eurFoil": 32.58,
    "low": 18,
    "lowFoil": 18,
-   "trend": 32.71,
-   "trendFoil": 28.73
+   "trend": 32.99,
+   "trendFoil": 29.67
   },
   "tcg": {
    "usdFoil": 50.56
@@ -21450,7 +21451,7 @@
    "eurFoil": 125.95,
    "low": 120,
    "lowFoil": 120,
-   "trendFoil": 175.45
+   "trendFoil": 176.35
   },
   "tcg": {
    "usdFoil": 186.44
@@ -21468,7 +21469,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.03,
-   "trendFoil": 0.03
+   "trendFoil": 0.02
   },
   "tcg": {
    "usdFoil": 0.14
@@ -21486,7 +21487,7 @@
    "low": 65,
    "lowFoil": 65,
    "trend": 95,
-   "trendFoil": 90.89
+   "trendFoil": 88.01
   },
   "tcg": {
    "usdFoil": 127.95
@@ -21502,8 +21503,8 @@
    "eurFoil": 3.98,
    "low": 2,
    "lowFoil": 2,
-   "trend": 4.74,
-   "trendFoil": 2.73
+   "trend": 4.09,
+   "trendFoil": 2.79
   },
   "tcg": {
    "usdFoil": 1.49
@@ -21520,8 +21521,8 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
-   "trendFoil": 0.04
+   "trend": 0.13,
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 0.19
@@ -21539,7 +21540,7 @@
    "low": 2.25,
    "lowFoil": 2.25,
    "trend": 3.48,
-   "trendFoil": 2.7
+   "trendFoil": 2.72
   },
   "tcg": {
    "usdFoil": 1.54
@@ -21557,7 +21558,7 @@
    "low": 5.89,
    "lowFoil": 5.89,
    "trend": 11.56,
-   "trendFoil": 6.59
+   "trendFoil": 6.66
   },
   "tcg": {
    "usdFoil": 5.03
@@ -21574,8 +21575,8 @@
    "eurFoil": 0.3,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.07,
-   "trendFoil": 0.11
+   "trend": 0.06,
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 20,
@@ -21613,8 +21614,8 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.13
+   "trend": 0.12,
+   "trendFoil": 0.15
   },
   "tcg": {
    "usdFoil": 0.18
@@ -21631,8 +21632,8 @@
    "eurFoil": 0.4,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.1,
-   "trendFoil": 0.13
+   "trend": 0.09,
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 20,
@@ -21654,7 +21655,7 @@
    "low": 0.65,
    "lowFoil": 0.65,
    "trend": 1.31,
-   "trendFoil": 0.79
+   "trendFoil": 0.85
   },
   "tcg": {
    "usdFoil": 0.75
@@ -21671,7 +21672,7 @@
    "low": 3.4,
    "lowFoil": 3.4,
    "trend": 4.68,
-   "trendFoil": 3.63
+   "trendFoil": 3.67
   },
   "tcg": {
    "usdFoil": 3.21
@@ -21688,8 +21689,8 @@
    "eurFoil": 0.14,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.09,
-   "trendFoil": 0.02
+   "trend": 0.07,
+   "trendFoil": 0.04
   },
   "tcg": {
    "usdFoil": 0.14
@@ -21706,7 +21707,7 @@
    "low": 0.95,
    "lowFoil": 0.95,
    "trend": 2.69,
-   "trendFoil": 0.02
+   "trendFoil": 0.05
   },
   "tcg": {
    "usdFoil": 1.57
@@ -21724,7 +21725,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.08
+   "trendFoil": 0.11
   },
   "tcg": {
    "high": 20,
@@ -21767,8 +21768,8 @@
    "eurFoil": 4.72,
    "low": 0.8,
    "lowFoil": 0.8,
-   "trend": 2.78,
-   "trendFoil": 1.55
+   "trend": 3.41,
+   "trendFoil": 1.56
   },
   "tcg": {
    "usdFoil": 1.39
@@ -21785,8 +21786,8 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.12,
-   "trendFoil": 0.11
+   "trend": 0.11,
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 20,
@@ -21825,8 +21826,8 @@
    "eurFoil": 1.24,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.2,
-   "trendFoil": 0.54
+   "trend": 0.19,
+   "trendFoil": 0.63
   },
   "tcg": {
    "high": 20,
@@ -21847,8 +21848,8 @@
    "eurFoil": 0.89,
    "low": 0.02,
    "lowFoil": 0.09,
-   "trend": 0.18,
-   "trendFoil": 0.61
+   "trend": 0.17,
+   "trendFoil": 0.59
   },
   "tcg": {
    "high": 20,
@@ -21870,7 +21871,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.05,
-   "trendFoil": 0.25
+   "trendFoil": 0.23
   },
   "tcg": {
    "high": 20,
@@ -21891,7 +21892,7 @@
    "eurFoil": 0.21,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.09,
    "trendFoil": 0.09
   },
   "tcg": {
@@ -21936,7 +21937,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.13,
-   "trendFoil": 0.02
+   "trendFoil": 0.07
   },
   "tcg": {
    "usdFoil": 0.14
@@ -21953,8 +21954,8 @@
    "eurFoil": 0.89,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.16,
-   "trendFoil": 0.85
+   "trend": 0.17,
+   "trendFoil": 0.88
   },
   "tcg": {
    "high": 20,
@@ -21976,7 +21977,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.16,
-   "trendFoil": 1.61
+   "trendFoil": 1.64
   },
   "tcg": {
    "high": 2,
@@ -21998,7 +21999,7 @@
    "low": 7,
    "lowFoil": 7,
    "trend": 15.33,
-   "trendFoil": 15.38
+   "trendFoil": 14.69
   },
   "tcg": {
    "usdFoil": 5.21
@@ -22056,7 +22057,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 2.28,
-   "trendFoil": 1.46
+   "trendFoil": 1.56
   },
   "tcg": {
    "usdFoil": 1.58
@@ -22073,7 +22074,7 @@
    "low": 115,
    "lowFoil": 115,
    "trend": 79,
-   "trendFoil": 117.22
+   "trendFoil": 118.77
   },
   "tcg": {
    "usdFoil": 157.77
@@ -22090,8 +22091,8 @@
    "eurFoil": 0.75,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.13,
-   "trendFoil": 0.36
+   "trend": 0.12,
+   "trendFoil": 0.38
   },
   "tcg": {
    "high": 20,
@@ -22111,7 +22112,7 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.14,
+   "trend": 0.2,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -22147,7 +22148,7 @@
    "low": 250,
    "lowFoil": 250,
    "trend": 312,
-   "trendFoil": 344.04
+   "trendFoil": 342.7
   },
   "tcg": {
    "usdFoil": 501.85
@@ -22165,7 +22166,7 @@
    "low": 0.02,
    "lowFoil": 0.07,
    "trend": 0.09,
-   "trendFoil": 0.1
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 20,
@@ -22187,7 +22188,7 @@
    "low": 0.02,
    "lowFoil": 0.09,
    "trend": 0.16,
-   "trendFoil": 0.27
+   "trendFoil": 0.31
   },
   "tcg": {
    "high": 20,
@@ -22207,8 +22208,8 @@
    "eurFoil": 23,
    "low": 14,
    "lowFoil": 14,
-   "trend": 22.08,
-   "trendFoil": 15.37
+   "trend": 23.73,
+   "trendFoil": 15.95
   },
   "tcg": {
    "usdFoil": 14.5
@@ -22226,7 +22227,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.05,
-   "trendFoil": 0.14
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 20,
@@ -22248,7 +22249,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.11,
-   "trendFoil": 0.02
+   "trendFoil": 0.05
   },
   "tcg": {
    "high": 20,
@@ -22270,7 +22271,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.14,
-   "trendFoil": 0.22
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 20,
@@ -22292,7 +22293,7 @@
    "low": 0.5,
    "lowFoil": 0.5,
    "trend": 2.37,
-   "trendFoil": 1.12
+   "trendFoil": 1
   },
   "tcg": {
    "usdFoil": 1.1
@@ -22309,7 +22310,7 @@
    "low": 1.5,
    "lowFoil": 1.5,
    "trend": 3.38,
-   "trendFoil": 2.32
+   "trendFoil": 2.4
   },
   "tcg": {
    "usdFoil": 2.07
@@ -22326,8 +22327,8 @@
    "eurFoil": 1.2,
    "low": 0.1,
    "lowFoil": 0.1,
-   "trend": 0.78,
-   "trendFoil": 0.28
+   "trend": 0.86,
+   "trendFoil": 0.42
   },
   "tcg": {
    "usdFoil": 0.33
@@ -22345,7 +22346,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 2.22,
-   "trendFoil": 1.53
+   "trendFoil": 1.42
   },
   "tcg": {
    "usdFoil": 1.04
@@ -22380,8 +22381,8 @@
    "eurFoil": 16.25,
    "low": 11.99,
    "lowFoil": 11.99,
-   "trend": 16.11,
-   "trendFoil": 14.53
+   "trend": 15.93,
+   "trendFoil": 14.28
   },
   "tcg": {
    "usdFoil": 13.03
@@ -22437,8 +22438,8 @@
    "eurFoil": 31.03,
    "low": 25,
    "lowFoil": 25,
-   "trend": 31.9,
-   "trendFoil": 26.87
+   "trend": 32.07,
+   "trendFoil": 27.28
   },
   "tcg": {
    "usdFoil": 34.62
@@ -22455,7 +22456,7 @@
    "low": 140,
    "lowFoil": 140,
    "trend": 193.03,
-   "trendFoil": 191.99
+   "trendFoil": 190.93
   },
   "tcg": {
    "usdFoil": 217.39
@@ -22471,7 +22472,7 @@
    "eurFoil": 0.17,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.07,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -22490,7 +22491,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.17
+   "trendFoil": 0.2
   },
   "tcg": {
    "usdFoil": 0.34
@@ -22525,8 +22526,8 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.17,
-   "trendFoil": 0.22
+   "trend": 0.16,
+   "trendFoil": 0.21
   },
   "tcg": {
    "high": 20,
@@ -22548,7 +22549,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.05,
-   "trendFoil": 0.09
+   "trendFoil": 0.07
   },
   "tcg": {
    "high": 20,
@@ -22570,7 +22571,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.11,
-   "trendFoil": 0.11
+   "trendFoil": 0.14
   },
   "tcg": {
    "high": 20,
@@ -22592,7 +22593,7 @@
    "low": 89.95,
    "lowFoil": 89.95,
    "trend": 85.66,
-   "trendFoil": 92.86
+   "trendFoil": 92.97
   },
   "tcg": {
    "usdFoil": 105.21
@@ -22605,7 +22606,7 @@
    "low": 69.99,
    "lowFoil": 69.99,
    "trend": 74.99,
-   "trendFoil": 70.46
+   "trendFoil": 70.67
   },
   "tcg": {
    "usdFoil": 78.08
@@ -22639,8 +22640,8 @@
    "eurFoil": 0.74,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.16,
-   "trendFoil": 0.27
+   "trend": 0.15,
+   "trendFoil": 0.26
   },
   "tcg": {
    "high": 20,
@@ -22680,7 +22681,7 @@
    "low": 67,
    "lowFoil": 67,
    "trend": 79.99,
-   "trendFoil": 71.6
+   "trendFoil": 70.03
   },
   "tcg": {
    "usdFoil": 64.98
@@ -22698,7 +22699,7 @@
    "low": 2.3,
    "lowFoil": 2.3,
    "trend": 5.04,
-   "trendFoil": 3.19
+   "trendFoil": 3.46
   },
   "tcg": {
    "usdFoil": 4.34
@@ -22715,8 +22716,8 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.16,
-   "trendFoil": 0.1
+   "trend": 0.17,
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.24
@@ -22733,7 +22734,7 @@
    "low": 2.99,
    "lowFoil": 2.99,
    "trend": 5.39,
-   "trendFoil": 4.15
+   "trendFoil": 4.22
   },
   "tcg": {
    "usdFoil": 4.22
@@ -22751,7 +22752,7 @@
    "low": 47,
    "lowFoil": 47,
    "trend": 63,
-   "trendFoil": 51.56
+   "trendFoil": 52.05
   },
   "tcg": {
    "usdFoil": 53.79
@@ -22768,8 +22769,8 @@
    "eurFoil": 12.15,
    "low": 14,
    "lowFoil": 14,
-   "trend": 24.02,
-   "trendFoil": 21.97
+   "trend": 24.38,
+   "trendFoil": 22.4
   },
   "tcg": {
    "usdFoil": 26.94
@@ -22786,7 +22787,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.03,
+   "trend": 0.02,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -22808,8 +22809,8 @@
    "eurFoil": 0.8,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.21,
-   "trendFoil": 0.31
+   "trend": 0.2,
+   "trendFoil": 0.29
   },
   "tcg": {
    "high": 2.5,
@@ -22830,8 +22831,8 @@
    "eurFoil": 0.46,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.08
+   "trend": 0.25,
+   "trendFoil": 0.09
   },
   "tcg": {
    "usdFoil": 0.24
@@ -22848,8 +22849,8 @@
    "eurFoil": 0.36,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.32,
-   "trendFoil": 0.11
+   "trend": 0.35,
+   "trendFoil": 0.18
   },
   "tcg": {
    "usdFoil": 0.26
@@ -22866,7 +22867,7 @@
    "low": 125,
    "lowFoil": 125,
    "trend": 198.99,
-   "trendFoil": 197
+   "trendFoil": 197.29
   },
   "tcg": {
    "usdFoil": 214.46
@@ -22883,7 +22884,7 @@
    "low": 70,
    "lowFoil": 70,
    "trend": 86.08,
-   "trendFoil": 92.42
+   "trendFoil": 92.5
   },
   "tcg": {
    "usdFoil": 163.88
@@ -22900,8 +22901,8 @@
    "eurFoil": 0.93,
    "low": 0.02,
    "lowFoil": 0.2,
-   "trend": 0.22,
-   "trendFoil": 0.42
+   "trend": 0.27,
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 2.74,
@@ -22922,8 +22923,8 @@
    "eurFoil": 0.29,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
-   "trendFoil": 0.03
+   "trend": 0.04,
+   "trendFoil": 0.04
   },
   "tcg": {
    "high": 2.98,
@@ -22944,7 +22945,7 @@
    "eurFoil": 2.03,
    "low": 0.49,
    "lowFoil": 0.49,
-   "trend": 1.82,
+   "trend": 1.64,
    "trendFoil": 1.38
   },
   "tcg": {
@@ -22962,7 +22963,7 @@
    "eurFoil": 0.43,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
+   "trend": 0.27,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -22998,8 +22999,8 @@
    "eurFoil": 64.77,
    "low": 58,
    "lowFoil": 58,
-   "trend": 70.37,
-   "trendFoil": 67.69
+   "trend": 71.07,
+   "trendFoil": 68.99
   },
   "tcg": {
    "usdFoil": 95.1
@@ -23017,7 +23018,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.37,
-   "trendFoil": 0.18
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.3
@@ -23034,7 +23035,7 @@
    "low": 60,
    "lowFoil": 60,
    "trend": 69.97,
-   "trendFoil": 76.25
+   "trendFoil": 76.99
   },
   "tcg": {
    "usdFoil": 98.69
@@ -23051,7 +23052,7 @@
    "low": 64.99,
    "lowFoil": 64.99,
    "trend": 89.99,
-   "trendFoil": 74.19
+   "trendFoil": 72.35
   },
   "tcg": {
    "usdFoil": 82.85
@@ -23068,8 +23069,8 @@
    "eurFoil": 0.44,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
-   "trendFoil": 0.04
+   "trend": 0.09,
+   "trendFoil": 0.02
   },
   "tcg": {
    "high": 20,
@@ -23112,8 +23113,8 @@
    "eurFoil": 1.53,
    "low": 0.25,
    "lowFoil": 0.25,
-   "trend": 1,
-   "trendFoil": 0.67
+   "trend": 1.03,
+   "trendFoil": 0.62
   },
   "tcg": {
    "usdFoil": 0.68
@@ -23129,8 +23130,8 @@
    "eurFoil": 3.49,
    "low": 2.4,
    "lowFoil": 2.4,
-   "trend": 3.58,
-   "trendFoil": 2.57
+   "trend": 3.65,
+   "trendFoil": 2.71
   },
   "tcg": {
    "usdFoil": 1.92
@@ -23147,8 +23148,8 @@
    "eurFoil": 0.46,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.05
+   "trend": 0.12,
+   "trendFoil": 0.06
   },
   "tcg": {
    "high": 20,
@@ -23170,7 +23171,7 @@
    "low": 0.3,
    "lowFoil": 0.3,
    "trend": 1.3,
-   "trendFoil": 0.57
+   "trendFoil": 0.71
   },
   "tcg": {
    "usdFoil": 0.39
@@ -23187,7 +23188,7 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.03,
+   "trend": 0.02,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23209,8 +23210,8 @@
    "eurFoil": 0.93,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.52
+   "trend": 0.14,
+   "trendFoil": 0.53
   },
   "tcg": {
    "high": 2.46,
@@ -23232,7 +23233,7 @@
    "low": 1,
    "lowFoil": 1,
    "trend": 1.88,
-   "trendFoil": 1.11
+   "trendFoil": 1.18
   },
   "tcg": {
    "usdFoil": 1.34
@@ -23272,7 +23273,7 @@
    "low": 2.79,
    "lowFoil": 2.79,
    "trend": 4.02,
-   "trendFoil": 3.12
+   "trendFoil": 3.2
   },
   "tcg": {
    "usdFoil": 2.12
@@ -23290,7 +23291,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.02
+   "trendFoil": 0.03
   },
   "tcg": {
    "usdFoil": 0.21
@@ -23308,7 +23309,7 @@
    "low": 0.02,
    "lowFoil": 0.14,
    "trend": 0.13,
-   "trendFoil": 0.65
+   "trendFoil": 0.77
   },
   "tcg": {
    "high": 2,
@@ -23329,8 +23330,8 @@
    "eurFoil": 0.51,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.11,
-   "trendFoil": 0.22
+   "trend": 0.12,
+   "trendFoil": 0.2
   },
   "tcg": {
    "high": 2.2,
@@ -23351,8 +23352,8 @@
    "eurFoil": 1.88,
    "low": 0.45,
    "lowFoil": 0.45,
-   "trend": 1.06,
-   "trendFoil": 0.59
+   "trend": 0.89,
+   "trendFoil": 0.68
   },
   "tcg": {
    "usdFoil": 0.5
@@ -23370,7 +23371,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.08,
-   "trendFoil": 0.02
+   "trendFoil": 0.05
   },
   "tcg": {
    "high": 2,
@@ -23391,7 +23392,7 @@
    "eurFoil": 0.43,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.31,
+   "trend": 0.3,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23409,7 +23410,7 @@
    "eurFoil": 0.25,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
+   "trend": 0.06,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23431,8 +23432,8 @@
    "eurFoil": 0.32,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.13,
-   "trendFoil": 0.1
+   "trend": 0.15,
+   "trendFoil": 0.08
   },
   "tcg": {
    "high": 2.48,
@@ -23453,8 +23454,8 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.09,
-   "trendFoil": 0.2
+   "trend": 0.1,
+   "trendFoil": 0.18
   },
   "tcg": {
    "high": 2.98,
@@ -23497,7 +23498,7 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
+   "trend": 0.03,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23519,7 +23520,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.1,
+   "trend": 0.12,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23541,8 +23542,8 @@
    "eurFoil": 4.99,
    "low": 4,
    "lowFoil": 4,
-   "trend": 6.1,
-   "trendFoil": 5.32
+   "trend": 6.28,
+   "trendFoil": 5.45
   },
   "tcg": {
    "usdFoil": 8.53
@@ -23581,7 +23582,7 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23603,8 +23604,8 @@
    "eurFoil": 15.46,
    "low": 9,
    "lowFoil": 9,
-   "trend": 13.35,
-   "trendFoil": 9.11
+   "trend": 13.05,
+   "trendFoil": 8.95
   },
   "tcg": {
    "usdFoil": 7.06
@@ -23621,8 +23622,8 @@
    "eurFoil": 3.48,
    "low": 1.9,
    "lowFoil": 1.9,
-   "trend": 3.52,
-   "trendFoil": 2.86
+   "trend": 3.93,
+   "trendFoil": 2.93
   },
   "tcg": {
    "usdFoil": 5.7
@@ -23639,7 +23640,7 @@
    "eurFoil": 0.41,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.29,
+   "trend": 0.27,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23661,7 +23662,7 @@
    "eurFoil": 0.28,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23684,7 +23685,7 @@
    "low": 40,
    "lowFoil": 40,
    "trend": 44.99,
-   "trendFoil": 45.85
+   "trendFoil": 46.46
   },
   "tcg": {
    "usdFoil": 62.97
@@ -23701,8 +23702,8 @@
    "eurFoil": 0.59,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.16,
-   "trendFoil": 0.42
+   "trend": 0.17,
+   "trendFoil": 0.37
   },
   "tcg": {
    "high": 2.99,
@@ -23723,8 +23724,8 @@
    "eurFoil": 0.61,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.14,
-   "trendFoil": 0.18
+   "trend": 0.13,
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 20,
@@ -23745,7 +23746,7 @@
    "eurFoil": 0.31,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.07,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23790,7 +23791,7 @@
    "low": 0.02,
    "lowFoil": 0.1,
    "trend": 0.06,
-   "trendFoil": 0.15
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 20,
@@ -23811,7 +23812,7 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.17,
+   "trend": 0.18,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23852,7 +23853,7 @@
    "low": 3.5,
    "lowFoil": 3.5,
    "trend": 4.71,
-   "trendFoil": 4.67
+   "trendFoil": 4.41
   },
   "tcg": {
    "usdFoil": 1.81
@@ -23864,7 +23865,7 @@
    "eurFoil": 61.61,
    "low": 49,
    "lowFoil": 49,
-   "trendFoil": 62.7
+   "trendFoil": 62.22
   },
   "tcg": {
    "usdFoil": 67.24
@@ -23881,7 +23882,7 @@
    "eurFoil": 0.36,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
+   "trend": 0.03,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -23904,7 +23905,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.1,
-   "trendFoil": 0.1
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 20,
@@ -23926,7 +23927,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.02,
-   "trendFoil": 0.08
+   "trendFoil": 0.1
   },
   "tcg": {
    "high": 20,
@@ -23947,7 +23948,7 @@
    "low": 26,
    "lowFoil": 26,
    "trend": 52.9,
-   "trendFoil": 49.08
+   "trendFoil": 48.38
   },
   "tcg": {
    "usdFoil": 55.24
@@ -23965,7 +23966,7 @@
    "low": 0.02,
    "lowFoil": 0.04,
    "trend": 0.09,
-   "trendFoil": 0.08
+   "trendFoil": 0.16
   },
   "tcg": {
    "high": 10,
@@ -24008,8 +24009,8 @@
    "eurFoil": 0.77,
    "low": 0.02,
    "lowFoil": 0.1,
-   "trend": 0.09,
-   "trendFoil": 0.28
+   "trend": 0.08,
+   "trendFoil": 0.35
   },
   "tcg": {
    "high": 3.99,
@@ -24031,7 +24032,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.1,
-   "trendFoil": 0.13
+   "trendFoil": 0.17
   },
   "tcg": {
    "high": 25,
@@ -24092,8 +24093,8 @@
    "eurFoil": 0.41,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.04,
-   "trendFoil": 0.11
+   "trend": 0.03,
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 2.48,
@@ -24136,8 +24137,8 @@
    "eurFoil": 0.48,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.24,
-   "trendFoil": 0.14
+   "trend": 0.29,
+   "trendFoil": 0.17
   },
   "tcg": {
    "usdFoil": 0.25
@@ -24154,8 +24155,8 @@
    "eurFoil": 0.56,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.42,
-   "trendFoil": 0.07
+   "trend": 0.43,
+   "trendFoil": 0.1
   },
   "tcg": {
    "usdFoil": 0.25
@@ -24173,7 +24174,7 @@
    "low": 58,
    "lowFoil": 58,
    "trend": 69.9,
-   "trendFoil": 77.96
+   "trendFoil": 78.57
   },
   "tcg": {
    "usdFoil": 86.44
@@ -24190,7 +24191,7 @@
    "eurFoil": 0.23,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.04,
    "trendFoil": 0.05
   },
   "tcg": {
@@ -24213,7 +24214,7 @@
    "low": 0.02,
    "lowFoil": 0.03,
    "trend": 0.11,
-   "trendFoil": 0.09
+   "trendFoil": 0.12
   },
   "tcg": {
    "high": 20,
@@ -24234,7 +24235,7 @@
    "eurFoil": 0.27,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.04,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -24256,7 +24257,7 @@
    "eurFoil": 0.35,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.06,
+   "trend": 0.05,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -24273,7 +24274,7 @@
    "eurFoil": 114.28,
    "low": 110,
    "lowFoil": 110,
-   "trendFoil": 128.11
+   "trendFoil": 128.52
   },
   "tcg": {
    "usdFoil": 134.15
@@ -24290,7 +24291,7 @@
    "eurFoil": 0.26,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.05,
+   "trend": 0.04,
    "trendFoil": 0.06
   },
   "tcg": {
@@ -24313,7 +24314,7 @@
    "low": 0.02,
    "lowFoil": 0.05,
    "trend": 0.02,
-   "trendFoil": 0.18
+   "trendFoil": 0.19
   },
   "tcg": {
    "high": 20,
@@ -24333,8 +24334,8 @@
    "eurFoil": 0.13,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.07,
-   "trendFoil": 0.02
+   "trend": 0.08,
+   "trendFoil": 0.06
   },
   "tcg": {
    "usdFoil": 0.15
@@ -24351,8 +24352,8 @@
    "eurFoil": 0.36,
    "low": 0.02,
    "lowFoil": 0.03,
-   "trend": 0.03,
-   "trendFoil": 0.1
+   "trend": 0.04,
+   "trendFoil": 0.09
   },
   "tcg": {
    "high": 20,
@@ -24396,7 +24397,7 @@
    "low": 45,
    "lowFoil": 45,
    "trend": 68.99,
-   "trendFoil": 68.87
+   "trendFoil": 68.93
   },
   "tcg": {
    "usdFoil": 74.18
@@ -24457,8 +24458,8 @@
    "eurFoil": 0.53,
    "low": 0.02,
    "lowFoil": 0.05,
-   "trend": 0.11,
-   "trendFoil": 0.2
+   "trend": 0.1,
+   "trendFoil": 0.21
   },
   "tcg": {
    "high": 20,
@@ -24479,8 +24480,8 @@
    "eurFoil": 0.78,
    "low": 0.02,
    "lowFoil": 0.04,
-   "trend": 0.14,
-   "trendFoil": 0.36
+   "trend": 0.13,
+   "trendFoil": 0.33
   },
   "tcg": {
    "high": 20,
@@ -24502,7 +24503,7 @@
    "low": 0.02,
    "lowFoil": 0.08,
    "trend": 0.1,
-   "trendFoil": 0.36
+   "trendFoil": 0.34
   },
   "tcg": {
    "high": 20,
@@ -24545,7 +24546,7 @@
    "low": 65,
    "lowFoil": 65,
    "trend": 74,
-   "trendFoil": 70.45
+   "trendFoil": 70.44
   },
   "tcg": {
    "usdFoil": 85.37
@@ -24562,7 +24563,7 @@
    "eurFoil": 0.5,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
+   "trend": 0.1,
    "trendFoil": 0.02
   },
   "tcg": {
@@ -24580,8 +24581,8 @@
    "eurFoil": 0.53,
    "low": 0.02,
    "lowFoil": 0.02,
-   "trend": 0.08,
-   "trendFoil": 0.25
+   "trend": 0.13,
+   "trendFoil": 0.22
   },
   "tcg": {
    "high": 2,
@@ -24603,7 +24604,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.08,
-   "trendFoil": 0.16
+   "trendFoil": 0.13
   },
   "tcg": {
    "high": 2.46,
@@ -24625,7 +24626,7 @@
    "low": 0.02,
    "lowFoil": 0.02,
    "trend": 0.22,
-   "trendFoil": 0.02
+   "trendFoil": 0.06
   },
   "tcg": {
    "usdFoil": 0.24
@@ -24642,7 +24643,7 @@
    "low": 110,
    "lowFoil": 110,
    "trend": 202.19,
-   "trendFoil": 226.56
+   "trendFoil": 224.48
   },
   "tcg": {
    "usdFoil": 186.31
@@ -24654,7 +24655,7 @@
    "eurFoil": 77.96,
    "low": 98,
    "lowFoil": 98,
-   "trendFoil": 93.27
+   "trendFoil": 94.65
   },
   "tcg": {
    "usdFoil": 111.76
@@ -24672,7 +24673,7 @@
    "low": 4.4,
    "lowFoil": 4.4,
    "trend": 6.31,
-   "trendFoil": 5.7
+   "trendFoil": 5.63
   }
  },
  "sup-opp-sfd-rune-r02b": {
@@ -24702,7 +24703,7 @@
    "low": 4.66,
    "lowFoil": 4.66,
    "trend": 5.78,
-   "trendFoil": 5.28
+   "trendFoil": 5.31
   }
  },
  "sup-opp-sfd-rune-r04b": {
@@ -24717,7 +24718,7 @@
    "low": 2.69,
    "lowFoil": 2.9,
    "trend": 3.77,
-   "trendFoil": 3.54
+   "trendFoil": 3.61
   }
  },
  "sup-opp-sfd-rune-r05b": {
@@ -24732,7 +24733,7 @@
    "low": 5,
    "lowFoil": 5,
    "trend": 6.53,
-   "trendFoil": 5.96
+   "trendFoil": 5.82
   }
  },
  "sup-opp-sfd-rune-r06b": {
@@ -24744,8 +24745,8 @@
    "avgFoil": 4.99,
    "eur": 4.95,
    "eurFoil": 4.99,
-   "low": 3.9,
-   "lowFoil": 3.9,
+   "low": 3.8,
+   "lowFoil": 3.8,
    "trend": 5,
    "trendFoil": 4.15
   }
@@ -24773,7 +24774,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 2.78,
-   "trendFoil": 3
+   "trendFoil": 2.91
   },
   "tcg": {
    "usdFoil": 5.07
@@ -24789,8 +24790,8 @@
    "eurFoil": 2.99,
    "low": 1.48,
    "lowFoil": 1.48,
-   "trend": 3.21,
-   "trendFoil": 1.95
+   "trend": 3.02,
+   "trendFoil": 1.9
   },
   "tcg": {
    "usdFoil": 138.64
@@ -24805,10 +24806,10 @@
    "avgFoil": 17.91,
    "eur": 20.02,
    "eurFoil": 17.91,
-   "low": 15.95,
-   "lowFoil": 15.95,
+   "low": 16.4,
+   "lowFoil": 16.4,
    "trend": 23.17,
-   "trendFoil": 23.27
+   "trendFoil": 23.37
   },
   "tcg": {
    "usdFoil": 188.53
@@ -24838,7 +24839,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 1.62,
-   "trendFoil": 1.56
+   "trendFoil": 1.49
   },
   "tcg": {
    "usdFoil": 3.48
@@ -24979,7 +24980,7 @@
    "low": 3.97,
    "lowFoil": 3.97,
    "trend": 5.24,
-   "trendFoil": 4.41
+   "trendFoil": 4.28
   },
   "tcg": {
    "usdFoil": 14.1
@@ -24997,7 +24998,7 @@
    "low": 4,
    "lowFoil": 4,
    "trend": 6.08,
-   "trendFoil": 4.69
+   "trendFoil": 4.63
   },
   "tcg": {
    "usdFoil": 13.34
@@ -25015,7 +25016,7 @@
    "low": 4.99,
    "lowFoil": 4.99,
    "trend": 8.8,
-   "trendFoil": 6.58
+   "trendFoil": 6.59
   },
   "tcg": {
    "usdFoil": 12.15
@@ -25033,7 +25034,7 @@
    "low": 3,
    "lowFoil": 3,
    "trend": 4.6,
-   "trendFoil": 3.34
+   "trendFoil": 3.27
   },
   "tcg": {
    "usdFoil": 8.57
@@ -25051,7 +25052,7 @@
    "low": 6,
    "lowFoil": 6,
    "trend": 9.16,
-   "trendFoil": 9.25
+   "trendFoil": 9.2
   },
   "tcg": {
    "usdFoil": 24.69
@@ -25069,7 +25070,7 @@
    "low": 3.49,
    "lowFoil": 3.49,
    "trend": 5.35,
-   "trendFoil": 3.59
+   "trendFoil": 3.69
   },
   "tcg": {
    "usdFoil": 10.41
@@ -25087,7 +25088,7 @@
    "low": 0.1,
    "lowFoil": 0.1,
    "trend": 0.59,
-   "trendFoil": 1.51
+   "trendFoil": 1.4
   },
   "tcg": {
    "usdFoil": 0.86
@@ -25151,7 +25152,7 @@
    "avg30": 22.93,
    "avg7": 38.62,
    "eur": 38.57,
-   "low": 37.99,
+   "low": 35,
    "trend": 47.11
   }
  },
@@ -25159,8 +25160,8 @@
   "cm": {
    "avgFoil": 448.33,
    "eurFoil": 448.33,
-   "low": 550,
-   "lowFoil": 550,
+   "low": 540,
+   "lowFoil": 540,
    "trendFoil": 625.43
   }
  },
@@ -25190,10 +25191,10 @@
    "avgFoil": 3.87,
    "eur": 4.09,
    "eurFoil": 3.87,
-   "low": 2,
-   "lowFoil": 2,
+   "low": 1.98,
+   "lowFoil": 1.98,
    "trend": 3.07,
-   "trendFoil": 3.02
+   "trendFoil": 2.94
   },
   "tcg": {
    "usdFoil": 3.11
@@ -25207,7 +25208,7 @@
    "avg7": 0.1,
    "eur": 0.11,
    "low": 0.02,
-   "trend": 0.1
+   "trend": 0.09
   },
   "tcg": {
    "high": 1.99,
@@ -25228,7 +25229,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 6.36,
-   "trendFoil": 4.17
+   "trendFoil": 4.04
   },
   "tcg": {
    "usdFoil": 5.92
@@ -25263,7 +25264,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 4.75,
-   "trendFoil": 3.97
+   "trendFoil": 4.02
   },
   "tcg": {
    "usdFoil": 5.49
@@ -25330,10 +25331,10 @@
    "avgFoil": 5.51,
    "eur": 5.78,
    "eurFoil": 5.51,
-   "low": 3,
-   "lowFoil": 3,
+   "low": 2.99,
+   "lowFoil": 2.99,
    "trend": 5.76,
-   "trendFoil": 4.93
+   "trendFoil": 4.81
   },
   "tcg": {
    "usdFoil": 7.39
@@ -25347,7 +25348,7 @@
    "avg7": 0.08,
    "eur": 0.11,
    "low": 0.02,
-   "trend": 0.11
+   "trend": 0.1
   },
   "tcg": {
    "high": 1.99,
@@ -25368,7 +25369,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 4.35,
-   "trendFoil": 3.79
+   "trendFoil": 3.73
   },
   "tcg": {
    "usdFoil": 5.33
@@ -25399,7 +25400,7 @@
    "avg7": 0.17,
    "eur": 0.14,
    "low": 0.02,
-   "trend": 0.19
+   "trend": 0.18
   },
   "tcg": {
    "high": 22,
@@ -25437,7 +25438,7 @@
    "low": 2,
    "lowFoil": 2,
    "trend": 5.14,
-   "trendFoil": 3.63
+   "trendFoil": 3.6
   },
   "tcg": {
    "usdFoil": 5.25
@@ -25451,7 +25452,7 @@
    "avg7": 0.11,
    "eur": 0.1,
    "low": 0.02,
-   "trend": 0.13
+   "trend": 0.12
   },
   "tcg": {
    "high": 3.53,
@@ -25471,8 +25472,8 @@
    "eurFoil": 7.09,
    "low": 3.98,
    "lowFoil": 3.98,
-   "trend": 7.32,
-   "trendFoil": 4.99
+   "trend": 7.17,
+   "trendFoil": 5.29
   },
   "tcg": {
    "usdFoil": 10.98
@@ -25486,7 +25487,7 @@
    "avg7": 0.07,
    "eur": 0.09,
    "low": 0.02,
-   "trend": 0.12
+   "trend": 0.11
   },
   "tcg": {
    "high": 3.54,
@@ -25507,7 +25508,7 @@
    "low": 3,
    "lowFoil": 3,
    "trend": 4.86,
-   "trendFoil": 4.33
+   "trendFoil": 4.26
   },
   "tcg": {
    "usdFoil": 5.97
@@ -25539,10 +25540,10 @@
    "avgFoil": 5.43,
    "eur": 7.09,
    "eurFoil": 5.43,
-   "low": 2.99,
-   "lowFoil": 2.99,
+   "low": 2.89,
+   "lowFoil": 2.89,
    "trend": 5.77,
-   "trendFoil": 4.13
+   "trendFoil": 4.09
   },
   "tcg": {
    "usdFoil": 6.07
@@ -25577,7 +25578,7 @@
    "low": 4,
    "lowFoil": 4,
    "trend": 7.24,
-   "trendFoil": 7.2
+   "trendFoil": 7.05
   },
   "tcg": {
    "usdFoil": 10.37
@@ -25612,7 +25613,7 @@
    "low": 2.99,
    "lowFoil": 2.99,
    "trend": 4.31,
-   "trendFoil": 4.36
+   "trendFoil": 4.49
   },
   "tcg": {
    "usdFoil": 5.18
@@ -25626,7 +25627,7 @@
    "avg7": 0.11,
    "eur": 0.1,
    "low": 0.02,
-   "trend": 0.11
+   "trend": 0.1
   }
  },
  "sup-unl-t02": {
@@ -25637,7 +25638,7 @@
    "avg7": 0.09,
    "eur": 0.1,
    "low": 0.02,
-   "trend": 0.12
+   "trend": 0.11
   }
  },
  "sup-unl-t03": {
@@ -25670,7 +25671,7 @@
    "avg7": 0.09,
    "eur": 0.09,
    "low": 0.02,
-   "trend": 0.06
+   "trend": 0.05
   }
  },
  "sup-unl-t07": {
@@ -25681,7 +25682,7 @@
    "avg7": 0.05,
    "eur": 0.08,
    "low": 0.02,
-   "trend": 0.06
+   "trend": 0.05
   }
  },
  "sup-unl-t08": {
@@ -25707,7 +25708,7 @@
    "low": 2390,
    "lowFoil": 2390,
    "trend": 2299,
-   "trendFoil": 2409.36
+   "trendFoil": 2527.67
   },
   "tcg": {
    "usdFoil": 2979.63
@@ -25772,7 +25773,7 @@
    "low": 780,
    "lowFoil": 780,
    "trend": 0.1,
-   "trendFoil": 876.56
+   "trendFoil": 892.74
   },
   "tcg": {
    "usdFoil": 1201.8
@@ -25826,7 +25827,7 @@
    "low": 4.49,
    "lowFoil": 4.49,
    "trend": 7.22,
-   "trendFoil": 5.37
+   "trendFoil": 5.49
   },
   "tcg": {
    "usdFoil": 7.39
@@ -25842,8 +25843,8 @@
    "eurFoil": 6.24,
    "low": 4.8,
    "lowFoil": 4.8,
-   "trend": 5.81,
-   "trendFoil": 5.55
+   "trend": 5.37,
+   "trendFoil": 5.65
   },
   "tcg": {
    "usdFoil": 7.34
@@ -25859,8 +25860,8 @@
    "eurFoil": 6.33,
    "low": 4,
    "lowFoil": 4,
-   "trend": 7.13,
-   "trendFoil": 5.93
+   "trend": 6.7,
+   "trendFoil": 6.07
   },
   "tcg": {
    "usdFoil": 6.32
@@ -25877,8 +25878,8 @@
    "eurFoil": 5.74,
    "low": 3.5,
    "lowFoil": 3.5,
-   "trend": 6.37,
-   "trendFoil": 4.29
+   "trend": 5.97,
+   "trendFoil": 4.5
   },
   "tcg": {
    "usdFoil": 6.59
@@ -25895,8 +25896,8 @@
    "eurFoil": 7.27,
    "low": 5,
    "lowFoil": 5,
-   "trend": 8.6,
-   "trendFoil": 6.86
+   "trend": 8.15,
+   "trendFoil": 7.04
   },
   "tcg": {
    "usdFoil": 9.59
@@ -25913,7 +25914,7 @@
    "low": 4.5,
    "lowFoil": 4.5,
    "trend": 7.16,
-   "trendFoil": 5.14
+   "trendFoil": 5.29
   },
   "tcg": {
    "usdFoil": 5.41
@@ -25927,7 +25928,7 @@
    "avg7": 0.09,
    "eur": 0.14,
    "low": 0.02,
-   "trend": 0.03
+   "trend": 0.06
   }
  },
  "sup-ven-t03": {
@@ -25960,7 +25961,7 @@
    "avg7": 0.1,
    "eur": 0.13,
    "low": 0.02,
-   "trend": 0.08
+   "trend": 0.07
   }
  },
  "sup-ven-t06": {
@@ -25971,7 +25972,7 @@
    "avg7": 0.17,
    "eur": 0.19,
    "low": 0.02,
-   "trend": 0.13
+   "trend": 0.11
   }
  }
 }
