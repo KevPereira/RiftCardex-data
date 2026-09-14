@@ -19,10 +19,22 @@ on:
   schedule:
     # Lundi 04:00 UTC -- decale du cron des prix (09:30) pour ne pas cumuler les runs.
     - cron: '0 4 * * 1'
+    # SECONDE PASSE LE MEME JOUR. La source est erratique : le 2026-09-14 elle a rendu
+    # 524, puis 200 en 38 s, puis 502, puis 200 en 1,5 s, en moins d'une heure. Retenter
+    # A L'ECHELLE DE L'HEURE est la seule granularite qui vaille pour un cron
+    # hebdomadaire -- les 6 s de back-off internes sont calibrees pour un 429.
+    # AUCUNE condition n'est necessaire : le script est deja idempotent (il lit, compare,
+    # et n'ecrit que sur difference), donc une seconde passe apres un succes coute ~40 s
+    # de runner et ne produit aucun commit. En mode telechargement, elle ramasse en plus
+    # ce que la premiere n'avait pas pu prendre.
+    - cron: '0 13 * * 1'
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  # Pour l'alerte ci-dessous. prices.yml l'avait, pas celui-ci : sur un cron
+  # HEBDOMADAIRE, un echec non signale, c'est jusqu'a sept jours d'ignorance.
+  issues: write
 
 concurrency:
   group: arts
@@ -31,6 +43,13 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # Le fetch de Node n a AUCUN delai par defaut : undici plafonne a 300 s par
+    # requete, donc getJson peut tenir 25 min sur une seule URL et le pool de
+    # telechargement bien davantage -- jusqu au plafond de 6 h de GitHub, pendant que
+    # le run de la semaine suivante fait la queue (concurrency, cancel-in-progress:
+    # false). C est la borne qui protege sans calibrer un seuil contre une latence qui
+    # bouge. Les 8 runs verts tiennent en 17-50 s.
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd
 
@@ -120,3 +139,58 @@ jobs:
             cat _arts/_echecs.txt
             exit 1
           fi
+
+      # Calque du patron de prices.yml. Il manquait ici, et c'est le cron le PLUS
+      # espace des deux : sans lui, trois echecs d'affilee ne laissent aucune trace
+      # cumulee, et le seul signal est un mail hebdomadaire qu'on finit par ne plus
+      # ouvrir. L'anti-doublon commente l'issue ouverte au lieu d'en creer une par
+      # semaine -- une alerte qui se repete a l'identique cesse d'etre lue.
+      - name: Signaler un echec de sauvegarde
+        if: failure()
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
+        with:
+          script: |
+            const corps = [
+              'La sauvegarde hebdomadaire des illustrations a echoue.',
+              '',
+              `Run : ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              '',
+              "Ce qui est en jeu : `arts/observed.json` est le JOURNAL DATE des changements",
+              "chez Riot. Il n est reecrit QUE s il a bouge -- un journal fige est donc",
+              "indistinguable d un journal a l arret, et le run vert est le seul temoin que",
+              "ce cron est vivant. Une semaine manquee ne laisse aucune trace d elle-meme.",
+              '',
+              "Lire le log AVANT de toucher au code :",
+              "- `PANNE AMONT` (code 2) = l API n a pas repondu. Rien a faire de notre cote :",
+              "  la source est erratique (mesure le 2026-09-14 : 524, puis 200 en 38 s, puis",
+              "  502, puis 200 en 1,5 s, en moins d une heure). La seconde passe de 13:00 UTC",
+              "  existe pour ca. Si les DEUX echouent plusieurs semaines de suite, c est un",
+              "  vrai sujet.",
+              "- `REFUS : ...` = l API a repondu 200 mais INCOMPLET, et une garde a empeche",
+              "  d ecrire un journal ampute. Ne jamais desarmer la garde pour faire passer le",
+              "  run : ce qu on ecrirait serait une entree datee fausse, indistinguable d un",
+              "  vrai ajout Riot au passage suivant.",
+              "- une stack Node (code 1) = c est chez nous.",
+            ].join('\n');
+            const ouvertes = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'sauvegarde-arts',
+            });
+            if (ouvertes.data.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: ouvertes.data[0].number,
+                body: corps,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Arts : la sauvegarde hebdomadaire echoue',
+                body: corps,
+                labels: ['sauvegarde-arts'],
+              });
+            }
