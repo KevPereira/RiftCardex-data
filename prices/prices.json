@@ -17,7 +17,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.06,
+   "usd": 0.05,
    "usdFoil": 0.2
   }
  },
@@ -83,7 +83,7 @@
    "high": 4.99,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.17,
+   "usd": 0.16,
    "usdFoil": 0.37
   }
  },
@@ -105,7 +105,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.05,
+   "usd": 0.06,
    "usdFoil": 0.22
   }
  },
@@ -127,7 +127,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.08,
    "usdFoil": 0.22
   }
  },
@@ -165,7 +165,7 @@
    "trendFoil": 2.88
   },
   "tcg": {
-   "usdFoil": 2.59
+   "usdFoil": 2.98
   }
  },
  "69bc5bc7d308c64675ca86be": {
@@ -209,7 +209,7 @@
    "low": 0.02,
    "mid": 0.25,
    "usd": 0.16,
-   "usdFoil": 0.62
+   "usdFoil": 0.6
   }
  },
  "69bc5bc7d308c64675ca86c0": {
@@ -230,7 +230,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.14,
    "usdFoil": 0.27
   }
  },
@@ -273,9 +273,9 @@
   "tcg": {
    "high": 3,
    "low": 0.25,
-   "mid": 0.64,
-   "usd": 0.54,
-   "usdFoil": 4.96
+   "mid": 0.65,
+   "usd": 0.55,
+   "usdFoil": 4.8
   }
  },
  "69bc5bc7d308c64675ca86c3": {
@@ -318,7 +318,7 @@
    "high": 5,
    "low": 0.02,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.1,
    "usdFoil": 0.36
   }
  },
@@ -340,7 +340,7 @@
    "high": 3.01,
    "low": 0.02,
    "mid": 0.21,
-   "usd": 0.09,
+   "usd": 0.1,
    "usdFoil": 0.29
   }
  },
@@ -362,7 +362,7 @@
    "high": 6,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.06,
+   "usd": 0.07,
    "usdFoil": 0.2
   }
  },
@@ -384,7 +384,7 @@
    "high": 20.19,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.19,
+   "usd": 0.18,
    "usdFoil": 0.43
   }
  },
@@ -405,8 +405,8 @@
   "tcg": {
    "high": 3.01,
    "low": 0.02,
-   "mid": 0.2,
-   "usd": 0.12,
+   "mid": 0.21,
+   "usd": 0.15,
    "usdFoil": 0.32
   }
  },
@@ -428,7 +428,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.05,
+   "usd": 0.06,
    "usdFoil": 0.26
   }
  },
@@ -494,8 +494,8 @@
    "high": 10,
    "low": 0.1,
    "mid": 0.4,
-   "usd": 0.32,
-   "usdFoil": 2.25
+   "usd": 0.33,
+   "usdFoil": 2.36
   }
  },
  "69bc5bc7d308c64675ca86cd": {
@@ -537,8 +537,8 @@
   "tcg": {
    "high": 5.8,
    "low": 0.15,
-   "mid": 0.28,
-   "usd": 0.23,
+   "mid": 0.29,
+   "usd": 0.25,
    "usdFoil": 0.5
   }
  },
@@ -557,7 +557,7 @@
    "trendFoil": 0.15
   },
   "tcg": {
-   "usdFoil": 0.23
+   "usdFoil": 0.24
   }
  },
  "69bc5bc7d308c64675ca86d0": {
@@ -575,7 +575,7 @@
    "trendFoil": 1.47
   },
   "tcg": {
-   "usdFoil": 1.92
+   "usdFoil": 2.15
   }
  },
  "69bc5bc8d308c64675ca86d1": {
@@ -593,7 +593,7 @@
    "trendFoil": 1.36
   },
   "tcg": {
-   "usdFoil": 1.58
+   "usdFoil": 1.87
   }
  },
  "69bc5bc8d308c64675ca86d2": {
@@ -611,7 +611,7 @@
    "trendFoil": 5.07
   },
   "tcg": {
-   "usdFoil": 6.67
+   "usdFoil": 6.81
   }
  },
  "69bc5bc8d308c64675ca86d3": {
@@ -629,7 +629,7 @@
    "trendFoil": 0.22
   },
   "tcg": {
-   "usdFoil": 0.27
+   "usdFoil": 0.28
   }
  },
  "69bc5bc8d308c64675ca86d4": {
@@ -647,7 +647,7 @@
    "trendFoil": 7.49
   },
   "tcg": {
-   "usdFoil": 12.8
+   "usdFoil": 12.71
   }
  },
  "69bc5bc8d308c64675ca86d5": {
@@ -683,7 +683,7 @@
    "trendFoil": 3.59
   },
   "tcg": {
-   "usdFoil": 3.85
+   "usdFoil": 3.89
   }
  },
  "69bc5bc8d308c64675ca86d7": {
@@ -701,7 +701,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.24
   }
  },
  "69bc5bc8d308c64675ca86d8": {
@@ -737,7 +737,7 @@
    "trendFoil": 0.3
   },
   "tcg": {
-   "usdFoil": 0.29
+   "usdFoil": 0.3
   }
  },
  "69bc5bc8d308c64675ca86da": {
@@ -755,7 +755,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.26
   }
  },
  "69bc5bc8d308c64675ca86db": {
@@ -773,7 +773,7 @@
    "trendFoil": 0.24
   },
   "tcg": {
-   "usdFoil": 0.39
+   "usdFoil": 0.41
   }
  },
  "69bc5bc8d308c64675ca86dc": {
@@ -808,7 +808,7 @@
    "trendFoil": 4.57
   },
   "tcg": {
-   "usdFoil": 4.38
+   "usdFoil": 4.51
   }
  },
  "69bc5bc8d308c64675ca86de": {
@@ -826,7 +826,7 @@
    "trendFoil": 4.63
   },
   "tcg": {
-   "usdFoil": 5.05
+   "usdFoil": 4.89
   }
  },
  "69bc5bc8d308c64675ca86df": {
@@ -844,7 +844,7 @@
    "trendFoil": 46.25
   },
   "tcg": {
-   "usdFoil": 69.36
+   "usdFoil": 70.63
   }
  },
  "69bc5bc8d308c64675ca86e0": {
@@ -861,7 +861,7 @@
    "trendFoil": 48.28
   },
   "tcg": {
-   "usdFoil": 73.52
+   "usdFoil": 73.74
   }
  },
  "69bc5bc8d308c64675ca86e1": {
@@ -879,7 +879,7 @@
    "trendFoil": 12.11
   },
   "tcg": {
-   "usdFoil": 28.68
+   "usdFoil": 30.29
   }
  },
  "69bc5bc8d308c64675ca86e2": {
@@ -897,7 +897,7 @@
    "trendFoil": 1.36
   },
   "tcg": {
-   "usdFoil": 0.77
+   "usdFoil": 0.79
   }
  },
  "69bc5bc8d308c64675ca86e3": {
@@ -915,7 +915,7 @@
    "trendFoil": 3.04
   },
   "tcg": {
-   "usdFoil": 2.61
+   "usdFoil": 2.63
   }
  },
  "69bc5bc9d308c64675ca86e4": {
@@ -935,7 +935,7 @@
    "high": 30,
    "low": 0.04,
    "mid": 0.25,
-   "usd": 0.12
+   "usd": 0.15
   }
  },
  "69bc5bc9d308c64675ca86e5": {
@@ -952,7 +952,7 @@
    "trendFoil": 3.8
   },
   "tcg": {
-   "usdFoil": 5.98
+   "usdFoil": 5.84
   }
  },
  "69bc5bc9d308c64675ca86e6": {
@@ -971,10 +971,10 @@
   },
   "tcg": {
    "high": 8.6,
-   "low": 0.19,
-   "mid": 0.8,
-   "usd": 0.48,
-   "usdFoil": 4
+   "low": 0.14,
+   "mid": 0.79,
+   "usd": 0.5,
+   "usdFoil": 3.97
   }
  },
  "69bc5bc9d308c64675ca86e7": {
@@ -996,7 +996,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.12,
-   "usdFoil": 0.27
+   "usdFoil": 0.29
   }
  },
  "69bc5bc9d308c64675ca86e8": {
@@ -1016,9 +1016,9 @@
   "tcg": {
    "high": 504.6,
    "low": 1.5,
-   "mid": 3.46,
-   "usd": 2.2,
-   "usdFoil": 5.7
+   "mid": 3.45,
+   "usd": 2.41,
+   "usdFoil": 6.15
   }
  },
  "69bc5bc9d308c64675ca86e9": {
@@ -1038,9 +1038,9 @@
   "tcg": {
    "high": 5,
    "low": 0.09,
-   "mid": 0.26,
-   "usd": 0.23,
-   "usdFoil": 0.64
+   "mid": 0.27,
+   "usd": 0.27,
+   "usdFoil": 0.65
   }
  },
  "69bc5bc9d308c64675ca86ea": {
@@ -1061,8 +1061,8 @@
    "high": 5,
    "low": 0.05,
    "mid": 0.25,
-   "usd": 0.21,
-   "usdFoil": 0.55
+   "usd": 0.18,
+   "usdFoil": 0.54
   }
  },
  "69bc5bc9d308c64675ca86eb": {
@@ -1083,8 +1083,8 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
-   "usdFoil": 0.33
+   "usd": 0.16,
+   "usdFoil": 0.36
   }
  },
  "69bc5bc9d308c64675ca86ec": {
@@ -1149,7 +1149,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
+   "usd": 0.1,
    "usdFoil": 0.2
   }
  },
@@ -1237,7 +1237,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.05,
+   "usd": 0.06,
    "usdFoil": 0.21
   }
  },
@@ -1260,7 +1260,7 @@
    "low": 0.15,
    "mid": 0.35,
    "usd": 0.29,
-   "usdFoil": 2.37
+   "usdFoil": 2.35
   }
  },
  "69bc5bc9d308c64675ca86f4": {
@@ -1281,8 +1281,8 @@
    "high": 10,
    "low": 0.1,
    "mid": 0.3,
-   "usd": 0.26,
-   "usdFoil": 0.73
+   "usd": 0.25,
+   "usdFoil": 0.8
   }
  },
  "69bc5bc9d308c64675ca86f5": {
@@ -1303,8 +1303,8 @@
    "high": 10,
    "low": 0.4,
    "mid": 1.6,
-   "usd": 1,
-   "usdFoil": 2.21
+   "usd": 1.13,
+   "usdFoil": 2.28
   }
  },
  "69bc5bc9d308c64675ca86f6": {
@@ -1345,10 +1345,10 @@
   },
   "tcg": {
    "high": 10,
-   "low": 0.21,
-   "mid": 0.77,
-   "usd": 0.6,
-   "usdFoil": 4.3
+   "low": 0.2,
+   "mid": 0.79,
+   "usd": 0.7,
+   "usdFoil": 4.13
   }
  },
  "69bc5bcad308c64675ca86f8": {
@@ -1368,7 +1368,7 @@
   "tcg": {
    "high": 3.06,
    "low": 0.02,
-   "mid": 0.25,
+   "mid": 0.24,
    "usd": 0.16,
    "usdFoil": 0.36
   }
@@ -1391,7 +1391,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.23,
-   "usd": 0.11,
+   "usd": 0.12,
    "usdFoil": 0.41
   }
  },
@@ -1413,8 +1413,8 @@
    "high": 3.06,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.15,
-   "usdFoil": 0.43
+   "usd": 0.14,
+   "usdFoil": 0.44
   }
  },
  "69bc5bcad308c64675ca86fb": {
@@ -1434,9 +1434,9 @@
   "tcg": {
    "high": 30,
    "low": 0.19,
-   "mid": 0.41,
+   "mid": 0.4,
    "usd": 0.35,
-   "usdFoil": 1.21
+   "usdFoil": 1.2
   }
  },
  "69bc5bcad308c64675ca86fc": {
@@ -1476,7 +1476,7 @@
    "trendFoil": 0.48
   },
   "tcg": {
-   "usdFoil": 1.01
+   "usdFoil": 1.03
   }
  },
  "69bc5bcad308c64675ca86fe": {
@@ -1494,7 +1494,7 @@
    "trendFoil": 5.27
   },
   "tcg": {
-   "usdFoil": 6.02
+   "usdFoil": 6.03
   }
  },
  "69bc5bcad308c64675ca86ff": {
@@ -1512,7 +1512,7 @@
    "trendFoil": 0.8
   },
   "tcg": {
-   "usdFoil": 2.62
+   "usdFoil": 2.27
   }
  },
  "69bc5bcad308c64675ca8700": {
@@ -1530,7 +1530,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.37
   }
  },
  "69bc5bcad308c64675ca8701": {
@@ -1548,7 +1548,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.29
   }
  },
  "69bc5bcad308c64675ca8702": {
@@ -1566,7 +1566,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.25
   }
  },
  "69bc5bcad308c64675ca8703": {
@@ -1583,7 +1583,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.32
+   "usdFoil": 0.31
   }
  },
  "69bc5bcad308c64675ca8704": {
@@ -1600,7 +1600,7 @@
    "trendFoil": 0.07
   },
   "tcg": {
-   "usdFoil": 0.13
+   "usdFoil": 0.17
   }
  },
  "69bc5bcad308c64675ca8705": {
@@ -1617,7 +1617,7 @@
    "trendFoil": 1.87
   },
   "tcg": {
-   "usdFoil": 1.74
+   "usdFoil": 1.9
   }
  },
  "69bc5bcad308c64675ca8706": {
@@ -1635,7 +1635,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.32
+   "usdFoil": 0.31
   }
  },
  "69bc5bcad308c64675ca8707": {
@@ -1653,7 +1653,7 @@
    "trendFoil": 0.6
   },
   "tcg": {
-   "usdFoil": 0.68
+   "usdFoil": 0.67
   }
  },
  "69bc5bcad308c64675ca8708": {
@@ -1671,7 +1671,7 @@
    "trendFoil": 0.19
   },
   "tcg": {
-   "usdFoil": 0.29
+   "usdFoil": 0.3
   }
  },
  "69bc5bcad308c64675ca8709": {
@@ -1707,7 +1707,7 @@
    "trendFoil": 8.32
   },
   "tcg": {
-   "usdFoil": 16.59
+   "usdFoil": 19.09
   }
  },
  "69bc5bcbd308c64675ca870b": {
@@ -1725,7 +1725,7 @@
    "trendFoil": 1.06
   },
   "tcg": {
-   "usdFoil": 0.61
+   "usdFoil": 0.62
   }
  },
  "69bc5bcbd308c64675ca870c": {
@@ -1743,7 +1743,7 @@
    "trendFoil": 2.92
   },
   "tcg": {
-   "usdFoil": 4.85
+   "usdFoil": 5.12
   }
  },
  "69bc5bcbd308c64675ca870d": {
@@ -1761,7 +1761,7 @@
    "trendFoil": 1.42
   },
   "tcg": {
-   "usdFoil": 1.93
+   "usdFoil": 1.96
   }
  },
  "69bc5bcbd308c64675ca870e": {
@@ -1779,7 +1779,7 @@
    "trendFoil": 5.68
   },
   "tcg": {
-   "usdFoil": 6.97
+   "usdFoil": 6.87
   }
  },
  "69bc5bcbd308c64675ca870f": {
@@ -1797,7 +1797,7 @@
    "trendFoil": 1.34
   },
   "tcg": {
-   "usdFoil": 1.07
+   "usdFoil": 1.04
   }
  },
  "69bc5bcbd308c64675ca8710": {
@@ -1815,7 +1815,7 @@
    "trendFoil": 14.46
   },
   "tcg": {
-   "usdFoil": 18.78
+   "usdFoil": 20.21
   }
  },
  "69bc5bcbd308c64675ca8711": {
@@ -1833,7 +1833,7 @@
    "trendFoil": 2.98
   },
   "tcg": {
-   "usdFoil": 3.36
+   "usdFoil": 3.19
   }
  },
  "69bc5bcbd308c64675ca8712": {
@@ -1854,8 +1854,8 @@
    "high": 3.08,
    "low": 0.09,
    "mid": 0.25,
-   "usd": 0.19,
-   "usdFoil": 0.5
+   "usd": 0.2,
+   "usdFoil": 0.51
   }
  },
  "69bc5bcbd308c64675ca8713": {
@@ -1876,7 +1876,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.08,
    "usdFoil": 0.25
   }
  },
@@ -1898,7 +1898,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.14,
    "usdFoil": 0.33
   }
  },
@@ -1940,10 +1940,10 @@
   },
   "tcg": {
    "high": 5,
-   "low": 0.02,
+   "low": 0.03,
    "mid": 0.25,
    "usd": 0.13,
-   "usdFoil": 0.56
+   "usdFoil": 0.58
   }
  },
  "69bc5bcbd308c64675ca8717": {
@@ -1965,7 +1965,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.05,
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69bc5bcbd308c64675ca8718": {
@@ -1985,7 +1985,7 @@
    "high": 14.99,
    "low": 0.05,
    "mid": 0.25,
-   "usd": 0.11,
+   "usd": 0.13,
    "usdFoil": 0.1
   }
  },
@@ -2003,7 +2003,7 @@
    "trendFoil": 4.18
   },
   "tcg": {
-   "usdFoil": 4.63
+   "usdFoil": 4.7
   }
  },
  "69bc5bcbd308c64675ca871a": {
@@ -2024,7 +2024,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.14,
    "usdFoil": 0.2
   }
  },
@@ -2046,8 +2046,8 @@
    "high": 5,
    "low": 0.02,
    "mid": 0.24,
-   "usd": 0.15,
-   "usdFoil": 0.54
+   "usd": 0.13,
+   "usdFoil": 0.5
   }
  },
  "69bc5bcbd308c64675ca871c": {
@@ -2067,9 +2067,9 @@
   "tcg": {
    "high": 5,
    "low": 0.01,
-   "mid": 0.22,
-   "usd": 0.11,
-   "usdFoil": 0.25
+   "mid": 0.21,
+   "usd": 0.12,
+   "usdFoil": 0.3
   }
  },
  "69bc5bcbd308c64675ca871d": {
@@ -2091,7 +2091,7 @@
    "low": 0.03,
    "mid": 0.25,
    "usd": 0.18,
-   "usdFoil": 0.78
+   "usdFoil": 0.73
   }
  },
  "69bc5bccd308c64675ca871e": {
@@ -2112,7 +2112,7 @@
    "high": 3.01,
    "low": 0.02,
    "mid": 0.2,
-   "usd": 0.14,
+   "usd": 0.15,
    "usdFoil": 0.35
   }
  },
@@ -2132,10 +2132,10 @@
   },
   "tcg": {
    "high": 4.5,
-   "low": 0.2,
-   "mid": 0.33,
-   "usd": 0.29,
-   "usdFoil": 1.05
+   "low": 0.18,
+   "mid": 0.32,
+   "usd": 0.28,
+   "usdFoil": 1.07
   }
  },
  "69bc5bccd308c64675ca8720": {
@@ -2156,8 +2156,8 @@
    "high": 5,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.11,
-   "usdFoil": 1.53
+   "usd": 0.13,
+   "usdFoil": 1.48
   }
  },
  "69bc5bccd308c64675ca8721": {
@@ -2200,8 +2200,8 @@
    "high": 3.02,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.15,
-   "usdFoil": 0.42
+   "usd": 0.18,
+   "usdFoil": 0.44
   }
  },
  "69bc5bccd308c64675ca8723": {
@@ -2222,8 +2222,8 @@
    "high": 3.07,
    "low": 0.07,
    "mid": 0.25,
-   "usd": 0.23,
-   "usdFoil": 1.32
+   "usd": 0.21,
+   "usdFoil": 1.33
   }
  },
  "69bc5bccd308c64675ca8724": {
@@ -2244,7 +2244,7 @@
    "high": 3.03,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
+   "usd": 0.11,
    "usdFoil": 0.25
   }
  },
@@ -2310,8 +2310,8 @@
    "high": 3.18,
    "low": 0.1,
    "mid": 0.4,
-   "usd": 0.33,
-   "usdFoil": 0.57
+   "usd": 0.35,
+   "usdFoil": 0.59
   }
  },
  "69bc5bccd308c64675ca8728": {
@@ -2331,8 +2331,8 @@
   "tcg": {
    "high": 10,
    "low": 0.3,
-   "mid": 0.89,
-   "usd": 0.6,
+   "mid": 0.88,
+   "usd": 0.62,
    "usdFoil": 2.62
   }
  },
@@ -2352,10 +2352,10 @@
   },
   "tcg": {
    "high": 10,
-   "low": 0.49,
-   "mid": 1.11,
-   "usd": 0.7,
-   "usdFoil": 4.09
+   "low": 0.47,
+   "mid": 1.1,
+   "usd": 0.82,
+   "usdFoil": 4.13
   }
  },
  "69bc5bccd308c64675ca872a": {
@@ -2376,7 +2376,7 @@
    "high": 44,
    "low": 0.1,
    "mid": 0.35,
-   "usd": 0.21,
+   "usd": 0.22,
    "usdFoil": 0.53
   }
  },
@@ -2413,7 +2413,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69bc5bccd308c64675ca872d": {
@@ -2431,7 +2431,7 @@
    "trendFoil": 0.28
   },
   "tcg": {
-   "usdFoil": 0.32
+   "usdFoil": 0.33
   }
  },
  "69bc5bccd308c64675ca872e": {
@@ -2449,7 +2449,7 @@
    "trendFoil": 0.25
   },
   "tcg": {
-   "usdFoil": 0.58
+   "usdFoil": 0.63
   }
  },
  "69bc5bccd308c64675ca872f": {
@@ -2484,7 +2484,7 @@
    "trendFoil": 0.25
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.39
   }
  },
  "69bc5bccd308c64675ca8731": {
@@ -2502,7 +2502,7 @@
    "trendFoil": 2.64
   },
   "tcg": {
-   "usdFoil": 3.73
+   "usdFoil": 3.77
   }
  },
  "69bc5bcdd308c64675ca8732": {
@@ -2520,7 +2520,7 @@
    "trendFoil": 0.22
   },
   "tcg": {
-   "usdFoil": 0.28
+   "usdFoil": 0.3
   }
  },
  "69bc5bcdd308c64675ca8733": {
@@ -2538,7 +2538,7 @@
    "trendFoil": 0.56
   },
   "tcg": {
-   "usdFoil": 0.71
+   "usdFoil": 0.86
   }
  },
  "69bc5bcdd308c64675ca8734": {
@@ -2556,7 +2556,7 @@
    "trendFoil": 0.4
   },
   "tcg": {
-   "usdFoil": 0.98
+   "usdFoil": 0.93
   }
  },
  "69bc5bcdd308c64675ca8735": {
@@ -2574,7 +2574,7 @@
    "trendFoil": 13.08
   },
   "tcg": {
-   "usdFoil": 19.36
+   "usdFoil": 19.75
   }
  },
  "69bc5bcdd308c64675ca8736": {
@@ -2591,7 +2591,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69bc5bcdd308c64675ca8737": {
@@ -2608,7 +2608,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.22
   }
  },
  "69bc5bcdd308c64675ca8738": {
@@ -2625,7 +2625,7 @@
    "trendFoil": 4.16
   },
   "tcg": {
-   "usdFoil": 6.9
+   "usdFoil": 6.84
   }
  },
  "69bc5bcdd308c64675ca8739": {
@@ -2643,7 +2643,7 @@
    "trendFoil": 10.15
   },
   "tcg": {
-   "usdFoil": 15
+   "usdFoil": 16.01
   }
  },
  "69bc5bcdd308c64675ca873a": {
@@ -2679,7 +2679,7 @@
    "trendFoil": 5.4
   },
   "tcg": {
-   "usdFoil": 5.94
+   "usdFoil": 5.91
   }
  },
  "69bc5bcdd308c64675ca873c": {
@@ -2697,7 +2697,7 @@
    "trendFoil": 33.46
   },
   "tcg": {
-   "usdFoil": 41.86
+   "usdFoil": 42.74
   }
  },
  "69bc5bcdd308c64675ca873d": {
@@ -2715,7 +2715,7 @@
    "trendFoil": 18.71
   },
   "tcg": {
-   "usdFoil": 25.18
+   "usdFoil": 24.94
   }
  },
  "69bc5bcdd308c64675ca873e": {
@@ -2793,7 +2793,7 @@
    "trendFoil": 3.1
   },
   "tcg": {
-   "usdFoil": 3.15
+   "usdFoil": 3.16
   }
  },
  "69bc5bcdd308c64675ca8742": {
@@ -2836,7 +2836,7 @@
    "high": 3,
    "low": 0.12,
    "mid": 0.25,
-   "usd": 0.22,
+   "usd": 0.23,
    "usdFoil": 0.57
   }
  },
@@ -2858,7 +2858,7 @@
    "high": 15,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 0.27
   }
  },
@@ -2925,7 +2925,7 @@
    "low": 0.15,
    "mid": 0.29,
    "usd": 0.26,
-   "usdFoil": 1.9
+   "usdFoil": 2.01
   }
  },
  "69bc5bced308c64675ca8748": {
@@ -2946,8 +2946,8 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.26
+   "usd": 0.11,
+   "usdFoil": 0.27
   }
  },
  "69bc5bced308c64675ca8749": {
@@ -2968,8 +2968,8 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.73
+   "usd": 0.11,
+   "usdFoil": 0.74
   }
  },
  "69bc5bced308c64675ca874a": {
@@ -2990,8 +2990,8 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
-   "usdFoil": 0.23
+   "usd": 0.08,
+   "usdFoil": 0.24
   }
  },
  "69bc5bced308c64675ca874b": {
@@ -3011,9 +3011,9 @@
   "tcg": {
    "high": 3.08,
    "low": 0.03,
-   "mid": 0.25,
-   "usd": 0.17,
-   "usdFoil": 1.43
+   "mid": 0.24,
+   "usd": 0.2,
+   "usdFoil": 1.57
   }
  },
  "69bc5bced308c64675ca874c": {
@@ -3054,10 +3054,10 @@
   },
   "tcg": {
    "high": 4.99,
-   "low": 0.17,
+   "low": 0.23,
    "mid": 0.5,
    "usd": 0.31,
-   "usdFoil": 3.64
+   "usdFoil": 3.66
   }
  },
  "69bc5bced308c64675ca874e": {
@@ -3078,8 +3078,8 @@
    "high": 3,
    "low": 0.02,
    "mid": 0.23,
-   "usd": 0.11,
-   "usdFoil": 0.22
+   "usd": 0.13,
+   "usdFoil": 0.21
   }
  },
  "69bc5bced308c64675ca874f": {
@@ -3122,7 +3122,7 @@
    "high": 3.08,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.19,
+   "usd": 0.2,
    "usdFoil": 0.5
   }
  },
@@ -3188,7 +3188,7 @@
    "high": 3.05,
    "low": 0.01,
    "mid": 0.23,
-   "usd": 0.14,
+   "usd": 0.15,
    "usdFoil": 0.37
   }
  },
@@ -3210,8 +3210,8 @@
    "high": 3,
    "low": 0.24,
    "mid": 0.65,
-   "usd": 0.53,
-   "usdFoil": 2.1
+   "usd": 0.57,
+   "usdFoil": 2.16
   }
  },
  "69bc5bced308c64675ca8755": {
@@ -3254,7 +3254,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 0.29
   }
  },
@@ -3273,7 +3273,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.35
+   "usdFoil": 0.32
   }
  },
  "69bc5bced308c64675ca8758": {
@@ -3291,7 +3291,7 @@
    "trendFoil": 0.19
   },
   "tcg": {
-   "usdFoil": 0.23
+   "usdFoil": 0.27
   }
  },
  "69bc5bcfd308c64675ca8759": {
@@ -3345,7 +3345,7 @@
    "trendFoil": 1.51
   },
   "tcg": {
-   "usdFoil": 1.23
+   "usdFoil": 1.25
   }
  },
  "69bc5bcfd308c64675ca875c": {
@@ -3381,7 +3381,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.21
   }
  },
  "69bc5bcfd308c64675ca875e": {
@@ -3399,7 +3399,7 @@
    "trendFoil": 0.24
   },
   "tcg": {
-   "usdFoil": 0.35
+   "usdFoil": 0.38
   }
  },
  "69bc5bcfd308c64675ca875f": {
@@ -3417,7 +3417,7 @@
    "trendFoil": 0.51
   },
   "tcg": {
-   "usdFoil": 0.57
+   "usdFoil": 0.68
   }
  },
  "69bc5bcfd308c64675ca8760": {
@@ -3435,7 +3435,7 @@
    "trendFoil": 7.85
   },
   "tcg": {
-   "usdFoil": 14.14
+   "usdFoil": 13.6
   }
  },
  "69bc5bcfd308c64675ca8761": {
@@ -3453,7 +3453,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.26
   }
  },
  "69bc5bcfd308c64675ca8762": {
@@ -3471,7 +3471,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.23
+   "usdFoil": 0.28
   }
  },
  "69bc5bcfd308c64675ca8763": {
@@ -3506,7 +3506,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.39
+   "usdFoil": 0.4
   }
  },
  "69bc5bcfd308c64675ca8765": {
@@ -3524,7 +3524,7 @@
    "trendFoil": 26.82
   },
   "tcg": {
-   "usdFoil": 37.7
+   "usdFoil": 36.58
   }
  },
  "69bc5bcfd308c64675ca8766": {
@@ -3542,7 +3542,7 @@
    "trendFoil": 3.07
   },
   "tcg": {
-   "usdFoil": 1.68
+   "usdFoil": 1.58
   }
  },
  "69bc5bcfd308c64675ca8767": {
@@ -3560,7 +3560,7 @@
    "trendFoil": 2.94
   },
   "tcg": {
-   "usdFoil": 4.04
+   "usdFoil": 4.15
   }
  },
  "69bc5bcfd308c64675ca8768": {
@@ -3578,7 +3578,7 @@
    "trendFoil": 6.98
   },
   "tcg": {
-   "usdFoil": 13.52
+   "usdFoil": 13.64
   }
  },
  "69bc5bcfd308c64675ca8769": {
@@ -3596,7 +3596,7 @@
    "trendFoil": 8.2
   },
   "tcg": {
-   "usdFoil": 10.93
+   "usdFoil": 11.57
   }
  },
  "69bc5bcfd308c64675ca876a": {
@@ -3614,7 +3614,7 @@
    "trendFoil": 6.29
   },
   "tcg": {
-   "usdFoil": 6.9
+   "usdFoil": 6.75
   }
  },
  "69bc5bcfd308c64675ca876b": {
@@ -3632,7 +3632,7 @@
    "trendFoil": 9.61
   },
   "tcg": {
-   "usdFoil": 8.03
+   "usdFoil": 7.87
   }
  },
  "69bc5bcfd308c64675ca876c": {
@@ -3653,7 +3653,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.05,
+   "usd": 0.07,
    "usdFoil": 0.23
   }
  },
@@ -3674,7 +3674,7 @@
    "high": 25.99,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.12
+   "usd": 0.11
   }
  },
  "69bc5bd0d308c64675ca876e": {
@@ -3691,7 +3691,7 @@
    "trendFoil": 4.4
   },
   "tcg": {
-   "usdFoil": 5.79
+   "usdFoil": 5.93
   }
  },
  "69bc5bd0d308c64675ca876f": {
@@ -3734,7 +3734,7 @@
    "high": 12.58,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.1,
    "usdFoil": 0.21
   }
  },
@@ -3757,7 +3757,7 @@
    "low": 0.1,
    "mid": 0.25,
    "usd": 0.22,
-   "usdFoil": 0.69
+   "usdFoil": 0.76
   }
  },
  "69bc5bd0d308c64675ca8772": {
@@ -3778,7 +3778,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
+   "usd": 0.11,
    "usdFoil": 0.3
   }
  },
@@ -3820,9 +3820,9 @@
   },
   "tcg": {
    "high": 10,
-   "low": 0.19,
+   "low": 0.15,
    "mid": 0.35,
-   "usd": 0.28,
+   "usd": 0.29,
    "usdFoil": 1.29
   }
  },
@@ -3842,10 +3842,10 @@
   },
   "tcg": {
    "high": 4.5,
-   "low": 0.4,
+   "low": 0.51,
    "mid": 0.99,
-   "usd": 0.75,
-   "usdFoil": 8.25
+   "usd": 0.8,
+   "usdFoil": 7.93
   }
  },
  "69bc5bd0d308c64675ca8776": {
@@ -3910,8 +3910,8 @@
    "high": 3.07,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.16,
-   "usdFoil": 0.78
+   "usd": 0.17,
+   "usdFoil": 0.84
   }
  },
  "69bc5bd0d308c64675ca8779": {
@@ -3954,7 +3954,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.03,
+   "usd": 0.04,
    "usdFoil": 0.13
   }
  },
@@ -3975,9 +3975,9 @@
   "tcg": {
    "high": 4.99,
    "low": 0.26,
-   "mid": 0.66,
-   "usd": 0.57,
-   "usdFoil": 3.17
+   "mid": 0.68,
+   "usd": 0.63,
+   "usdFoil": 3.25
   }
  },
  "69bc5bd0d308c64675ca877c": {
@@ -4019,9 +4019,9 @@
   "tcg": {
    "high": 75,
    "low": 0.25,
-   "mid": 0.65,
-   "usd": 0.54,
-   "usdFoil": 3.25
+   "mid": 0.69,
+   "usd": 0.59,
+   "usdFoil": 3.35
   }
  },
  "69bc5bd0d308c64675ca877e": {
@@ -4042,7 +4042,7 @@
    "high": 9.99,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.12,
+   "usd": 0.13,
    "usdFoil": 0.64
   }
  },
@@ -4064,8 +4064,8 @@
    "high": 509.19,
    "low": 0.25,
    "mid": 2,
-   "usd": 0.52,
-   "usdFoil": 4.56
+   "usd": 0.51,
+   "usdFoil": 5.05
   }
  },
  "69bc5bd1d308c64675ca8780": {
@@ -4086,7 +4086,7 @@
    "high": 3.07,
    "low": 0.09,
    "mid": 0.25,
-   "usd": 0.18,
+   "usd": 0.19,
    "usdFoil": 0.62
   }
  },
@@ -4106,9 +4106,9 @@
   },
   "tcg": {
    "high": 5.75,
-   "low": 0.13,
-   "mid": 0.29,
-   "usd": 0.28,
+   "low": 0.12,
+   "mid": 0.3,
+   "usd": 0.27,
    "usdFoil": 4.71
   }
  },
@@ -4129,9 +4129,9 @@
   "tcg": {
    "high": 70,
    "low": 0.3,
-   "mid": 0.55,
-   "usd": 0.5,
-   "usdFoil": 3.18
+   "mid": 0.57,
+   "usd": 0.55,
+   "usdFoil": 3.28
   }
  },
  "69bc5bd1d308c64675ca8783": {
@@ -4152,7 +4152,7 @@
    "high": 3.03,
    "low": 0.01,
    "mid": 0.21,
-   "usd": 0.13,
+   "usd": 0.15,
    "usdFoil": 0.33
   }
  },
@@ -4193,7 +4193,7 @@
    "trendFoil": 0.21
   },
   "tcg": {
-   "usdFoil": 0.24
+   "usdFoil": 0.26
   }
  },
  "69bc5bd1d308c64675ca8786": {
@@ -4211,7 +4211,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.26
+   "usdFoil": 0.29
   }
  },
  "69bc5bd1d308c64675ca8787": {
@@ -4232,7 +4232,7 @@
    "high": 3.88,
    "low": 0.03,
    "mid": 0.25,
-   "usd": 0.14,
+   "usd": 0.15,
    "usdFoil": 0.24
   }
  },
@@ -4251,7 +4251,7 @@
    "trendFoil": 0.73
   },
   "tcg": {
-   "usdFoil": 0.66
+   "usdFoil": 0.65
   }
  },
  "69bc5bd1d308c64675ca8789": {
@@ -4269,7 +4269,7 @@
    "trendFoil": 0.14
   },
   "tcg": {
-   "usdFoil": 0.35
+   "usdFoil": 0.32
   }
  },
  "69bc5bd1d308c64675ca878a": {
@@ -4287,7 +4287,7 @@
    "trendFoil": 2.77
   },
   "tcg": {
-   "usdFoil": 5.99
+   "usdFoil": 6.07
   }
  },
  "69bc5bd1d308c64675ca878b": {
@@ -4304,7 +4304,7 @@
    "trendFoil": 1.47
   },
   "tcg": {
-   "usdFoil": 1.19
+   "usdFoil": 1.32
   }
  },
  "69bc5bd1d308c64675ca878c": {
@@ -4322,7 +4322,7 @@
    "trendFoil": 1.23
   },
   "tcg": {
-   "usdFoil": 1.74
+   "usdFoil": 1.68
   }
  },
  "69bc5bd1d308c64675ca878d": {
@@ -4340,7 +4340,7 @@
    "trendFoil": 0.25
   },
   "tcg": {
-   "usdFoil": 0.36
+   "usdFoil": 0.35
   }
  },
  "69bc5bd1d308c64675ca878e": {
@@ -4358,7 +4358,7 @@
    "trendFoil": 0.45
   },
   "tcg": {
-   "usdFoil": 0.44
+   "usdFoil": 0.42
   }
  },
  "69bc5bd1d308c64675ca878f": {
@@ -4376,7 +4376,7 @@
    "trendFoil": 7.1
   },
   "tcg": {
-   "usdFoil": 13.3
+   "usdFoil": 13.15
   }
  },
  "69bc5bd1d308c64675ca8790": {
@@ -4394,7 +4394,7 @@
    "trendFoil": 0.32
   },
   "tcg": {
-   "usdFoil": 0.62
+   "usdFoil": 0.61
   }
  },
  "69bc5bd1d308c64675ca8791": {
@@ -4411,7 +4411,7 @@
    "trendFoil": 1.41
   },
   "tcg": {
-   "usdFoil": 2.27
+   "usdFoil": 2.44
   }
  },
  "69bc5bd1d308c64675ca8792": {
@@ -4428,7 +4428,7 @@
    "trendFoil": 0.15
   },
   "tcg": {
-   "usdFoil": 0.37
+   "usdFoil": 0.41
   }
  },
  "69bc5bd2d308c64675ca8793": {
@@ -4446,7 +4446,7 @@
    "trendFoil": 11.28
   },
   "tcg": {
-   "usdFoil": 16.45
+   "usdFoil": 15.71
   }
  },
  "69bc5bd2d308c64675ca8794": {
@@ -4463,7 +4463,7 @@
    "trendFoil": 2.67
   },
   "tcg": {
-   "usdFoil": 2.93
+   "usdFoil": 2.91
   }
  },
  "69bc5bd2d308c64675ca8795": {
@@ -4481,7 +4481,7 @@
    "trendFoil": 3.6
   },
   "tcg": {
-   "usdFoil": 3.75
+   "usdFoil": 3.64
   }
  },
  "69bc5bd2d308c64675ca8796": {
@@ -4499,7 +4499,7 @@
    "trendFoil": 1.55
   },
   "tcg": {
-   "usdFoil": 0.91
+   "usdFoil": 0.88
   }
  },
  "69bc5bd2d308c64675ca8797": {
@@ -4517,7 +4517,7 @@
    "trendFoil": 21.08
   },
   "tcg": {
-   "usdFoil": 31.15
+   "usdFoil": 33.35
   }
  },
  "69bc5bd2d308c64675ca8798": {
@@ -4535,7 +4535,7 @@
    "trendFoil": 1.44
   },
   "tcg": {
-   "usdFoil": 1.33
+   "usdFoil": 1.32
   }
  },
  "69bc5bd2d308c64675ca8799": {
@@ -4552,7 +4552,7 @@
    "trendFoil": 2.64
   },
   "tcg": {
-   "usdFoil": 2.92
+   "usdFoil": 2.91
   }
  },
  "69bc5bd2d308c64675ca879a": {
@@ -4573,7 +4573,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.06,
+   "usd": 0.07,
    "usdFoil": 0.18
   }
  },
@@ -4595,8 +4595,8 @@
    "high": 3.04,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.22,
-   "usdFoil": 0.45
+   "usd": 0.2,
+   "usdFoil": 0.46
   }
  },
  "69bc5bd2d308c64675ca879c": {
@@ -4639,7 +4639,7 @@
    "high": 30,
    "low": 0.24,
    "mid": 0.49,
-   "usd": 0.41,
+   "usd": 0.38,
    "usdFoil": 1.65
   }
  },
@@ -4706,7 +4706,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.14,
-   "usdFoil": 0.29
+   "usdFoil": 0.28
   }
  },
  "69bc5bd2d308c64675ca87a1": {
@@ -4725,10 +4725,10 @@
   },
   "tcg": {
    "high": 99,
-   "low": 0.7,
+   "low": 0.55,
    "mid": 1.1,
-   "usd": 0.9,
-   "usdFoil": 2.4
+   "usd": 0.96,
+   "usdFoil": 2.39
   }
  },
  "69bc5bd2d308c64675ca87a2": {
@@ -4765,7 +4765,7 @@
    "trendFoil": 3.79
   },
   "tcg": {
-   "usdFoil": 5.08
+   "usdFoil": 4.99
   }
  },
  "69bc5bd2d308c64675ca87a4": {
@@ -4807,9 +4807,9 @@
   "tcg": {
    "high": 3.03,
    "low": 0.03,
-   "mid": 0.25,
+   "mid": 0.24,
    "usd": 0.16,
-   "usdFoil": 1.44
+   "usdFoil": 1.42
   }
  },
  "69bc5bd2d308c64675ca87a6": {
@@ -4896,8 +4896,8 @@
    "high": 6.2,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.18,
-   "usdFoil": 0.41
+   "usd": 0.19,
+   "usdFoil": 0.38
   }
  },
  "69bc5bd3d308c64675ca87aa": {
@@ -4917,9 +4917,9 @@
   "tcg": {
    "high": 9,
    "low": 0.4,
-   "mid": 0.79,
+   "mid": 0.8,
    "usd": 0.62,
-   "usdFoil": 1.51
+   "usdFoil": 1.54
   }
  },
  "69bc5bd3d308c64675ca87ab": {
@@ -4940,7 +4940,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.24,
-   "usd": 0.1,
+   "usd": 0.11,
    "usdFoil": 0.32
   }
  },
@@ -4982,9 +4982,9 @@
   },
   "tcg": {
    "high": 504.87,
-   "low": 3.6,
+   "low": 4,
    "mid": 5,
-   "usd": 4.61,
+   "usd": 4.54,
    "usdFoil": 7.33
   }
  },
@@ -5028,8 +5028,8 @@
    "high": 8.5,
    "low": 0.15,
    "mid": 0.35,
-   "usd": 0.26,
-   "usdFoil": 2.34
+   "usd": 0.28,
+   "usdFoil": 2.28
   }
  },
  "69bc5bd3d308c64675ca87b0": {
@@ -5050,7 +5050,7 @@
    "high": 3,
    "low": 0.02,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.13,
    "usdFoil": 0.3
   }
  },
@@ -5113,7 +5113,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.15
+   "usdFoil": 0.17
   }
  },
  "69bc5bd3d308c64675ca87b4": {
@@ -5130,7 +5130,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.21
   }
  },
  "69bc5bd3d308c64675ca87b5": {
@@ -5148,7 +5148,7 @@
    "trendFoil": 0.92
   },
   "tcg": {
-   "usdFoil": 1.3
+   "usdFoil": 1.31
   }
  },
  "69bc5bd3d308c64675ca87b6": {
@@ -5184,7 +5184,7 @@
    "trendFoil": 1.13
   },
   "tcg": {
-   "usdFoil": 3.1
+   "usdFoil": 2.88
   }
  },
  "69bc5bd3d308c64675ca87b8": {
@@ -5220,7 +5220,7 @@
    "trendFoil": 1.5
   },
   "tcg": {
-   "usdFoil": 2.69
+   "usdFoil": 2.72
   }
  },
  "69bc5bd3d308c64675ca87ba": {
@@ -5238,7 +5238,7 @@
    "trendFoil": 0.07
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.22
   }
  },
  "69bc5bd4d308c64675ca87bb": {
@@ -5256,7 +5256,7 @@
    "trendFoil": 0.25
   },
   "tcg": {
-   "usdFoil": 0.52
+   "usdFoil": 0.48
   }
  },
  "69bc5bd4d308c64675ca87bc": {
@@ -5274,7 +5274,7 @@
    "trendFoil": 2.46
   },
   "tcg": {
-   "usdFoil": 3.17
+   "usdFoil": 3.19
   }
  },
  "69bc5bd4d308c64675ca87bd": {
@@ -5291,7 +5291,7 @@
    "trendFoil": 0.24
   },
   "tcg": {
-   "usdFoil": 0.28
+   "usdFoil": 0.27
   }
  },
  "69bc5bd4d308c64675ca87be": {
@@ -5327,7 +5327,7 @@
    "trendFoil": 3.56
   },
   "tcg": {
-   "usdFoil": 1.29
+   "usdFoil": 1.28
   }
  },
  "69bc5bd4d308c64675ca87c0": {
@@ -5345,7 +5345,7 @@
    "trendFoil": 0.38
   },
   "tcg": {
-   "usdFoil": 0.58
+   "usdFoil": 0.57
   }
  },
  "69bc5bd4d308c64675ca87c1": {
@@ -5363,7 +5363,7 @@
    "trendFoil": 34.75
   },
   "tcg": {
-   "usdFoil": 62.4
+   "usdFoil": 59.59
   }
  },
  "69bc5bd4d308c64675ca87c2": {
@@ -5381,7 +5381,7 @@
    "trendFoil": 0.97
   },
   "tcg": {
-   "usdFoil": 0.79
+   "usdFoil": 0.8
   }
  },
  "69bc5bd4d308c64675ca87c3": {
@@ -5399,7 +5399,7 @@
    "trendFoil": 2.29
   },
   "tcg": {
-   "usdFoil": 2.33
+   "usdFoil": 2.35
   }
  },
  "69bc5bd4d308c64675ca87c4": {
@@ -5417,7 +5417,7 @@
    "trendFoil": 4.24
   },
   "tcg": {
-   "usdFoil": 3.51
+   "usdFoil": 3.54
   }
  },
  "69bc5bd4d308c64675ca87c5": {
@@ -5435,7 +5435,7 @@
    "trendFoil": 12.33
   },
   "tcg": {
-   "usdFoil": 15.42
+   "usdFoil": 15.99
   }
  },
  "69bc5bd4d308c64675ca87c6": {
@@ -5471,7 +5471,7 @@
    "trendFoil": 3.78
   },
   "tcg": {
-   "usdFoil": 2.75
+   "usdFoil": 2.74
   }
  },
  "69bc5bd4d308c64675ca87c8": {
@@ -5489,7 +5489,7 @@
    "trendFoil": 0.26
   },
   "tcg": {
-   "usdFoil": 0.33
+   "usdFoil": 0.36
   }
  },
  "69bc5bd4d308c64675ca87c9": {
@@ -5507,7 +5507,7 @@
    "trendFoil": 3.09
   },
   "tcg": {
-   "usdFoil": 3.03
+   "usdFoil": 2.97
   }
  },
  "69bc5bd4d308c64675ca87ca": {
@@ -5525,7 +5525,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.26
+   "usdFoil": 0.32
   }
  },
  "69bc5bd4d308c64675ca87cb": {
@@ -5543,7 +5543,7 @@
    "trendFoil": 1.91
   },
   "tcg": {
-   "usdFoil": 1.66
+   "usdFoil": 1.6
   }
  },
  "69bc5bd4d308c64675ca87cc": {
@@ -5560,7 +5560,7 @@
    "trendFoil": 0.23
   },
   "tcg": {
-   "usdFoil": 0.24
+   "usdFoil": 0.28
   }
  },
  "69bc5bd4d308c64675ca87cd": {
@@ -5578,7 +5578,7 @@
    "trendFoil": 4.21
   },
   "tcg": {
-   "usdFoil": 3.44
+   "usdFoil": 3.28
   }
  },
  "69bc5bd5d308c64675ca87ce": {
@@ -5614,7 +5614,7 @@
    "trendFoil": 0.99
   },
   "tcg": {
-   "usdFoil": 0.72
+   "usdFoil": 0.77
   }
  },
  "69bc5bd5d308c64675ca87d0": {
@@ -5632,7 +5632,7 @@
    "trendFoil": 0.56
   },
   "tcg": {
-   "usdFoil": 1.76
+   "usdFoil": 1.79
   }
  },
  "69bc5bd5d308c64675ca87d1": {
@@ -5650,7 +5650,7 @@
    "trendFoil": 2.06
   },
   "tcg": {
-   "usdFoil": 3.09
+   "usdFoil": 3.19
   }
  },
  "69bc5bd5d308c64675ca87d2": {
@@ -5668,7 +5668,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.19
   }
  },
  "69bc5bd5d308c64675ca87d3": {
@@ -5686,7 +5686,7 @@
    "trendFoil": 1.29
   },
   "tcg": {
-   "usdFoil": 0.98
+   "usdFoil": 0.93
   }
  },
  "69bc5bd5d308c64675ca87d4": {
@@ -5738,7 +5738,7 @@
    "trendFoil": 0.21
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.36
   }
  },
  "69bc5bd5d308c64675ca87d7": {
@@ -5756,7 +5756,7 @@
    "trendFoil": 3.83
   },
   "tcg": {
-   "usdFoil": 4.47
+   "usdFoil": 4.71
   }
  },
  "69bc5bd5d308c64675ca87d8": {
@@ -5774,7 +5774,7 @@
    "trendFoil": 0.22
   },
   "tcg": {
-   "usdFoil": 0.4
+   "usdFoil": 0.37
   }
  },
  "69bc5bd5d308c64675ca87d9": {
@@ -5792,7 +5792,7 @@
    "trendFoil": 3.92
   },
   "tcg": {
-   "usdFoil": 3.66
+   "usdFoil": 4.15
   }
  },
  "69bc5bd5d308c64675ca87da": {
@@ -5810,7 +5810,7 @@
    "trendFoil": 0.22
   },
   "tcg": {
-   "usdFoil": 0.35
+   "usdFoil": 0.33
   }
  },
  "69bc5bd5d308c64675ca87db": {
@@ -5827,7 +5827,7 @@
    "trendFoil": 1.41
   },
   "tcg": {
-   "usdFoil": 1.18
+   "usdFoil": 1.13
   }
  },
  "69bc5bd5d308c64675ca87dc": {
@@ -5863,7 +5863,7 @@
    "trendFoil": 2.27
   },
   "tcg": {
-   "usdFoil": 2.51
+   "usdFoil": 2.41
   }
  },
  "69bc5bd5d308c64675ca87de": {
@@ -5881,7 +5881,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.29
+   "usdFoil": 0.3
   }
  },
  "69bc5bd5d308c64675ca87df": {
@@ -5899,7 +5899,7 @@
    "trendFoil": 4.41
   },
   "tcg": {
-   "usdFoil": 4.5
+   "usdFoil": 4.57
   }
  },
  "69bc5bd5d308c64675ca87e0": {
@@ -5921,7 +5921,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.09,
-   "usdFoil": 0.44
+   "usdFoil": 0.43
   }
  },
  "69bc5bd5d308c64675ca87e1": {
@@ -5942,7 +5942,7 @@
    "high": 3.12,
    "low": 0.1,
    "mid": 0.25,
-   "usd": 0.2,
+   "usd": 0.22,
    "usdFoil": 1.24
   }
  },
@@ -5965,7 +5965,7 @@
    "low": 0.02,
    "mid": 0.25,
    "usd": 0.17,
-   "usdFoil": 0.49
+   "usdFoil": 0.48
   }
  },
  "69bc5bd6d308c64675ca87e3": {
@@ -5986,8 +5986,8 @@
    "high": 3.12,
    "low": 0.1,
    "mid": 0.25,
-   "usd": 0.23,
-   "usdFoil": 0.5
+   "usd": 0.26,
+   "usdFoil": 0.54
   }
  },
  "69bc5bd6d308c64675ca87e4": {
@@ -6030,7 +6030,7 @@
    "high": 5,
    "low": 0.02,
    "mid": 0.31,
-   "usd": 0.24,
+   "usd": 0.25,
    "usdFoil": 1.44
   }
  },
@@ -6050,8 +6050,8 @@
   },
   "tcg": {
    "high": 3.07,
-   "low": 0.06,
-   "mid": 0.24,
+   "low": 0.09,
+   "mid": 0.23,
    "usd": 0.17,
    "usdFoil": 0.45
   }
@@ -6074,8 +6074,8 @@
    "high": 3.07,
    "low": 0.08,
    "mid": 0.25,
-   "usd": 0.2,
-   "usdFoil": 0.57
+   "usd": 0.19,
+   "usdFoil": 0.58
   }
  },
  "69bc5bd6d308c64675ca87e8": {
@@ -6096,7 +6096,7 @@
    "high": 3.01,
    "low": 0.02,
    "mid": 0.2,
-   "usd": 0.14,
+   "usd": 0.13,
    "usdFoil": 0.36
   }
  },
@@ -6119,7 +6119,7 @@
    "low": 0.02,
    "mid": 0.25,
    "usd": 0.13,
-   "usdFoil": 0.68
+   "usdFoil": 0.67
   }
  },
  "69bc5bd6d308c64675ca87ea": {
@@ -6139,7 +6139,7 @@
   "tcg": {
    "high": 5,
    "low": 0.02,
-   "mid": 0.25,
+   "mid": 0.24,
    "usd": 0.1,
    "usdFoil": 0.59
   }
@@ -6182,10 +6182,10 @@
   },
   "tcg": {
    "high": 5,
-   "low": 0.13,
+   "low": 0.16,
    "mid": 0.25,
-   "usd": 0.2,
-   "usdFoil": 1.42
+   "usd": 0.22,
+   "usdFoil": 1.46
   }
  },
  "69bc5bd6d308c64675ca87ed": {
@@ -6206,7 +6206,7 @@
    "high": 3.21,
    "low": 0.1,
    "mid": 0.3,
-   "usd": 0.28,
+   "usd": 0.27,
    "usdFoil": 0.82
   }
  },
@@ -6227,9 +6227,9 @@
   "tcg": {
    "high": 3.23,
    "low": 0.1,
-   "mid": 0.32,
-   "usd": 0.29,
-   "usdFoil": 3.48
+   "mid": 0.33,
+   "usd": 0.3,
+   "usdFoil": 3.55
   }
  },
  "69bc5bd6d308c64675ca87ef": {
@@ -6272,8 +6272,8 @@
    "high": 3.16,
    "low": 0.1,
    "mid": 0.3,
-   "usd": 0.28,
-   "usdFoil": 0.88
+   "usd": 0.25,
+   "usdFoil": 0.87
   }
  },
  "69bc5bd6d308c64675ca87f1": {
@@ -6336,8 +6336,8 @@
   },
   "tcg": {
    "high": 15,
-   "low": 0.22,
-   "mid": 0.37,
+   "low": 0.21,
+   "mid": 0.39,
    "usd": 0.35,
    "usdFoil": 1.38
   }
@@ -6360,7 +6360,7 @@
    "high": 3.23,
    "low": 0.19,
    "mid": 0.35,
-   "usd": 0.33,
+   "usd": 0.32,
    "usdFoil": 1.95
   }
  },
@@ -6383,7 +6383,7 @@
    "low": 0.15,
    "mid": 0.26,
    "usd": 0.23,
-   "usdFoil": 1.13
+   "usdFoil": 1.14
   }
  },
  "69bc5bd7d308c64675ca87f6": {
@@ -6404,8 +6404,8 @@
    "high": 3.99,
    "low": 0.19,
    "mid": 0.3,
-   "usd": 0.29,
-   "usdFoil": 1.36
+   "usd": 0.28,
+   "usdFoil": 1.42
   }
  },
  "69bc5bd7d308c64675ca87f7": {
@@ -6427,7 +6427,7 @@
    "low": 0.1,
    "mid": 0.25,
    "usd": 0.24,
-   "usdFoil": 3.39
+   "usdFoil": 3.36
   }
  },
  "69bc5bd7d308c64675ca87f8": {
@@ -6480,7 +6480,7 @@
    "trendFoil": 43.89
   },
   "tcg": {
-   "usdFoil": 69.33
+   "usdFoil": 69.34
   }
  },
  "69bc5bd7d308c64675ca87fb": {
@@ -6550,7 +6550,7 @@
    "trendFoil": 37.49
   },
   "tcg": {
-   "usdFoil": 53.09
+   "usdFoil": 52.15
   }
  },
  "69bc5bd7d308c64675ca87ff": {
@@ -6584,7 +6584,7 @@
    "trendFoil": 276.7
   },
   "tcg": {
-   "usdFoil": 370.79
+   "usdFoil": 369.32
   }
  },
  "69bc5bd7d308c64675ca8801": {
@@ -6649,7 +6649,7 @@
    "trendFoil": 50.01
   },
   "tcg": {
-   "usdFoil": 79.84
+   "usdFoil": 79.97
   }
  },
  "69bc5bd7d308c64675ca8805": {
@@ -6678,7 +6678,7 @@
    "trendFoil": 66.23
   },
   "tcg": {
-   "usdFoil": 87.84
+   "usdFoil": 88.04
   }
  },
  "69bc5bd7d308c64675ca8807": {
@@ -6712,7 +6712,7 @@
    "trendFoil": 78.76
   },
   "tcg": {
-   "usdFoil": 156.6
+   "usdFoil": 155.76
   }
  },
  "69bc5bd8d308c64675ca8809": {
@@ -6811,7 +6811,7 @@
    "trendFoil": 53.09
   },
   "tcg": {
-   "usdFoil": 74.1
+   "usdFoil": 72.88
   }
  },
  "69bc5bd8d308c64675ca880f": {
@@ -6841,7 +6841,7 @@
    "trendFoil": 1.94
   },
   "tcg": {
-   "usdFoil": 1.22
+   "usdFoil": 1.24
   }
  },
  "69bc5bd8d308c64675ca8811": {
@@ -6859,7 +6859,7 @@
    "trendFoil": 13.42
   },
   "tcg": {
-   "usdFoil": 13.36
+   "usdFoil": 13.77
   }
  },
  "69bc5bd8d308c64675ca8812": {
@@ -6883,7 +6883,7 @@
    "high": 3.03,
    "low": 0.02,
    "mid": 0.25,
-   "usd": 0.17
+   "usd": 0.18
   }
  },
  "69bc5bd8d308c64675ca8815": {
@@ -6907,8 +6907,8 @@
   "tcg": {
    "high": 10,
    "low": 1,
-   "mid": 2.55,
-   "usd": 1.95
+   "mid": 2.99,
+   "usd": 2.35
   }
  },
  "69bc5bd8d308c64675ca8817": {
@@ -6940,9 +6940,9 @@
   },
   "tcg": {
    "high": 3.74,
-   "low": 0.36,
+   "low": 0.32,
    "mid": 0.5,
-   "usd": 0.43
+   "usd": 0.42
   }
  },
  "69bc5bd8d308c64675ca8819": {
@@ -6958,8 +6958,8 @@
   "tcg": {
    "high": 3.95,
    "low": 0.42,
-   "mid": 0.77,
-   "usd": 0.56
+   "mid": 0.75,
+   "usd": 0.65
   }
  },
  "69bc5bd8d308c64675ca881a": {
@@ -6974,7 +6974,7 @@
   },
   "tcg": {
    "high": 2.99,
-   "low": 0.14,
+   "low": 0.13,
    "mid": 0.29,
    "usd": 0.25
   }
@@ -6993,7 +6993,7 @@
    "high": 5,
    "low": 0.25,
    "mid": 0.77,
-   "usd": 0.59
+   "usd": 0.57
   }
  },
  "69bc5bd9d308c64675ca881c": {
@@ -7009,8 +7009,8 @@
   "tcg": {
    "high": 5.24,
    "low": 0.4,
-   "mid": 0.89,
-   "usd": 0.71
+   "mid": 0.99,
+   "usd": 0.69
   }
  },
  "69bc5bd9d308c64675ca881d": {
@@ -7044,7 +7044,7 @@
    "high": 15,
    "low": 0.75,
    "mid": 1.26,
-   "usd": 0.93
+   "usd": 0.96
   }
  },
  "69bc5bd9d308c64675ca881f": {
@@ -7060,8 +7060,8 @@
   "tcg": {
    "high": 14,
    "low": 1.98,
-   "mid": 4.1,
-   "usd": 3.24
+   "mid": 4,
+   "usd": 3.12
   }
  },
  "69bc5bd9d308c64675ca8820": {
@@ -7077,8 +7077,8 @@
   "tcg": {
    "high": 68.5,
    "low": 2.49,
-   "mid": 6,
-   "usd": 4.78
+   "mid": 6.24,
+   "usd": 4.64
   }
  },
  "69bc5bd9d308c64675ca8821": {
@@ -7093,8 +7093,8 @@
   },
   "tcg": {
    "high": 18.87,
-   "low": 0.2,
-   "mid": 0.65,
+   "low": 0.18,
+   "mid": 0.66,
    "usd": 0.35
   }
  },
@@ -7111,7 +7111,7 @@
   "tcg": {
    "high": 5,
    "low": 0.02,
-   "mid": 0.86,
+   "mid": 0.83,
    "usd": 0.76
   }
  },
@@ -7129,7 +7129,7 @@
    "high": 20.51,
    "low": 2.22,
    "mid": 4,
-   "usd": 3.55
+   "usd": 3.5
   }
  },
  "69bc5bd9d308c64675ca8824": {
@@ -7145,7 +7145,7 @@
   "tcg": {
    "high": 12.98,
    "low": 0.65,
-   "mid": 1.12,
+   "mid": 1.09,
    "usd": 0.87
   }
  },
@@ -7181,7 +7181,7 @@
    "high": 45,
    "low": 2,
    "mid": 4.98,
-   "usd": 3.57
+   "usd": 3.59
   }
  },
  "69bc5bd9d308c64675ca8827": {
@@ -7197,7 +7197,7 @@
   "tcg": {
    "high": 4.99,
    "low": 0.38,
-   "mid": 0.7,
+   "mid": 0.71,
    "usd": 0.64
   }
  },
@@ -7232,7 +7232,7 @@
    "high": 5,
    "low": 0.53,
    "mid": 0.87,
-   "usd": 0.68
+   "usd": 0.67
   }
  },
  "69bc5bd9d308c64675ca882a": {
@@ -7248,8 +7248,8 @@
   "tcg": {
    "high": 50,
    "low": 8.5,
-   "mid": 11.99,
-   "usd": 10.51
+   "mid": 12,
+   "usd": 10.39
   }
  },
  "69bc5bd9d308c64675ca882b": {
@@ -7265,8 +7265,8 @@
   "tcg": {
    "high": 5.95,
    "low": 0.47,
-   "mid": 1.2,
-   "usd": 0.92
+   "mid": 1.18,
+   "usd": 0.88
   }
  },
  "69bc5bd9d308c64675ca882c": {
@@ -7282,7 +7282,7 @@
   "tcg": {
    "high": 4.5,
    "low": 0.5,
-   "mid": 1.01,
+   "mid": 1,
    "usd": 0.92
   }
  },
@@ -7300,7 +7300,7 @@
    "high": 3,
    "low": 0.32,
    "mid": 0.5,
-   "usd": 0.44
+   "usd": 0.5
   }
  },
  "69bc5bd9d308c64675ca882e": {
@@ -7317,7 +7317,7 @@
    "trendFoil": 0.26
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.37
   }
  },
  "69bc5bdad308c64675ca882f": {
@@ -7334,7 +7334,7 @@
    "trendFoil": 4.14
   },
   "tcg": {
-   "usdFoil": 2.31
+   "usdFoil": 2.11
   }
  },
  "69bc5bdad308c64675ca8830": {
@@ -7352,7 +7352,7 @@
    "trendFoil": 3.27
   },
   "tcg": {
-   "usdFoil": 5.41
+   "usdFoil": 5.25
   }
  },
  "69bc5bdad308c64675ca8831": {
@@ -7370,7 +7370,7 @@
    "trendFoil": 9.02
   },
   "tcg": {
-   "usdFoil": 11.11
+   "usdFoil": 11.89
   }
  },
  "69bc5bdad308c64675ca8832": {
@@ -7388,7 +7388,7 @@
    "trendFoil": 0.42
   },
   "tcg": {
-   "usdFoil": 0.36
+   "usdFoil": 0.42
   }
  },
  "69bc5bdad308c64675ca8833": {
@@ -7405,7 +7405,7 @@
    "trendFoil": 1.31
   },
   "tcg": {
-   "usdFoil": 0.96
+   "usdFoil": 1.16
   }
  },
  "69bc5bdad308c64675ca8834": {
@@ -7423,7 +7423,7 @@
    "trendFoil": 0.38
   },
   "tcg": {
-   "usdFoil": 0.41
+   "usdFoil": 0.39
   }
  },
  "69bc5bdad308c64675ca8835": {
@@ -7444,7 +7444,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
+   "usd": 0.1,
    "usdFoil": 0.29
   }
  },
@@ -7497,7 +7497,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.21
   }
  },
  "69bc5bdad308c64675ca8839": {
@@ -7531,7 +7531,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.22
   }
  },
  "69bc5bdad308c64675ca883b": {
@@ -7571,7 +7571,7 @@
    "trendFoil": 0.28
   },
   "tcg": {
-   "usdFoil": 0.32
+   "usdFoil": 0.3
   }
  },
  "69bc5bdad308c64675ca883d": {
@@ -7608,9 +7608,9 @@
   "tcg": {
    "high": 6.06,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.09,
-   "usdFoil": 0.24
+   "usdFoil": 0.25
   }
  },
  "69bc5bdad308c64675ca883f": {
@@ -7640,7 +7640,7 @@
    "trendFoil": 101.4
   },
   "tcg": {
-   "usdFoil": 170.28
+   "usdFoil": 170.44
   }
  },
  "69bc5bdbd308c64675ca8841": {
@@ -7675,7 +7675,7 @@
    "trendFoil": 1.65
   },
   "tcg": {
-   "usdFoil": 1.78
+   "usdFoil": 1.7
   }
  },
  "69bc5bdbd308c64675ca8843": {
@@ -7692,7 +7692,7 @@
    "trendFoil": 20.36
   },
   "tcg": {
-   "usdFoil": 23.26
+   "usdFoil": 23.38
   }
  },
  "69bc5bdbd308c64675ca8844": {
@@ -7710,7 +7710,7 @@
    "trendFoil": 23.82
   },
   "tcg": {
-   "usdFoil": 26.17
+   "usdFoil": 25.66
   }
  },
  "69bc5bdbd308c64675ca8845": {
@@ -7749,7 +7749,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.17
   }
  },
  "69bc5bdbd308c64675ca8847": {
@@ -7767,7 +7767,7 @@
    "trendFoil": 3.97
   },
   "tcg": {
-   "usdFoil": 3.72
+   "usdFoil": 3.67
   }
  },
  "69bc5bdbd308c64675ca8848": {
@@ -7825,7 +7825,7 @@
    "trendFoil": 1.98
   },
   "tcg": {
-   "usdFoil": 1.71
+   "usdFoil": 1.7
   }
  },
  "69bc5bdbd308c64675ca884b": {
@@ -7855,7 +7855,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.12
+   "usdFoil": 0.13
   }
  },
  "69bc5bdbd308c64675ca884d": {
@@ -7873,7 +7873,7 @@
    "trendFoil": 0.67
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.41
   }
  },
  "69bc5bdbd308c64675ca884e": {
@@ -7909,7 +7909,7 @@
    "trendFoil": 1.55
   },
   "tcg": {
-   "usdFoil": 1.22
+   "usdFoil": 1.27
   }
  },
  "69bc5bdbd308c64675ca8850": {
@@ -7943,7 +7943,7 @@
    "trendFoil": 11.51
   },
   "tcg": {
-   "usdFoil": 11.18
+   "usdFoil": 10.05
   }
  },
  "69bc5bdcd308c64675ca8852": {
@@ -7961,7 +7961,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.21
   }
  },
  "69bc5bdcd308c64675ca8853": {
@@ -7995,7 +7995,7 @@
    "trendFoil": 19.95
   },
   "tcg": {
-   "usdFoil": 19.9
+   "usdFoil": 20.26
   }
  },
  "69bc5bdcd308c64675ca8855": {
@@ -8031,7 +8031,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.17
   }
  },
  "69bc5bdcd308c64675ca8857": {
@@ -8049,7 +8049,7 @@
    "trendFoil": 262.8
   },
   "tcg": {
-   "usdFoil": 376.93
+   "usdFoil": 380.17
   }
  },
  "69bc5bdcd308c64675ca8858": {
@@ -8079,7 +8079,7 @@
    "trendFoil": 58.08
   },
   "tcg": {
-   "usdFoil": 110.09
+   "usdFoil": 109.32
   }
  },
  "69bc5bdcd308c64675ca885a": {
@@ -8097,7 +8097,7 @@
    "trendFoil": 31.32
   },
   "tcg": {
-   "usdFoil": 48.92
+   "usdFoil": 49.04
   }
  },
  "69bc5bdcd308c64675ca885b": {
@@ -8115,7 +8115,7 @@
    "trendFoil": 65.79
   },
   "tcg": {
-   "usdFoil": 94.14
+   "usdFoil": 93.24
   }
  },
  "69bc5bdcd308c64675ca885c": {
@@ -8137,7 +8137,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.13,
-   "usdFoil": 0.53
+   "usdFoil": 0.49
   }
  },
  "69bc5bdcd308c64675ca885d": {
@@ -8154,7 +8154,7 @@
    "trendFoil": 148.29
   },
   "tcg": {
-   "usdFoil": 215.99
+   "usdFoil": 215.23
   }
  },
  "69bc5bdcd308c64675ca885e": {
@@ -8213,7 +8213,7 @@
    "trendFoil": 42.26
   },
   "tcg": {
-   "usdFoil": 66.4
+   "usdFoil": 66.43
   }
  },
  "69bc5bdcd308c64675ca8862": {
@@ -8252,8 +8252,8 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.21,
-   "usd": 0.15,
-   "usdFoil": 0.3
+   "usd": 0.17,
+   "usdFoil": 0.32
   }
  },
  "69bc5bddd308c64675ca8864": {
@@ -8274,8 +8274,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.17,
-   "usdFoil": 0.42
+   "usd": 0.18,
+   "usdFoil": 0.45
   }
  },
  "69bc5bddd308c64675ca8865": {
@@ -8292,7 +8292,7 @@
    "trendFoil": 0.07
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.18
   }
  },
  "69bc5bddd308c64675ca8866": {
@@ -8378,7 +8378,7 @@
   "tcg": {
    "high": 3,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.17,
    "usd": 0.06,
    "usdFoil": 0.17
   }
@@ -8442,7 +8442,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.19
   }
  },
  "69bc5bddd308c64675ca886d": {
@@ -8504,7 +8504,7 @@
    "low": 0.2,
    "mid": 0.45,
    "usd": 0.34,
-   "usdFoil": 1.57
+   "usdFoil": 1.56
   }
  },
  "69bc5bddd308c64675ca8870": {
@@ -8521,7 +8521,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.23
+   "usdFoil": 0.22
   }
  },
  "69bc5bddd308c64675ca8871": {
@@ -8538,7 +8538,7 @@
    "trendFoil": 4.3
   },
   "tcg": {
-   "usdFoil": 3.65
+   "usdFoil": 3.23
   }
  },
  "69bc5bddd308c64675ca8872": {
@@ -8556,7 +8556,7 @@
    "trendFoil": 1.06
   },
   "tcg": {
-   "usdFoil": 0.7
+   "usdFoil": 0.73
   }
  },
  "69bc5bddd308c64675ca8873": {
@@ -8573,7 +8573,7 @@
    "trendFoil": 0.28
   },
   "tcg": {
-   "usdFoil": 0.33
+   "usdFoil": 0.32
   }
  },
  "69bc5bddd308c64675ca8874": {
@@ -8609,7 +8609,7 @@
    "trendFoil": 6.53
   },
   "tcg": {
-   "usdFoil": 5.22
+   "usdFoil": 4.79
   }
  },
  "69bc5bddd308c64675ca8876": {
@@ -8629,7 +8629,7 @@
   "tcg": {
    "high": 4,
    "low": 0.01,
-   "mid": 0.2,
+   "mid": 0.19,
    "usd": 0.04,
    "usdFoil": 0.27
   }
@@ -8649,7 +8649,7 @@
    "trendFoil": 1.97
   },
   "tcg": {
-   "usdFoil": 1.29
+   "usdFoil": 1.28
   }
  },
  "69bc5bded308c64675ca8878": {
@@ -8691,9 +8691,9 @@
   "tcg": {
    "high": 4.99,
    "low": 0.01,
-   "mid": 0.53,
-   "usd": 0.46,
-   "usdFoil": 2.57
+   "mid": 0.54,
+   "usd": 0.52,
+   "usdFoil": 2.68
   }
  },
  "69bc5bded308c64675ca887a": {
@@ -8714,7 +8714,7 @@
    "high": 3.86,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.18,
+   "usd": 0.23,
    "usdFoil": 0.5
   }
  },
@@ -8732,7 +8732,7 @@
    "trendFoil": 2.62
   },
   "tcg": {
-   "usdFoil": 3.52
+   "usdFoil": 3.58
   }
  },
  "69bc5bded308c64675ca887c": {
@@ -8749,7 +8749,7 @@
    "trendFoil": 2
   },
   "tcg": {
-   "usdFoil": 1.19
+   "usdFoil": 1.26
   }
  },
  "69bc5bded308c64675ca887d": {
@@ -8767,7 +8767,7 @@
    "trendFoil": 3.94
   },
   "tcg": {
-   "usdFoil": 1.87
+   "usdFoil": 1.99
   }
  },
  "69bc5bded308c64675ca887e": {
@@ -8784,7 +8784,7 @@
    "trendFoil": 24.56
   },
   "tcg": {
-   "usdFoil": 34.69
+   "usdFoil": 33.37
   }
  },
  "69bc5bded308c64675ca887f": {
@@ -8819,7 +8819,7 @@
    "trendFoil": 1.44
   },
   "tcg": {
-   "usdFoil": 0.79
+   "usdFoil": 0.77
   }
  },
  "69bc5bded308c64675ca8881": {
@@ -8836,7 +8836,7 @@
    "trendFoil": 1.09
   },
   "tcg": {
-   "usdFoil": 0.79
+   "usdFoil": 0.72
   }
  },
  "69bc5bded308c64675ca8882": {
@@ -8853,7 +8853,7 @@
    "trendFoil": 4.55
   },
   "tcg": {
-   "usdFoil": 6.59
+   "usdFoil": 6.53
   }
  },
  "69bc5bded308c64675ca8883": {
@@ -8893,7 +8893,7 @@
    "trendFoil": 53
   },
   "tcg": {
-   "usdFoil": 95.47
+   "usdFoil": 94.87
   }
  },
  "69bc5bded308c64675ca8885": {
@@ -8911,7 +8911,7 @@
    "trendFoil": 69.43
   },
   "tcg": {
-   "usdFoil": 113.25
+   "usdFoil": 113.29
   }
  },
  "69bc5bded308c64675ca8886": {
@@ -8951,7 +8951,7 @@
    "trendFoil": 3.47
   },
   "tcg": {
-   "usdFoil": 3.4
+   "usdFoil": 3.29
   }
  },
  "69bc5bded308c64675ca8888": {
@@ -8968,7 +8968,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.24
   }
  },
  "69bc5bdfd308c64675ca8889": {
@@ -8989,8 +8989,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
-   "usdFoil": 0.27
+   "usd": 0.11,
+   "usdFoil": 0.26
   }
  },
  "69bc5bdfd308c64675ca888a": {
@@ -9010,9 +9010,9 @@
   "tcg": {
    "high": 4.5,
    "low": 0.6,
-   "mid": 1.75,
-   "usd": 1.14,
-   "usdFoil": 2.17
+   "mid": 1.8,
+   "usd": 1.12,
+   "usdFoil": 2.24
   }
  },
  "69bc5bdfd308c64675ca888b": {
@@ -9052,7 +9052,7 @@
    "trendFoil": 0.21
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.27
   }
  },
  "69bc5bdfd308c64675ca888d": {
@@ -9073,8 +9073,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.36
+   "usd": 0.11,
+   "usdFoil": 0.35
   }
  },
  "69bc5bdfd308c64675ca888e": {
@@ -9092,7 +9092,7 @@
    "trendFoil": 0.41
   },
   "tcg": {
-   "usdFoil": 0.37
+   "usdFoil": 0.34
   }
  },
  "69bc5bdfd308c64675ca888f": {
@@ -9153,7 +9153,7 @@
    "high": 3.79,
    "low": 0.01,
    "mid": 0.19,
-   "usd": 0.06,
+   "usd": 0.07,
    "usdFoil": 0.22
   }
  },
@@ -9173,10 +9173,10 @@
   },
   "tcg": {
    "high": 5,
-   "low": 0.25,
-   "mid": 1.86,
-   "usd": 1.24,
-   "usdFoil": 3.75
+   "low": 0.99,
+   "mid": 1.83,
+   "usd": 1.38,
+   "usdFoil": 3.51
   }
  },
  "69bc5bdfd308c64675ca8893": {
@@ -9196,8 +9196,8 @@
   "tcg": {
    "high": 7.88,
    "low": 0.01,
-   "mid": 0.21,
-   "usd": 0.14,
+   "mid": 0.2,
+   "usd": 0.12,
    "usdFoil": 0.52
   }
  },
@@ -9267,7 +9267,7 @@
    "trendFoil": 1.76
   },
   "tcg": {
-   "usdFoil": 2.75
+   "usdFoil": 2.62
   }
  },
  "69bc5bdfd308c64675ca8898": {
@@ -9285,7 +9285,7 @@
    "trendFoil": 0.4
   },
   "tcg": {
-   "usdFoil": 0.49
+   "usdFoil": 0.52
   }
  },
  "69bc5bdfd308c64675ca8899": {
@@ -9303,7 +9303,7 @@
    "trendFoil": 1.42
   },
   "tcg": {
-   "usdFoil": 0.9
+   "usdFoil": 0.87
   }
  },
  "69bc5bdfd308c64675ca889a": {
@@ -9345,9 +9345,9 @@
   "tcg": {
    "high": 9,
    "low": 0.01,
-   "mid": 0.46,
-   "usd": 0.4,
-   "usdFoil": 1.54
+   "mid": 0.49,
+   "usd": 0.47,
+   "usdFoil": 1.56
   }
  },
  "69bc5be0d308c64675ca889c": {
@@ -9365,7 +9365,7 @@
    "trendFoil": 1.15
   },
   "tcg": {
-   "usdFoil": 0.86
+   "usdFoil": 0.85
   }
  },
  "69bc5be0d308c64675ca889d": {
@@ -9382,7 +9382,7 @@
    "trendFoil": 0.19
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.2
   }
  },
  "69bc5be0d308c64675ca889e": {
@@ -9399,7 +9399,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.25
   }
  },
  "69bc5be0d308c64675ca889f": {
@@ -9417,7 +9417,7 @@
    "trendFoil": 1.78
   },
   "tcg": {
-   "usdFoil": 1.23
+   "usdFoil": 1.25
   }
  },
  "69bc5be0d308c64675ca88a0": {
@@ -9453,7 +9453,7 @@
    "trendFoil": 2.08
   },
   "tcg": {
-   "usdFoil": 2.2
+   "usdFoil": 2.3
   }
  },
  "69bc5be0d308c64675ca88a2": {
@@ -9471,7 +9471,7 @@
    "trendFoil": 3.45
   },
   "tcg": {
-   "usdFoil": 3.26
+   "usdFoil": 3.23
   }
  },
  "69bc5be0d308c64675ca88a3": {
@@ -9489,7 +9489,7 @@
    "trendFoil": 2.46
   },
   "tcg": {
-   "usdFoil": 2.23
+   "usdFoil": 2.63
   }
  },
  "69bc5be0d308c64675ca88a4": {
@@ -9617,7 +9617,7 @@
    "trendFoil": 0.14
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.21
   }
  },
  "69bc5be0d308c64675ca88aa": {
@@ -9635,7 +9635,7 @@
    "trendFoil": 1.5
   },
   "tcg": {
-   "usdFoil": 1.17
+   "usdFoil": 1.21
   }
  },
  "69bc5be0d308c64675ca88ab": {
@@ -9653,7 +9653,7 @@
    "trendFoil": 0.26
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.32
   }
  },
  "69bc5be0d308c64675ca88ac": {
@@ -9670,7 +9670,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.27
+   "usdFoil": 0.31
   }
  },
  "69bc5be0d308c64675ca88ad": {
@@ -9688,7 +9688,7 @@
    "trendFoil": 1.99
   },
   "tcg": {
-   "usdFoil": 1.95
+   "usdFoil": 2.2
   }
  },
  "69bc5be0d308c64675ca88ae": {
@@ -9710,7 +9710,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.05,
-   "usdFoil": 0.14
+   "usdFoil": 0.13
   }
  },
  "69bc5be0d308c64675ca88af": {
@@ -9727,7 +9727,7 @@
    "trendFoil": 68.84
   },
   "tcg": {
-   "usdFoil": 98.25
+   "usdFoil": 98.28
   }
  },
  "69bc5be1d308c64675ca88b0": {
@@ -9745,7 +9745,7 @@
    "trendFoil": 37.53
   },
   "tcg": {
-   "usdFoil": 65.52
+   "usdFoil": 65.47
   }
  },
  "69bc5be1d308c64675ca88b1": {
@@ -9792,7 +9792,7 @@
    "trendFoil": 2.68
   },
   "tcg": {
-   "usdFoil": 6.37
+   "usdFoil": 6.11
   }
  },
  "69bc5be1d308c64675ca88b4": {
@@ -9809,7 +9809,7 @@
    "trendFoil": 7.62
   },
   "tcg": {
-   "usdFoil": 8.9
+   "usdFoil": 8.97
   }
  },
  "69bc5be1d308c64675ca88b5": {
@@ -9827,7 +9827,7 @@
    "trendFoil": 8.9
   },
   "tcg": {
-   "usdFoil": 9.25
+   "usdFoil": 9.16
   }
  },
  "69bc5be1d308c64675ca88b6": {
@@ -9845,7 +9845,7 @@
    "trendFoil": 1.71
   },
   "tcg": {
-   "usdFoil": 1.16
+   "usdFoil": 1.2
   }
  },
  "69bc5be1d308c64675ca88b7": {
@@ -9862,7 +9862,7 @@
    "trendFoil": 6.22
   },
   "tcg": {
-   "usdFoil": 4.21
+   "usdFoil": 4.13
   }
  },
  "69bc5be1d308c64675ca88b8": {
@@ -9880,7 +9880,7 @@
    "trendFoil": 0.63
   },
   "tcg": {
-   "usdFoil": 0.37
+   "usdFoil": 0.39
   }
  },
  "69bc5be1d308c64675ca88b9": {
@@ -9898,7 +9898,7 @@
    "trendFoil": 2.2
   },
   "tcg": {
-   "usdFoil": 1.37
+   "usdFoil": 1.42
   }
  },
  "69bc5be1d308c64675ca88ba": {
@@ -9934,7 +9934,7 @@
    "trendFoil": 0.54
   },
   "tcg": {
-   "usdFoil": 0.59
+   "usdFoil": 0.72
   }
  },
  "69bc5be1d308c64675ca88bc": {
@@ -9988,7 +9988,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.24
   }
  },
  "69bc5be1d308c64675ca88bf": {
@@ -10040,7 +10040,7 @@
    "trendFoil": 5.08
   },
   "tcg": {
-   "usdFoil": 5.07
+   "usdFoil": 5.11
   }
  },
  "69bc5be1d308c64675ca88c2": {
@@ -10078,7 +10078,7 @@
   "tcg": {
    "high": 6,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.17,
    "usd": 0.07,
    "usdFoil": 0.36
   }
@@ -10101,8 +10101,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
-   "usdFoil": 0.4
+   "usd": 0.12,
+   "usdFoil": 0.39
   }
  },
  "69bc5be2d308c64675ca88c5": {
@@ -10120,7 +10120,7 @@
    "trendFoil": 7.07
   },
   "tcg": {
-   "usdFoil": 7.73
+   "usdFoil": 7.65
   }
  },
  "69bc5be2d308c64675ca88c6": {
@@ -10140,9 +10140,9 @@
   "tcg": {
    "high": 3,
    "low": 0.01,
-   "mid": 0.26,
+   "mid": 0.28,
    "usd": 0.21,
-   "usdFoil": 0.92
+   "usdFoil": 0.95
   }
  },
  "69bc5be2d308c64675ca88c7": {
@@ -10164,7 +10164,7 @@
    "low": 0.01,
    "mid": 0.3,
    "usd": 0.24,
-   "usdFoil": 2.28
+   "usdFoil": 2.21
   }
  },
  "69bc5be2d308c64675ca88c8": {
@@ -10206,8 +10206,8 @@
   "tcg": {
    "high": 3.78,
    "low": 0.01,
-   "mid": 0.15,
-   "usd": 0.07,
+   "mid": 0.16,
+   "usd": 0.06,
    "usdFoil": 0.16
   }
  },
@@ -10250,9 +10250,9 @@
   "tcg": {
    "high": 8,
    "low": 0.49,
-   "mid": 1.33,
-   "usd": 0.76,
-   "usdFoil": 3.74
+   "mid": 1.36,
+   "usd": 0.85,
+   "usdFoil": 3.79
   }
  },
  "69bc5be2d308c64675ca88cc": {
@@ -10273,8 +10273,8 @@
    "high": 8,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.24,
-   "usdFoil": 2.44
+   "usd": 0.22,
+   "usdFoil": 2.59
   }
  },
  "69bc5be2d308c64675ca88cd": {
@@ -10317,7 +10317,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.17,
+   "usd": 0.18,
    "usdFoil": 0.85
   }
  },
@@ -10383,8 +10383,8 @@
    "high": 3.88,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.18,
-   "usdFoil": 0.73
+   "usd": 0.17,
+   "usdFoil": 0.74
   }
  },
  "69bc5be2d308c64675ca88d2": {
@@ -10427,8 +10427,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
-   "usdFoil": 0.24
+   "usd": 0.07,
+   "usdFoil": 0.25
   }
  },
  "69bc5be2d308c64675ca88d4": {
@@ -10446,7 +10446,7 @@
    "trendFoil": 0.38
   },
   "tcg": {
-   "usdFoil": 0.43
+   "usdFoil": 0.48
   }
  },
  "69bc5be2d308c64675ca88d5": {
@@ -10467,8 +10467,8 @@
    "high": 4.19,
    "low": 0.01,
    "mid": 0.5,
-   "usd": 0.38,
-   "usdFoil": 2.7
+   "usd": 0.39,
+   "usdFoil": 2.77
   }
  },
  "69bc5be2d308c64675ca88d6": {
@@ -10486,7 +10486,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.24
+   "usdFoil": 0.25
   }
  },
  "69bc5be3d308c64675ca88d7": {
@@ -10522,7 +10522,7 @@
    "trendFoil": 0.94
   },
   "tcg": {
-   "usdFoil": 0.67
+   "usdFoil": 0.7
   }
  },
  "69bc5be3d308c64675ca88d9": {
@@ -10540,7 +10540,7 @@
    "trendFoil": 2.19
   },
   "tcg": {
-   "usdFoil": 2.04
+   "usdFoil": 2.09
   }
  },
  "69bc5be3d308c64675ca88da": {
@@ -10558,7 +10558,7 @@
    "trendFoil": 6.56
   },
   "tcg": {
-   "usdFoil": 8.21
+   "usdFoil": 8.26
   }
  },
  "69bc5be3d308c64675ca88db": {
@@ -10576,7 +10576,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.24
+   "usdFoil": 0.25
   }
  },
  "69bc5be3d308c64675ca88dc": {
@@ -10594,7 +10594,7 @@
    "trendFoil": 2.29
   },
   "tcg": {
-   "usdFoil": 3.07
+   "usdFoil": 3.11
   }
  },
  "69bc5be3d308c64675ca88dd": {
@@ -10611,7 +10611,7 @@
    "trendFoil": 0.28
   },
   "tcg": {
-   "usdFoil": 0.41
+   "usdFoil": 0.43
   }
  },
  "69bc5be3d308c64675ca88de": {
@@ -10647,7 +10647,7 @@
    "trendFoil": 1.42
   },
   "tcg": {
-   "usdFoil": 1.13
+   "usdFoil": 1.18
   }
  },
  "69bc5be3d308c64675ca88e0": {
@@ -10665,7 +10665,7 @@
    "trendFoil": 1.7
   },
   "tcg": {
-   "usdFoil": 1.24
+   "usdFoil": 1.39
   }
  },
  "69bc5be3d308c64675ca88e1": {
@@ -10683,7 +10683,7 @@
    "trendFoil": 0.78
   },
   "tcg": {
-   "usdFoil": 0.79
+   "usdFoil": 0.77
   }
  },
  "69bc5be3d308c64675ca88e2": {
@@ -10700,7 +10700,7 @@
    "trendFoil": 8.28
   },
   "tcg": {
-   "usdFoil": 8.69
+   "usdFoil": 8.57
   }
  },
  "69bc5be3d308c64675ca88e3": {
@@ -10736,7 +10736,7 @@
    "trendFoil": 68.03
   },
   "tcg": {
-   "usdFoil": 115.78
+   "usdFoil": 115.91
   }
  },
  "69bc5be3d308c64675ca88e5": {
@@ -10754,7 +10754,7 @@
    "trendFoil": 62.13
   },
   "tcg": {
-   "usdFoil": 126.76
+   "usdFoil": 125.83
   }
  },
  "69bc5be3d308c64675ca88e6": {
@@ -10772,7 +10772,7 @@
    "trendFoil": 33.89
   },
   "tcg": {
-   "usdFoil": 61.11
+   "usdFoil": 61.02
   }
  },
  "69bc5be3d308c64675ca88e7": {
@@ -10801,7 +10801,7 @@
    "trendFoil": 99.1
   },
   "tcg": {
-   "usdFoil": 135.98
+   "usdFoil": 135.92
   }
  },
  "69bc5be3d308c64675ca88e9": {
@@ -10813,7 +10813,7 @@
    "trendFoil": 44.9
   },
   "tcg": {
-   "usdFoil": 54.94
+   "usdFoil": 55.65
   }
  },
  "69bc5be4d308c64675ca88ea": {
@@ -10867,7 +10867,7 @@
    "trendFoil": 56.61
   },
   "tcg": {
-   "usdFoil": 79.01
+   "usdFoil": 79.33
   }
  },
  "69bc5be4d308c64675ca88ed": {
@@ -10885,7 +10885,7 @@
    "trendFoil": 41.4
   },
   "tcg": {
-   "usdFoil": 56.88
+   "usdFoil": 56.95
   }
  },
  "69bc5be4d308c64675ca88ee": {
@@ -10905,7 +10905,7 @@
   "tcg": {
    "high": 9,
    "low": 0.01,
-   "mid": 0.15,
+   "mid": 0.16,
    "usd": 0.04,
    "usdFoil": 0.14
   }
@@ -10925,7 +10925,7 @@
    "trendFoil": 0.51
   },
   "tcg": {
-   "usdFoil": 0.39
+   "usdFoil": 0.41
   }
  },
  "69bc5be4d308c64675ca88f0": {
@@ -10946,8 +10946,8 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.26
+   "usd": 0.09,
+   "usdFoil": 0.27
   }
  },
  "69bc5be4d308c64675ca88f1": {
@@ -10969,7 +10969,7 @@
    "low": 0.01,
    "mid": 0.17,
    "usd": 0.07,
-   "usdFoil": 0.24
+   "usdFoil": 0.23
   }
  },
  "69bc5be4d308c64675ca88f2": {
@@ -10989,9 +10989,9 @@
   "tcg": {
    "high": 3,
    "low": 0.01,
-   "mid": 0.15,
-   "usd": 0.08,
-   "usdFoil": 0.22
+   "mid": 0.16,
+   "usd": 0.11,
+   "usdFoil": 0.24
   }
  },
  "69bc5be4d308c64675ca88f3": {
@@ -11012,8 +11012,8 @@
    "high": 3.78,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.07,
-   "usdFoil": 0.19
+   "usd": 0.06,
+   "usdFoil": 0.2
   }
  },
  "69bc5be4d308c64675ca88f4": {
@@ -11031,7 +11031,7 @@
    "trendFoil": 0.5
   },
   "tcg": {
-   "usdFoil": 0.33
+   "usdFoil": 0.37
   }
  },
  "69bc5be4d308c64675ca88f5": {
@@ -11071,7 +11071,7 @@
    "trendFoil": 0.61
   },
   "tcg": {
-   "usdFoil": 0.49
+   "usdFoil": 0.52
   }
  },
  "69bc5be4d308c64675ca88f7": {
@@ -11136,8 +11136,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.15,
-   "usdFoil": 0.43
+   "usd": 0.13,
+   "usdFoil": 0.41
   }
  },
  "69bc5be4d308c64675ca88fa": {
@@ -11181,7 +11181,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.12,
-   "usdFoil": 0.29
+   "usdFoil": 0.28
   }
  },
  "69bc5be4d308c64675ca88fc": {
@@ -11224,8 +11224,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.19,
-   "usd": 0.13,
-   "usdFoil": 0.21
+   "usd": 0.14,
+   "usdFoil": 0.22
   }
  },
  "69bc5be5d308c64675ca88fe": {
@@ -11243,7 +11243,7 @@
    "trendFoil": 1.52
   },
   "tcg": {
-   "usdFoil": 1.1
+   "usdFoil": 1.12
   }
  },
  "69bc5be5d308c64675ca88ff": {
@@ -11264,7 +11264,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.14,
    "usdFoil": 0.27
   }
  },
@@ -11283,7 +11283,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.14
+   "usdFoil": 0.16
   }
  },
  "69bc5be5d308c64675ca8901": {
@@ -11301,7 +11301,7 @@
    "trendFoil": 24.37
   },
   "tcg": {
-   "usdFoil": 27.09
+   "usdFoil": 26.57
   }
  },
  "69bc5be5d308c64675ca8902": {
@@ -11336,7 +11336,7 @@
    "trendFoil": 1.2
   },
   "tcg": {
-   "usdFoil": 1.22
+   "usdFoil": 1.17
   }
  },
  "69bc5be5d308c64675ca8904": {
@@ -11353,7 +11353,7 @@
    "trendFoil": 1.68
   },
   "tcg": {
-   "usdFoil": 0.92
+   "usdFoil": 0.85
   }
  },
  "69bc5be5d308c64675ca8905": {
@@ -11371,7 +11371,7 @@
    "trendFoil": 4.37
   },
   "tcg": {
-   "usdFoil": 4.29
+   "usdFoil": 4.18
   }
  },
  "69bc5be5d308c64675ca8906": {
@@ -11411,7 +11411,7 @@
    "trendFoil": 1.38
   },
   "tcg": {
-   "usdFoil": 1.04
+   "usdFoil": 1.07
   }
  },
  "69bc5be5d308c64675ca8908": {
@@ -11446,7 +11446,7 @@
    "trendFoil": 0.94
   },
   "tcg": {
-   "usdFoil": 0.59
+   "usdFoil": 0.57
   }
  },
  "69bc5be5d308c64675ca890a": {
@@ -11463,7 +11463,7 @@
    "trendFoil": 10.58
   },
   "tcg": {
-   "usdFoil": 9.99
+   "usdFoil": 9.78
   }
  },
  "69bc5be5d308c64675ca890b": {
@@ -11480,7 +11480,7 @@
    "trendFoil": 11.26
   },
   "tcg": {
-   "usdFoil": 9.09
+   "usdFoil": 9.38
   }
  },
  "69bc5be5d308c64675ca890c": {
@@ -11519,7 +11519,7 @@
    "trendFoil": 4.51
   },
   "tcg": {
-   "usdFoil": 4.58
+   "usdFoil": 4.5
   }
  },
  "69bc5be5d308c64675ca890e": {
@@ -11540,7 +11540,7 @@
    "high": 3.78,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.07,
+   "usd": 0.06,
    "usdFoil": 0.22
   }
  },
@@ -11629,7 +11629,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.06,
-   "usdFoil": 0.14
+   "usdFoil": 0.15
   }
  },
  "69bc5be6d308c64675ca8913": {
@@ -11760,8 +11760,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.4,
-   "usd": 0.3,
-   "usdFoil": 1.22
+   "usd": 0.35,
+   "usdFoil": 1.24
   }
  },
  "69bc5be6d308c64675ca8919": {
@@ -11804,8 +11804,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.17,
-   "usdFoil": 0.47
+   "usd": 0.18,
+   "usdFoil": 0.45
   }
  },
  "69bc5be6d308c64675ca891b": {
@@ -11867,7 +11867,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.04,
-   "usdFoil": 0.19
+   "usdFoil": 0.2
   }
  },
  "69bc5be6d308c64675ca891e": {
@@ -11888,8 +11888,8 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
-   "usdFoil": 0.27
+   "usd": 0.09,
+   "usdFoil": 0.26
   }
  },
  "69bc5be6d308c64675ca891f": {
@@ -11911,7 +11911,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.08,
-   "usdFoil": 0.23
+   "usdFoil": 0.25
   }
  },
  "69bc5be6d308c64675ca8920": {
@@ -11954,8 +11954,8 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.19,
-   "usd": 0.08,
-   "usdFoil": 0.23
+   "usd": 0.07,
+   "usdFoil": 0.25
   }
  },
  "69bc5be6d308c64675ca8922": {
@@ -11977,7 +11977,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.07,
-   "usdFoil": 0.26
+   "usdFoil": 0.24
   }
  },
  "69bc5be6d308c64675ca8923": {
@@ -12063,7 +12063,7 @@
   "tcg": {
    "high": 3.79,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.1,
    "usdFoil": 0.21
   }
@@ -12086,7 +12086,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.21,
-   "usd": 0.14,
+   "usd": 0.16,
    "usdFoil": 0.75
   }
  },
@@ -12152,7 +12152,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.3,
-   "usd": 0.3,
+   "usd": 0.29,
    "usdFoil": 1.26
   }
  },
@@ -12173,9 +12173,9 @@
   "tcg": {
    "high": 9,
    "low": 0.01,
-   "mid": 0.22,
+   "mid": 0.21,
    "usd": 0.14,
-   "usdFoil": 0.33
+   "usdFoil": 0.29
   }
  },
  "69bc5be7d308c64675ca892c": {
@@ -12217,8 +12217,8 @@
   "tcg": {
    "high": 4.29,
    "low": 0.01,
-   "mid": 0.54,
-   "usd": 0.49,
+   "mid": 0.56,
+   "usd": 0.46,
    "usdFoil": 2.2
   }
  },
@@ -12239,8 +12239,8 @@
   "tcg": {
    "high": 4,
    "low": 0.01,
-   "mid": 0.23,
-   "usd": 0.17,
+   "mid": 0.22,
+   "usd": 0.19,
    "usdFoil": 0.38
   }
  },
@@ -12259,7 +12259,7 @@
    "trendFoil": 1.32
   },
   "tcg": {
-   "usdFoil": 0.97
+   "usdFoil": 1.01
   }
  },
  "69bc5be7d308c64675ca8930": {
@@ -12277,7 +12277,7 @@
    "trendFoil": 2.94
   },
   "tcg": {
-   "usdFoil": 2.99
+   "usdFoil": 3.12
   }
  },
  "69bc5be7d308c64675ca8931": {
@@ -12320,7 +12320,7 @@
    "high": 4,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.15,
+   "usd": 0.17,
    "usdFoil": 0.37
   }
  },
@@ -12342,7 +12342,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
+   "usd": 0.1,
    "usdFoil": 0.3
   }
  },
@@ -12386,7 +12386,7 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.11,
    "usdFoil": 0.49
   }
  },
@@ -12409,7 +12409,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.07,
-   "usdFoil": 0.32
+   "usdFoil": 0.33
   }
  },
  "69bc5be7d308c64675ca8937": {
@@ -12431,7 +12431,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.13,
-   "usdFoil": 0.36
+   "usdFoil": 0.37
   }
  },
  "69bc5be8d308c64675ca8938": {
@@ -12451,7 +12451,7 @@
   "tcg": {
    "high": 9,
    "low": 0.01,
-   "mid": 0.25,
+   "mid": 0.24,
    "usd": 0.15,
    "usdFoil": 0.71
   }
@@ -12474,8 +12474,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.19,
-   "usdFoil": 0.59
+   "usd": 0.22,
+   "usdFoil": 0.6
   }
  },
  "69bc5be8d308c64675ca893a": {
@@ -12495,8 +12495,8 @@
   "tcg": {
    "high": 12,
    "low": 0.01,
-   "mid": 0.25,
-   "usd": 0.15,
+   "mid": 0.24,
+   "usd": 0.16,
    "usdFoil": 0.72
   }
  },
@@ -12540,8 +12540,8 @@
    "high": 9,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
-   "usdFoil": 0.43
+   "usd": 0.13,
+   "usdFoil": 0.41
   }
  },
  "69bc5be8d308c64675ca893d": {
@@ -12562,7 +12562,7 @@
    "high": 3.78,
    "low": 0.01,
    "mid": 0.16,
-   "usd": 0.09,
+   "usd": 0.08,
    "usdFoil": 0.21
   }
  },
@@ -12606,7 +12606,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 0.24
   }
  },
@@ -12672,7 +12672,7 @@
    "high": 4,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.06,
+   "usd": 0.07,
    "usdFoil": 0.21
   }
  },
@@ -12695,7 +12695,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.12,
-   "usdFoil": 0.39
+   "usdFoil": 0.4
   }
  },
  "69bc5be8d308c64675ca8944": {
@@ -12712,7 +12712,7 @@
    "trendFoil": 0.7
   },
   "tcg": {
-   "usdFoil": 0.82
+   "usdFoil": 0.93
   }
  },
  "69bc5be8d308c64675ca8945": {
@@ -12742,7 +12742,7 @@
    "trendFoil": 35.61
   },
   "tcg": {
-   "usdFoil": 48.58
+   "usdFoil": 48.34
   }
  },
  "69bc5be8d308c64675ca8947": {
@@ -12790,7 +12790,7 @@
    "trendFoil": 108.38
   },
   "tcg": {
-   "usdFoil": 165.73
+   "usdFoil": 156.04
   }
  },
  "69bc5be8d308c64675ca894a": {
@@ -12850,7 +12850,7 @@
    "trendFoil": 18.54
   },
   "tcg": {
-   "usdFoil": 22.64
+   "usdFoil": 22.02
   }
  },
  "69bc5be9d308c64675ca894e": {
@@ -12868,7 +12868,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.2
   }
  },
  "69bc5be9d308c64675ca894f": {
@@ -12886,7 +12886,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.24
   }
  },
  "69bc5be9d308c64675ca8950": {
@@ -12904,7 +12904,7 @@
    "trendFoil": 0.08
   },
   "tcg": {
-   "usdFoil": 0.15
+   "usdFoil": 0.14
   }
  },
  "69bc5be9d308c64675ca8951": {
@@ -12922,7 +12922,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.18
   }
  },
  "69bc5be9d308c64675ca8952": {
@@ -12944,7 +12944,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.04,
-   "usdFoil": 0.13
+   "usdFoil": 0.14
   }
  },
  "69bc5be9d308c64675ca8953": {
@@ -12966,7 +12966,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.08,
-   "usdFoil": 0.28
+   "usdFoil": 0.27
   }
  },
  "69bc5be9d308c64675ca8954": {
@@ -12984,7 +12984,7 @@
    "trendFoil": 14.01
   },
   "tcg": {
-   "usdFoil": 19.06
+   "usdFoil": 18.97
   }
  },
  "69bc5be9d308c64675ca8955": {
@@ -13006,7 +13006,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.13,
-   "usdFoil": 0.48
+   "usdFoil": 0.45
   }
  },
  "69bc5be9d308c64675ca8956": {
@@ -13027,8 +13027,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.07,
-   "usdFoil": 0.25
+   "usd": 0.06,
+   "usdFoil": 0.26
   }
  },
  "69bc5be9d308c64675ca8957": {
@@ -13048,8 +13048,8 @@
   "tcg": {
    "high": 72.29,
    "low": 0.01,
-   "mid": 0.53,
-   "usd": 0.52,
+   "mid": 0.52,
+   "usd": 0.49,
    "usdFoil": 3.89
   }
  },
@@ -13068,7 +13068,7 @@
    "trendFoil": 1.93
   },
   "tcg": {
-   "usdFoil": 2.09
+   "usdFoil": 2.18
   }
  },
  "69bc5be9d308c64675ca8959": {
@@ -13086,7 +13086,7 @@
    "trendFoil": 1.32
   },
   "tcg": {
-   "usdFoil": 1.32
+   "usdFoil": 1.38
   }
  },
  "69bc5be9d308c64675ca895a": {
@@ -13104,7 +13104,7 @@
    "trendFoil": 1.9
   },
   "tcg": {
-   "usdFoil": 0.97
+   "usdFoil": 0.91
   }
  },
  "69bc5be9d308c64675ca895b": {
@@ -13125,8 +13125,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.07,
-   "usdFoil": 0.21
+   "usd": 0.08,
+   "usdFoil": 0.22
   }
  },
  "69bc5be9d308c64675ca895c": {
@@ -13144,7 +13144,7 @@
    "trendFoil": 1.43
   },
   "tcg": {
-   "usdFoil": 3.08
+   "usdFoil": 2.78
   }
  },
  "69bc5be9d308c64675ca895d": {
@@ -13180,7 +13180,7 @@
    "trendFoil": 17.07
   },
   "tcg": {
-   "usdFoil": 19.1
+   "usdFoil": 18.71
   }
  },
  "69bc5bead308c64675ca895f": {
@@ -13210,7 +13210,7 @@
    "trendFoil": 24.19
   },
   "tcg": {
-   "usdFoil": 28.51
+   "usdFoil": 27.88
   }
  },
  "69bc5bead308c64675ca8961": {
@@ -13254,7 +13254,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.14,
-   "usdFoil": 0.41
+   "usdFoil": 0.44
   }
  },
  "69bc5bead308c64675ca8963": {
@@ -13290,7 +13290,7 @@
    "trendFoil": 26.95
   },
   "tcg": {
-   "usdFoil": 36.15
+   "usdFoil": 33.72
   }
  },
  "69bc5bead308c64675ca8965": {
@@ -13308,7 +13308,7 @@
    "trendFoil": 29.75
   },
   "tcg": {
-   "usdFoil": 42.09
+   "usdFoil": 42.03
   }
  },
  "69bc5bead308c64675ca8966": {
@@ -13326,7 +13326,7 @@
    "trendFoil": 2.07
   },
   "tcg": {
-   "usdFoil": 3.46
+   "usdFoil": 3.34
   }
  },
  "69bc5bead308c64675ca8967": {
@@ -13362,7 +13362,7 @@
    "trendFoil": 2.93
   },
   "tcg": {
-   "usdFoil": 4.33
+   "usdFoil": 4.29
   }
  },
  "69bc5bead308c64675ca8969": {
@@ -13380,7 +13380,7 @@
    "trendFoil": 1.31
   },
   "tcg": {
-   "usdFoil": 1.32
+   "usdFoil": 1.3
   }
  },
  "69bc5bead308c64675ca896a": {
@@ -13398,7 +13398,7 @@
    "trendFoil": 0.23
   },
   "tcg": {
-   "usdFoil": 0.42
+   "usdFoil": 0.39
   }
  },
  "69bc5bead308c64675ca896b": {
@@ -13416,7 +13416,7 @@
    "trendFoil": 2.21
   },
   "tcg": {
-   "usdFoil": 4.67
+   "usdFoil": 3.51
   }
  },
  "69bc5bead308c64675ca896c": {
@@ -13437,7 +13437,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.17,
-   "usd": 0.08,
+   "usd": 0.07,
    "usdFoil": 0.2
   }
  },
@@ -13456,7 +13456,7 @@
    "trendFoil": 1.95
   },
   "tcg": {
-   "usdFoil": 1.75
+   "usdFoil": 1.73
   }
  },
  "69bc5bead308c64675ca896e": {
@@ -13492,7 +13492,7 @@
    "trendFoil": 0.08
   },
   "tcg": {
-   "usdFoil": 0.14
+   "usdFoil": 0.16
   }
  },
  "69bc5bead308c64675ca8970": {
@@ -13513,7 +13513,7 @@
    "high": 3,
    "low": 0.01,
    "mid": 0.16,
-   "usd": 0.06,
+   "usd": 0.05,
    "usdFoil": 0.17
   }
  },
@@ -13532,7 +13532,7 @@
    "trendFoil": 2.62
   },
   "tcg": {
-   "usdFoil": 2.94
+   "usdFoil": 2.87
   }
  },
  "69bc5bebd308c64675ca8972": {
@@ -13550,7 +13550,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.22
   }
  },
  "69bc5bebd308c64675ca8973": {
@@ -13568,11 +13568,11 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "high": 3.79,
+   "high": 1.99,
    "low": 0.01,
    "mid": 0.17,
-   "usd": 0.08,
-   "usdFoil": 0.26
+   "usd": 0.07,
+   "usdFoil": 0.25
   }
  },
  "69bc5bebd308c64675ca8974": {
@@ -13590,7 +13590,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.21
   }
  },
  "69bc5bebd308c64675ca8975": {
@@ -13626,7 +13626,7 @@
    "trendFoil": 5.02
   },
   "tcg": {
-   "usdFoil": 6.99
+   "usdFoil": 7.04
   }
  },
  "69bc5bebd308c64675ca8977": {
@@ -13644,7 +13644,7 @@
    "trendFoil": 3.37
   },
   "tcg": {
-   "usdFoil": 3.21
+   "usdFoil": 3.15
   }
  },
  "69bc5bebd308c64675ca8978": {
@@ -13662,7 +13662,7 @@
    "trendFoil": 18.2
   },
   "tcg": {
-   "usdFoil": 22.63
+   "usdFoil": 22.61
   }
  },
  "69bc5bebd308c64675ca8979": {
@@ -13682,7 +13682,7 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.17,
    "usd": 0.05,
    "usdFoil": 0.09
   }
@@ -13724,7 +13724,7 @@
    "trendFoil": 1.28
   },
   "tcg": {
-   "usdFoil": 0.95
+   "usdFoil": 0.97
   }
  },
  "69bc5bebd308c64675ca897c": {
@@ -13742,7 +13742,7 @@
    "trendFoil": 5.12
   },
   "tcg": {
-   "usdFoil": 6.22
+   "usdFoil": 6.09
   }
  },
  "69bc5bebd308c64675ca897d": {
@@ -13760,7 +13760,7 @@
    "trendFoil": 0.36
   },
   "tcg": {
-   "usdFoil": 1.27
+   "usdFoil": 1.17
   }
  },
  "69bc5bebd308c64675ca897e": {
@@ -13778,7 +13778,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.24
   }
  },
  "69bc5bebd308c64675ca897f": {
@@ -13796,7 +13796,7 @@
    "trendFoil": 2.38
   },
   "tcg": {
-   "usdFoil": 2.62
+   "usdFoil": 2.58
   }
  },
  "69bc5bebd308c64675ca8980": {
@@ -13814,7 +13814,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.15
+   "usdFoil": 0.16
   }
  },
  "69bc5bebd308c64675ca8981": {
@@ -13832,7 +13832,7 @@
    "trendFoil": 46.16
   },
   "tcg": {
-   "usdFoil": 78.8
+   "usdFoil": 77.9
   }
  },
  "69bc5bebd308c64675ca8982": {
@@ -13866,7 +13866,7 @@
    "trendFoil": 44.07
   },
   "tcg": {
-   "usdFoil": 65.5
+   "usdFoil": 65.15
   }
  },
  "69bc5becd308c64675ca8984": {
@@ -13895,7 +13895,7 @@
    "trendFoil": 162.95
   },
   "tcg": {
-   "usdFoil": 237.36
+   "usdFoil": 237.09
   }
  },
  "69bc5becd308c64675ca8986": {
@@ -13947,7 +13947,7 @@
    "trendFoil": 0.49
   },
   "tcg": {
-   "usdFoil": 0.94
+   "usdFoil": 0.85
   }
  },
  "69bc5becd308c64675ca8989": {
@@ -13965,7 +13965,7 @@
    "trendFoil": 0.81
   },
   "tcg": {
-   "usdFoil": 0.55
+   "usdFoil": 0.53
   }
  },
  "69bc5becd308c64675ca898a": {
@@ -13983,7 +13983,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.21
   }
  },
  "69bc5becd308c64675ca898b": {
@@ -14001,7 +14001,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.25
   }
  },
  "69bc5becd308c64675ca898c": {
@@ -14018,7 +14018,7 @@
    "trendFoil": 31.62
   },
   "tcg": {
-   "usdFoil": 44.48
+   "usdFoil": 44.93
   }
  },
  "69bc5becd308c64675ca898d": {
@@ -14030,7 +14030,7 @@
    "trendFoil": 382.53
   },
   "tcg": {
-   "usdFoil": 422.49
+   "usdFoil": 425.69
   }
  },
  "69bc5becd308c64675ca898e": {
@@ -14048,7 +14048,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.16
   }
  },
  "69bc5becd308c64675ca8990": {
@@ -14068,7 +14068,7 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.2,
    "usd": 0.09,
    "usdFoil": 0.25
   }
@@ -14106,7 +14106,7 @@
    "trendFoil": 6.63
   },
   "tcg": {
-   "usdFoil": 11.47
+   "usdFoil": 11.7
   }
  },
  "69bc5becd308c64675ca8993": {
@@ -14126,9 +14126,9 @@
   "tcg": {
    "high": 1.99,
    "low": 0.01,
-   "mid": 0.17,
-   "usd": 0.08,
-   "usdFoil": 0.24
+   "mid": 0.16,
+   "usd": 0.1,
+   "usdFoil": 0.26
   }
  },
  "69bc5becd308c64675ca8994": {
@@ -14146,7 +14146,7 @@
    "trendFoil": 0.63
   },
   "tcg": {
-   "usdFoil": 0.36
+   "usdFoil": 0.35
   }
  },
  "69bc5becd308c64675ca8995": {
@@ -14164,7 +14164,7 @@
    "trendFoil": 2.55
   },
   "tcg": {
-   "usdFoil": 5.04
+   "usdFoil": 5.13
   }
  },
  "69bc5becd308c64675ca8996": {
@@ -14204,7 +14204,7 @@
    "trendFoil": 3.9
   },
   "tcg": {
-   "usdFoil": 7.7
+   "usdFoil": 7.96
   }
  },
  "69bc5bedd308c64675ca8998": {
@@ -14222,7 +14222,7 @@
    "trendFoil": 0.91
   },
   "tcg": {
-   "usdFoil": 0.57
+   "usdFoil": 0.58
   }
  },
  "69bc5bedd308c64675ca8999": {
@@ -14265,7 +14265,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
+   "usd": 0.14,
    "usdFoil": 0.24
   }
  },
@@ -14284,7 +14284,7 @@
    "trendFoil": 2.02
   },
   "tcg": {
-   "usdFoil": 3.12
+   "usdFoil": 3.02
   }
  },
  "69bc5bedd308c64675ca899c": {
@@ -14320,7 +14320,7 @@
    "trendFoil": 1.83
   },
   "tcg": {
-   "usdFoil": 2.37
+   "usdFoil": 2.45
   }
  },
  "69bc5bedd308c64675ca899e": {
@@ -14338,7 +14338,7 @@
    "trendFoil": 1.32
   },
   "tcg": {
-   "usdFoil": 3.85
+   "usdFoil": 3.81
   }
  },
  "69bc5bedd308c64675ca899f": {
@@ -14356,7 +14356,7 @@
    "trendFoil": 5.51
   },
   "tcg": {
-   "usdFoil": 8.5
+   "usdFoil": 8.57
   }
  },
  "69bc5bedd308c64675ca89a0": {
@@ -14377,7 +14377,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.05,
+   "usd": 0.04,
    "usdFoil": 0.15
   }
  },
@@ -14400,7 +14400,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.08,
-   "usdFoil": 0.23
+   "usdFoil": 0.24
   }
  },
  "69bc5bedd308c64675ca89a2": {
@@ -14418,7 +14418,7 @@
    "trendFoil": 0.32
   },
   "tcg": {
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69bc5bedd308c64675ca89a3": {
@@ -14436,7 +14436,7 @@
    "trendFoil": 3.54
   },
   "tcg": {
-   "usdFoil": 2.88
+   "usdFoil": 2.91
   }
  },
  "69bc5bedd308c64675ca89a4": {
@@ -14454,7 +14454,7 @@
    "trendFoil": 0.86
   },
   "tcg": {
-   "usdFoil": 0.55
+   "usdFoil": 0.53
   }
  },
  "69bc5bedd308c64675ca89a5": {
@@ -14472,7 +14472,7 @@
    "trendFoil": 2.47
   },
   "tcg": {
-   "usdFoil": 2.07
+   "usdFoil": 2.06
   }
  },
  "69bc5bedd308c64675ca89a6": {
@@ -14493,8 +14493,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.22,
-   "usdFoil": 0.87
+   "usd": 0.24,
+   "usdFoil": 0.86
   }
  },
  "69bc5bedd308c64675ca89a7": {
@@ -14559,8 +14559,8 @@
    "high": 1.59,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.2,
-   "usdFoil": 0.77
+   "usd": 0.19,
+   "usdFoil": 0.76
   }
  },
  "69bc5bedd308c64675ca89aa": {
@@ -14578,7 +14578,7 @@
    "trendFoil": 6.12
   },
   "tcg": {
-   "usdFoil": 10.02
+   "usdFoil": 10.14
   }
  },
  "69bc5beed308c64675ca89ab": {
@@ -14618,7 +14618,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.05,
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69bc5beed308c64675ca89ad": {
@@ -14683,7 +14683,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.19,
-   "usd": 0.11,
+   "usd": 0.1,
    "usdFoil": 0.29
   }
  },
@@ -14724,7 +14724,7 @@
    "trendFoil": 0.15
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.19
   }
  },
  "69bc5beed308c64675ca89b2": {
@@ -14742,7 +14742,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.18
   }
  },
  "69bc5beed308c64675ca89b3": {
@@ -14778,7 +14778,7 @@
    "trendFoil": 0.84
   },
   "tcg": {
-   "usdFoil": 0.54
+   "usdFoil": 0.55
   }
  },
  "69bc5beed308c64675ca89b5": {
@@ -14795,7 +14795,7 @@
    "trendFoil": 120.14
   },
   "tcg": {
-   "usdFoil": 197.9
+   "usdFoil": 205.04
   }
  },
  "69bc5beed308c64675ca89b6": {
@@ -14812,7 +14812,7 @@
    "trendFoil": 216.98
   },
   "tcg": {
-   "usdFoil": 361.73
+   "usdFoil": 367.72
   }
  },
  "69bc5beed308c64675ca89b7": {
@@ -14829,7 +14829,7 @@
    "trendFoil": 143.51
   },
   "tcg": {
-   "usdFoil": 199.32
+   "usdFoil": 199.48
   }
  },
  "69bc5beed308c64675ca89b8": {
@@ -14846,7 +14846,7 @@
    "trendFoil": 101.58
   },
   "tcg": {
-   "usdFoil": 176.67
+   "usdFoil": 177.1
   }
  },
  "69bc5beed308c64675ca89b9": {
@@ -14863,7 +14863,7 @@
    "trendFoil": 130.32
   },
   "tcg": {
-   "usdFoil": 188.01
+   "usdFoil": 189.39
   }
  },
  "69bc5beed308c64675ca89ba": {
@@ -14880,7 +14880,7 @@
    "trendFoil": 116.77
   },
   "tcg": {
-   "usdFoil": 170.9
+   "usdFoil": 172.16
   }
  },
  "69bc5beed308c64675ca89bb": {
@@ -14897,14 +14897,14 @@
    "trendFoil": 69.93
   },
   "tcg": {
-   "usdFoil": 165.4
+   "usdFoil": 164.91
   }
  },
  "69bc5beed308c64675ca89bc": {
   "tcg": {
    "high": 89.99,
    "low": 6.5,
-   "mid": 11.45,
+   "mid": 11.03,
    "usd": 10.7
   }
  },
@@ -14922,7 +14922,7 @@
    "trendFoil": 24.22
   },
   "tcg": {
-   "usdFoil": 59.59
+   "usdFoil": 60.15
   }
  },
  "69bc5befd308c64675ca89bf": {
@@ -14968,7 +14968,7 @@
    "trendFoil": 99.03
   },
   "tcg": {
-   "usdFoil": 97.98
+   "usdFoil": 101.03
   }
  },
  "69bc5befd308c64675ca89c3": {
@@ -15028,7 +15028,7 @@
    "trendFoil": 26.35
   },
   "tcg": {
-   "usdFoil": 16.33
+   "usdFoil": 16.26
   }
  },
  "69bc5befd308c64675ca89c8": {
@@ -15046,7 +15046,7 @@
    "trendFoil": 60.52
   },
   "tcg": {
-   "usdFoil": 57.53
+   "usdFoil": 52.88
   }
  },
  "69bc5befd308c64675ca89c9": {
@@ -15064,7 +15064,7 @@
    "trendFoil": 21.84
   },
   "tcg": {
-   "usdFoil": 14.68
+   "usdFoil": 16.25
   }
  },
  "69bc5befd308c64675ca89ca": {
@@ -15081,12 +15081,12 @@
    "trendFoil": 378.14
   },
   "tcg": {
-   "usdFoil": 58.21
+   "usdFoil": 58.81
   }
  },
  "69bc5befd308c64675ca89cc": {
   "tcg": {
-   "usdFoil": 43.31
+   "usdFoil": 35.51
   }
  },
  "69bc5befd308c64675ca89cd": {
@@ -15113,7 +15113,7 @@
    "trendFoil": 467.08
   },
   "tcg": {
-   "usdFoil": 24.13
+   "usdFoil": 27.21
   }
  },
  "69bc5befd308c64675ca89d0": {
@@ -15123,7 +15123,7 @@
  },
  "69bc5befd308c64675ca89d1": {
   "tcg": {
-   "usdFoil": 12
+   "usdFoil": 18.71
   }
  },
  "69bc5bf0d308c64675ca89d2": {
@@ -15135,17 +15135,17 @@
    "trendFoil": 1053.03
   },
   "tcg": {
-   "usdFoil": 56.29
+   "usdFoil": 57.96
   }
  },
  "69bc5bf0d308c64675ca89d3": {
   "tcg": {
-   "usdFoil": 16.05
+   "usdFoil": 19.3
   }
  },
  "69bc5bf0d308c64675ca89d4": {
   "tcg": {
-   "usdFoil": 48.8
+   "usdFoil": 47.22
   }
  },
  "69bc5bf0d308c64675ca89d5": {
@@ -15198,7 +15198,7 @@
    "trendFoil": 2.89
   },
   "tcg": {
-   "usdFoil": 3.1
+   "usdFoil": 3.13
   }
  },
  "69bc5bf0d308c64675ca89d9": {
@@ -15216,7 +15216,7 @@
    "trendFoil": 2.86
   },
   "tcg": {
-   "usdFoil": 3.28
+   "usdFoil": 3.19
   }
  },
  "69bc5bf0d308c64675ca89da": {
@@ -15234,7 +15234,7 @@
    "trendFoil": 2.88
   },
   "tcg": {
-   "usdFoil": 3.81
+   "usdFoil": 3.8
   }
  },
  "69bc5bf0d308c64675ca89db": {
@@ -15252,7 +15252,7 @@
    "trendFoil": 2.77
   },
   "tcg": {
-   "usdFoil": 2.96
+   "usdFoil": 2.97
   }
  },
  "69bc5bf0d308c64675ca89dc": {
@@ -15270,7 +15270,7 @@
    "trendFoil": 4.73
   },
   "tcg": {
-   "usdFoil": 5.99
+   "usdFoil": 5.96
   }
  },
  "69bc5bf0d308c64675ca89dd": {
@@ -15288,7 +15288,7 @@
    "trendFoil": 1.57
   },
   "tcg": {
-   "usdFoil": 3.44
+   "usdFoil": 3.52
   }
  },
  "69bc5bf0d308c64675ca89de": {
@@ -15306,7 +15306,7 @@
    "trendFoil": 0.33
   },
   "tcg": {
-   "usdFoil": 1.25
+   "usdFoil": 1.27
   }
  },
  "69bc5bf0d308c64675ca89df": {
@@ -15342,7 +15342,7 @@
    "trendFoil": 0.23
   },
   "tcg": {
-   "usdFoil": 0.34
+   "usdFoil": 0.32
   }
  },
  "69bc5bf0d308c64675ca89e1": {
@@ -15396,7 +15396,7 @@
    "trendFoil": 0.27
   },
   "tcg": {
-   "usdFoil": 0.4
+   "usdFoil": 0.39
   }
  },
  "69bc5bf0d308c64675ca89e4": {
@@ -15538,7 +15538,7 @@
    "trendFoil": 2.52
   },
   "tcg": {
-   "usdFoil": 4.45
+   "usdFoil": 4.53
   }
  },
  "69bc5bf1d308c64675ca89ec": {
@@ -15574,7 +15574,7 @@
    "trendFoil": 1.09
   },
   "tcg": {
-   "usdFoil": 2
+   "usdFoil": 2.04
   }
  },
  "69bc5bf1d308c64675ca89ee": {
@@ -15621,7 +15621,7 @@
    "trendFoil": 6.61
   },
   "tcg": {
-   "usdFoil": 8.35
+   "usdFoil": 8.94
   }
  },
  "69bc5bf1d308c64675ca89f2": {
@@ -15711,8 +15711,8 @@
   "tcg": {
    "high": 12,
    "low": 1.24,
-   "mid": 2.99,
-   "usd": 2.38
+   "mid": 2.94,
+   "usd": 2.36
   }
  },
  "69bc5bf2d308c64675ca8a02": {
@@ -15773,7 +15773,7 @@
    "trendFoil": 3.47
   },
   "tcg": {
-   "usdFoil": 4.36
+   "usdFoil": 4.31
   }
  },
  "69bc5bf2d308c64675ca8a08": {
@@ -15898,7 +15898,7 @@
    "trendFoil": 1.59
   },
   "tcg": {
-   "usdFoil": 5.25
+   "usdFoil": 5.39
   }
  },
  "69bc5bf3d308c64675ca8a10": {
@@ -15932,7 +15932,7 @@
    "trendFoil": 0.14
   },
   "tcg": {
-   "usdFoil": 0.41
+   "usdFoil": 0.42
   }
  },
  "69bc5bf3d308c64675ca8a12": {
@@ -16017,7 +16017,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.31
   }
  },
  "69bc5bf3d308c64675ca8a17": {
@@ -16034,7 +16034,7 @@
    "trendFoil": 4.85
   },
   "tcg": {
-   "usdFoil": 5.64
+   "usdFoil": 5.74
   }
  },
  "69bc5bf3d308c64675ca8a18": {
@@ -16068,7 +16068,7 @@
    "trendFoil": 8.04
   },
   "tcg": {
-   "usdFoil": 10.72
+   "usdFoil": 10.52
   }
  },
  "69bc5bf3d308c64675ca8a1a": {
@@ -16085,7 +16085,7 @@
    "trendFoil": 0.24
   },
   "tcg": {
-   "usdFoil": 0.39
+   "usdFoil": 0.38
   }
  },
  "69bc5bf3d308c64675ca8a1b": {
@@ -16204,7 +16204,7 @@
    "trendFoil": 28.68
   },
   "tcg": {
-   "usdFoil": 56.84
+   "usdFoil": 51.35
   }
  },
  "69bc5bf4d308c64675ca8a22": {
@@ -16221,7 +16221,7 @@
    "trendFoil": 3.44
   },
   "tcg": {
-   "usdFoil": 4.31
+   "usdFoil": 4.18
   }
  },
  "69bc5bf4d308c64675ca8a23": {
@@ -16238,7 +16238,7 @@
    "trendFoil": 0.3
   },
   "tcg": {
-   "usdFoil": 0.4
+   "usdFoil": 0.42
   }
  },
  "69bc5bf4d308c64675ca8a24": {
@@ -16288,7 +16288,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
+   "usd": 0.14,
    "usdFoil": 0.3
   }
  },
@@ -16331,9 +16331,9 @@
   "tcg": {
    "high": 10,
    "low": 0.01,
-   "mid": 0.3,
-   "usd": 0.27,
-   "usdFoil": 1.61
+   "mid": 0.31,
+   "usd": 0.32,
+   "usdFoil": 1.71
   }
  },
  "69bd162140ff39fe1396df8a": {
@@ -16354,7 +16354,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.16,
+   "usd": 0.18,
    "usdFoil": 0.34
   }
  },
@@ -16376,8 +16376,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.04,
-   "usdFoil": 0.07
+   "usd": 0.03,
+   "usdFoil": 0.08
   }
  },
  "69bd162140ff39fe1396df8c": {
@@ -16419,9 +16419,9 @@
   "tcg": {
    "high": 4.99,
    "low": 0.01,
-   "mid": 0.35,
-   "usd": 0.32,
-   "usdFoil": 5.37
+   "mid": 0.37,
+   "usd": 0.34,
+   "usdFoil": 5.47
   }
  },
  "69bd162140ff39fe1396df8e": {
@@ -16439,7 +16439,7 @@
    "trendFoil": 19.52
   },
   "tcg": {
-   "usdFoil": 31.12
+   "usdFoil": 30.99
   }
  },
  "69bd162140ff39fe1396df8f": {
@@ -16475,7 +16475,7 @@
    "trendFoil": 11.99
   },
   "tcg": {
-   "usdFoil": 10.89
+   "usdFoil": 10.76
   }
  },
  "69bff35558d0fbca04e93716": {
@@ -16513,9 +16513,9 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.2,
    "usd": 0.07,
-   "usdFoil": 0.23
+   "usdFoil": 0.22
   }
  },
  "69bff35558d0fbca04e93718": {
@@ -16536,7 +16536,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.08,
    "usdFoil": 0.25
   }
  },
@@ -16558,7 +16558,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.08,
    "usdFoil": 0.27
   }
  },
@@ -16601,8 +16601,8 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.17,
-   "usd": 0.06,
+   "mid": 0.18,
+   "usd": 0.07,
    "usdFoil": 0.25
   }
  },
@@ -16621,7 +16621,7 @@
    "trendFoil": 12.79
   },
   "tcg": {
-   "usdFoil": 14.55
+   "usdFoil": 14.67
   }
  },
  "69bff35658d0fbca04e9371d": {
@@ -16639,7 +16639,7 @@
    "trendFoil": 15.39
   },
   "tcg": {
-   "usdFoil": 18.46
+   "usdFoil": 18.67
   }
  },
  "69bff35658d0fbca04e9371e": {
@@ -16683,7 +16683,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.06,
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69bff35658d0fbca04e93720": {
@@ -16701,7 +16701,7 @@
    "trendFoil": 15.37
   },
   "tcg": {
-   "usdFoil": 25.31
+   "usdFoil": 24.86
   }
  },
  "69bff35658d0fbca04e93721": {
@@ -16722,8 +16722,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.18,
-   "usdFoil": 1.49
+   "usd": 0.19,
+   "usdFoil": 1.47
   }
  },
  "69bff35658d0fbca04e93722": {
@@ -16744,8 +16744,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
-   "usdFoil": 0.35
+   "usd": 0.08,
+   "usdFoil": 0.34
   }
  },
  "69bff35658d0fbca04e93723": {
@@ -16766,8 +16766,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
-   "usdFoil": 0.42
+   "usd": 0.14,
+   "usdFoil": 0.41
   }
  },
  "69bff35658d0fbca04e93724": {
@@ -16787,7 +16787,7 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.08,
    "usdFoil": 0.17
   }
@@ -16809,9 +16809,9 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.2,
+   "mid": 0.19,
    "usd": 0.06,
-   "usdFoil": 0.2
+   "usdFoil": 0.19
   }
  },
  "69bff35658d0fbca04e93726": {
@@ -16829,7 +16829,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.2
   }
  },
  "69bff35658d0fbca04e93727": {
@@ -16847,7 +16847,7 @@
    "trendFoil": 0.3
   },
   "tcg": {
-   "usdFoil": 0.37
+   "usdFoil": 0.35
   }
  },
  "69bff35658d0fbca04e93728": {
@@ -16883,7 +16883,7 @@
    "trendFoil": 0.2
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.18
   }
  },
  "69bff35658d0fbca04e9372a": {
@@ -16947,9 +16947,9 @@
   "tcg": {
    "high": 1.99,
    "low": 0.01,
-   "mid": 0.2,
-   "usd": 0.08,
-   "usdFoil": 0.28
+   "mid": 0.19,
+   "usd": 0.1,
+   "usdFoil": 0.29
   }
  },
  "69bff35658d0fbca04e9372d": {
@@ -16993,7 +16993,7 @@
    "low": 0.01,
    "mid": 0.18,
    "usd": 0.07,
-   "usdFoil": 0.21
+   "usdFoil": 0.22
   }
  },
  "69bff35758d0fbca04e9372f": {
@@ -17011,7 +17011,7 @@
    "trendFoil": 0.08
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.18
   }
  },
  "69bff35758d0fbca04e93730": {
@@ -17051,7 +17051,7 @@
    "trendFoil": 12.23
   },
   "tcg": {
-   "usdFoil": 10.66
+   "usdFoil": 10.36
   }
  },
  "69bff35758d0fbca04e93732": {
@@ -17072,8 +17072,8 @@
    "high": 1.78,
    "low": 0.01,
    "mid": 0.45,
-   "usd": 0.4,
-   "usdFoil": 1.76
+   "usd": 0.41,
+   "usdFoil": 1.81
   }
  },
  "69bff35758d0fbca04e93733": {
@@ -17091,7 +17091,7 @@
    "trendFoil": 0.26
   },
   "tcg": {
-   "usdFoil": 0.36
+   "usdFoil": 0.29
   }
  },
  "69bff35758d0fbca04e93734": {
@@ -17108,7 +17108,7 @@
    "trendFoil": 2.83
   },
   "tcg": {
-   "usdFoil": 2.54
+   "usdFoil": 2.58
   }
  },
  "69bff35758d0fbca04e93735": {
@@ -17151,7 +17151,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.16,
    "usdFoil": 0.86
   }
  },
@@ -17188,7 +17188,7 @@
    "trendFoil": 8.22
   },
   "tcg": {
-   "usdFoil": 8.09
+   "usdFoil": 8.05
   }
  },
  "69bff35758d0fbca04e93739": {
@@ -17209,7 +17209,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
+   "usd": 0.12,
    "usdFoil": 0.23
   }
  },
@@ -17246,7 +17246,7 @@
    "trendFoil": 1.02
   },
   "tcg": {
-   "usdFoil": 1.04
+   "usdFoil": 0.98
   }
  },
  "69c43cd2c2f7428c5d24b4e2": {
@@ -17264,7 +17264,7 @@
    "trendFoil": 3.38
   },
   "tcg": {
-   "usdFoil": 4.28
+   "usdFoil": 4.48
   }
  },
  "69c43cd2c2f7428c5d24b4e3": {
@@ -17282,7 +17282,7 @@
    "trendFoil": 0.42
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.27
   }
  },
  "69c43cd2c2f7428c5d24b4e4": {
@@ -17300,7 +17300,7 @@
    "trendFoil": 5.29
   },
   "tcg": {
-   "usdFoil": 6
+   "usdFoil": 6.19
   }
  },
  "69c43cd2c2f7428c5d24b4e5": {
@@ -17359,7 +17359,7 @@
    "trendFoil": 31.99
   },
   "tcg": {
-   "usdFoil": 49.77
+   "usdFoil": 49.72
   }
  },
  "69c43cd3c2f7428c5d24b4e9": {
@@ -17380,8 +17380,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.04,
-   "usdFoil": 0.15
+   "usd": 0.05,
+   "usdFoil": 0.16
   }
  },
  "69c43cd3c2f7428c5d24b4ea": {
@@ -17403,7 +17403,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.13,
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69c43cd3c2f7428c5d24b4eb": {
@@ -17424,7 +17424,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.17,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 0.18
   }
  },
@@ -17469,7 +17469,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.06,
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69c43cd3c2f7428c5d24b4ee": {
@@ -17487,7 +17487,7 @@
    "trendFoil": 0.31
   },
   "tcg": {
-   "usdFoil": 0.3
+   "usdFoil": 0.32
   }
  },
  "69c43cd3c2f7428c5d24b4ef": {
@@ -17508,7 +17508,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.16,
-   "usd": 0.05,
+   "usd": 0.06,
    "usdFoil": 0.12
   }
  },
@@ -17567,7 +17567,7 @@
    "trendFoil": 0.37
   },
   "tcg": {
-   "usdFoil": 0.35
+   "usdFoil": 0.39
   }
  },
  "69c43cd3c2f7428c5d24b4f3": {
@@ -17584,7 +17584,7 @@
    "trendFoil": 4.31
   },
   "tcg": {
-   "usdFoil": 4.59
+   "usdFoil": 4.6
   }
  },
  "69c43cd3c2f7428c5d24b4f4": {
@@ -17602,7 +17602,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.26
+   "usdFoil": 0.27
   }
  },
  "69c43cd3c2f7428c5d24b4f5": {
@@ -17638,7 +17638,7 @@
    "trendFoil": 0.05
   },
   "tcg": {
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69c43cd3c2f7428c5d24b4f7": {
@@ -17678,7 +17678,7 @@
    "trendFoil": 66.68
   },
   "tcg": {
-   "usdFoil": 92.39
+   "usdFoil": 92.27
   }
  },
  "69c4407c9288b1e85d94de8a": {
@@ -17732,7 +17732,7 @@
   "tcg": {
    "high": 1.99,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.17,
    "usd": 0.08,
    "usdFoil": 0.32
   }
@@ -17756,7 +17756,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.07,
-   "usdFoil": 0.25
+   "usdFoil": 0.24
   }
  },
  "69c4407c9288b1e85d94de8e": {
@@ -17777,8 +17777,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.05,
-   "usdFoil": 0.14
+   "usd": 0.06,
+   "usdFoil": 0.15
   }
  },
  "69c4407d9288b1e85d94de8f": {
@@ -17799,7 +17799,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
+   "usd": 0.14,
    "usdFoil": 0.38
   }
  },
@@ -17818,7 +17818,7 @@
    "trendFoil": 0.09
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.16
   }
  },
  "69c4407d9288b1e85d94de91": {
@@ -17858,7 +17858,7 @@
    "low": 0.01,
    "mid": 4,
    "usd": 3.18,
-   "usdFoil": 7.88
+   "usdFoil": 7.85
   }
  },
  "69c4407d9288b1e85d94de93": {
@@ -17879,8 +17879,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.08,
-   "usdFoil": 0.15
+   "usd": 0.07,
+   "usdFoil": 0.17
   }
  },
  "69c4407d9288b1e85d94de94": {
@@ -17898,7 +17898,7 @@
    "trendFoil": 1.92
   },
   "tcg": {
-   "usdFoil": 1.54
+   "usdFoil": 1.58
   }
  },
  "69c4407d9288b1e85d94de95": {
@@ -17920,7 +17920,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.12,
-   "usdFoil": 0.32
+   "usdFoil": 0.35
   }
  },
  "69c4407d9288b1e85d94de96": {
@@ -17982,7 +17982,7 @@
    "trendFoil": 3.77
   },
   "tcg": {
-   "usdFoil": 5.1
+   "usdFoil": 4.98
   }
  },
  "69c4407d9288b1e85d94de99": {
@@ -18000,7 +18000,7 @@
    "trendFoil": 10.27
   },
   "tcg": {
-   "usdFoil": 14.19
+   "usdFoil": 14.39
   }
  },
  "69c4407d9288b1e85d94de9a": {
@@ -18036,7 +18036,7 @@
    "trendFoil": 2.45
   },
   "tcg": {
-   "usdFoil": 2.24
+   "usdFoil": 2.17
   }
  },
  "69c4407d9288b1e85d94de9c": {
@@ -18054,7 +18054,7 @@
    "trendFoil": 1.23
   },
   "tcg": {
-   "usdFoil": 1.38
+   "usdFoil": 1.37
   }
  },
  "69c4407d9288b1e85d94de9d": {
@@ -18072,7 +18072,7 @@
    "trendFoil": 5.78
   },
   "tcg": {
-   "usdFoil": 7.04
+   "usdFoil": 6.93
   }
  },
  "69c4407d9288b1e85d94de9e": {
@@ -18093,7 +18093,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.15,
    "usdFoil": 0.37
   }
  },
@@ -18112,7 +18112,7 @@
    "trendFoil": 49.19
   },
   "tcg": {
-   "usdFoil": 70.26
+   "usdFoil": 70.39
   }
  },
  "69c4407d9288b1e85d94dea0": {
@@ -18129,7 +18129,7 @@
    "trendFoil": 63.08
   },
   "tcg": {
-   "usdFoil": 108.75
+   "usdFoil": 108.5
   }
  },
  "69c4407d9288b1e85d94dea1": {
@@ -18146,7 +18146,7 @@
    "trendFoil": 67.45
   },
   "tcg": {
-   "usdFoil": 93.73
+   "usdFoil": 92.91
   }
  },
  "69c4407e9288b1e85d94dea2": {
@@ -18175,7 +18175,7 @@
    "trendFoil": 69.05
   },
   "tcg": {
-   "usdFoil": 120.76
+   "usdFoil": 125.74
   }
  },
  "69c4407e9288b1e85d94dea4": {
@@ -18192,7 +18192,7 @@
    "trendFoil": 605.53
   },
   "tcg": {
-   "usdFoil": 632.51
+   "usdFoil": 633.4
   }
  },
  "69c4407e9288b1e85d94dea5": {
@@ -18209,7 +18209,7 @@
    "trendFoil": 135.38
   },
   "tcg": {
-   "usdFoil": 246.95
+   "usdFoil": 246.92
   }
  },
  "69c4407e9288b1e85d94dea6": {
@@ -18266,7 +18266,7 @@
    "trendFoil": 0.61
   },
   "tcg": {
-   "usdFoil": 1.53
+   "usdFoil": 1.32
   }
  },
  "69c4407e9288b1e85d94dea9": {
@@ -18284,7 +18284,7 @@
    "trendFoil": 0.6
   },
   "tcg": {
-   "usdFoil": 0.43
+   "usdFoil": 0.4
   }
  },
  "69c4407e9288b1e85d94deaa": {
@@ -18302,7 +18302,7 @@
    "trendFoil": 1.14
   },
   "tcg": {
-   "usdFoil": 0.78
+   "usdFoil": 0.8
   }
  },
  "69c4407e9288b1e85d94deab": {
@@ -18324,7 +18324,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.07,
-   "usdFoil": 0.25
+   "usdFoil": 0.26
   }
  },
  "69c4407e9288b1e85d94deac": {
@@ -18346,7 +18346,7 @@
    "low": 0.01,
    "mid": 0.17,
    "usd": 0.06,
-   "usdFoil": 0.22
+   "usdFoil": 0.21
   }
  },
  "69c4407e9288b1e85d94dead": {
@@ -18389,8 +18389,8 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.34
+   "usd": 0.11,
+   "usdFoil": 0.33
   }
  },
  "69c4407e9288b1e85d94deaf": {
@@ -18412,7 +18412,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.11,
-   "usdFoil": 0.26
+   "usdFoil": 0.25
   }
  },
  "69c4407e9288b1e85d94deb0": {
@@ -18455,7 +18455,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.08,
    "usdFoil": 0.28
   }
  },
@@ -18477,7 +18477,7 @@
    "high": 5,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.13,
    "usdFoil": 0.44
   }
  },
@@ -18499,7 +18499,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
+   "usd": 0.11,
    "usdFoil": 0.37
   }
  },
@@ -18543,7 +18543,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.06,
    "usdFoil": 0.27
   }
  },
@@ -18562,7 +18562,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.19
   }
  },
  "69c56c6d7700f78fff1c757a": {
@@ -18620,7 +18620,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.09,
-   "usdFoil": 0.24
+   "usdFoil": 0.23
   }
  },
  "69c5be69bf82ff7cb69f428a": {
@@ -18640,7 +18640,7 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.09,
    "usdFoil": 0.22
   }
@@ -18675,8 +18675,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
-   "usdFoil": 0.3
+   "usd": 0.14,
+   "usdFoil": 0.32
   }
  },
  "69c5be69bf82ff7cb69f428d": {
@@ -18719,7 +18719,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
+   "usd": 0.14,
    "usdFoil": 0.41
   }
  },
@@ -18741,8 +18741,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
-   "usdFoil": 0.25
+   "usd": 0.11,
+   "usdFoil": 0.24
   }
  },
  "69c5be69bf82ff7cb69f4290": {
@@ -18763,7 +18763,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.09,
    "usdFoil": 0.25
   }
  },
@@ -18807,7 +18807,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.08,
+   "usd": 0.07,
    "usdFoil": 0.14
   }
  },
@@ -18828,7 +18828,7 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.2,
+   "mid": 0.19,
    "usd": 0.06,
    "usdFoil": 0.17
   }
@@ -18870,7 +18870,7 @@
    "trendFoil": 1.13
   },
   "tcg": {
-   "usdFoil": 0.75
+   "usdFoil": 0.74
   }
  },
  "69c5be6abf82ff7cb69f4296": {
@@ -18888,7 +18888,7 @@
    "trendFoil": 0.54
   },
   "tcg": {
-   "usdFoil": 0.6
+   "usdFoil": 0.63
   }
  },
  "69c5be6abf82ff7cb69f4297": {
@@ -18906,7 +18906,7 @@
    "trendFoil": 0.29
   },
   "tcg": {
-   "usdFoil": 0.31
+   "usdFoil": 0.32
   }
  },
  "69c5be6abf82ff7cb69f4298": {
@@ -18942,7 +18942,7 @@
    "trendFoil": 15.71
   },
   "tcg": {
-   "usdFoil": 14.94
+   "usdFoil": 14.96
   }
  },
  "69c5be6abf82ff7cb69f429a": {
@@ -18960,7 +18960,7 @@
    "trendFoil": 24.44
   },
   "tcg": {
-   "usdFoil": 25.07
+   "usdFoil": 25.2
   }
  },
  "69c5be6abf82ff7cb69f429b": {
@@ -19003,7 +19003,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.08,
    "usdFoil": 0.26
   }
  },
@@ -19042,7 +19042,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.08,
    "usdFoil": 0.42
   }
  },
@@ -19063,9 +19063,9 @@
   "tcg": {
    "high": 3,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.17,
    "usd": 0.07,
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69c8378d2c3db56eb7d760bb": {
@@ -19085,9 +19085,9 @@
   "tcg": {
    "high": 5,
    "low": 0.01,
-   "mid": 0.23,
-   "usd": 0.18,
-   "usdFoil": 0.46
+   "mid": 0.22,
+   "usd": 0.16,
+   "usdFoil": 0.47
   }
  },
  "69c8378d2c3db56eb7d760bc": {
@@ -19108,8 +19108,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
-   "usdFoil": 0.21
+   "usd": 0.1,
+   "usdFoil": 0.22
   }
  },
  "69c8378d2c3db56eb7d760bd": {
@@ -19174,7 +19174,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
+   "usd": 0.1,
    "usdFoil": 0.21
   }
  },
@@ -19215,7 +19215,7 @@
    "trendFoil": 0.18
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.23
   }
  },
  "69c8378d2c3db56eb7d760c2": {
@@ -19255,7 +19255,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.07,
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "69c8378d2c3db56eb7d760c4": {
@@ -19276,7 +19276,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13,
+   "usd": 0.12,
    "usdFoil": 0.43
   }
  },
@@ -19295,7 +19295,7 @@
    "trendFoil": 0.19
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.2
   }
  },
  "69c8378d2c3db56eb7d760c6": {
@@ -19349,7 +19349,7 @@
    "trendFoil": 0.36
   },
   "tcg": {
-   "usdFoil": 0.43
+   "usdFoil": 0.38
   }
  },
  "69c8378d2c3db56eb7d760c9": {
@@ -19367,7 +19367,7 @@
    "trendFoil": 4.89
   },
   "tcg": {
-   "usdFoil": 9.86
+   "usdFoil": 10.19
   }
  },
  "69c8378d2c3db56eb7d760ca": {
@@ -19388,7 +19388,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.05,
+   "usd": 0.04,
    "usdFoil": 0.16
   }
  },
@@ -19410,8 +19410,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.5,
-   "usd": 0.44,
-   "usdFoil": 2.04
+   "usd": 0.43,
+   "usdFoil": 2.15
   }
  },
  "69c8378e2c3db56eb7d760cc": {
@@ -19447,7 +19447,7 @@
    "trendFoil": 4.54
   },
   "tcg": {
-   "usdFoil": 6.29
+   "usdFoil": 6.4
   }
  },
  "69c8378e2c3db56eb7d760ce": {
@@ -19465,7 +19465,7 @@
    "trendFoil": 1.61
   },
   "tcg": {
-   "usdFoil": 1.92
+   "usdFoil": 1.9
   }
  },
  "69c8378e2c3db56eb7d760cf": {
@@ -19485,9 +19485,9 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.09,
-   "usdFoil": 0.22
+   "usdFoil": 0.23
   }
  },
  "69c8378e2c3db56eb7d760d0": {
@@ -19508,7 +19508,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.03,
+   "usd": 0.04,
    "usdFoil": 0.18
   }
  },
@@ -19530,8 +19530,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.24,
-   "usd": 0.17,
-   "usdFoil": 0.51
+   "usd": 0.16,
+   "usdFoil": 0.53
   }
  },
  "69c8378e2c3db56eb7d760d2": {
@@ -19552,8 +19552,8 @@
    "high": 4.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.27
+   "usd": 0.13,
+   "usdFoil": 0.33
   }
  },
  "69c8378e2c3db56eb7d760d3": {
@@ -19571,7 +19571,7 @@
    "trendFoil": 0.09
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.18
   }
  },
  "69c8378e2c3db56eb7d760d4": {
@@ -19632,8 +19632,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
-   "usdFoil": 0.26
+   "usd": 0.12,
+   "usdFoil": 0.28
   }
  },
  "69c8378e2c3db56eb7d760d7": {
@@ -19654,7 +19654,7 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.19,
-   "usd": 0.11,
+   "usd": 0.13,
    "usdFoil": 0.31
   }
  },
@@ -19715,9 +19715,9 @@
   "tcg": {
    "high": 2,
    "low": 0.01,
-   "mid": 0.2,
-   "usd": 0.1,
-   "usdFoil": 0.22
+   "mid": 0.19,
+   "usd": 0.09,
+   "usdFoil": 0.21
   }
  },
  "6a5175fcad64d2d80a4f0356": {
@@ -19749,9 +19749,9 @@
    "trend": 0.87
   },
   "tcg": {
-   "low": 1.71,
-   "mid": 2.41,
-   "usd": 1.82
+   "low": 1.73,
+   "mid": 2.45,
+   "usd": 1.94
   }
  },
  "6a517602ad64d2d80a4f0358": {
@@ -19769,7 +19769,7 @@
    "trendFoil": 1.62
   },
   "tcg": {
-   "usdFoil": 2.09
+   "usdFoil": 2.05
   }
  },
  "6a517602ad64d2d80a4f0359": {
@@ -19787,7 +19787,7 @@
    "trendFoil": 0.08
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.39
   }
  },
  "6a517602ad64d2d80a4f035a": {
@@ -19877,7 +19877,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.29
+   "usdFoil": 0.3
   }
  },
  "6a517602ad64d2d80a4f035f": {
@@ -19946,7 +19946,7 @@
    "trendFoil": 0.09
   },
   "tcg": {
-   "usdFoil": 0.6
+   "usdFoil": 0.5
   }
  },
  "6a517602ad64d2d80a4f0363": {
@@ -20122,7 +20122,7 @@
    "trendFoil": 91.13
   },
   "tcg": {
-   "usdFoil": 39.48
+   "usdFoil": 38.96
   }
  },
  "6a517603ad64d2d80a4f036e": {
@@ -20139,7 +20139,7 @@
    "trendFoil": 4.89
   },
   "tcg": {
-   "usdFoil": 41.23
+   "usdFoil": 30.77
   }
  },
  "6a517603ad64d2d80a4f036f": {
@@ -20157,7 +20157,7 @@
    "trendFoil": 0.44
   },
   "tcg": {
-   "usdFoil": 0.88
+   "usdFoil": 0.86
   }
  },
  "6a517603ad64d2d80a4f0370": {
@@ -20175,7 +20175,7 @@
    "trendFoil": 47.85
   },
   "tcg": {
-   "usdFoil": 3.36
+   "usdFoil": 3.34
   }
  },
  "6a517603ad64d2d80a4f0371": {
@@ -20217,7 +20217,7 @@
    "trendFoil": 88.66
   },
   "tcg": {
-   "usdFoil": 76.22
+   "usdFoil": 72.92
   }
  },
  "6a56ab94ff602fd324f475f9": {
@@ -20235,7 +20235,7 @@
    "trendFoil": 10.14
   },
   "tcg": {
-   "usdFoil": 11.72
+   "usdFoil": 11.68
   }
  },
  "6a56ab94ff602fd324f475fa": {
@@ -20253,7 +20253,7 @@
    "trendFoil": 2.13
   },
   "tcg": {
-   "usdFoil": 0.93
+   "usdFoil": 0.91
   }
  },
  "6a56ab94ff602fd324f475fb": {
@@ -20271,7 +20271,7 @@
    "trendFoil": 9.81
   },
   "tcg": {
-   "usdFoil": 10.1
+   "usdFoil": 9.49
   }
  },
  "6a56ab94ff602fd324f475fc": {
@@ -20289,7 +20289,7 @@
    "trendFoil": 0.34
   },
   "tcg": {
-   "usdFoil": 0.28
+   "usdFoil": 0.27
   }
  },
  "6a56ab94ff602fd324f475fd": {
@@ -20307,7 +20307,7 @@
    "trendFoil": 1.05
   },
   "tcg": {
-   "usdFoil": 0.39
+   "usdFoil": 0.37
   }
  },
  "6a56ab94ff602fd324f475fe": {
@@ -20325,7 +20325,7 @@
    "trendFoil": 3.96
   },
   "tcg": {
-   "usdFoil": 2.37
+   "usdFoil": 2.3
   }
  },
  "6a56ab94ff602fd324f475ff": {
@@ -20347,7 +20347,7 @@
    "low": 0.01,
    "mid": 0.15,
    "usd": 0.04,
-   "usdFoil": 0.2
+   "usdFoil": 0.19
   }
  },
  "6a56ab94ff602fd324f47600": {
@@ -20408,7 +20408,7 @@
    "high": 1.49,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.11
+   "usd": 0.1
   }
  },
  "6a56ab94ff602fd324f47603": {
@@ -20426,7 +20426,7 @@
    "trendFoil": 0.9
   },
   "tcg": {
-   "usdFoil": 1.17
+   "usdFoil": 2.11
   }
  },
  "6a56ab95ff602fd324f47604": {
@@ -20444,7 +20444,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.16
+   "usdFoil": 0.19
   }
  },
  "6a56ab95ff602fd324f47605": {
@@ -20473,7 +20473,7 @@
    "high": 1,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.13
+   "usd": 0.12
   }
  },
  "6a56ab95ff602fd324f47607": {
@@ -20490,7 +20490,7 @@
    "high": 1.1,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 10
   }
  },
@@ -20531,7 +20531,7 @@
    "trendFoil": 1.1
   },
   "tcg": {
-   "usdFoil": 0.6
+   "usdFoil": 0.58
   }
  },
  "6a56ab95ff602fd324f4760a": {
@@ -20548,7 +20548,7 @@
    "trendFoil": 94.59
   },
   "tcg": {
-   "usdFoil": 160.41
+   "usdFoil": 158.38
   }
  },
  "6a56ab95ff602fd324f4760b": {
@@ -20566,7 +20566,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.14
+   "usdFoil": 0.13
   }
  },
  "6a56ab95ff602fd324f4760c": {
@@ -20606,7 +20606,7 @@
    "trendFoil": 1.99
   },
   "tcg": {
-   "usdFoil": 0.81
+   "usdFoil": 0.73
   }
  },
  "6a56ab95ff602fd324f4760e": {
@@ -20642,7 +20642,7 @@
    "trendFoil": 0.5
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.35
   }
  },
  "6a56ab95ff602fd324f47610": {
@@ -20678,7 +20678,7 @@
    "trendFoil": 0.97
   },
   "tcg": {
-   "usdFoil": 0.52
+   "usdFoil": 0.56
   }
  },
  "6a56ab95ff602fd324f47612": {
@@ -20696,7 +20696,7 @@
    "trendFoil": 0.06
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.17
   }
  },
  "6a56ab95ff602fd324f47613": {
@@ -20730,7 +20730,7 @@
    "trendFoil": 58.29
   },
   "tcg": {
-   "usdFoil": 76.13
+   "usdFoil": 75.97
   }
  },
  "6a56ab95ff602fd324f47615": {
@@ -20748,7 +20748,7 @@
    "trendFoil": 0.07
   },
   "tcg": {
-   "usdFoil": 0.1
+   "usdFoil": 0.11
   }
  },
  "6a56ab96ff602fd324f47616": {
@@ -20766,7 +20766,7 @@
    "trendFoil": 18.97
   },
   "tcg": {
-   "usdFoil": 15.73
+   "usdFoil": 15.61
   }
  },
  "6a56ab96ff602fd324f47617": {
@@ -20880,7 +20880,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.09,
-   "usdFoil": 0.33
+   "usdFoil": 0.34
   }
  },
  "6a56ab96ff602fd324f4761d": {
@@ -20898,7 +20898,7 @@
    "trendFoil": 149.99
   },
   "tcg": {
-   "usdFoil": 214.46
+   "usdFoil": 214.02
   }
  },
  "6a56ab96ff602fd324f4761e": {
@@ -20916,7 +20916,7 @@
    "trendFoil": 0.17
   },
   "tcg": {
-   "usdFoil": 0.15
+   "usdFoil": 0.18
   }
  },
  "6a56ab96ff602fd324f4761f": {
@@ -21013,7 +21013,7 @@
    "trendFoil": 76.24
   },
   "tcg": {
-   "usdFoil": 94.38
+   "usdFoil": 94.24
   }
  },
  "6a56ab96ff602fd324f47624": {
@@ -21031,7 +21031,7 @@
    "trendFoil": 0.3
   },
   "tcg": {
-   "usdFoil": 0.25
+   "usdFoil": 0.21
   }
  },
  "6a56ab96ff602fd324f47625": {
@@ -21071,7 +21071,7 @@
    "trendFoil": 0.86
   },
   "tcg": {
-   "usdFoil": 0.41
+   "usdFoil": 0.43
   }
  },
  "6a56ab97ff602fd324f47627": {
@@ -21089,7 +21089,7 @@
    "trendFoil": 2.71
   },
   "tcg": {
-   "usdFoil": 1.84
+   "usdFoil": 1.78
   }
  },
  "6a56ab97ff602fd324f47628": {
@@ -21107,7 +21107,7 @@
    "trendFoil": 0.13
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.16
   }
  },
  "6a56ab97ff602fd324f47629": {
@@ -21137,7 +21137,7 @@
    "trendFoil": 76.58
   },
   "tcg": {
-   "usdFoil": 90.48
+   "usdFoil": 89.6
   }
  },
  "6a56ab97ff602fd324f4762b": {
@@ -21155,7 +21155,7 @@
    "trendFoil": 110.66
   },
   "tcg": {
-   "usdFoil": 110.14
+   "usdFoil": 108.85
   }
  },
  "6a56ab97ff602fd324f4762c": {
@@ -21195,7 +21195,7 @@
    "trendFoil": 3.27
   },
   "tcg": {
-   "usdFoil": 4.85
+   "usdFoil": 4.59
   }
  },
  "6a56ab97ff602fd324f4762e": {
@@ -21213,7 +21213,7 @@
    "trendFoil": 0.3
   },
   "tcg": {
-   "usdFoil": 0.31
+   "usdFoil": 0.23
   }
  },
  "6a56ab97ff602fd324f4762f": {
@@ -21231,7 +21231,7 @@
    "trendFoil": 3.64
   },
   "tcg": {
-   "usdFoil": 1.29
+   "usdFoil": 1.23
   }
  },
  "6a56ab97ff602fd324f47630": {
@@ -21265,7 +21265,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.11,
-   "usdFoil": 0.35
+   "usdFoil": 0.36
   }
  },
  "6a56ab97ff602fd324f47632": {
@@ -21308,8 +21308,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
-   "usdFoil": 0.34
+   "usd": 0.11,
+   "usdFoil": 0.37
   }
  },
  "6a56ab97ff602fd324f47634": {
@@ -21327,7 +21327,7 @@
    "trendFoil": 9.85
   },
   "tcg": {
-   "usdFoil": 5.34
+   "usdFoil": 5.5
   }
  },
  "6a56ab97ff602fd324f47635": {
@@ -21345,7 +21345,7 @@
    "trendFoil": 26.94
   },
   "tcg": {
-   "usdFoil": 28.44
+   "usdFoil": 28.15
   }
  },
  "6a56ab97ff602fd324f47636": {
@@ -21363,7 +21363,7 @@
    "trendFoil": 0.1
   },
   "tcg": {
-   "usdFoil": 0.12
+   "usdFoil": 0.13
   }
  },
  "6a56ab97ff602fd324f47637": {
@@ -21375,7 +21375,7 @@
    "trendFoil": 144.5
   },
   "tcg": {
-   "usdFoil": 175.35
+   "usdFoil": 174.64
   }
  },
  "6a56ab97ff602fd324f47638": {
@@ -21410,7 +21410,7 @@
    "trendFoil": 72.84
   },
   "tcg": {
-   "usdFoil": 119.73
+   "usdFoil": 115.63
   }
  },
  "6a56ab98ff602fd324f4763a": {
@@ -21428,7 +21428,7 @@
    "trendFoil": 2.65
   },
   "tcg": {
-   "usdFoil": 1.21
+   "usdFoil": 1.18
   }
  },
  "6a56ab98ff602fd324f4763b": {
@@ -21464,7 +21464,7 @@
    "trendFoil": 1.85
   },
   "tcg": {
-   "usdFoil": 0.89
+   "usdFoil": 0.82
   }
  },
  "6a56ab98ff602fd324f4763d": {
@@ -21482,7 +21482,7 @@
    "trendFoil": 5.05
   },
   "tcg": {
-   "usdFoil": 2.93
+   "usdFoil": 2.91
   }
  },
  "6a56ab98ff602fd324f4763e": {
@@ -21521,7 +21521,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.12
+   "usd": 0.11
   }
  },
  "6a56ab98ff602fd324f47640": {
@@ -21539,7 +21539,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.14
+   "usdFoil": 0.17
   }
  },
  "6a56ab98ff602fd324f47641": {
@@ -21560,8 +21560,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.16,
-   "usd": 0.1,
-   "usdFoil": 0.34
+   "usd": 0.09,
+   "usdFoil": 0.32
   }
  },
  "6a56ab98ff602fd324f47642": {
@@ -21579,7 +21579,7 @@
    "trendFoil": 0.87
   },
   "tcg": {
-   "usdFoil": 0.49
+   "usdFoil": 0.5
   }
  },
  "6a56ab98ff602fd324f47643": {
@@ -21597,7 +21597,7 @@
    "trendFoil": 2.93
   },
   "tcg": {
-   "usdFoil": 2.05
+   "usdFoil": 1.98
   }
  },
  "6a56ab98ff602fd324f47644": {
@@ -21615,7 +21615,7 @@
    "trendFoil": 0.05
   },
   "tcg": {
-   "usdFoil": 0.15
+   "usdFoil": 0.17
   }
  },
  "6a56ab98ff602fd324f47645": {
@@ -21633,7 +21633,7 @@
    "trendFoil": 1.83
   },
   "tcg": {
-   "usdFoil": 1.06
+   "usdFoil": 1.12
   }
  },
  "6a56ab98ff602fd324f47646": {
@@ -21655,7 +21655,7 @@
    "low": 0.01,
    "mid": 0.19,
    "usd": 0.06,
-   "usdFoil": 0.21
+   "usdFoil": 0.23
   }
  },
  "6a56ab98ff602fd324f47647": {
@@ -21695,7 +21695,7 @@
    "trendFoil": 2.13
   },
   "tcg": {
-   "usdFoil": 0.93
+   "usdFoil": 0.97
   }
  },
  "6a56ab98ff602fd324f47649": {
@@ -21756,7 +21756,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.18,
+   "usd": 0.2,
    "usdFoil": 0.57
   }
  },
@@ -21778,7 +21778,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.14,
+   "usd": 0.12,
    "usdFoil": 0.44
   }
  },
@@ -21799,7 +21799,7 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.07,
    "usdFoil": 0.21
   }
@@ -21822,7 +21822,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.16,
-   "usd": 0.07,
+   "usd": 0.06,
    "usdFoil": 0.2
   }
  },
@@ -21863,7 +21863,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.19
   }
  },
  "6a56ab99ff602fd324f47651": {
@@ -21884,8 +21884,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.27,
-   "usd": 0.23,
-   "usdFoil": 1.05
+   "usd": 0.31,
+   "usdFoil": 1.13
   }
  },
  "6a56ab99ff602fd324f47652": {
@@ -21906,8 +21906,8 @@
    "high": 2,
    "low": 0.01,
    "mid": 0.24,
-   "usd": 0.18,
-   "usdFoil": 1.26
+   "usd": 0.19,
+   "usdFoil": 1.23
   }
  },
  "6a56ab99ff602fd324f47653": {
@@ -21925,7 +21925,7 @@
    "trendFoil": 4.65
   },
   "tcg": {
-   "usdFoil": 2
+   "usdFoil": 2.27
   }
  },
  "6a56ab99ff602fd324f47654": {
@@ -21983,7 +21983,7 @@
    "trendFoil": 1.75
   },
   "tcg": {
-   "usdFoil": 0.97
+   "usdFoil": 0.95
   }
  },
  "6a56ab99ff602fd324f47657": {
@@ -22022,7 +22022,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.1,
-   "usdFoil": 0.33
+   "usdFoil": 0.32
   }
  },
  "6a56ab99ff602fd324f47659": {
@@ -22040,7 +22040,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.17
+   "usdFoil": 0.21
   }
  },
  "6a56ab99ff602fd324f4765a": {
@@ -22076,7 +22076,7 @@
    "trendFoil": 390.3
   },
   "tcg": {
-   "usdFoil": 588.67
+   "usdFoil": 578.56
   }
  },
  "6a56ab99ff602fd324f4765c": {
@@ -22119,8 +22119,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
-   "usdFoil": 0.33
+   "usd": 0.11,
+   "usdFoil": 0.32
   }
  },
  "6a56ab99ff602fd324f4765e": {
@@ -22138,7 +22138,7 @@
    "trendFoil": 14.75
   },
   "tcg": {
-   "usdFoil": 12.79
+   "usdFoil": 12.48
   }
  },
  "6a56ab9aff602fd324f4765f": {
@@ -22158,7 +22158,7 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.07,
    "usdFoil": 0.24
   }
@@ -22181,8 +22181,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.1,
-   "usdFoil": 0.34
+   "usd": 0.09,
+   "usdFoil": 0.33
   }
  },
  "6a56ab9aff602fd324f47661": {
@@ -22203,8 +22203,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
-   "usdFoil": 0.32
+   "usd": 0.13,
+   "usdFoil": 0.31
   }
  },
  "6a56ab9aff602fd324f47662": {
@@ -22222,7 +22222,7 @@
    "trendFoil": 1.89
   },
   "tcg": {
-   "usdFoil": 0.93
+   "usdFoil": 1
   }
  },
  "6a56ab9aff602fd324f47663": {
@@ -22240,7 +22240,7 @@
    "trendFoil": 2.47
   },
   "tcg": {
-   "usdFoil": 1.87
+   "usdFoil": 1.82
   }
  },
  "6a56ab9aff602fd324f47664": {
@@ -22258,7 +22258,7 @@
    "trendFoil": 0.53
   },
   "tcg": {
-   "usdFoil": 0.22
+   "usdFoil": 0.2
   }
  },
  "6a56ab9aff602fd324f47665": {
@@ -22294,7 +22294,7 @@
    "trendFoil": 0.06
   },
   "tcg": {
-   "usdFoil": 0.11
+   "usdFoil": 0.1
   }
  },
  "6a56ab9aff602fd324f47667": {
@@ -22312,7 +22312,7 @@
    "trendFoil": 13.71
   },
   "tcg": {
-   "usdFoil": 7.98
+   "usdFoil": 7.62
   }
  },
  "6a56ab9aff602fd324f47668": {
@@ -22352,7 +22352,7 @@
    "low": 0.01,
    "mid": 0.16,
    "usd": 0.06,
-   "usdFoil": 0.14
+   "usdFoil": 0.13
   }
  },
  "6a56ab9aff602fd324f4766a": {
@@ -22370,7 +22370,7 @@
    "trendFoil": 22.7
   },
   "tcg": {
-   "usdFoil": 27.91
+   "usdFoil": 27.95
   }
  },
  "6a56ab9aff602fd324f4766b": {
@@ -22388,7 +22388,7 @@
    "trendFoil": 143.19
   },
   "tcg": {
-   "usdFoil": 170.1
+   "usdFoil": 167.21
   }
  },
  "6a56ab9aff602fd324f4766c": {
@@ -22406,7 +22406,7 @@
    "trendFoil": 0.06
   },
   "tcg": {
-   "usdFoil": 0.16
+   "usdFoil": 0.17
   }
  },
  "6a56ab9aff602fd324f4766d": {
@@ -22424,7 +22424,7 @@
    "trendFoil": 0.28
   },
   "tcg": {
-   "usdFoil": 0.27
+   "usdFoil": 0.29
   }
  },
  "6a56ab9aff602fd324f4766e": {
@@ -22442,7 +22442,7 @@
    "trendFoil": 0.76
   },
   "tcg": {
-   "usdFoil": 0.51
+   "usdFoil": 0.41
   }
  },
  "6a56ab9aff602fd324f4766f": {
@@ -22463,8 +22463,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.11,
-   "usdFoil": 0.39
+   "usd": 0.1,
+   "usdFoil": 0.37
   }
  },
  "6a56ab9aff602fd324f47670": {
@@ -22484,9 +22484,9 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.16,
-   "usd": 0.04,
-   "usdFoil": 0.26
+   "mid": 0.15,
+   "usd": 0.05,
+   "usdFoil": 0.25
   }
  },
  "6a56ab9aff602fd324f47671": {
@@ -22507,7 +22507,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.07,
+   "usd": 0.09,
    "usdFoil": 0.3
   }
  },
@@ -22583,7 +22583,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.14,
+   "usd": 0.13,
    "usdFoil": 0.54
   }
  },
@@ -22602,7 +22602,7 @@
    "trendFoil": 0.99
   },
   "tcg": {
-   "usdFoil": 0.37
+   "usdFoil": 0.35
   }
  },
  "6a56ab9bff602fd324f47677": {
@@ -22637,7 +22637,7 @@
    "trendFoil": 3.15
   },
   "tcg": {
-   "usdFoil": 2.23
+   "usdFoil": 2.06
   }
  },
  "6a56ab9bff602fd324f47679": {
@@ -22655,7 +22655,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.22
   }
  },
  "6a56ab9bff602fd324f4767a": {
@@ -22673,7 +22673,7 @@
    "trendFoil": 4.17
   },
   "tcg": {
-   "usdFoil": 3.45
+   "usdFoil": 3.39
   }
  },
  "6a56ab9fff602fd324f4767b": {
@@ -22690,7 +22690,7 @@
    "trendFoil": 45.21
   },
   "tcg": {
-   "usdFoil": 47.68
+   "usdFoil": 47.31
   }
  },
  "6a56ab9fff602fd324f4767c": {
@@ -22708,7 +22708,7 @@
    "trendFoil": 37.43
   },
   "tcg": {
-   "usdFoil": 36.63
+   "usdFoil": 38.88
   }
  },
  "6a56ab9fff602fd324f4767d": {
@@ -22728,9 +22728,9 @@
   "tcg": {
    "high": 2.47,
    "low": 0.01,
-   "mid": 0.17,
-   "usd": 0.04,
-   "usdFoil": 0.16
+   "mid": 0.16,
+   "usd": 0.05,
+   "usdFoil": 0.14
   }
  },
  "6a56aba0ff602fd324f4767e": {
@@ -22770,7 +22770,7 @@
    "trendFoil": 0.16
   },
   "tcg": {
-   "usdFoil": 0.21
+   "usdFoil": 0.19
   }
  },
  "6a56aba0ff602fd324f47680": {
@@ -22788,7 +22788,7 @@
    "trendFoil": 0.49
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.4
   }
  },
  "6a56aba0ff602fd324f47681": {
@@ -22805,7 +22805,7 @@
    "trendFoil": 215.36
   },
   "tcg": {
-   "usdFoil": 209.91
+   "usdFoil": 210.3
   }
  },
  "6a56aba0ff602fd324f47682": {
@@ -22843,9 +22843,9 @@
   "tcg": {
    "high": 2.74,
    "low": 0.01,
-   "mid": 0.23,
+   "mid": 0.21,
    "usd": 0.12,
-   "usdFoil": 0.61
+   "usdFoil": 0.58
   }
  },
  "6a56aba0ff602fd324f47684": {
@@ -22885,7 +22885,7 @@
    "trendFoil": 0.97
   },
   "tcg": {
-   "usdFoil": 0.87
+   "usdFoil": 0.97
   }
  },
  "6a56aba0ff602fd324f47686": {
@@ -22903,7 +22903,7 @@
    "trendFoil": 0.19
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.2
   }
  },
  "6a56aba0ff602fd324f47687": {
@@ -22939,7 +22939,7 @@
    "trendFoil": 62.8
   },
   "tcg": {
-   "usdFoil": 83.42
+   "usdFoil": 83.44
   }
  },
  "6a56aba0ff602fd324f47689": {
@@ -22957,7 +22957,7 @@
    "trendFoil": 0.35
   },
   "tcg": {
-   "usdFoil": 0.26
+   "usdFoil": 0.3
   }
  },
  "6a56aba0ff602fd324f4768a": {
@@ -22975,7 +22975,7 @@
    "trendFoil": 84.58
   },
   "tcg": {
-   "usdFoil": 84.47
+   "usdFoil": 85.04
   }
  },
  "6a56aba0ff602fd324f4768b": {
@@ -22992,7 +22992,7 @@
    "trendFoil": 68.2
   },
   "tcg": {
-   "usdFoil": 78.39
+   "usdFoil": 77.99
   }
  },
  "6a56aba0ff602fd324f4768c": {
@@ -23012,9 +23012,9 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.17,
-   "usd": 0.08,
-   "usdFoil": 0.26
+   "mid": 0.16,
+   "usd": 0.07,
+   "usdFoil": 0.24
   }
  },
  "6a56aba0ff602fd324f4768d": {
@@ -23054,7 +23054,7 @@
    "trendFoil": 0.82
   },
   "tcg": {
-   "usdFoil": 0.27
+   "usdFoil": 0.32
   }
  },
  "6a56aba0ff602fd324f4768f": {
@@ -23072,7 +23072,7 @@
    "trendFoil": 2.55
   },
   "tcg": {
-   "usdFoil": 1.69
+   "usdFoil": 1.55
   }
  },
  "6a56aba0ff602fd324f47690": {
@@ -23112,7 +23112,7 @@
    "trendFoil": 0.8
   },
   "tcg": {
-   "usdFoil": 0.29
+   "usdFoil": 0.35
   }
  },
  "6a56aba1ff602fd324f47692": {
@@ -23156,7 +23156,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.11,
-   "usdFoil": 0.5
+   "usdFoil": 0.51
   }
  },
  "6a590eef0e5d4c92d5d1efde": {
@@ -23174,7 +23174,7 @@
    "trendFoil": 1.39
   },
   "tcg": {
-   "usdFoil": 0.78
+   "usdFoil": 0.75
   }
  },
  "6a590eef0e5d4c92d5d1efdf": {
@@ -23194,7 +23194,7 @@
   "tcg": {
    "high": 2.5,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.1,
    "usdFoil": 0.2
   }
@@ -23214,7 +23214,7 @@
    "trendFoil": 2.73
   },
   "tcg": {
-   "usdFoil": 1.69
+   "usdFoil": 1.73
   }
  },
  "6a590eef0e5d4c92d5d1efe1": {
@@ -23232,7 +23232,7 @@
    "trendFoil": 0.21
   },
   "tcg": {
-   "usdFoil": 0.18
+   "usdFoil": 0.17
   }
  },
  "6a590eef0e5d4c92d5d1efe2": {
@@ -23254,7 +23254,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.1,
-   "usdFoil": 0.72
+   "usdFoil": 0.71
   }
  },
  "6a590eef0e5d4c92d5d1efe3": {
@@ -23275,8 +23275,8 @@
    "high": 2.2,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1,
-   "usdFoil": 0.34
+   "usd": 0.11,
+   "usdFoil": 0.35
   }
  },
  "6a590eef0e5d4c92d5d1efe4": {
@@ -23294,7 +23294,7 @@
    "trendFoil": 0.7
   },
   "tcg": {
-   "usdFoil": 0.38
+   "usdFoil": 0.42
   }
  },
  "6a590eef0e5d4c92d5d1efe5": {
@@ -23334,7 +23334,7 @@
    "trendFoil": 0.26
   },
   "tcg": {
-   "usdFoil": 0.24
+   "usdFoil": 0.27
   }
  },
  "6a590eef0e5d4c92d5d1efe7": {
@@ -23376,7 +23376,7 @@
   "tcg": {
    "high": 2.48,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.09,
    "usdFoil": 0.27
   }
@@ -23399,7 +23399,7 @@
    "high": 2.98,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09,
+   "usd": 0.08,
    "usdFoil": 0.39
   }
  },
@@ -23422,7 +23422,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.16,
-   "usdFoil": 0.37
+   "usdFoil": 0.35
   }
  },
  "6a590ef00e5d4c92d5d1efeb": {
@@ -23465,7 +23465,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.18,
-   "usd": 0.07,
+   "usd": 0.1,
    "usdFoil": 0.28
   }
  },
@@ -23484,7 +23484,7 @@
    "trendFoil": 4.22
   },
   "tcg": {
-   "usdFoil": 3.15
+   "usdFoil": 3.71
   }
  },
  "6a590ef00e5d4c92d5d1efee": {
@@ -23546,7 +23546,7 @@
    "trendFoil": 6.28
   },
   "tcg": {
-   "usdFoil": 3.07
+   "usdFoil": 2.91
   }
  },
  "6a590ef00e5d4c92d5d1eff1": {
@@ -23564,7 +23564,7 @@
    "trendFoil": 10.37
   },
   "tcg": {
-   "usdFoil": 5.1
+   "usdFoil": 4.93
   }
  },
  "6a590ef00e5d4c92d5d1eff2": {
@@ -23586,7 +23586,7 @@
    "low": 0.01,
    "mid": 0.19,
    "usd": 0.07,
-   "usdFoil": 0.26
+   "usdFoil": 0.23
   }
  },
  "6a590ef00e5d4c92d5d1eff3": {
@@ -23625,7 +23625,7 @@
    "trendFoil": 48.06
   },
   "tcg": {
-   "usdFoil": 63.51
+   "usdFoil": 62.55
   }
  },
  "6a590ef00e5d4c92d5d1eff5": {
@@ -23645,7 +23645,7 @@
   "tcg": {
    "high": 2.99,
    "low": 0.01,
-   "mid": 0.24,
+   "mid": 0.21,
    "usd": 0.12,
    "usdFoil": 0.39
   }
@@ -23668,8 +23668,8 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.15,
-   "usdFoil": 0.32
+   "usd": 0.16,
+   "usdFoil": 0.31
   }
  },
  "6a590ef10e5d4c92d5d1eff7": {
@@ -23753,7 +23753,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.26
+   "usdFoil": 0.3
   }
  },
  "6a590ef10e5d4c92d5d1effb": {
@@ -23793,7 +23793,7 @@
    "trendFoil": 3.02
   },
   "tcg": {
-   "usdFoil": 0.98
+   "usdFoil": 1.04
   }
  },
  "6a590ef10e5d4c92d5d1effd": {
@@ -23869,7 +23869,7 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.05,
    "usdFoil": 0.17
   }
@@ -23909,8 +23909,8 @@
    "high": 10,
    "low": 0.01,
    "mid": 0.28,
-   "usd": 0.24,
-   "usdFoil": 0.5
+   "usd": 0.22,
+   "usdFoil": 0.52
   }
  },
  "6a590ef10e5d4c92d5d1f003": {
@@ -23953,7 +23953,7 @@
    "high": 3.99,
    "low": 0.01,
    "mid": 0.23,
-   "usd": 0.14,
+   "usd": 0.15,
    "usdFoil": 0.47
   }
  },
@@ -24015,7 +24015,7 @@
    "high": 2.47,
    "low": 0.01,
    "mid": 0.15,
-   "usd": 0.06,
+   "usd": 0.05,
    "usdFoil": 0.13
   }
  },
@@ -24038,7 +24038,7 @@
    "low": 0.01,
    "mid": 0.19,
    "usd": 0.05,
-   "usdFoil": 0.32
+   "usdFoil": 0.31
   }
  },
  "6a5a92b3fe2355878c40cc86": {
@@ -24058,7 +24058,7 @@
   "tcg": {
    "high": 2.99,
    "low": 0.01,
-   "mid": 0.18,
+   "mid": 0.17,
    "usd": 0.07,
    "usdFoil": 0.26
   }
@@ -24078,7 +24078,7 @@
    "trendFoil": 0.39
   },
   "tcg": {
-   "usdFoil": 0.31
+   "usdFoil": 0.34
   }
  },
  "6a5a92b3fe2355878c40cc88": {
@@ -24096,7 +24096,7 @@
    "trendFoil": 0.61
   },
   "tcg": {
-   "usdFoil": 0.36
+   "usdFoil": 0.37
   }
  },
  "6a5a92b3fe2355878c40cc89": {
@@ -24113,7 +24113,7 @@
    "trendFoil": 65.97
   },
   "tcg": {
-   "usdFoil": 79.52
+   "usdFoil": 79.48
   }
  },
  "6a5a92b4fe2355878c40cc8a": {
@@ -24199,7 +24199,7 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.06,
    "usdFoil": 0.24
   }
@@ -24233,9 +24233,9 @@
   "tcg": {
    "high": 20,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.15,
    "usd": 0.07,
-   "usdFoil": 0.21
+   "usdFoil": 0.22
   }
  },
  "6a5a92b4fe2355878c40cc90": {
@@ -24257,7 +24257,7 @@
    "low": 0.01,
    "mid": 0.18,
    "usd": 0.07,
-   "usdFoil": 0.2
+   "usdFoil": 0.21
   }
  },
  "6a5a92b4fe2355878c40cc91": {
@@ -24275,7 +24275,7 @@
    "trendFoil": 0.06
   },
   "tcg": {
-   "usdFoil": 0.12
+   "usdFoil": 0.11
   }
  },
  "6a5a92b5fe2355878c40cc92": {
@@ -24336,7 +24336,7 @@
    "trendFoil": 58
   },
   "tcg": {
-   "usdFoil": 77.21
+   "usdFoil": 84.4
   }
  },
  "6a5a92b5fe2355878c40cc95": {
@@ -24380,7 +24380,7 @@
    "low": 0.01,
    "mid": 0.17,
    "usd": 0.06,
-   "usdFoil": 0.26
+   "usdFoil": 0.25
   }
  },
  "6a5a92b5fe2355878c40cc97": {
@@ -24401,7 +24401,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.08,
+   "usd": 0.09,
    "usdFoil": 0.3
   }
  },
@@ -24423,7 +24423,7 @@
    "high": 20,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12,
+   "usd": 0.1,
    "usdFoil": 0.43
   }
  },
@@ -24485,7 +24485,7 @@
    "trendFoil": 64.03
   },
   "tcg": {
-   "usdFoil": 78.06
+   "usdFoil": 77.32
   }
  },
  "6a5a92b5fe2355878c40cc9c": {
@@ -24503,7 +24503,7 @@
    "trendFoil": 0.11
   },
   "tcg": {
-   "usdFoil": 0.2
+   "usdFoil": 0.19
   }
  },
  "6a5a92b5fe2355878c40cc9d": {
@@ -24547,7 +24547,7 @@
    "low": 0.01,
    "mid": 0.2,
    "usd": 0.1,
-   "usdFoil": 0.26
+   "usdFoil": 0.28
   }
  },
  "6a5a92b6fe2355878c40cc9f": {
@@ -24565,7 +24565,7 @@
    "trendFoil": 0.12
   },
   "tcg": {
-   "usdFoil": 0.19
+   "usdFoil": 0.18
   }
  },
  "6a5fd1037dd422cf1aaca13c": {
@@ -24583,7 +24583,7 @@
    "trendFoil": 158.3
   },
   "tcg": {
-   "usdFoil": 166.21
+   "usdFoil": 165.25
   }
  },
  "6a5fd1037dd422cf1aaca13d": {
@@ -24595,7 +24595,7 @@
    "trendFoil": 106.58
   },
   "tcg": {
-   "usdFoil": 114.85
+   "usdFoil": 114.91
   }
  },
  "sup-opp-sfd-rune-r01b": {
@@ -24691,7 +24691,7 @@
    "trendFoil": 55.62
   },
   "tcg": {
-   "usdFoil": 109.16
+   "usdFoil": 106.71
   }
  },
  "sup-opp-v-051-t-221": {
@@ -24709,7 +24709,7 @@
    "trendFoil": 2.89
   },
   "tcg": {
-   "usdFoil": 4.71
+   "usdFoil": 4.73
   }
  },
  "sup-opp-v-058-c-219": {
@@ -24745,7 +24745,7 @@
    "trendFoil": 28.39
   },
   "tcg": {
-   "usdFoil": 157.19
+   "usdFoil": 155.67
   }
  },
  "sup-opp-v-139-c-221": {
@@ -24775,7 +24775,7 @@
    "trendFoil": 1.8
   },
   "tcg": {
-   "usdFoil": 3.01
+   "usdFoil": 2.95
   }
  },
  "sup-opp-v-181-m-219": {
@@ -24828,7 +24828,7 @@
  },
  "sup-opp-ven-013": {
   "tcg": {
-   "usdFoil": 0.54
+   "usdFoil": 0.53
   }
  },
  "sup-opp-ven-026": {
@@ -24838,17 +24838,17 @@
  },
  "sup-opp-ven-029": {
   "tcg": {
-   "usdFoil": 1.01
+   "usdFoil": 0.99
   }
  },
  "sup-opp-ven-037": {
   "tcg": {
-   "usdFoil": 1.61
+   "usdFoil": 1.57
   }
  },
  "sup-opp-ven-041": {
   "tcg": {
-   "usdFoil": 2.39
+   "usdFoil": 2.45
   }
  },
  "sup-opp-ven-048": {
@@ -24863,12 +24863,12 @@
  },
  "sup-opp-ven-058": {
   "tcg": {
-   "usdFoil": 2.01
+   "usdFoil": 2.03
   }
  },
  "sup-opp-ven-069b": {
   "tcg": {
-   "usdFoil": 205.97
+   "usdFoil": 199.19
   }
  },
  "sup-opp-ven-071": {
@@ -24878,17 +24878,17 @@
  },
  "sup-opp-ven-076": {
   "tcg": {
-   "usdFoil": 0.62
+   "usdFoil": 0.61
   }
  },
  "sup-opp-ven-082": {
   "tcg": {
-   "usdFoil": 1.02
+   "usdFoil": 0.99
   }
  },
  "sup-opp-ven-097": {
   "tcg": {
-   "usdFoil": 2.63
+   "usdFoil": 2.48
   }
  },
  "sup-opp-ven-099": {
@@ -24898,7 +24898,7 @@
  },
  "sup-opp-ven-101": {
   "tcg": {
-   "usdFoil": 1.05
+   "usdFoil": 1.04
   }
  },
  "sup-opp-ven-118": {
@@ -24930,7 +24930,7 @@
    "trendFoil": 4.63
   },
   "tcg": {
-   "usdFoil": 13.42
+   "usdFoil": 13.3
   }
  },
  "sup-opp-ven-r02b": {
@@ -24947,7 +24947,7 @@
    "trendFoil": 5.01
   },
   "tcg": {
-   "usdFoil": 8.09
+   "usdFoil": 7.56
   }
  },
  "sup-opp-ven-r03b": {
@@ -24965,7 +24965,7 @@
    "trendFoil": 5.73
   },
   "tcg": {
-   "usdFoil": 13.12
+   "usdFoil": 11.88
   }
  },
  "sup-opp-ven-r04b": {
@@ -24982,7 +24982,7 @@
    "trendFoil": 3.37
   },
   "tcg": {
-   "usdFoil": 3.99
+   "usdFoil": 3.79
   }
  },
  "sup-opp-ven-r05b": {
@@ -25000,7 +25000,7 @@
    "trendFoil": 6.25
   },
   "tcg": {
-   "usdFoil": 17.39
+   "usdFoil": 16.34
   }
  },
  "sup-opp-ven-r06b": {
@@ -25018,7 +25018,7 @@
    "trendFoil": 3.76
   },
   "tcg": {
-   "usdFoil": 6.01
+   "usdFoil": 5.91
   }
  },
  "sup-opp-x-022-221": {
@@ -25036,7 +25036,7 @@
    "trendFoil": 0.74
   },
   "tcg": {
-   "usdFoil": 0.97
+   "usdFoil": 1.03
   }
  },
  "sup-opp-x-025-221": {
@@ -25060,7 +25060,7 @@
    "trendFoil": 41.16
   },
   "tcg": {
-   "usdFoil": 55.52
+   "usdFoil": 50.73
   }
  },
  "sup-opp-x-171-298": {
@@ -25121,7 +25121,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.1
+   "usd": 0.09
   }
  },
  "sup-sfd-r01a": {
@@ -25139,7 +25139,7 @@
    "trendFoil": 2.6
   },
   "tcg": {
-   "usdFoil": 2.32
+   "usdFoil": 2.57
   }
  },
  "sup-sfd-r02": {
@@ -25174,7 +25174,7 @@
    "trendFoil": 4.03
   },
   "tcg": {
-   "usdFoil": 5.36
+   "usdFoil": 5.34
   }
  },
  "sup-sfd-r03": {
@@ -25209,7 +25209,7 @@
    "trendFoil": 3.15
   },
   "tcg": {
-   "usdFoil": 5.24
+   "usdFoil": 5.35
   }
  },
  "sup-sfd-r04": {
@@ -25225,7 +25225,7 @@
   "tcg": {
    "high": 1.99,
    "low": 0.01,
-   "mid": 0.19,
+   "mid": 0.18,
    "usd": 0.14
   }
  },
@@ -25244,7 +25244,7 @@
    "trendFoil": 3.45
   },
   "tcg": {
-   "usdFoil": 2.85
+   "usdFoil": 2.93
   }
  },
  "sup-sfd-r05": {
@@ -25261,7 +25261,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.09
+   "usd": 0.1
   }
  },
  "sup-sfd-r05a": {
@@ -25279,7 +25279,7 @@
    "trendFoil": 4.35
   },
   "tcg": {
-   "usdFoil": 5.2
+   "usdFoil": 5.49
   }
  },
  "sup-sfd-r06": {
@@ -25296,7 +25296,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.25,
-   "usd": 0.13
+   "usd": 0.12
   }
  },
  "sup-sfd-r06a": {
@@ -25314,7 +25314,7 @@
    "trendFoil": 3.52
   },
   "tcg": {
-   "usdFoil": 4.9
+   "usdFoil": 5.4
   }
  },
  "sup-sfd-t01": {
@@ -25331,7 +25331,7 @@
    "high": 1.99,
    "low": 0.01,
    "mid": 0.17,
-   "usd": 0.11
+   "usd": 0.12
   }
  },
  "sup-sfd-t02": {
@@ -25347,8 +25347,8 @@
   "tcg": {
    "high": 22,
    "low": 0.01,
-   "mid": 0.35,
-   "usd": 0.37
+   "mid": 0.39,
+   "usd": 0.39
   }
  },
  "sup-unl-r01": {
@@ -25363,8 +25363,9 @@
   },
   "tcg": {
    "low": 0.01,
-   "mid": 0.2,
-   "usd": 0.1
+   "mid": 0.19,
+   "usd": 0.1,
+   "usdFoil": 0.99
   }
  },
  "sup-unl-r01a": {
@@ -25382,7 +25383,7 @@
    "trendFoil": 3.24
   },
   "tcg": {
-   "usdFoil": 4.52
+   "usdFoil": 4.47
   }
  },
  "sup-unl-r02": {
@@ -25417,7 +25418,7 @@
    "trendFoil": 6.21
   },
   "tcg": {
-   "usdFoil": 9.86
+   "usdFoil": 10.13
   }
  },
  "sup-unl-r03": {
@@ -25452,7 +25453,7 @@
    "trendFoil": 4.36
   },
   "tcg": {
-   "usdFoil": 5.86
+   "usdFoil": 5.84
   }
  },
  "sup-unl-r04": {
@@ -25487,7 +25488,7 @@
    "trendFoil": 4.04
   },
   "tcg": {
-   "usdFoil": 6.61
+   "usdFoil": 6.53
   }
  },
  "sup-unl-r05": {
@@ -25503,7 +25504,7 @@
   "tcg": {
    "high": 0.6,
    "low": 0.01,
-   "mid": 0.16,
+   "mid": 0.15,
    "usd": 0.09
   }
  },
@@ -25522,7 +25523,7 @@
    "trendFoil": 5.57
   },
   "tcg": {
-   "usdFoil": 10.24
+   "usdFoil": 10.4
   }
  },
  "sup-unl-r06": {
@@ -25539,7 +25540,7 @@
    "high": 0.99,
    "low": 0.01,
    "mid": 0.2,
-   "usd": 0.12
+   "usd": 0.11
   }
  },
  "sup-unl-r06a": {
@@ -25557,7 +25558,7 @@
    "trendFoil": 3.98
   },
   "tcg": {
-   "usdFoil": 4.74
+   "usdFoil": 4.68
   }
  },
  "sup-unl-t01": {
@@ -25741,7 +25742,7 @@
    "trendFoil": 341.65
   },
   "tcg": {
-   "usdFoil": 489.46
+   "usdFoil": 487.42
   }
  },
  "sup-ven-197s": {
@@ -25789,7 +25790,7 @@
    "trendFoil": 6.07
   },
   "tcg": {
-   "usdFoil": 6.4
+   "usdFoil": 6.52
   }
  },
  "sup-ven-r03a": {
@@ -25807,7 +25808,7 @@
    "trendFoil": 5.71
   },
   "tcg": {
-   "usdFoil": 5.49
+   "usdFoil": 5.39
   }
  },
  "sup-ven-r04a": {
@@ -25825,7 +25826,7 @@
    "trendFoil": 5.28
   },
   "tcg": {
-   "usdFoil": 4.44
+   "usdFoil": 5.06
   }
  },
  "sup-ven-r05a": {
@@ -25843,7 +25844,7 @@
    "trendFoil": 6.69
   },
   "tcg": {
-   "usdFoil": 7.66
+   "usdFoil": 8.07
   }
  },
  "sup-ven-r06a": {
@@ -25861,7 +25862,7 @@
    "trendFoil": 6.13
   },
   "tcg": {
-   "usdFoil": 5.85
+   "usdFoil": 5.98
   }
  },
  "sup-ven-t01": {
